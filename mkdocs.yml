@@ -31,6 +31,7 @@ nav:
         - Home: "mathematics/chapter1/index.md"
     - Latin:
       - Main: "latin/main.md"
-
+    - "History and Geography":
+      - Home: "history-geography/main.md"
 plugins:
 - search

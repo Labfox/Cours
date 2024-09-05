@@ -33,9 +33,11 @@ nav:
     - "History & Geography":
       - Home: "history-geography/main.md"
       - "Theme 1":
+        - Home: "history-geography/theme1/main.md"
         - "Chapter 1": "history-geography/theme1/chapter1/main.md"
     - "Physics & Chemistry":
       - "Chapter 1": "physique-chimie/chapter1/main.md"
+  - Manuels: "manuels/index.md"
 
 markdown_extensions:
   - pymdownx.critic

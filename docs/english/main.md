@@ -8,6 +8,6 @@ Winston Churchill
 
 ## Summer Review - 24
 
-![Summer Review - 24](/assets/scans/2024-sept-5-5.png)
+![Summer Review - 24](../assets/noscans/english/summer-review-24.png)
 
 During the Olympic games Leon Marchand, a french swimmer, whon three gold medals and one bronze medal.

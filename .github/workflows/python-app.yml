@@ -27,4 +27,6 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Publish with mkdocs
       run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "Github Actions"
         mkdocs gh-deploy

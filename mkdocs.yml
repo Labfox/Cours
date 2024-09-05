@@ -20,5 +20,17 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
 
+nav:
+  - Home: index.md
+  - Cours:
+    - English: 
+      - Home: "english/main.md"
+    - Mathematics:
+      - Exercises: "mathematics/exercises.md"
+      - "Chapter 1":
+        - Home: "mathematics/chapter1/index.md"
+    - Latin:
+      - Main: "latin/main.md"
+
 plugins:
 - search

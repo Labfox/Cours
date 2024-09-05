@@ -1,4 +1,4 @@
-#!/home/administrateur/Documents/Cours/Cours/venv/bin/python3
+#!/home/labfox/Cours/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

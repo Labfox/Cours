@@ -27,8 +27,7 @@ nav:
       - Home: "english/main.md"
     - Mathematics:
       - Exercises: "mathematics/exercises.md"
-      - "Chapter 1":
-        - Home: "mathematics/chapter1/index.md"
+      - "Sequence 1": "mathematics/chapter1/index.md"
     - Latin:
       - Main: "latin/main.md"
     - "History & Geography":
@@ -37,5 +36,13 @@ nav:
         - "Chapter 1": "history-geography/theme1/chapter1/main.md"
     - "Physics & Chemistry":
       - "Chapter 1": "physique-chimie/chapter1/main.md"
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
 plugins:
 - search

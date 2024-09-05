@@ -2,7 +2,7 @@
 
 2024-sept-5-1
 
-[Fiche de début](/assets/noscans/chimie/chimie-chapter1-route.pdf)
+[Fiche de début](../../assets/noscans/chimie/chimie-chapter1-route.pdf)
 
 2024-sept-5-2
 
@@ -10,7 +10,7 @@
 
 2024-sept-5-4
 
-[Activité 1](/assets/noscans/chimie/chimie-chapter1-activity1.pdf)
+[Activité 1](../../assets/noscans/chimie/chimie-chapter1-activity1.pdf)
 
 1. Infiniment petite
 2. Car le temps serait nul à ce moment(solution: Au moment du Big Bang la matière commence a être crée donc son histoire ne peut commencer avant.)
@@ -21,4 +21,4 @@
 7. car c'est un élément avec un numéro atomique très bas.
 8. Car elle libère les éléments les contenant
 
-[Activité 2](/assets/noscans/chimie/chimie-chapter1-activity2.pdf)
+[Activité 2](../../assets/noscans/chimie/chimie-chapter1-activity2.pdf)

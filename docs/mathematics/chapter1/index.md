@@ -1,6 +1,6 @@
 # Séquence 1 : Notion de fonctions
 
-[Version du professor](/assets/noscans/maths/maths-chapter1-start.pdf)
+[Version du professor](../../assets/noscans/maths/maths-chapter1-start.pdf)
 
 ## I) Rappel: Graphique
 Un graphique est composé d’une (ou plusieurs) **courbes** et d’un **repère orthogonal**.
@@ -11,7 +11,7 @@ Celui-ci est composé de :
 
 ^^Exemple^^: Voici un repère orthogonal:
 
-![Graphique](/assets/noscans/maths/maths-chapter1-graphique1.png)
+![Graphique](../../assets/noscans/maths/maths-chapter1-graphique1.png)
 
 O s’appelle **l’origine** du repère.
 La droite horizontale s’appelle **l’axe des abscisses**.

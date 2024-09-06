@@ -37,6 +37,9 @@ nav:
         - "Chapter 1": "history-geography/theme1/chapter1/main.md"
     - "Physics & Chemistry":
       - "Chapter 1": "physique-chimie/chapter1/main.md"
+    - French:
+       - "Home": "french/main.md"
+       - "Sequency 1": "french/sequency1/main.md"
   - Manuels: "manuels/index.md"
 
 markdown_extensions:
@@ -45,6 +48,28 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
 
 plugins:
 - search

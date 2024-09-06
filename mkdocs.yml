@@ -4,8 +4,8 @@ theme:
   palette:
     # Palette toggle for light mode
     - scheme: default
-      primary: deep orange
-      accent: orange
+      primary: red
+      accent: red
       toggle:
         icon: material/weather-sunny
 
@@ -39,7 +39,9 @@ nav:
       - "Chapter 1": "physique-chimie/chapter1/main.md"
     - French:
        - "Home": "french/main.md"
-       - "Sequency 1": "french/sequency1/main.md"
+       - "Sequency 1":
+         -  "Sommaire": "french/sequency1/main.md"
+         - "Next page": "french/sequency1/firstpage.md"
   - Manuels: "manuels/index.md"
 
 markdown_extensions:
@@ -62,6 +64,9 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+
 
 extra_javascript:
   - javascripts/katex.js

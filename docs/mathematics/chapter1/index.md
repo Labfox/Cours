@@ -1,5 +1,7 @@
 # Séquence 1 : Notion de fonctions
 
+Ap math lundi
+
 [Version du professor](../../assets/noscans/maths/maths-chapter1-start.pdf)
 
 ## I) Rappel: Graphique
@@ -24,3 +26,17 @@ Ses coordonnées sont (-6,5 ; 4).
 Et on note A(-6,5 ; 4).
 De la même façon, on note B(-4 ; 2,5), C(0 ; 4) et
 D(0 ; 1).
+
+## II) Qu'est-ce qu'une fonction ?
+
+Une fonction $f$ est un ==procédé== qui, à un nombre $x$, associe un unique nombre que l'on note $f(x)$(lire "$f$de $x$").
+On dit que $f(x)$ est ==l'image== de $x$ par la fonction $f$ et que $x$ est ==un antécédent== de $f(x)$ par la fonction $f$.
+
+```mermaid
+flowchart TD
+    A[Antécédent: _x_] --> B(Fonction: _f_)
+    B --> C(Image: _fx_)
+```
+
+{++Notation: ++} On utilise aussi la notation $f:x ˃ f(x)$
+

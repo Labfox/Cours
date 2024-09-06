@@ -10,22 +10,22 @@ Replacer x et y par leur valeur pour calculer chaque expression.
 | D = (2x + 1)(2 - y) pour x = -1 et y = -9 |
 | E = x^2^ + 2xy + y^2^ pour x= -3 et y = -2 |
 
-$$
-A=4*-5+3*-2;
-A=-26;
 
-B=-3*7+8*-4;
-B=-53;
+$A=4*-5+3*-2$;
+$A=-26$;
 
-C=(-4+-1)(-4-(-1));
-C=15;
+$B=-3*7+8*-4$;
+$B=-53$;
 
-D=(2*-1+1)(2-(-9));
-D=-11;
+$C=(-4+-1)(-4-(-1))$;
+$C=15$;
 
-E=((-3)*(-3))+(2*(-3)*(-2))+(-2*-2);
-E=25;
-$$
+$D=(2*-1+1)(2-(-9))$;
+$D=-11$;
+
+$E=((-3)*(-3))+(2*(-3)*(-2))+(-2*-2)$;
+$E=25$;
+
 
 ## Activité 1 p 120
 Entre chaque numéro, il y à 5 lignes et 40 minutes, cela veut dire que une ligne = $40/5$. Cela donne:  $8$.
@@ -48,3 +48,43 @@ $Y=(2X-20)$
 
 5.  Celà donne $24$
 6. Cela donne $25$
+
+## Exercice 16 p.126
+a. $4$ est l'image de $-3$ par la fonction $f$
+
+b. $-3$ est l'antécédent de $4$ par la fonction $f$
+
+## Exercice 17 p.126
+a. L'égalité est: $f(3)=-5$
+
+b. L'égalité est: $g(-4)=7$
+
+## Exercice 18 p.126
+L'image de $-3$ par la fonction $g$ est $g(-3)=-6$
+
+## Exercice 19 p.126
+a. Faux
+
+b. Vrai
+
+c. Vrai
+
+d. Faux
+
+## Exercice 20 p.126
+
+| $x$ | $0$ | $-1$ | $2$ | $-2$ |
+|---|---|---|---|---|
+| $f(x)$ | $0$ | $2$ | $8$ | $8$ |
+
+## Activité 3 p.121
+1. La hauteur est de 2 mètres.
+
+2. Elle est de 0
+
+3. 
+| $x$ | $0$ | $0,4$ | $0,8$ | $1,2$ | $1,6$ |
+|---|---|---|---|---|---|
+| $h(x)$ | $2$ | $3.9$ | $4.2$ | $2.9$ | $0$ | 
+
+4. 

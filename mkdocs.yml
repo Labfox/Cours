@@ -42,6 +42,8 @@ nav:
        - "Sequency 1":
          -  "Sommaire": "french/sequency1/main.md"
          - "Next page": "french/sequency1/firstpage.md"
+    - Spanish:
+       - "Home": "spanish/index.md"
   - Manuels: "manuels/index.md"
 
 markdown_extensions:

@@ -10,3 +10,7 @@
 
 ![2024-sept-6-8](../assets/scans/2024-sept-6-8.png)
 
+## Viernes, seis de septiembre
+
+![2024-sept-6-9](../assets/scans/2024-sept-6-9.png)
+

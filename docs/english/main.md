@@ -17,10 +17,8 @@ About 2: I think it was pretty funny because in fact he really didnt really got 
 
 During the Olympic games Leon Marchand, a french swimmer, won three gold medals and one bronze medal.
 
-Another event: 
-The Epstein files started being unsealed, revealing the implication of trump in this affair, including several tapes of Trump raping minors (at least 28), proof of Trump voluntarly hiding a worldwide prostitution network, some dark affairs with Putin. 
-
-Some articles: 
-[About Epstein](https://www.reddit.com/r/AnythingGoesNews/search/?q=epstein)
+Another event:
+https://www.forbes.fr/science/neuralink-sapprete-a-implanter-un-deuxieme-patient-humain/
+(creuser)
 
 ## Friday, 6th September

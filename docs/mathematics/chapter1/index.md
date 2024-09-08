@@ -38,5 +38,15 @@ flowchart TD
     B --> C(Image: _fx_)
 ```
 
-{++Notation: ++} On utilise aussi la notation $f:x ˃ f(x)$
+{++Notation: ++} On utilise aussi la notation $f:x$ -> $f(x)$ qui se lit $f()$ de $x$; $f$ est la fonction qui , à $x$ associe le nombre $f(x)$
 
+{++Exemple: ++}
+
+Soit $f$, la fonction qui, à un nombre, associe son carré. On définit ainsi une fonction, car un nombre donné n'a qu'un seul carré. 
+
+Pour cette fonction, l'image de $3$ et $9$ est l'image de $-4$ est $16$.
+
+{++Remarque: ++}
+**Un nombre peut avoir plusieurs antécédents.**
+Dans l'exemple précédent, l'image de $4$ est aussi $16$.
+Ce qui veut dire que $16$ a, au moins, $2$ antécédents: $-4$ et $4$

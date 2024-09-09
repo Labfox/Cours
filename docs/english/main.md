@@ -17,8 +17,47 @@ About 2: I think it was pretty funny because in fact he really didnt really got 
 
 During the Olympic games Leon Marchand, a french swimmer, won three gold medals and one bronze medal.
 
+
+Another event: 
+The Epstein files started being unsealed
+
+??? abstract "Details"
+
+	revealing the implication of trump in this affair, including several tapes of Trump raping minors (at least 28), proof of Trump voluntarly hiding a worldwide prostitution network, some dark affairs with Putin. 
+
+Some articles: 
+[About Epstein](https://www.reddit.com/r/AnythingGoesNews/search/?q=epstein)
+
 Another event:
-https://www.forbes.fr/science/neuralink-sapprete-a-implanter-un-deuxieme-patient-humain/
+[article](https://www.forbes.fr/science/neuralink-sapprete-a-implanter-un-deuxieme-patient-humain/)
 (creuser)
 
-## Friday, 6th September
+**Neuralink Set to Implant Second Human Patient**
+
+??? abstract "Details"
+
+	Neuralink, Elon Musk's brain-implant company, aims to give humans "cybernetic superpowers" and allow them to control robots with their thoughts, according to the billionaire. Musk recently announced that a second human patient is expected to receive an implant within a week.
+
+	Key Things:
+
+	- [x] Musk envisions future users of Neuralink’s brain-computer interface controlling prosthetics faster than before they lost their limbs.
+	- [x] He predicts that Neuralink could treat epilepsy, cure paralysis, and even allow users to control Tesla's humanoid robot, Optimus, with their minds. The robot could be sold as early as next year.
+	- [x] Neuralink plans to address technical issues experienced with the first patient, including implant detachment. Improvements like deeper wire insertion and reducing air pockets in the skull are in progress.
+	- [x] Musk's optimistic timelines should be viewed with caution, as experts suggest Neuralink's technology is still experimental, with approvals limited to clinical trials.
+
+	Musk also teased a more advanced version of the implant, doubling the number of brain-inserted wires and improving bandwidth. Despite the ambitious vision, commercialization for medical or other uses is still years away.
+
+After the summer. Part 2: How was your summer
+
+![](../assets/scans/2024-sept-9-3.png)
+
+| Regular verbs (write the past simple form) | Irregular verbs (write the past simple form) |
+|---|---|
+| listened/d/ | slept |
+| stayed/d/ | ate |
+| walked/d/ | done |
+| visited | gone |
+| watched/d/ | read |
+| played/d/ | swam |
+| drawed/d/ | rode |
+| | fought |

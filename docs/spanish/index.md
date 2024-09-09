@@ -29,3 +29,9 @@ Profe: Montigny
 * 
 
 ![2024-sept-9-4](../assets/scans/2024-sept-9-4.png)
+
+Me llama Noé Chipon
+? Cuandos anos tienes ? Tiengo 13 anos
+? Cual est tu nacionalidad ? Soy frances
+? Donde vives ? Vive a St Cyr sur loire en mi casa
+? Cual es tu cumpleanos ? Naci el 21 de january de 2011

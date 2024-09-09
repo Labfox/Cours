@@ -44,6 +44,7 @@ nav:
          - "Next page": "french/sequency1/firstpage.md"
     - Spanish:
        - "Home": "spanish/index.md"
+    - SVT: "svt/index.md"
   - Manuels: "manuels/index.md"
 
 markdown_extensions:
@@ -68,6 +69,8 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - admonition
   - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
 
 
 extra_javascript:

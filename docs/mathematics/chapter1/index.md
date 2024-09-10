@@ -50,3 +50,5 @@ Pour cette fonction, l'image de $3$ et $9$ est l'image de $-4$ est $16$.
 **Un nombre peut avoir plusieurs antécédents.**
 Dans l'exemple précédent, l'image de $4$ est aussi $16$.
 Ce qui veut dire que $16$ a, au moins, $2$ antécédents: $-4$ et $4$
+
+## III) Déterminer une image ou un antécédent

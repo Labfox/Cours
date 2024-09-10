@@ -31,7 +31,47 @@ Profe: Montigny
 ![2024-sept-9-4](../assets/scans/2024-sept-9-4.png)
 
 Me llama Noé Chipon
-? Cuandos anos tienes ? Tiengo 13 anos
+
+? Cuantos anos tienes ? Tiengo 13 anos
+
 ? Cual est tu nacionalidad ? Soy frances
+
 ? Donde vives ? Vive a St Cyr sur loire en mi casa
-? Cual es tu cumpleanos ? Naci el 21 de january de 2011
+
+? Cual es tu cumpleanos ? Naci el 21 de january de dos mil once
+
+Se acabo ya codar, ya logica, pensando posado
+
+Se acabaron violaciones de la segmentación
+
+Porque el cole vuelve con  signar documentos con los que no estoy de acuerdo
+
+Por favor Navidad llega ya.
+
+*"Digame, en qué puedo ayudarle"*
+
+*"Hola bunas tardes, quisiera denunciar a l'academia porque no es normal, tanta limitarse al puerto HTTP 80 no puede ser ni legal por no hablar de bloqueo de sitios"*
+
+Yo no pido tanto no quier signar documentos con los que no estoy de acuerdo
+
+No quiero elegir si mi Minecraft server is better than mi 
+
+No quiero dormir antes de la 2 
+
+Yo quiero vivir y cada nocha ver Netflix
+
+## Martes, diez de septiembre
+
+Se acabaron las vacaciones. La chica ya no va a la playa, ya no descansa, ya nojuega. Ahora, es la vuelta al cole, la chicahace los deberes, madruga y aprende.
+
+!!! info
+
+	{==las vacaciones==}=les vacances
+
+	{==ya no==}= ne plus
+
+	{==madrugar==}=se lever tôt
+
+	{==descansar==}=se reposer
+
+![2024-sept-10-2](../assets/scans/2024-sept-10-2.png)

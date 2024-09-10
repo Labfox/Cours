@@ -44,10 +44,23 @@ mindmap
     art de la gastronomie Thaïlandaise
     Quelqu’un qui cuisine pour quelqu#39;un d#39;autre
     
-
 ```
 
+_
 
+```mermaid
+mindmap
+  root((C#39;était))
+    Roman nourriture
+    Plat élaboré
+    Cuisine
+    Repas
+    Déroulement de la préparation d#39;un plat gourmand + grand-mère du protagoniste
+    Soutenu
+    Quelqu’un qui cuisine pour quelqu#39;un d#39;autre
+    
+
+```
 
 
 
@@ -59,4 +72,34 @@ mindmap
 
 	## Une gourmandise
 
-	La cuisine de ma grand-mère m'avait accoutumé à une atmosphère bruyante et enfiévrée où, dans le tintamarre des casseroles, le chuintement du beure et le clac-clac des couteaux se démenait une virago
+	La cuisine de ma grand-mère m'avait accoutumé à une atmosphère bruyante et enfiévrée où, dans le tintamarre des casseroles, le chuintement du beurre et le clac-clac des couteaux se démenait une virago en transe à laquelle seule sa longue expérience conférait une aura de sérénité - de celles que conservent les martyrs dans les flammes de l'enfer. Jacques, lui, accomplissait toutes choses avec mesure. Il ne se pressait pas, mais point de lenteur non plus. Chaque geste venait en son temps.
+
+	Il rinça soigneusement le riz thaïlandais dans une petite passoire argentée, l'égoutta, le versa dans la casserole, le recouvrit d'un volume et demi d'eau saléee, couvrit, laissa cuire. Les crevettes gisaient dans le bol de faïence. Tout en conversant avec moi, essentiellement de mon article et de mes projets, il les décortiqua avec une méticulosité concentrée. Pas un instant il n'accéléra la cadence, pas un instant il ne la ralentit. La dernière petite arabesque dépouillée de sa gangue protectrice, il se lava consciencieusement les mains, avec un savon qui sentait le lait. Avec la même uniformité sereine, il plaça une sauteuse en fonte sur le feu, y versa un filet d'huile d’olive, l'y laissa chauffer, y jeta en pluie les crevettes dénudées. Adroitement, la spatule en bois les circonvenait, ne laissant aux menus croissants aucune échappatoire, les saisissant de tous côtés, les faisant valser sur le grill odorant. Puis du curry. Ni trop ni trop peu. Une poussière sensuelle embellissant de son or exotique le cuivre rosé des crustacés: l'Orient réinventé. Sel, poivre, Il égrena aux ciseaux une branche de coriandre au-dessus de la poêlée. Enfin, rapidement, un bouchon de cognac, une allumette; du récipient jaillit une longue flamme hargneuse; comme un appel on ou cri qu'on libère enfin, soupir déchaîné qui s'éteint aussi vite qu'il s'est élevé.
+
+	Sur la table de marbre patientaient une assiette de porcelaine, un verre de cristal, une argenterie superbe et une serviette de lin brodé. Dans l'assiette, il disposa soigneusement, à la cuillère en bois, la moitié des crevettes, le riz auparavant tassé dans un minuscule bol et retourné en une petite coupole joufflue surmontée d'une feuille de menthe. Dans le verre, il se versa généreusement d'un liquide de blé transparent. 
+
+	" Je te sers un verre de sancerre ? "
+	
+	Je fis non de la tête. Il s'attabla.
+
+	Un repas sur le pouce. C'était ce que Jacques Destrères appelait un repas sur le pouce. Et je savais qu'il ne plaisantait pas, que chaque jour il se mitonnait ainsi une petite bouchées de paradis, ignorant du raffinement de son ordinaire, vrai gourmet, réel esthète dans l'absence de mise en scène qui caractérisait son quotidien. Je le regardais manger, sans toucher moi-même au mets qu'il avait préparé sous mes yeux, manger avec le même soin détaché et subtil qu'il avait mis à cuisine et ce repas que je ne goûtai pas demeura l'un des meilleurs de ma vie.
+
+	Déguster est un acte de plaisir, écrire ce plaisir est un fait artistique mais la seule vrai œuvre d'art, en définitive, c'est le festin de l'autre
+
+	**Muriel Barbery**, *Une gourmandise*, 2000 © Ed. Gallimard
+
+Roman=genre naratif
++ Nouvelle, conte
+
+Roman sf: la planète des singes
+
+Roman d'aventures: Jules Vernes
+
+Roman policier: Sherlock Holmes, Agatha Christie, Ils étaient dix, Arsène Lupin
+
+points de vues interne, externe, omniscient
+
+feature-flag-protocol: 
+	a feature: ?;{featureID}:{functionID}:{versionID}:{backwardsCompatibiltyID};?
+	the total string: *{ffpVersion},{ffpNamespace},{gitCommit},{ffpTotalFunctions}!{functionList}!*
+

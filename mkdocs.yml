@@ -37,7 +37,7 @@ nav:
         - "Chapter 1": "history-geography/theme1/chapter1/main.md"
     - "Physics & Chemistry":
       - "Chapter 1": "physique-chimie/chapter1/main.md"
-    - French:
+    - "Fr*nch":
        - "Home": "french/main.md"
        - "Sequency 1":
          -  "Sommaire": "french/sequency1/main.md"
@@ -73,6 +73,7 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
+  - attr_list
 
 extra_javascript:
   - javascripts/katex.js

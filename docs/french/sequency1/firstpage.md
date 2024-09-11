@@ -99,7 +99,18 @@ Roman policier: Sherlock Holmes, Agatha Christie, Ils étaient dix, Arsène Lupi
 
 points de vues interne, externe, omniscient
 
-feature-flag-protocol: 
-	a feature: ?;{featureID}:{functionID}:{versionID}:{backwardsCompatibiltyID};?
-	the total string: *{ffpVersion},{ffpNamespace},{gitCommit},{ffpTotalFunctions}!{functionList}!*
+théatre: Molière 17ème (les femmes savantes, le malade imaginaire, l'avare, le médecin malgré lui, les fourberies de scapin), Racine, Phèdre 
+
+
+![](https://labfox.fr/favicon.png)
+
+
+{==Non==}
+La fontaine, Fables
+Hugo, Les contemplations
+Beaudelaire, Les Fleurs du mal
+Rimbault, une saison en enfer
+Verlaine
+Strophes, rimes, veers
+
 

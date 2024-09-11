@@ -79,3 +79,55 @@ Pour répondre à la demande des États qui ont tourné leur économie vers la g
 
 
 ![](../../../assets/scans/2024-sept-9-2.png)
+
+Nature: Affiche
+
+Date: 1918
+
+Auteur: Georges Emile Capon
+
+??? abstract "1"
+
+	La femme française pendant la guerre
+
+??? abstract "2"
+
+	En médaillon, une Marianne guerrière, cuirassée et casquée
+
+??? abstract "3"
+
+	"Une munitionnette" devant sa machine à tourner les obus.
+
+??? abstract "4"
+
+	Une paysanne bêche un champ de maïs
+
+??? abstract "5"
+
+	Une mère allaite son nourrisson. Sa fille lui tend une lettre sans doute envoyée par son père mobilisé (position centrale)
+
+**Quelle remarque peut-on faire sur la disposition des couleurs portées par les personnages ?**
+
+Les vêtements des trois femmes recomposent les couleurs du drapeau français.
+
+**Interprétation:** 
+
+- Cette affiche montre la place nouvelle de la femme dans la guerre et son dévouement pour son pays. 
+- Cependant, malgré ces changements sociaux importants, elle dit très clairement qu'il existe un féminité éternelle: le rôle fondamental de la femme est la maternité (d'où le positionnement central de la mère). Dans un contexte de mort de masse, la natalité est une priorité absolue.
+- La guerre n'a donc pas totalement favorisé l'émancipation des femmes.
+
+#### 2. Les civils, cibles de la propagande
+
+![2024-worldtradecenter-1](../../../assets/scans/2024-worldtradecenter-1.png)
+
+| Affiches de propagande | ![](../../../assets/noscans/history-geography/affiche-french-1915.jpg){width=300px} d'Abel Faivre, 1915| ![](../../../assets/noscans/history-geography/affiche-allemende-1918.jpeg){width=300px} (le dernier coup est le 8^ème^ emprunt de la guerre) de Paul Neuman de 1918 |
+|---|---|---|
+| **Présentation:** 1. Quel est l'auteur ? | Abel Faivre, 1915 | Paul Neuman, 1918 |
+| 2. Quel est le pays commanditaire ? A quel camp appartient-il ? (Triple Entente/Triple Alliance). | France (Triple Entente) | Allemagne (Triple Alliance) |
+| 3. A quelle période de la guerre correspond l'affiche ? (Début ? Milieu ? Fin ?) | Début de la guerre | Fin de la guerre |
+| **Description de l'image:** 1. Qui est représenté ? | Un soldat Allemand | Un soldat Allemand |
+| 2. Décrivez ses vêtements et son arme | Il est habillé en soldat, avec un fusil à baillonette et un casque à pointe | Il est habillé en camouflage, avec une épée jaune. |
+| 3. Décrivez ses mouvements, son expression. | Le soldat Allemand à genou, terrorisé par le coq Gaulois, ce coq est sur une pièce Française sur laquelle est inscrite les valeurs de la république | Il est en train d'assainer un coup fatal |
+| 4.  La façon de représenter le soldat est-elle réaliste ou idéalisée (Justifiez votre réponse) | Réaliste | |
+| **Slogan:** 5. Quel est le slogan ? | L'Or Combat Pour La Victoire | |
+| 6. Quel est son but ? | Que les Français donnent de l'argent pour financer la guerre | |

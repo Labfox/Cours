@@ -90,3 +90,6 @@ timeline
 
     Modèle de l'atome: ![](../../assets/noscans/chimie/atome-quantique.png)
 
+Un atome est un élément indivisible constitutif de la matière. Il est constitué d'un noyau et d'électrons qui tournent autour du noyau. Un atome est électriquement neutre.
+
+Selon les représentations actuelles, le noyau d'un atome a une forme sphérique et occupe une place centrale dans l'atome

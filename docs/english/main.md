@@ -18,16 +18,6 @@ About 2: I think it was pretty funny because in fact he really didnt really got 
 During the Olympic games Leon Marchand, a french swimmer, won three gold medals and one bronze medal.
 
 
-Another event: 
-The Epstein files started being unsealed
-
-??? abstract "Details"
-
-	revealing the implication of trump in this affair, including several tapes of Trump raping minors (at least 28), proof of Trump voluntarly hiding a worldwide prostitution network, some dark affairs with Putin. 
-
-Some articles: 
-[About Epstein](https://www.reddit.com/r/AnythingGoesNews/search/?q=epstein)
-
 Another event:
 [article](https://www.forbes.fr/science/neuralink-sapprete-a-implanter-un-deuxieme-patient-humain/)
 (creuser)
@@ -35,6 +25,8 @@ Another event:
 **Neuralink Set to Implant Second Human Patient**
 
 ??? abstract "Details"
+
+    ![](https://etimg.etb2bimg.com/photo/110275360.cms)
 
 	Neuralink, Elon Musk's brain-implant company, aims to give humans "cybernetic superpowers" and allow them to control robots with their thoughts, according to the billionaire. Musk recently announced that a second human patient is expected to receive an implant within a week.
 
@@ -61,3 +53,5 @@ After the summer. Part 2: How was your summer
 | played/d/ | swam |
 | drawed/d/ | rode |
 | | fought |
+
+I love programming, I think MacOS is good, I know how to center something on a website.

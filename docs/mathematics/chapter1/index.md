@@ -52,3 +52,18 @@ Dans l'exemple précédent, l'image de $4$ est aussi $16$.
 Ce qui veut dire que $16$ a, au moins, $2$ antécédents: $-4$ et $4$
 
 ## III) Déterminer une image ou un antécédent
+### A) Avec une formule
+
+$h$ est la fonction $h$: $x$ -> $x^2 - 1$ ( on peut aussi écrire $h(x) = x^2 - 1$).
+
+Pour chaque nombre $x$, on associe le nombre $h(x)$ obtenu en appliquant le programme de calcul ci-dessous.
+
+* Choisir un nombre.
+* Elever au carré.
+* Soustraire 1
+
+On peut obtenir un tableau de valeurs:
+
+| Nombre: $x$       | $-2$  | $-1$ | $0$   | $1$  |
+|-------------------|-------|------|-------|------|
+| Image: $x^2 - 1$  | $3$   | $0$  |  $-1$ |  $0$ |

@@ -16,9 +16,9 @@
 2. Car le temps serait nul à ce moment(solution: Au moment du Big Bang la matière commence a être crée donc son histoire ne peut commencer avant.)
 3. Une température plus basse
 4. De la gravité.
-5. Grâce à la dépendance entre atomes
-6. Des atomes extrêmement éxcités, provoquant la nucléosynthèse stellaire, et de l'hydrogène
-7. car c'est un élément avec un numéro atomique très bas.
+5. Les plus lourds résultent de la fusion en chaîne des atomes les plus légers.
+6. Principalement de l'hydrogène
+7. Car c'est un élément avec un numéro atomique très bas(et donc simple).
 8. Car elle libère les éléments les contenant
 
 [Activité 2](../../assets/noscans/chimie/chimie-chapter1-activity2.pdf)
@@ -26,14 +26,14 @@
 ```mermaid
 timeline
     title Modèles d'atomes avec le temps
-    5ème siècle avant J.C: Leucippe et Démocrite, deux philsophes grecs , pensent que la matière est constituée de grains invisibles(atomos, en grec), les atomes. Pour eux les atomes sont tous pleins, mais ne sont pas tous semblables; Ils sont ronds ou crochus, lisses ou rugeux.
+    5ème siècle avant J.C: Leucippe et Démocrite, deux philosophes grecs , pensent que la matière est constituée de grains invisibles(atomos, en grec), les atomes. Pour eux les atomes sont tous pleins, mais ne sont pas tous semblables; Ils sont ronds ou crochus, lisses ou rugueux.
     : Empédocle
-    4ème siècle avant J.C: Le philosophe grec, Aristote rejette la théorie de l'atome et reprend lidée des quatre élements émise par Empédocle.
+    4ème siècle avant J.C: Le philosophe grec, Aristote rejette la théorie de l'atome et reprend l’idée des quatre éléments émise par Empédocle.
     1805: John Dalton, physicien britannique suppose l'existence des atomes et suppose qu'il en existe plusieurs types, qui permettent d'expliquer les propriétés de la matière; Il les représente par une sphère ronde, comme une boule de billard
-    1897: 7 ans après la découverte de l'existence des électons en 1895 par le Britannique Crookes, **Thomson**, physicien britaninque propose un modèle de l'atome appelé le "pudding aux électrons"; L'atome est une boule électriquement neutre remplie d'une substance chargée positivement et d'électrons chargés négativements.
-    1904: 7 ans aprèès Thomson, Rutherford, physicien britanique, propose un modèle planétaire de l'atome; il compare l'atome au système solaire; l'atome est constitué d'un noyau, autour duquel gravitent les électrons. Le noyeau est environ 10^5^ fois plus pettit que l'atome, donc l'atome est essentiellement constitué de vide.L
+    1897: 7 ans après la découverte de l'existence des électrons en 1895 par le Britannique Crookes, **Thomson**, physicien britannique propose un modèle de l'atome appelé le "pudding aux électrons"; L'atome est une boule électriquement neutre remplie d'une substance chargée positivement et d'électrons chargés négativement.
+    1904: 7 ans après Thomson, Rutherford, physicien britannique, propose un modèle planétaire de l'atome; il compare l'atome au système solaire; l'atome est constitué d'un noyau, autour duquel gravitent les électrons. Le noyau est environ 10^5 fois plus petit que l'atome, donc l'atome est essentiellement constitué de vide.L
     1908: 4 ans après le modèle planétaire émis par Rutherford, Bohr propose n nouveau modèle; Les électrons tournent autour de l'atome selon des orbites de rayon défini, pas tous identiques, et pas toutes contenues dans le même plan.
-    1926 à aujourd'hui: Les physiciens du 20e siècle ont admis que la notion d'orbite n'a plus de sens pour un électron dans un atome; les électrons tournent autour de l'atome de façon aléatoire et désordonnée; on parle "de probabilité de trouver l'électron à une distace du noyeau". 
+    1926 à aujourd'hui: Les physiciens du 20e siècle ont admis que la notion d'orbite n'a plus de sens pour un électron dans un atome; les électrons tournent autour de l'atome de façon aléatoire et désordonnée; on parle "de probabilité de trouver l'électron à une distance du noyau". 
 ```
 
 ??? abstract "Leucippe"
@@ -89,3 +89,4 @@ timeline
     ![Schödinger](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Erwin_Schr%C3%B6dinger_%281933%29.jpg/200px-Erwin_Schr%C3%B6dinger_%281933%29.jpg)
 
     Modèle de l'atome: ![](../../assets/noscans/chimie/atome-quantique.png)
+

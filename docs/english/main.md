@@ -55,3 +55,24 @@ After the summer. Part 2: How was your summer
 | | fought |
 
 I love programming, I think MacOS is good, I know how to center something on a website.
+
+## Thursday, 12th September
+
+I didn't eat ice cream
+(didn't est invariable quelque soit le pronom
+Ex: Last summer, I rode my mountain-bike and went kiking. I did some sport, however, I din't swim, because i'm not a juge fan of water sports.
+
+Howerver = but
+Toujour utiliser avec DID et l'infinitif du verbe à la forme négative et interrogative au prétérit; sauf avec BE (was/were). 
+Moi aussi = So did I (affirmative), Neither did I (moi non plus)
+Moi si = I did, moi non = i didn't
+
+Las summer i swam in the sea. it was really cool, because i looked at dolphins/ i saw dolphins.
+
+What about you ? Write a sentence to talk about your last summer. Give some details.
+
+I programmed 200 hours long, but i didn't played any games (neither did I watched smth else than Netflix)
+
+| Name | activity | yes/no |
+|---|---|---|
+| Adam | fed his chicken | yes |

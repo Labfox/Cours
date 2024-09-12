@@ -90,6 +90,23 @@ timeline
 
     Modèle de l'atome: ![](../../assets/noscans/chimie/atome-quantique.png)
 
-Un atome est un élément indivisible constitutif de la matière. Il est constitué d'un noyau et d'électrons qui tournent autour du noyau. Un atome est électriquement neutre.
+[Feuille d'exercices](../../assets/noscans/chimie/chapter1-exercices.pdf)
 
-Selon les représentations actuelles, le noyau d'un atome a une forme sphérique et occupe une place centrale dans l'atome
+## Exercice n°1 
+
+![](../../assets/noscans/chimie/chapter1-mocroises.png){ align=left }
+
+Vertical :
+
+1. Particule électriquement neutre appartenant au noyau d’un atome.
+2. Assemblage d’atomes liés entre eux.
+3. Astre sphérique, en orbite autour d’une étoile.
+4. Lettre majuscule, suivie parfois d’une minuscule, représentant un élément chimique.
+
+Horizontal :
+
+4. Particule chargée négativement se trouvant autour du noyau d’un atome.
+5. Particule chargée positivement appartenant au noyau d’un atome.
+6. Particule formant le noyau d’un atome.
+7. Astre produisant sa propre énergie lumineuse et thermique.
+8. Espèce chimique simple, électriquement neutre, constituant la matière.

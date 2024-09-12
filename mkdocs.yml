@@ -36,7 +36,10 @@ nav:
         - Home: "history-geography/theme1/main.md"
         - "Chapter 1": "history-geography/theme1/chapter1/main.md"
     - "Physics & Chemistry":
-      - "Chapter 1": "physique-chimie/chapter1/main.md"
+      - "Chapter 1": 
+        - "Exos": "physique-chimie/chapter1/main.md"
+        - "Cours": "physique-chimie/chapter1/cours.md"
+      
     - "Fr*nch":
        - "Home": "french/main.md"
        - "Sequency 1":

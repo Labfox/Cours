@@ -68,7 +68,7 @@ mindmap
 
 	Création de mot: **néologisme**
 
-??? abstract "Texte"
+!!! abstract "Texte"
 
 	## Une gourmandise
 
@@ -88,7 +88,7 @@ mindmap
 
 	**Muriel Barbery**, *Une gourmandise*, 2000 © Ed. Gallimard
 
-Roman=genre naratif
+Roman=genre narratif
 + Nouvelle, conte
 
 Roman sf: la planète des singes
@@ -102,9 +102,6 @@ points de vues interne, externe, omniscient
 théatre: Molière 17ème (les femmes savantes, le malade imaginaire, l'avare, le médecin malgré lui, les fourberies de scapin), Racine, Phèdre 
 
 
-![](https://labfox.fr/favicon.png)
-
-
 {==Non==}
 La fontaine, Fables
 Hugo, Les contemplations
@@ -113,4 +110,16 @@ Rimbault, une saison en enfer
 Verlaine
 Strophes, rimes, veers
 
+### Etape 2)
 
+* le **VOCABULAIRE**
+
+à chercher: aura, martyr, gisaient, arabesque, gangue, circonvenait, sensuelle, harngneux, gourmet, subtile
+
+??? tip inline "conversant"
+
+	parler, discuter
+
+??? tip inline "se mitonner"
+
+	préparer avec soin

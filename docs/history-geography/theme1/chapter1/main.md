@@ -126,8 +126,30 @@ Les vêtements des trois femmes recomposent les couleurs du drapeau français.
 | 2. Quel est le pays commanditaire ? A quel camp appartient-il ? (Triple Entente/Triple Alliance). | France (Triple Entente) | Allemagne (Triple Alliance) |
 | 3. A quelle période de la guerre correspond l'affiche ? (Début ? Milieu ? Fin ?) | Début de la guerre | Fin de la guerre |
 | **Description de l'image:** 1. Qui est représenté ? | Un soldat Allemand | Un soldat Allemand |
-| 2. Décrivez ses vêtements et son arme | Il est habillé en soldat, avec un fusil à baillonette et un casque à pointe | Il est habillé en camouflage, avec une épée jaune. |
-| 3. Décrivez ses mouvements, son expression. | Le soldat Allemand à genou, terrorisé par le coq Gaulois, ce coq est sur une pièce Française sur laquelle est inscrite les valeurs de la république | Il est en train d'assainer un coup fatal |
-| 4.  La façon de représenter le soldat est-elle réaliste ou idéalisée (Justifiez votre réponse) | Réaliste | |
-| **Slogan:** 5. Quel est le slogan ? | L'Or Combat Pour La Victoire | |
+| 2. Décrivez ses vêtements et son arme | Il est habillé en soldat, avec un fusil à baillonette et un casque à pointe | Une silhouette épurée, il à un casque et un glaive d'or. |
+| 3. Décrivez ses mouvements, son expression. | Le soldat Allemand à genou, terrorisé par le coq Gaulois, ce coq est sur une pièce Française sur laquelle est inscrite les valeurs de la république | Il est prêt à utiliser son épée, à donner un coup d'épée pour achever son adversaire |
+| 4.  La façon de représenter le soldat est-elle réaliste ou idéalisée (Justifiez votre réponse) | Réaliste | Idéalisée |
+| **Slogan:** 5. Quel est le slogan ? | L'Or Combat Pour La Victoire | Le dernier coup est le 8^ème^ emprunt de la guerre |
 | 6. Quel est son but ? | Que les Français donnent de l'argent pour financer la guerre | |
+Conclusion: Il s'agit d'une affiche de propagande qui à pour objectifs de mobiliser financièrement les civils mais aussi encourager les soldats au front.
+
+
+Les États endettés sont obligés de recourir à des empreints auprès des particuliers et des alliées(surtout les États-Unis) mais augmentent aussi les impôts. Pour que les civils gardent le moral, les États fond de la propagande.
+
+??? info "Propagande"
+
+	**Propagande:** utilisation des moyens d'informations pour influencer et convaincre l'opinion publique. 
+
+#### 3. Les civils, victimes de violences et de souffrances
+
+| Document | Exemples de souffrances ou de violences |
+|---|---|
+| Doc 1 | Pénurie de produits alimentaires => de charbon, entraîne la faim et le développement du marché noir |
+| Doc 2 | Deuil des soldats pour les familles => De nombreuses veuves et orphelins |
+| Doc 3 | La réquisition de produits alimentaires dans les régions occupées par les Allemands |
+| Doc 4 | Les civils sont victimes de bombardements. |
+| Doc 5 | Travail forcé dans certaines régions occupées par les Allemands. |
+
+#### 4. Le génocide des Arméniens. 1915
+
+

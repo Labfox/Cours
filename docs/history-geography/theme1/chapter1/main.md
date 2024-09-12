@@ -152,4 +152,15 @@ Les États endettés sont obligés de recourir à des empreints auprès des part
 
 #### 4. Le génocide des Arméniens. 1915
 
+Dossier p.26-27
 
+??? info "Génocide"
+
+	**Génocide:** extermination volontaire et systématique de tout un peuple.
+
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  

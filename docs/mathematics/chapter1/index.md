@@ -38,15 +38,15 @@ flowchart TD
     B --> C(Image: _fx_)
 ```
 
-{++Notation: ++} On utilise aussi la notation $f:x$ -> $f(x)$ qui se lit $f()$ de $x$; $f$ est la fonction qui , à $x$ associe le nombre $f(x)$
+{++Notation:++} On utilise aussi la notation $f:x$ -> $f(x)$ qui se lit $f()$ de $x$; $f$ est la fonction qui , à $x$ associe le nombre $f(x)$
 
-{++Exemple: ++}
+{++Exemple:++}
 
 Soit $f$, la fonction qui, à un nombre, associe son carré. On définit ainsi une fonction, car un nombre donné n'a qu'un seul carré. 
 
 Pour cette fonction, l'image de $3$ et $9$ est l'image de $-4$ est $16$.
 
-{++Remarque: ++}
+{++Remarque:++} 
 **Un nombre peut avoir plusieurs antécédents.**
 Dans l'exemple précédent, l'image de $4$ est aussi $16$.
 Ce qui veut dire que $16$ a, au moins, $2$ antécédents: $-4$ et $4$
@@ -67,3 +67,14 @@ On peut obtenir un tableau de valeurs:
 | Nombre: $x$       | $-2$  | $-1$ | $0$   | $1$  |
 |-------------------|-------|------|-------|------|
 | Image: $x^2 - 1$  | $3$   | $0$  |  $-1$ |  $0$ |
+
+
+### B) Avec un tableau
+
+{==Définition:==} Les images respectives par la fonction $g$ de certaines valeurs de $x$ peuvent être présentées dans un tableau appelé **tableau de valeurs**.
+
+Ce tableau définit une fonction $g$ qui, à chaque nombre $x$ de la première ligne, associe un nombre $g(x)$ de la deuxième ligne. 
+
+| Nombre $x$ | $0$ | $1$ | $2$ | $3$ | $4$ | $5$ |
+|---|---|---|---|---|---|---|
+| Image $g(x)$ | $-5$ | $-3$ | $0$ | $5,2$ | $0$ | $7$ | 

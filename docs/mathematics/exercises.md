@@ -129,3 +129,7 @@ $f(x)=2x^{2}-3$
 2. 1
 3. 0
 4. Null
+
+## Exercice 27 p.127
+
+la 2 et la 3

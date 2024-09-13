@@ -158,9 +158,22 @@ Dossier p.26-27
 
 	**Génocide:** extermination volontaire et systématique de tout un peuple.
 
-1.  
-2.  
-3.  
-4.  
-5.  
+1.  Où et quand le génocide des Arméniens a-t-il eu lieu ? 
+Il à eu lieu en 1915, dans le nord est de l'Empire Ottoman.
+2. Qui sont les protagonistes ? 
+L'empire Ottoman contre la minorité Arménienne.
+3. Pourquoi le gouvernement Ottoman décide-t-il, pendant la guerre, d'exterminer les minorités arméniennes ? 
+Cela s'explique par une défaite militaire des Ottomans face aux Russes, et les arméniens sont prit en bouc émissaires
+4. Quels moyens sont utiliser contre les Arméniens ?
+Arrestation des Arméniens, regroupement, recensement, massacre d'une partie sur place, déportation vers les camps dans le désert Syrien 🇸🇾 avec des conditions difficiles.
+5. Quel est le bilan du génocide ?
+Deux tiers des arméniens sont morts durant ce génocide, soit 1 million de personnes
 6.  
+
+Introduction: 
+Les Arméniens Ottomans ont été victimes en 1915 d'une extermination volontaire et complète par leurs propres compatriotes.
+
+The Armenians were massacred from 1915 to 1916 because of the defeat the Ottomans were faced to in Sarikamich, Russia. The Armenians soldiers were declared the main culpables of this defeat (they were accused of collaboration with Russia).
+
+A lot of the Armenians Soldiers were massacred first, in their own bases. 
+

@@ -78,3 +78,16 @@ Ce tableau définit une fonction $g$ qui, à chaque nombre $x$ de la première l
 | Nombre $x$ | $0$ | $1$ | $2$ | $3$ | $4$ | $5$ |
 |---|---|---|---|---|---|---|
 | Image $g(x)$ | $-5$ | $-3$ | $0$ | $5,2$ | $0$ | $7$ | 
+
+### C) Une courbe
+
+{==Définition:==} La **représentation graphique** d'une fonction $f$ est la courbe constituée de l'ensemble des points de cordonnées ($x$; $f(x)$).
+
+Ce graphique ci-dessous définit une fonction $f$ qui, à chaque nombre $x$ (lu sur l'axe des abscisses), associe un nombre $f(x)$ (lu sur l'**axe des ordonnées**).
+
+![Graphique](../../assets/noscans/maths/chapter1-graphique.png){ align="left" }
+
+Par exemple, on peut lire que 
+* $f(3) = 2$
+* $1$ a trois antécédents: $-1;0$ et $2$.
+* L'image de $-1.5$ par la fonction $f$ est $-0.5$

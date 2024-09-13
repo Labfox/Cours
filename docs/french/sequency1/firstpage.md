@@ -125,8 +125,8 @@ https://www.larousse.fr/dictionnaires/francais/{mot}
 [gangue](#), 
 [circonvenait](#) ,
 [sensuelle](#), 
-[harngneux](https://www.larousse.fr/dictionnaires/francais/harngneux), 
-[gourmet](https://www.larousse.fr/dictionnaires/francais/gourmet), 
+[hargneux](https://www.larousse.fr/dictionnaires/francais/hargneux) (définition 1), 
+[gourmet](https://www.larousse.fr/dictionnaires/francais/gourmet) (définition 1), 
 [subtile](https://www.larousse.fr/dictionnaires/francais/subtile)
 
 ??? tip inline "Conversant"
@@ -164,4 +164,12 @@ https://www.larousse.fr/dictionnaires/francais/{mot}
 ??? tip inline "Sensuelle"
 
 	Propre au sens
+
+??? tip inline "Harngeux"
+
+	Qui montre de la hargne dans son comportement avec autrui 
+
+??? tip inline "Gourmet"
+
+	Personne qui sait distinguer et apprécier la bonne cuisine et les bons vins
 

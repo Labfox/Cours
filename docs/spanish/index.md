@@ -76,3 +76,54 @@ Se acabaron las vacaciones. La chica ya no va a la playa, ya no descansa, ya noj
 
 ![2024-sept-10-2](../assets/scans/2024-sept-10-2.png)
 
+### Repaso gramatical Secuencia 1 “La vuelta al cole en el mundo hispánico”
+**Conjuga los verbos entre paréntesis en presente del indicativo:**
+
+1. Las clases (empezar [ie]) empiezan a las ocho de la mañana.
+2. Yo (hacer *) hago los deberes a las seis de la tarde.
+3. Martín (hablar) hablo mucho.
+4. Emma y Pablo (comer) comen en el comedor escolar.
+5. Mi padre (ir*) va al trabajo a las siete y media.
+6. Mis amigos (levantarse) se levantan muy temprano para ir al cole.
+7. Yo (desayunar) desayuno leche con galletas.
+8. Vosotros (aprender) aprendéis español en el colegio.
+9.  (Tener* – P4) tenemos 4 horas de matemáticas.
+10. Tú (ser* ) eres un alumno serio.
+11. En España los alumnos (tutear) tutean a los profesores.
+12. Nosotros (escribir) escribanos nuestro nombre en el cuaderno.
+
+**Utiliza el verbo GUSTAR:**
+
+1. A mí me gusta el recreo.
+2. A los profesores les gusta trabajar.
+3. A Sara le gustan las ciencias.
+4. A nosotros no nos gusta madrugar.
+
+**Apunta la hora o la fecha exacta:**
+
+12/10/2023: 11 de octubre de 2023
+
+28/04/2020: 28 de abril de 2020
+
+08/06/1958: ocho de junio de 1958
+
+30/12/2001: 30 de diciembre de 2001
+
+10H20: son la diez y veinte de la manana
+
+03H30: son las tres y media de la manana
+
+18H15: son la seis y cuarto de la tarde
+
+08H45: son las nueve menos carto de la manana
+
+23H00: son las once de la noche
+
+17H50: son las seis menos dies de la tarde.
+
+
+## Annexes
+
+[Annexe 1: el indicativo](../assets/noscans/spanish/finducahier-1.pdf)
+
+[Annexe 2: el hora](../assets/noscans/spanish/finducahier-2.pdf)

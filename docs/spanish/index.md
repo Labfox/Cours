@@ -75,3 +75,4 @@ Se acabaron las vacaciones. La chica ya no va a la playa, ya no descansa, ya noj
 	{==descansar==}=se reposer
 
 ![2024-sept-10-2](../assets/scans/2024-sept-10-2.png)
+

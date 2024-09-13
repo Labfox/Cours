@@ -73,6 +73,22 @@ What about you ? Write a sentence to talk about your last summer. Give some deta
 
 I programmed 200 hours long, but i didn't played any games (neither did I watched smth else than Netflix)
 
-| Name | activity | yes/no |
-|---|---|---|
-| Adam | fed his chicken | yes |
+| Name        | activity            | yes/no |
+|-------------|---------------------|--------|
+| Adam        | fed his chicken     | yes    |
+| Nolan       | played Minecraft    | yes    |
+| Noé         | used Windows        | no     |
+| @cloned-doy | opened his computer | no     |
+
+I learned Adam had a life. I also learnt 
+
+![](../assets/scans/2024-sept-13-3.png)
+
+1. J'utilise le prétérit quand l'action est passée et terminée
+2. yesterday=hier; last summer=l'été dernier; two days ago=il y à deux jours.
+
+Tom is wearing Sunglasses.
+He looks relaxed.
+He looks joyful and he is wearing a colorful shirt.
+
+Tom took a picture with a schrek thing, it was approximately 38 degrees Celsius, visited some LA beaches, 

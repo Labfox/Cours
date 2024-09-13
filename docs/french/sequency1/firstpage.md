@@ -1,9 +1,10 @@
+[padlet](https://padlet.com/CNRD/orientation-3e-nbo9zzj97rwx)
 # Séquence 1
 ## Savoir lire un texte:
 
 ^^Texte d'étude^^: ["Une gourmandise"](../../assets/scans/une-gourmandise-francais.png) de [Muriel Barbery](https://en.wikipedia.org/wiki/Muriel_Barbery). 
 
-### 1) ^^Etape 1^^:
+### 1) ^^Étape 1^^:
 Avant de lire un texte, il faut l'observer car des renseignements nous sont donnés par l'étude: 
 
 ??? abstract inline end "Définition"
@@ -68,7 +69,7 @@ mindmap
 
 	Création de mot: **néologisme**
 
-!!! abstract "Texte"
+??? abstract "Texte"
 
 	## Une gourmandise
 
@@ -99,10 +100,10 @@ Roman policier: Sherlock Holmes, Agatha Christie, Ils étaient dix, Arsène Lupi
 
 points de vues interne, externe, omniscient
 
-théatre: Molière 17ème (les femmes savantes, le malade imaginaire, l'avare, le médecin malgré lui, les fourberies de scapin), Racine, Phèdre 
+théâtre: Molière 17ème (les femmes savantes, le malade imaginaire, l'avare, le médecin malgré lui, les fourberies de scapin), Racine, Phèdre 
 
 
-{==Non==}
+
 La fontaine, Fables
 Hugo, Les contemplations
 Beaudelaire, Les Fleurs du mal
@@ -110,16 +111,57 @@ Rimbault, une saison en enfer
 Verlaine
 Strophes, rimes, veers
 
-### Etape 2)
+### 2) Étape 2
+
+https://www.larousse.fr/dictionnaires/francais/{mot}
 
 * le **VOCABULAIRE**
 
-à chercher: aura, martyr, gisaient, arabesque, gangue, circonvenait, sensuelle, harngneux, gourmet, subtile
+à chercher: 
+[aura](https://www.larousse.fr/dictionnaires/francais/aura) (définiton 3), 
+[martyr](https://www.larousse.fr/dictionnaires/francais/martyr) (définition 2), 
+[gisaient](https://www.larousse.fr/dictionnaires/francais/gisaient) (définition 1), 
+[arabesque](https://www.larousse.fr/dictionnaires/francais/arabesque) (définition 2), 
+[gangue](#), 
+[circonvenait](#) ,
+[sensuelle](#), 
+[harngneux](https://www.larousse.fr/dictionnaires/francais/harngneux), 
+[gourmet](https://www.larousse.fr/dictionnaires/francais/gourmet), 
+[subtile](https://www.larousse.fr/dictionnaires/francais/subtile)
 
-??? tip inline "conversant"
+??? tip inline "Conversant"
 
 	parler, discuter
 
-??? tip inline "se mitonner"
+??? tip inline "Se mitonner"
 
 	préparer avec soin
+
+??? tip inline "Aura"
+
+	Atmosphère immatérielle qui enveloppe ou semble envelopper certains êtres
+
+??? tip inline "Martyr"
+
+	 Chrétien mis à mort ou torturé en témoignage de sa foi. (On l'appelait aussi martyr de la foi ou confesseur [de la foi].)
+
+??? tip inline "Gisaient"
+
+	Être étendu, couché, sans mouvement.
+
+??? tip inline "Arabesque"
+
+	Ligne idéale, sinueuse, résumant le rythme essentiel d'une composition peinte, dessinée ou sculptée.
+
+??? tip inline "Gangue"
+
+	Ce qui enveloppe ou dissimule quelque chose
+
+??? tip inline "Circonvenait"
+
+	Entourer de tout côtés
+
+??? tip inline "Sensuelle"
+
+	Propre au sens
+

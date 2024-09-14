@@ -78,7 +78,7 @@ I programmed 200 hours long, but i didn't played any games (neither did I watche
 | Adam        | fed his chicken     | yes    |
 | Nolan       | played Minecraft    | yes    |
 | Noé         | used Windows        | no     |
-| @cloned-doy | opened his computer | no     |
+
 
 I learned Adam had a life. I also learnt 
 
@@ -91,4 +91,5 @@ Tom is wearing Sunglasses.
 He looks relaxed.
 He looks joyful and he is wearing a colorful shirt.
 
-Tom took a picture with a schrek thing, it was approximately 38 degrees Celsius, visited some LA beaches, 
+Tom took a picture with a Schrek thing, it was approximately 38 degrees Celsius, visited some LA beaches, 
+swam in the pacific ocean, visited hollywood, gone shopping, posted 200 pictures;he feels happy.

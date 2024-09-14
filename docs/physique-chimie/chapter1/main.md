@@ -110,3 +110,17 @@ Horizontal :
 6. Particule formant le noyau d’un atome.
 7. Astre produisant sa propre énergie lumineuse et thermique.
 8. Espèce chimique simple, électriquement neutre, constituant la matière.
+
+## Exercice n°2
+
+1. Fe; Fer
+2. N; Nitrogen
+3. O; Oxygène
+
+## Exercice n°4
+
+1. Des atomes de carbone, d'hydrogène et d'oxygène
+2. 2 de carbone, 6 d'hydrogène, 1 d'oxygène
+3. 6 pour le carbonne, 1 pour l'hydrogène, 8 pour l'oxygène
+4. Autant que de protons
+5. (2*6)+6+8 = 26. Il y à donc 26 électrons dans la molécule d'éthanol

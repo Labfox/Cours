@@ -47,7 +47,10 @@ nav:
          - "Next page": "french/sequency1/firstpage.md"
     - Spanish:
        - "Home": "spanish/index.md"
-    - SVT: "svt/index.md"
+    - SVT:
+        - "Home": "svt/index.md"
+        - "Chapter 2": "svt/chapter2.md"
+    - LCE: "lce/main.md"
   - Manuels: "manuels/index.md"
 
 markdown_extensions:

@@ -173,7 +173,8 @@ Deux tiers des arméniens sont morts durant ce génocide, soit 1 million de pers
 Introduction: 
 Les Arméniens Ottomans ont été victimes en 1915 d'une extermination volontaire et complète par leurs propres compatriotes.
 
-The Armenians were massacred from 1915 to 1916 because of the defeat the Ottomans were faced to in Sarikamich, Russia. The Armenians soldiers were declared the main culpables of this defeat (they were accused of collaboration with Russia).
+Les Arméniens ont été massacrés de 1915 à 1916 en raison de la défaite des Ottomans à Sarikamich, en Russie. Les soldats arméniens ont été déclarés principaux coupables de cette défaite, car ils ont été accusés de collaboration avec la Russie.
 
-A lot of the Armenians Soldiers were massacred first, in their own bases. 
+Beaucoup de soldats arméniens ont été massacrés d'abord dans leurs propres bases. Ensuite, le gouveremet ottoman commença par ordoner l'arrestation des chefs politiques et des intellectuels arméniens. Puis, ils ordonnérent pettit à pettit l'arrestation de toute la populatinon Arménienne, 
+pour ensuite les emmener dans des camps de concentration dans le désert Syrien, à pied, sans eau ni nouriture. La majorité moururent sur le chemin, mais une pettite minoritée qui restait en vie était employée à des travaux forcés une fois dans les camps.
 

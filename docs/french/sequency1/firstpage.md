@@ -173,3 +173,24 @@ https://www.larousse.fr/dictionnaires/francais/{mot}
 
 	Personne qui sait distinguer et apprécier la bonne cuisine et les bons vins
 
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+_
+
+* la SITUATION d'ENONCIATION (cf. Fiche prof n°3)
+
+Ici, nous avons aujourd'hui un temps magnifiques, mais demain, il pleuvra
+
+Ce jour-là, à Paris, le temps était magnifique, mais on leur avait annoncé que le lendemain il pleuvrait.

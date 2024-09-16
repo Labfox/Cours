@@ -171,10 +171,31 @@ Deux tiers des arméniens sont morts durant ce génocide, soit 1 million de pers
 6.  
 
 Introduction: 
-Les Arméniens Ottomans ont été victimes en 1915 d'une extermination volontaire et complète par leurs propres compatriotes.
+Les Arméniens Ottomans ont été victimes en 1915 d'une extermination volontaire et complète de leur peuple par leurs propres compatriotes. 
 
 Les Arméniens ont été massacrés de 1915 à 1916 en raison de la défaite des Ottomans à Sarikamich, en Russie. Les soldats arméniens ont été déclarés principaux coupables de cette défaite, car ils ont été accusés de collaboration avec la Russie.
 
-Beaucoup de soldats arméniens ont été massacrés d'abord dans leurs propres bases. Ensuite, le gouveremet ottoman commença par ordoner l'arrestation des chefs politiques et des intellectuels arméniens. Puis, ils ordonnérent pettit à pettit l'arrestation de toute la populatinon Arménienne, 
-pour ensuite les emmener dans des camps de concentration dans le désert Syrien, à pied, sans eau ni nouriture. La majorité moururent sur le chemin, mais une pettite minoritée qui restait en vie était employée à des travaux forcés une fois dans les camps.
+Beaucoup de soldats arméniens ont été massacrés d'abord dans leurs propres bases. Ensuite, le gouvernement ottoman commença par ordonner l'arrestation des chefs politiques et des intellectuels arméniens. Puis, ils ordonnèrent petit à petit l'arrestation de toute la population Arménienne, 
+pour ensuite les emmener dans des camps de concentration dans le désert Syrien, à pied, sans eau ni nourriture. La majorité moururent sur le chemin, mais une petite minorité qui restait en vie était employée à des travaux forcés une fois dans les camps.
 
+{==Correction==}
+
+Le génocide consiste en une extermination volontaire et systématique de tout un peuple. Les Arméniens en ont été victimes en 1915 dans l'Empire Ottoman.
+
+Comment se passe le génocide ?
+
+Il est organisé par les autorités gouvernementales turques (c'est le ministre de l'intérieur en personne qui donne l'ordre d'exterminer les Arméniens) qui profitent d'une défaite militaire face aux Russes pour mettre en cause la population arménienne déjà persécutée depuis la fin du XIXème Siècle (considérés comme des bouc-émissaires).
+
+La population arménienne doit se regrouper dans les villes, les quartiers, les villages: il s'agit d'arrestations systématiques afin de les recenser le plus facilement possible. Une partie des arméniens(surtout les hommes) est massacrée sur place. Les survivants sont déportés à pied vers les camps de concentration situés dans le désert syrien. Beaucoup meurent durant le trajet: massacres, conditions difficiles (famine, maladies, épuisement).
+
+Les 2/3 des Arméniens présents en Turquie ont été assassinés soit sur place, soit au cours de leur déportation soit 1 million de personnes de tous âges
+
+## II. Une fragilisation des régimes
+### A. En Russie, des révolutions
+![2024-sept-16-1](../../../assets/scans/2024-sept-16-1.png)
+
+
+| | Qui ? | Où ? | Pourquoi ? | Comment ? | Conséquences ? |
+|---|---|---|---|---|---|
+| Révolution de Février 1917 | Des femmes, des hommes, des ouvriers industriels | à Petrograd | Des problèmes de ravitaillement, le pain, la guerre, le recul des troupes russes, problèmes avec le pouvoir autocratique du Tsar Nicolas II. (Le souverain tire ces pouvoirs de lui-même | Manifestations + soutient de l'armée | Abolition du Tsar Nicolas II le 3 mars 1917, mise en place d'un gouvernent provisoire |
+| Révolution d'Octobre 1917 | bolcheviks | Petrograd | Gouvernement provisoirre pas bon | Coup d'état | La Russie devient communiste |

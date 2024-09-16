@@ -121,6 +121,34 @@ Se acabaron las vacaciones. La chica ya no va a la playa, ya no descansa, ya noj
 
 17H50: son las seis menos dies de la tarde.
 
+mods de jeux: 
+
+- pillage survie: un monde avec des schematics à piller, inventaire synchronisé avec une survie
+- findblock daily: tous les jours, un bloc aléatoire, une nouvelle map survie ou il faut le trouver, et un prix augmenté de 400% sur les autres modes de jeux
+- battle royale
+
+### Sesion 3: el primer dia de clase
+
+![2024-sept-16-2](../assets/scans/2024-sept-16-2.png)
+
+
+Personajes:
+	La madre, el hijo
+
+Pais: en Cataluna, en Espana
+
+Lugar y momento del dia: la habitacion, 7h30
+
+Momento del ano "el primer día"
+
+
+La madre esta con su hijo quique en su habitation. Viven en Cataluna en España.
+ Tiene que levantarse porque es el primer día de clase. Son las siete y media de la mañana y quique esta cansado, no quiere ir al cole.
+
+
+
+![2024-sept-16-3](../assets/scans/2024-sept-16-3.png)
+
 
 ## Annexes
 

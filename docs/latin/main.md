@@ -40,3 +40,5 @@ Alcihade Didascaux
 753-509 dates royautés
 
 Romulus est un roi guerrier, il à fondé Rome et enlevé les Sabines
+
+Revoir pour jeudi 26

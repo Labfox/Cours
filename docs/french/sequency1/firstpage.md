@@ -129,68 +129,55 @@ https://www.larousse.fr/dictionnaires/francais/{mot}
 [gourmet](https://www.larousse.fr/dictionnaires/francais/gourmet) (définition 1), 
 [subtile](https://www.larousse.fr/dictionnaires/francais/subtile)
 
-??? tip inline "Conversant"
+??? tip   "Conversant"
 
 	parler, discuter
 
-??? tip inline "Se mitonner"
+??? tip   "Se mitonner"
 
 	préparer avec soin
 
-??? tip inline "Aura"
+??? tip   "Aura"
 
 	Atmosphère immatérielle qui enveloppe ou semble envelopper certains êtres
 
-??? tip inline "Martyr"
+??? tip   "Martyr"
 
 	 Chrétien mis à mort ou torturé en témoignage de sa foi. (On l'appelait aussi martyr de la foi ou confesseur [de la foi].)
 
-??? tip inline "Gisaient"
+??? tip   "Gisaient"
 
 	Être étendu, couché, sans mouvement.
 
-??? tip inline "Arabesque"
+??? tip   "Arabesque"
 
 	Ligne idéale, sinueuse, résumant le rythme essentiel d'une composition peinte, dessinée ou sculptée.
 
-??? tip inline "Gangue"
+??? tip   "Gangue"
 
 	Ce qui enveloppe ou dissimule quelque chose
 
-??? tip inline "Circonvenait"
+??? tip   "Circonvenait"
 
 	Entourer de tout côtés
 
-??? tip inline "Sensuelle"
+??? tip  "Sensuelle"
 
 	Propre au sens
 
-??? tip inline "Harngeux"
+??? tip  "Harngeux"
 
 	Qui montre de la hargne dans son comportement avec autrui 
 
-??? tip inline "Gourmet"
+??? tip  "Gourmet"
 
 	Personne qui sait distinguer et apprécier la bonne cuisine et les bons vins
 
-_
 
-_
-
-_
-
-_
-
-_
-
-_
-
-_
-
-_
 
 * la SITUATION d'ENONCIATION (cf. Fiche prof n°3)
 
 Ici, nous avons aujourd'hui un temps magnifiques, mais demain, il pleuvra
 
 Ce jour-là, à Paris, le temps était magnifique, mais on leur avait annoncé que le lendemain il pleuvrait.
+

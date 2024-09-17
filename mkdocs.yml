@@ -30,21 +30,22 @@ nav:
       - "Sequence 1": "mathematics/chapter1/index.md"
     - Latin:
       - Main: "latin/main.md"
+      - "Séquence 1": "latin/sequency2.md"
     - "History & Geography":
       - Home: "history-geography/main.md"
       - "Theme 1":
         - Home: "history-geography/theme1/main.md"
         - "Chapter 1": "history-geography/theme1/chapter1/main.md"
     - "Physics & Chemistry":
-      - "Chapter 1": 
+      - "Chapter 1":
         - "Exos": "physique-chimie/chapter1/main.md"
         - "Cours": "physique-chimie/chapter1/cours.md"
-      
     - "Fr*nch":
        - "Home": "french/main.md"
        - "Sequency 1":
-         -  "Sommaire": "french/sequency1/main.md"
+         - "Sommaire": "french/sequency1/main.md"
          - "Next page": "french/sequency1/firstpage.md"
+         - "Exercices": "french/sequency1/exercices.md"
     - Spanish:
        - "Home": "spanish/index.md"
     - SVT:

@@ -3,6 +3,8 @@
 
 ![2024-sept-4-5](../../../assets/scans/2024-sept-4-5.png)
 
+
+
 Le 28 juin 1914, l'archiduc François Ferdinand(héritier du trône d'Autriche-Hongrie) est assassiné à Sarajevo. L'engrenage des alliances(Triple Entente=France, Royaume-Uni, Russie; Triple Alliance=Allemagne, Autriche-Hongrie, Italie qui basculera du coté de la Triple Entente en 1915), transforme ce conflit local en guerre européenne puis mondiale.
 
 => Comment les civils et les militaires sont-ils mobilisés durant la I^ère^ Guerre Mondiale ?, Comment la 1^ère^ Guerre Mondiale fragilise-t-elle durablement les régimes politiques en place ?
@@ -198,4 +200,17 @@ Les 2/3 des Arméniens présents en Turquie ont été assassinés soit sur place
 | | Qui ? | Où ? | Pourquoi ? | Comment ? | Conséquences ? |
 |---|---|---|---|---|---|
 | Révolution de Février 1917 | Des femmes, des hommes, des ouvriers industriels | à Petrograd | Des problèmes de ravitaillement, le pain, la guerre, le recul des troupes russes, problèmes avec le pouvoir autocratique du Tsar Nicolas II. (Le souverain tire ces pouvoirs de lui-même | Manifestations + soutient de l'armée | Abolition du Tsar Nicolas II le 3 mars 1917, mise en place d'un gouvernent provisoire |
-| Révolution d'Octobre 1917 | Lénine avec le parti bolchevik | Petrograd | Le gouvernement provisoire ne répond pas aux attentes des Russes. Les Russes veulent la paix. | Coup d'état avec l'assaut du palais d'hiver | La Russie devient communiste |
+| Révolution d'Octobre 1917 | Lénine avec le parti bolchevik | Petrograd | Le gouvernement provisoire ne répond pas aux attentes des Russes. Les Russes veulent la paix. | Coup d'état avec l'assaut du palais d'hiver | Abolition de la propriété foncière, entamer des pourparlers pour la paix, mise en place d'un gouvernement d’ouvriers et de paysans, censure de la presse |
+
+Dans plusieurs pays(Allemagne, Hongrie), des soulèvements tentent de suivre la révolution russe.
+
+En 1919, les vainqueurs de la guerre se réunissent à Paris pour rédiger les traités de paix. Le traité de Versailles (28 juin 1919) règle le sort de l'Allemagne jugée responsable de la guerre. Elle doit payer de lourdes réparations, perd une partie de son territoire et se colonies et son armée et réduite. Les autres traités démembrent les empires(russe, austro-hongrois) et créent de nouveaux états (ex: Pologne, Estonie...). Cette nouvelle carte de l'Europe entraîne de nouvelles tensions.
+
+**Conclusion**
+
+La Première Guerre mondiale se caractérise:
+
+- par une mobilisation totale des civils et des militaires
+- par de nouvelles formes de violences
+- par des conséquences aussi bien au niveau démographique, économique, sociale et politique, ce qui va fragiliser les régimes en place.
+

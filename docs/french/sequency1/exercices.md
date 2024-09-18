@@ -10,8 +10,20 @@
 
 ### 2)
 
-!!! quote
+??? quote
 
-	^^Tu^^ me dis que ^^tu^^ veux cesser tes classes pour ==m'==aider, mais cela ==me== fera au contraire plus de mal. Pourquoi ? Parce que les hommes, s'ils n'ont pas de satisfaction dans la vie, n'ont pas de raison de vivre, et ==ma== joie, à ==moi==, c'est mes enfants. Je comprends parfaitement ^^ta^^ bonne pensée, mais ==je== ^^t^^'en prie, n'y songe plus et travaille de tout cœur.
+	^^Tu^^ me dis que ^^tu^^ veux cesser ^^tes^^ classes pour ==m=='aider, mais cela ==me== fera au contraire plus de mal. Pourquoi ? Parce que les hommes, s'ils n'ont pas de satisfaction dans la vie, n'ont pas de raison de vivre, et ==ma== joie, à ==moi==, c'est mes enfants. ==Je== comprends parfaitement ^^ta^^ bonne pensée, mais ==je== ^^t^^'en prie, n'y songe plus et travaille de tout cœur.
 
 	Isoko et Ichirô Hatano, *L'Enfant d'Hiroshima*, trad. S. Motono, © Gallimard, 1959
+
+### 3)
+
+1. Ancré; 1ère personne est l'énonciateur, le texte est relatif: *"hier soir"*, *"j'ai"*, *"mes"*
+2. Coupé; Il n'y à pas de personnes, les indications sont des groupes nominaux: *"le lendemain"*
+3. Coupé; Le texte est à la 3ème personne, les indications sont des groupes nominaux: *"le navigateur"*, *"cette année-la"*
+4. Ancré; La 2ème personne est pour le destinataire, le texte est relatif: *"sais-tu"*, *"la semaine dernière"*
+
+### 4)
+
+1. J'achevait ce jour-là la décoration de ma chambre que j'avais commencée deux jours plus tôt.
+2. Nous vous prévenions que nous ne seront pas chez nous le dimanche d'après.

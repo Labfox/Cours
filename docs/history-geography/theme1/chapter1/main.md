@@ -198,4 +198,4 @@ Les 2/3 des Arméniens présents en Turquie ont été assassinés soit sur place
 | | Qui ? | Où ? | Pourquoi ? | Comment ? | Conséquences ? |
 |---|---|---|---|---|---|
 | Révolution de Février 1917 | Des femmes, des hommes, des ouvriers industriels | à Petrograd | Des problèmes de ravitaillement, le pain, la guerre, le recul des troupes russes, problèmes avec le pouvoir autocratique du Tsar Nicolas II. (Le souverain tire ces pouvoirs de lui-même | Manifestations + soutient de l'armée | Abolition du Tsar Nicolas II le 3 mars 1917, mise en place d'un gouvernent provisoire |
-| Révolution d'Octobre 1917 | bolcheviks | Petrograd | Gouvernement provisoirre pas bon | Coup d'état | La Russie devient communiste |
+| Révolution d'Octobre 1917 | Lénine avec le parti bolchevik | Petrograd | Le gouvernement provisoire ne répond pas aux attentes des Russes. Les Russes veulent la paix. | Coup d'état avec l'assaut du palais d'hiver | La Russie devient communiste |

@@ -1,19 +1,19 @@
 # Musique
 
-1) Caractère
+1) Caractre
 2) Instruments
 3) Genre filmique 
 
 
 Machin 1
-Caractère: ?
-Instruments: peut-etre à  vent
+Caractre: ?
+Instruments: peut-etre  vent
 Genre filmique: western
 
 Machin 2
-Caractère: Musique
-Synthétique
+Caractre: Musique
+Synthtique
 Genre filmique: calme, histoire
 
-Caractère: tragique
+Caractre: tragique
 Genre filmique tragique

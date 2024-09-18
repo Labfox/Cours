@@ -97,3 +97,8 @@ swam in the pacific ocean, visited hollywood, gone shopping, posted 200 pictures
 Last summer, Tom went to Los Angeles. It was brilliant ! Most days he spent time at the beach and he went swimming in the Pacific Ocean. 
 It was really exciting, because he visited Hollywood and the movie studios.
 He also walked down Sunset Boulevard and he took photos of the palm trees. He saw Schreck's star on the walk of fame. He posted zillions of photos and he took 23 photos of himself standing next to a palm tree. It was 100 degrees Farenheit (=37.7 degrees Celsius). Finally he bought a shirt which is very colorful.
+
+sailing
+ballooning
+
+[exos](../assets/noscans/summer_activities.pdf)

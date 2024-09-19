@@ -124,3 +124,5 @@ Horizontal :
 3. 6 pour le carbonne, 1 pour l'hydrogène, 8 pour l'oxygène
 4. Autant que de protons
 5. (2*6)+6+8 = 26. Il y à donc 26 électrons dans la molécule d'éthanol
+
+[Activité 3](../../assets/noscans/chimie/chapter1-activity3.pdf)

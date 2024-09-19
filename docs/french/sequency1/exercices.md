@@ -25,5 +25,5 @@
 
 ### 4)
 
-1. J'achevait ce jour-là la décoration de ma chambre que j'avais commencée deux jours plus tôt.
-2. Nous vous prévenions que nous ne seront pas chez nous le dimanche d'après.
+1. Il achevait ce jour-là la décoration de ça chambre qu'il avait commencée deux jours plus tôt.
+2. Ils les prévinrent qu'ils ne seraient pas chez eux le dimanche d'après.

@@ -101,4 +101,4 @@ He also walked down Sunset Boulevard and he took photos of the palm trees. He sa
 sailing
 ballooning
 
-[exos](../assets/noscans/summer_activities.pdf)
+[exos](../assets/noscans/english/summer_activities.pdf)

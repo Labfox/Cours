@@ -133,3 +133,20 @@ $f(x)=2x^{2}-3$
 ## Exercice 27 p.127
 
 la 2 et la 3
+
+## Exercice 22 p.126
+
+1. Vrai
+2. Faux
+3. Vrai
+4. Vrai
+
+## Exercice 25 p.126
+
+1. $h(x) = 2x+5$
+2. $h(\frac{1}{3}) = \frac{2}{3}+5 = \frac{17}{3}$
+
+## Exercice 26 p.126
+
+Première oui, deuxième non
+

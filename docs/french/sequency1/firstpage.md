@@ -175,9 +175,41 @@ https://www.larousse.fr/dictionnaires/francais/{mot}
 
 
 
-* la SITUATION d'ENONCIATION (cf. Fiche prof n°3)
+* la **SITUATION d'ENONCIATION** (cf. Fiche prof n°3)
 
 Ici, nous avons aujourd'hui un temps magnifiques, mais demain, il pleuvra
 
 Ce jour-là, à Paris, le temps était magnifique, mais on leur avait annoncé que le lendemain il pleuvrait.
 
+* le **TYPE DE TEXTE** (cf. Fiche prof n°4)
+
+sl DN-Exemples; DN-[TEmps dominants de référence]; DN-[Vocabulaire et outils grammaticaux]
+
+Schéma narratif
+
+- Situation initiale
+- Elément modif
+- péripéties
+- élément de résolution
+- situation finale
+
+??? info "Ellipse"
+
+	Passer sous silence certains évènements.
+	Exemple: 20 après, 30 minutes plus tard...
+
+indices spatio-temporels
+
+Expansions du nom
+
+- Adjectif épithète
+
+Le chien noir joue à la balle
+
+- CDN
+
+Le chien noir de mon voisin joue à la balle
+
+- Proposition subordonnée relative
+
+Le chien noir de mon voisin, qui à un collier, joue à la balle.

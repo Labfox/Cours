@@ -102,3 +102,41 @@ sailing
 ballooning
 
 [exos](../assets/noscans/english/summer_activities.pdf)
+
+earth, gift, calendar/date, person, car, time
+
+2
+
+a. when
+b. how
+c. how long
+d. where
+e. who
+f. where
+
+3
+
+a. When did you go to australia ?
+b. How long di you stay there ?
+c. what did you do ?
+d. Where did your parents travel ?
+e. How did you go there ?
+f. Who did you go with ?
+
+4
+
+a. How did you go to Miami ?
+b. When was the last time your sister readed ?
+c. When was the last time you went to cinema ?
+d. Who do you played tennis with ?
+e. How long James watched the TV for ?
+f. Where did you walked your dog ?
+
+5
+
+a. Where did you ate you ice cream yesterday ?
+b. How much time did you got ?
+c. How did you go to school ?
+d. What did you draw ?
+e. With who have you gone to the cinema ?
+f. When did you visited this museum ?

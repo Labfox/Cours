@@ -149,9 +149,9 @@ La madre esta con su hijo quique en su habitation. Viven en Cataluna en España.
 
 ![2024-sept-16-3](../assets/scans/2024-sept-16-3.png)
 
-
+1) Collège la bécheerie
 3)
-Es un collegi
+Es un collegio, hay latin, frances, english. Se ajusta a la legislación francesa y ofrecemos viajes y clubes geniales.
 
 
 ## Annexes

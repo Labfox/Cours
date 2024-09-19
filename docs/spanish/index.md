@@ -150,6 +150,10 @@ La madre esta con su hijo quique en su habitation. Viven en Cataluna en España.
 ![2024-sept-16-3](../assets/scans/2024-sept-16-3.png)
 
 
+3)
+Es un collegi
+
+
 ## Annexes
 
 [Annexe 1: el indicativo](../assets/noscans/spanish/finducahier-1.pdf)

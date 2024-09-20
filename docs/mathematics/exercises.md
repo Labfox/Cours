@@ -1,3 +1,5 @@
+je suis le lundi
+
 # Exercices
 
 Replacer x et y par leur valeur pour calculer chaque expression.
@@ -150,3 +152,10 @@ la 2 et la 3
 
 Première oui, deuxième non
 
+## Exercice 28 p.127
+
+1.
+
+| $x$    | $-3$ | $-2$ | $-1$ | $0$ | $1$ | $2$ | $3$  |
+|--------|------|------|------|-----|-----|-----|------|
+| $f(x)$ | $−4$ | $1$  | $4$  | $5$ | $4$ | $1$ | $-4$ |

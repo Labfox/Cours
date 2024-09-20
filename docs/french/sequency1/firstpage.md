@@ -183,7 +183,7 @@ Ce jour-là, à Paris, le temps était magnifique, mais on leur avait annoncé q
 
 * le **TYPE DE TEXTE** (cf. Fiche prof n°4)
 
-sl DN-Exemples; DN-[TEmps dominants de référence]; DN-[Vocabulaire et outils grammaticaux]
+sl DN-Exemples; DN-[TEmps dominants de référence]; DN-[Vocabulaire et outils grammaticaux]; DE-[cn logique, scientifique, ttn imp]; DA-1; DA-3[Engaged/jenous]; DA-5; 
 
 Schéma narratif
 
@@ -213,3 +213,4 @@ Le chien noir de mon voisin joue à la balle
 - Proposition subordonnée relative
 
 Le chien noir de mon voisin, qui à un collier, joue à la balle.
+

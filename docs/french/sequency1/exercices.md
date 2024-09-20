@@ -27,3 +27,21 @@
 
 1. Il achevait ce jour-là la décoration de ça chambre qu'il avait commencée deux jours plus tôt.
 2. Ils les prévinrent qu'ils ne seraient pas chez eux le dimanche d'après.
+
+## Exercice sur les types de texte
+### Texte 1 
+narratif
+
+car: énonciateur externe en il, chronologie linéaire, plusieurs repères temporels
+### Texte 2
+argumentatif
+
+car: emploi de la première personne (sans raconter qqchose), texte au présent d'énonciation.
+### Texte 3
+descriptif
+
+car: observateur neutre, emploi du présent
+### Texte 4
+explicatif
+
+car: pas de narraterur, présent de vérité générale, 

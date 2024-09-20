@@ -103,43 +103,54 @@ ballooning
 
 [exos](../assets/noscans/english/summer_activities.pdf)
 
-earth, gift, calendar/date, person, car, time
+where what when who how how long
 
 2
 
-a. when
-b. how
-c. how long
-d. where
-e. who
-f. where
+1. when
+2. how
+3. how long
+4. where
+5. who
+6. where
 
 3
 
-a. When did you go to australia ?
-b. How long di you stay there ?
-c. what did you do ?
-d. Where did your parents travel ?
-e. How did you go there ?
-f. Who did you go with ?
+1. When did you go to Australia ?
+2. How long did you stay there ?
+3. what did you do ?
+4. Where did your parents travel ?
+5. How did you go there ?
+6. Who did you go with ?
 
 4
 
-a. How did you go to Miami ?
-b. When was the last time your sister readed ?
-c. When was the last time you went to cinema ?
-d. Who do you played tennis with ?
-e. How long James watched the TV for ?
-f. Where did you walked your dog ?
+1. How did you go to Miami ?
+2. When was the last time your sister readed ?
+3. When was the last time you went to cinema ?
+4. Who did you play tennis with ?
+5. How long James watched the TV for ?
+6. Where did you walked your dog ?
 
 5
 
-a. Where did you ate you ice cream yesterday ?
-b. How much time did you got ?
-c. How did you go to school ?
-d. What did you draw ?
-e. With who have you gone to the cinema ?
-f. When did you visited this museum ?
+1. Where did you ate you ice cream yesterday ?
+2. How much time did you got ?
+3. How did you go to school ?
+4. What did you draw ?
+5. With who have you gone to the cinema ?
+6. When did you visited this museum ?
 
-Last summer, I started being the main maintainer of a library, however, I didn't swam.
+One week at miami
 
+- Noe: Where did you go
+- Nolan: I went to Miami, where were you ?
+- Noe: I was at London
+- Nolan: It's so bad
+- Adam: I hope the force was with you. 
+- Noe: Nah, that was cool. With you were you in Miami ?
+- Adam: I went to Miami with Nolan's oncle and mom.
+- Nolan: What activities did you do
+- Noe: I visited a the British museum
+- Adam: Oh my god, your vacation was so depressing
+- Noe: Stop talking about that! 

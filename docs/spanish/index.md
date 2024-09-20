@@ -149,9 +149,40 @@ La madre esta con su hijo quique en su habitation. Viven en Cataluna en España.
 
 ![2024-sept-16-3](../assets/scans/2024-sept-16-3.png)
 
-1) Collège la bécheerie
-3)
-Es un collegio, hay latin, frances, english. Se ajusta a la legislación francesa y ofrecemos viajes y clubes geniales.
+1. Collège la béchelerie
+
+Escula rural (ecuador):
+_ conventional _ aire libre _ nauralez _ quechua _
+
+Conservatorio de Musica de Barcelona
+_ musica _ tocar instrumentos _ musicos _
+
+Escula de futbol de madrid:
+_ internado _ futbol _
+
+El castillo de cuellar:
+_ tropas _ soldados _ notas _ historia
+
+
+
+3. Es un colegio, hay latín, francés, english. Se ajusta a la legislación francesa y ofrecemos viajes y clubes geniales.
+
+|   | Grupo 1 | Grupo 2 | Grupo 3 | Grupo 4 |
+|---|---------|---------|---------|---------|
+| Tema | Camino a la escuela |
+| País | | | Guatemala | |
+| Lugar preciso | | | La selva | |
+| Medio de transporte | | | A pie |
+| Camino | 
+| Dificultades encontradas | | | La selva | |
+| Duración del camino |
+
+Para presntar vuestro trabajo oralmente: 
+
+Los documentos de nuestro grupo tratan de _ (tema) en _ (localizaicon en el mapa), y mas precisamente,  en _ (lugar preciso). 
+Las personas del video son _ (personas).
+Para ir a la escuela, ellos van en _ (medio de transporte).
+El camino es _ (camino). La duracion del camino es de _ (duracion del camino). Las personas _ (caracter : ser + adjectif) porque encuentran muchas dificultades como:
 
 
 ## Annexes

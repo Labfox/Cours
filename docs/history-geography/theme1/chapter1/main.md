@@ -217,13 +217,41 @@ La Première Guerre mondiale se caractérise:
 
 978-209-171897-2
 
+[Online](https://mermaid.live/view#pako:eNqNVUtu2zAQvQrBLpoAchA5_qorJ27aAnWbNmkWhTe0RNuTUqTCj5E0yF26a32GLnWxDhnb8UcOShgWBc6befNmOHqgqco4TWgOMstZMZQEl1bKHhxcaJ5D-Udz8s5xjY-BkhkwwSMSd-NGDf86h4dPCL--OGbRiklZzrkhGSeTgHu28OuMOcMTUu-QGwcyeIoIM4YZkMx6lHh10n0zLecaLHBNes5qSKfAJcn8yeKd194rOdHAyblmsvytwJBzrjP0IrPNkHXSEwKYTLnZPPDrSkMhOHkrLcdfErylmOJXZwysnntxS8-J3_GcTSRitilG5INlAqneOHPrfBI8ZN7cdHsxZYabZDfWcyUKb5IshPVi5crNeI7Ud1F-9ZlFj6Snyr82aE1q5JNCxAjh_r0a9nk85tLADMvIQloyw62xqihCbQumiWBkxCwDPA9VY2TAQCI5wwv7UoA-d3eYTV6RTaEMFl3JF5PZ4I_5DJg2ft-pRl35gk497erz07UkrrGBnMQmKOcz7ZsP3bYwRL-cp6uYrWo_2EEaoxAs7SohQ75d9lB-dCY8tF3VR9i5e-T4v-Lmy_yRqFzTZo8eZwqJIjNVVeNqyDWkVoFe1tluXJlNSE_nYCykaIgk4n2Eeo6MNRKJvD-j3Hgcrl2QrFAg3BaTPozHkDphy_lqRPih4Sqk6SOBcNlJ-ct3aqqcBr1rh1T3iHsquDFOV8nxkZGCO71QIld6Cz5g8tYFoSSGxRHmtgfgViqZkpLrkLj05cZSbIX9iEepH73-ZuBWQM4sYJQdO2yFZXSj8pyD2PV0odVI-HbDCf16ej_B1pNrDHsLbZG6HzhRIJbCDITBbEcgwJTztcB9PMa2n4B3iEWcLCxoRHOucwYZflwevP2Q2inqPaQJbjOmfwzpUD6iHRZRXd7LlCZWOx5RrdxkSpMxEwbfXJFhm_eBTTTLlyYFkzR5oHc0qdXjxtFxu9Xuthud5kkzbrYiek-TuFs_asSNbqPdPO62W81W_TGiP5VCF_FRPT72q9k96SCg2wgOv4fDJ_8cxVZ68PRpDF_Ix3_12B8g)
 
 ```mermaid
 mindmap
-   root((Première Guerre Mondiale, 1914-1918))
-      Quatre années de guerre
-          Début de la guerre en 1914
-      Au front, la souffrance des poilus
-      A l#39;arrière, des civils mobilisés
-      Des régimes fragilisés
+    root((Première Guerre Mondiale, 1914-1918))
+        Quatre années de guerre
+            Cause: 28 juin 1914, assasinat de l#39;héritier Autrichien d#39;Autriche-Hongrie François Ferdinand
+            2 Alliances
+                Triple Entente: France, Russie, Russie
+                Triple Alliance: Allemagne, Autriche-Hongrie, Italie jusqu#39;en 1915
+            Phases:
+                Première phase: guerre de mouvement
+                    Dates: Août 1914 - Novembre 1914
+                    Offensives allemandes stoppées par la bataille de la Maine: septembre 1914
+                Deuxième phase: guerre de position
+                    Dates: Novembre 1914 - Mars 1918
+                    Tranchées
+                    Bataille de Verdun: Février 1916 - Décembre 1916
+                    Entrée en guerre des USA: Avril 1917
+                Troisième phase: guerre de mouvement
+                    Dates: mars 1918 - novembre 1918
+                    Contres offensives allemandes
+                    Victoire de la triple Entente
+            Armistice le 11 novembre 1918
+        Au front, la souffrance des poilus
+            Difficulté de l#39;assaut
+                Distances à parcourir
+                Armement
+                Blessures
+                La peur de la mort
+            Manque de nourriture
+            Difficulté de donner des nouvelles
+            Les conditions climatiques
+            Le manque de sommeil
+            Les Problèmes d'hygiène
+        A l#39;arrière, des civils mobilisés
+        Des régimes fragilisés
 ```

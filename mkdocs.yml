@@ -33,9 +33,16 @@ nav:
       - "Séquence 1": "latin/sequency2.md"
     - "History & Geography":
       - Home: "history-geography/main.md"
-      - "Theme 1":
-        - Home: "history-geography/theme1/main.md"
-        - "Chapter 1": "history-geography/theme1/chapter1/main.md"
+      - History:
+         - "Thème 1":
+            - Home: "history-geography/theme1/main.md"
+            - "Chapter 1": "history-geography/theme1/chapter1/main.md"
+      - Geography:
+         - "Thème 1":
+            - Home: "history-geography/geography/theme1/main.md"
+            - "Point vocabulaire sur le terme échelle": "assets/scans/2024-sept-20-1.png"
+            - "Chapitre 1":
+               - Home: "history-geography/geography/theme1/chapter1/main.md"
     - "Physics & Chemistry":
       - "Chapter 1":
         - "Exos": "physique-chimie/chapter1/main.md"

@@ -140,3 +140,6 @@ c. How did you go to school ?
 d. What did you draw ?
 e. With who have you gone to the cinema ?
 f. When did you visited this museum ?
+
+Last summer, I started being the main maintainer of a library, however, I didn't swam.
+

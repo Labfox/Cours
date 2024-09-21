@@ -59,6 +59,8 @@ nav:
         - "Home": "svt/index.md"
         - "Chapter 2": "svt/chapter2.md"
     - LCE: "lce/main.md"
+    - Musique: "music/index.md"
+    - Techno: "techno/securiteroutiere.md"
   - Manuels: "manuels/index.md"
 
 markdown_extensions:

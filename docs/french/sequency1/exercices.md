@@ -30,18 +30,41 @@
 
 ## Exercice sur les types de texte
 ### Texte 1 
-narratif
+Il partit ave cinq copains. [...]
+A peine dix minutes. Les soldats affolés se retournèrent, les artilleurs essayèrent de tourner leurs pièces: l'auto de Puig, le pettit poste de garde enfocé, dégringolait sur les canonns avec le fusil mitrailleur entre deux lames du pare-brise, 
+l'arrière secoué de gauche à droite comme un balancier frénétique. Puig voyait les cannonniers, que leurs pare-balles ne protégeaient plus, grossir comme au cinéma.
+Une mitrailleurse fasciste tirait et grossissait.
+
+Discours narratif
 
 car: énonciateur externe en il, chronologie linéaire, plusieurs repères temporels
+
+Ce texte est un discours narratif car il est raconté par quelqu'un extérieur à l'histoire, en utilisant "il". Les événements se déroulent dans un ordre logique, sans retour en arrière. On a aussi des repères temporels, comme "à peine dix minutes", qui montrent le déroulement du temps. Cela permet de suivre l'histoire facilement.
 ### Texte 2
+
+Plus je travaille avec le langage, plus trahisons m'épouvantent. inventé pour servir la vérité, 
+il semble s'ingénier à la faire servir: en tout cas, il l'obnubile plus volontiers qu'il ne la révèle.
+Sa vocation première devrait être de libérer l'homme: trop souvent c'est son exploitation qu'il favorise. 
+Voila pourquoi un écrivain, comme un soldat qui fourbit ses armes, a pour premier devoir de nettoyer son language,
+de le préciser, de l'ajuster, l'approprier à ses fins; bref, de savoir toujours ce que parler veut dire et dit.
+
+
 argumentatif
 
 car: emploi de la première personne (sans raconter qqchose), texte au présent d'énonciation.
+
+L'emploi de la première personne montre l'implication personnelle de l'auteur sans pour autant raconter une expérience spécifique. L'argumentation est exprimée au présent d'énonciation.
 ### Texte 3
+
+
 descriptif
 
 car: observateur neutre, emploi du présent
+
+Le texte adopte un point de vue d'observateur neutre et emploie le présent.
 ### Texte 4
 explicatif
 
-car: pas de narraterur, présent de vérité générale, 
+car: pas de narrateur, présent de vérité générale, 
+
+Le texte est explicatif car il n'y à pas de narratteur, et qu'il est au présent de vérité générale.

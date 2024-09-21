@@ -167,15 +167,15 @@ _ tropas _ soldados _ notas _ historia
 
 3. Es un colegio, hay latín, francés, english. Se ajusta a la legislación francesa y ofrecemos viajes y clubes geniales.
 
-|   | Grupo 1 | Grupo 2 | Grupo 3 | Grupo 4 |
-|---|---------|---------|---------|---------|
-| Tema | Camino a la escuela |
-| País | | | Guatemala | |
-| Lugar preciso | | | La selva | |
-| Medio de transporte | | | A pie |
-| Camino | 
-| Dificultades encontradas | | | La selva | |
-| Duración del camino |
+|                          | Grupo 1             | Grupo 2 |            Grupo 3            | Grupo 4 |
+|:-------------------------|---------------------|---------|:-----------------------------:|---------|
+| Tema                     | Camino a la escuela |         |                               |         |
+| País                     |                     |         |           Guatemala           |         |
+| Lugar preciso            |                     |         |           La selva            |         |
+| Medio de transporte      |                     |         |             andor             |         |
+| Camino                   |                     |         |         en fila india         |         |
+| Dificultades encontradas |                     |         | condition climatica, animales |         |
+| Duración del camino      |                     |         |               ?               |         |
 
 Para presntar vuestro trabajo oralmente: 
 

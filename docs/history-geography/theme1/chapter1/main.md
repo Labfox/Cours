@@ -217,17 +217,17 @@ La Première Guerre mondiale se caractérise:
 
 978-209-171897-2
 
-[Online](https://mermaid.live/view#pako:eNqNVUtu2zAQvQrBLpoAchA5_qorJ27aAnWbNmkWhTe0RNuTUqTCj5E0yF26a32GLnWxDhnb8UcOShgWBc6befNmOHqgqco4TWgOMstZMZQEl1bKHhxcaJ5D-Udz8s5xjY-BkhkwwSMSd-NGDf86h4dPCL--OGbRiklZzrkhGSeTgHu28OuMOcMTUu-QGwcyeIoIM4YZkMx6lHh10n0zLecaLHBNes5qSKfAJcn8yeKd194rOdHAyblmsvytwJBzrjP0IrPNkHXSEwKYTLnZPPDrSkMhOHkrLcdfErylmOJXZwysnntxS8-J3_GcTSRitilG5INlAqneOHPrfBI8ZN7cdHsxZYabZDfWcyUKb5IshPVi5crNeI7Ud1F-9ZlFj6Snyr82aE1q5JNCxAjh_r0a9nk85tLADMvIQloyw62xqihCbQumiWBkxCwDPA9VY2TAQCI5wwv7UoA-d3eYTV6RTaEMFl3JF5PZ4I_5DJg2ft-pRl35gk497erz07UkrrGBnMQmKOcz7ZsP3bYwRL-cp6uYrWo_2EEaoxAs7SohQ75d9lB-dCY8tF3VR9i5e-T4v-Lmy_yRqFzTZo8eZwqJIjNVVeNqyDWkVoFe1tluXJlNSE_nYCykaIgk4n2Eeo6MNRKJvD-j3Hgcrl2QrFAg3BaTPozHkDphy_lqRPih4Sqk6SOBcNlJ-ct3aqqcBr1rh1T3iHsquDFOV8nxkZGCO71QIld6Cz5g8tYFoSSGxRHmtgfgViqZkpLrkLj05cZSbIX9iEepH73-ZuBWQM4sYJQdO2yFZXSj8pyD2PV0odVI-HbDCf16ej_B1pNrDHsLbZG6HzhRIJbCDITBbEcgwJTztcB9PMa2n4B3iEWcLCxoRHOucwYZflwevP2Q2inqPaQJbjOmfwzpUD6iHRZRXd7LlCZWOx5RrdxkSpMxEwbfXJFhm_eBTTTLlyYFkzR5oHc0qdXjxtFxu9Xuthud5kkzbrYiek-TuFs_asSNbqPdPO62W81W_TGiP5VCF_FRPT72q9k96SCg2wgOv4fDJ_8cxVZ68PRpDF_Ix3_12B8g)
+[Online](https://mermaid.live/view#pako:eNqNV8tS20gU_ZUuzYZUmQx-JBjPygkkQxUkTMhkMcWmLbXsTlrdSj9cIRT_MrsZf8Ms9WNzbkt-YCQSFWDJ6vs-99zLXZKaTCSTpJA6K3h5oxkua4w_uLKikNW_VrC3QVh8XBqdSa5Ej_VP-qND_Bk_q8_TdXf3R-Aex7jW1Uo4lgk2j4L399tTdB285sGJCRuM2ecgddTWY9w57qTmngTVL8OT3xbVykovhWXT4K1MF1JoltGb5lkc_m703ErB3liuq3-MdOyNsBm06OzZntEBmyoluU6F23tF10crSyXYmfYCP5OoMEWkH4JzcvPZKbdWPaE7UfC5hsy-lz127rmCt5-D-xooDhGDf7Hn6dWCO-EmLV5uS1LSmUmTYMpYYcJSFHD-sRRdp9xDJZua6j8fE84O2TsDiRnE6bld7H2eC-3kEuXkMTCd4dZ5U5axxiW3THE2455LvI-l4-ySSw3nnCj9UwZORfiGaIqWaErjUHmjnwzmgf-I55JbR_fjdqmPVNIFud3-_tVOEJ-AoqABg2q1tIRAqH0JE6fVKt3YfNmuBxiysMJQ3E1Ajv15PUX6oUyR6HEbkgDfjnT8XHGLdfxwVO_kpiMfrw0chWemrcbtIp9k6o206zr7B02zh-KpLaTzMsVJeNF_6NED3pgGlls40yOdzoQ8j80X01YaqYLbZ5BTmecyDcpXqw1bEH-ElgSdwovY9az6m_CammClfXwO_nak-JUSzgXblpQLzkoRbJOPwtg98Uuuv4aYLg2zYDOoeTKUzGgtbAxdU9FRkD2zF3iVEhNTf-BWyYJ7CSuPzgEQa-vOFIWQ6rGmK2tmikDnamZd3M6BQS0e1KdJMPwn7ulF71K5lMoh5JlU0lWrRzU6uOIW5ZclJ0d3ZVCHqFDkORK2nRMthEcuYjAFB6gR8QiG1jK4j5BjSwHEI_G1fLt4YzRdcD0nGWqnakVjBXjD-1wgNa6Hds259o4tgUQgmy8jGaAU3MVzAcNpP8eYkabkc-oYIBU4UBuDHcHMqahWR6TtjEi4Jyx-YRrZaZLa4CBHsVugd64oH3ZJMpymE0liPhiPVt71hAkfn5xRGff7EVxv-s3t1Kht9lQrHWjWUqzWZEF6IgxJkXDZ2h0geNBdtrW9TVLOC_kY23R9qFZfg6zpf8_WjjGURdd1-W40kViahrKd21-ZYsZtVqe8jXdjqZFmm1IPrvUCaPPYYR2qD94iISaVWU1U3AJVGsBsyx1dzaxfG0B72-xQuO26c1aURK3vvTdo3HYl6Cl2EXvnJw7XBB-JScKaJIqZrt3Uol1oylLazhpGy6pVzqVHywCQMfMx2MYslRE8Tf3MOzekhlub5KCcWNKQi5kJKahghSHhOuATIYQd0AT1xPCr9UOBj0Tjuk99EHPoKruAsOVseJQSxpRBLr51n4RzJRisJrjIRSkvyg02KXvoUM-ub4mxuvU0xVpTehZHglQ006lPaJcsuOJZV3oh66hrBHVxt5nBr8NYvZ1q-AAXuyXO9FJiMrM-1V81DUlTzu3Oh9N1t9AUAZfMuyYCWntpVKijJLy0ruI7p8jc7gp23N0V2Q6VL0z9Ca4lSdeFdFCat2ZuefajXiDcbgalkgiuQX3X5GmGv8zXuNzuKZT9rj6ZGdUQX2AfHcJ6J1OjMIHOz3-QKFL9HttZs2E9kSkAs6TR7NGDCjNnKb_QiLggTHSzwo9yhXXj7c5so3wtpYvLoo5TuwTAYRhMGRj3cWN0XXAOZR0QbPKOtsfmZSPjILFL2gewFBVFETTWPZH0kkLYgssM_9nekYKbxC_g2E0ywW3G7Zeb5Ebf4xx2RnN9q9Nk4m0QvQQMMV8kk5wrh6dQYmyJU8kReLE-Un95hnY1dnOy5PovYzZn8JhM7pJvyaTfHz0_eTk4GhyNj0dHg-Fo1Etuk8lo_Hw0Hg76_Rf94-FweDIe3feS71HD0fPxyfi4fzwevBj3j4bjwf3_AWymzA)
 
 ```mermaid
 mindmap
-    root((Première Guerre Mondiale, 1914-1918))
-        Quatre années de guerre
-            Cause: 28 juin 1914, assasinat de l#39;héritier Autrichien d#39;Autriche-Hongrie François Ferdinand
-            2 Alliances
+    root(Première Guerre Mondiale, 1914-1918)
+        {{Quatre années de guerre}}
+            (Cause: 28 juin 1914, assasinat de l#39;héritier Autrichien d#39;Autriche-Hongrie François Ferdinand)
+            (2 Alliances)
                 Triple Entente: France, Russie, Russie
                 Triple Alliance: Allemagne, Autriche-Hongrie, Italie jusqu#39;en 1915
-            Phases:
+            (Phases:)
                 Première phase: guerre de mouvement
                     Dates: Août 1914 - Novembre 1914
                     Offensives allemandes stoppées par la bataille de la Maine: septembre 1914
@@ -240,8 +240,8 @@ mindmap
                     Dates: mars 1918 - novembre 1918
                     Contres offensives allemandes
                     Victoire de la triple Entente
-            Armistice le 11 novembre 1918
-        Au front, la souffrance des poilus
+            (Armistice le 11 novembre 1918)
+        {{Au front, la souffrance des poilus}}
             Difficulté de l#39;assaut
                 Distances à parcourir
                 Armement
@@ -251,7 +251,47 @@ mindmap
             Difficulté de donner des nouvelles
             Les conditions climatiques
             Le manque de sommeil
-            Les Problèmes d'hygiène
-        A l#39;arrière, des civils mobilisés
-        Des régimes fragilisés
+            Les Problèmes d#39;hygiène
+        {{A l#39;arrière, des civils mobilisés}}
+            (Participation des civils à l#39;effort de guerre)
+                Les industries se réorientent vers la guerre
+                Les civils changent de métier, les femmes, enfants vont travailler das les usines
+            (Propagande pour les civils)
+                Les gouvernements de guerre cherchent à mobiliser des fonds
+                Ils servent aussi à remotiver les civils et les soldats
+            (Souffrances des civils)
+                Pénurie de produits alimentaires
+                Deuil des soldats pour les familles
+                Réquisition de produits allimentaires dans les zones occupées
+                Bombardements
+                Travail forcé dans les régions occupées
+            (Génocide des arméniens)
+                    en 1915 dans le nord-est de l#39;Empire Ottoman
+                    Par L#39;empire Ottoman
+                    Contre la minorité Arménienne
+                    A cause de la défaite militaire des Ottomans face à la Russie
+                    Arméniens pris en boucs émissaires
+                    Déroulement
+                        Arrestations
+                        Regroupements
+                        Massacres locaux
+                        Déportation vers camps dans le désert Syrien
+                            Conditions difficiles: famine, maladie
+                    Conséquences
+                        2/3 des Arméniens tués
+                        Environ 1 million de morts
+        {{Des régimes fragilisés}}
+            (Révolutions Russes)
+                Révolution de Février 1917
+                    Par des femmes, hommes, ouvriers
+                    A Pétrograd
+                    A cause des problèmes liés à la guerre
+                    Manifestation de l#39;armée
+                    Abolition du Tsar Nicolas II
+                Révolution d#39;Octobre 1917
+                    Par le partit bolchevik et Lénine
+                    A Pétrograd
+                    Le Gouvernement provisoire ne répond pas au attentes
+                    Coup d#39;état
+                    La russie devient commmuniste
 ```

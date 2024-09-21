@@ -31,8 +31,16 @@ Dans le sang il y a :
 
 ^^**Le système immunitaire**^^ est le système de l'organisme capable de le défendre contre les infections.
 
-## II. Quels sot les premiers leucocytes à intervenir lors d'une contamination ?
+## II. Quels sont les premiers leucocytes à intervenir lors d'une contamination ?
 
 ^^**Activité 2:**^^ "La réaction inflammatoire " p.388
 
 Exercice 7 p. 406. Refaire les schémas + les légender
+
+
+Bilan 2 : La réaction immunitaire est la réaction de défense de l’organisme lorsqu’il est infecté.
+
+Après contamination par un micro-organisme, une réaction immunitaire locale et rapide se met en place : c’est la réaction inflammatoire. Elle entraîne des symptômes localisés : rougeur, chaleur, gonflement, douleur.
+
+Les « phagocytes » absorbent et digèrent les micro-organismes (bactéries, virus), c’est la «&nbsp;phagocytose » qui permet le plus souvent de stopper l’infection. Voir schéma légendé.
+

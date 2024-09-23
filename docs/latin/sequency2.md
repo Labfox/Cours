@@ -47,7 +47,7 @@ On reconnaît une déclinaison à son génitif singulier
 | Datif     | O         | IS      |
 | Ablatif   | O         | IS      |
 
-### Decl 2 neutre (avec Forum, I, N)
+#### Decl 2 neutre (avec Forum, I, N)
 
 |           | Singulier | Pluriel |
 |-----------|:---------:|:-------:|

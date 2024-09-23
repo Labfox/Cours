@@ -30,41 +30,57 @@
 
 ## Exercice sur les types de texte
 ### Texte 1 
-Il partit ave cinq copains. [...]
-A peine dix minutes. Les soldats affolés se retournèrent, les artilleurs essayèrent de tourner leurs pièces: l'auto de Puig, le pettit poste de garde enfocé, dégringolait sur les canonns avec le fusil mitrailleur entre deux lames du pare-brise, 
-l'arrière secoué de gauche à droite comme un balancier frénétique. Puig voyait les cannonniers, que leurs pare-balles ne protégeaient plus, grossir comme au cinéma.
-Une mitrailleurse fasciste tirait et grossissait.
+Il partit avec cinq copains. [...]
+A peine dix minutes. Les soldats affolés se retournèrent, les artilleurs essayèrent de tourner leurs pièces: l'auto de Puig, le petit poste de garde enfoncé, dégringolait sur les canons avec le fusil mitrailleur entre deux lames du pare-brise, 
+l'arrière secoué de gauche à droite comme un balancier frénétique. Puig voyait les canonniers, que leurs pare-balles ne protégeaient plus, grossir comme au cinéma.
+Une mitrailleuse fasciste tirait et grossissait.
 
-Discours narratif
+Discours narratif +1
 
 car: énonciateur externe en il, chronologie linéaire, plusieurs repères temporels
 
-Ce texte est un discours narratif car il est raconté par quelqu'un extérieur à l'histoire, en utilisant "il". Les événements se déroulent dans un ordre logique, sans retour en arrière. On a aussi des repères temporels, comme "à peine dix minutes", qui montrent le déroulement du temps. Cela permet de suivre l'histoire facilement.
+Ce texte est un discours narratif car il est raconté par un narrateur externe. Les événements se déroulent dans un ordre logique, sans retour en arrière. On a aussi des repères temporels, comme "à peine dix minutes", qui montrent le déroulement du temps. Cela permet de suivre l'histoire facilement.
+
+* Indicateurs spatio-temporels
+* "A peine dix minutes", "entre deux lames", "sur les canons", "clé gauche à droite"
+* Verbes d'action: "dégringolait", "tirait", "partit".
+* Narrateur extérieur: "Il"
+* Temps du passé: "passé simple", "se retrouvèrent", "partit", "essayèrent". Imparfait: "tirait et grossissait", "protégait"
+
 ### Texte 2
 
 Plus je travaille avec le langage, plus trahisons m'épouvantent. inventé pour servir la vérité, 
 il semble s'ingénier à la faire servir: en tout cas, il l'obnubile plus volontiers qu'il ne la révèle.
 Sa vocation première devrait être de libérer l'homme: trop souvent c'est son exploitation qu'il favorise. 
-Voila pourquoi un écrivain, comme un soldat qui fourbit ses armes, a pour premier devoir de nettoyer son language,
+Voila pourquoi un écrivain, comme un soldat qui fourbit ses armes, a pour premier devoir de nettoyer son langage,
 de le préciser, de l'ajuster, l'approprier à ses fins; bref, de savoir toujours ce que parler veut dire et dit.
 
 
-argumentatif
+argumentatif +1
 
 car: emploi de la première personne (sans raconter qqchose), texte au présent d'énonciation.
 
 L'emploi de la première personne montre l'implication personnelle de l'auteur sans pour autant raconter une expérience spécifique. L'argumentation est exprimée au présent d'énonciation.
+
+* Emploi de la 1^ère^ personne: "je"
+* Schéma: Thèse, arguments...
+* Emploi du présent d'énonciation: "je travaille", "obnubile"
+* Vocabulaire péjoratif: "trahisons", "m'épouvantent", "exploitation"
+* Vocabulaire de l'opinion: "Voila pourquoi", "il semble", "hel", "devrait être", "trop souvent, toujours"
+
 ### Texte 3
+L'automne s'obstine au flanc des coteaux. Du maïs, des oiseaux s'envolent. Des feux s'allument dans les jardins. Il en monte de hautes fumées. L'air sent le céleri, les fanes de pommes de terre. La campagne est calme et muette. ON voit au loin, contre le ciel, sur les collines, le contour de quelque village.
 
-
-descriptif
+descriptif +1
 
 car: observateur neutre, emploi du présent
 
 Le texte adopte un point de vue d'observateur neutre et emploie le présent.
 ### Texte 4
+Au cours des vingt dernières années, le second rang des activités de loisir revient, si l'on en croit l'INSEE, aux sorties: "Inviter des parents ou des amis pour un repas au moins une fois par mois" se classe après l'indélogeable télé avec 64% de suffrages et une augmentation de 25 points. "Sortir le soir au moins une fois par mois" réalise aussi un bon score à 48% et gagne pratiquement un point par an
+
 explicatif
 
 car: pas de narrateur, présent de vérité générale, 
 
-Le texte est explicatif car il n'y à pas de narratteur, et qu'il est au présent de vérité générale.
+Le texte est explicatif car il n'y à pas de narrateur, et qu'il est au présent de vérité générale.

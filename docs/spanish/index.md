@@ -167,15 +167,15 @@ _ tropas _ soldados _ notas _ historia
 
 3. Es un colegio, hay latín, francés, english. Se ajusta a la legislación francesa y ofrecemos viajes y clubes geniales.
 
-|                          | Grupo 1             | Grupo 2 |            Grupo 3            | Grupo 4 |
-|:-------------------------|---------------------|---------|:-----------------------------:|---------|
-| Tema                     | Camino a la escuela |         |                               |         |
-| País                     |                     |         |           Guatemala           |         |
-| Lugar preciso            |                     |         |           La selva            |         |
-| Medio de transporte      |                     |         |             andor             |         |
-| Camino                   |                     |         |         en fila india         |         |
-| Dificultades encontradas |                     |         | condition climatica, animales |         |
-| Duración del camino      |                     |         |               ?               |         |
+|                          |       Grupo 1       |                            Grupo 2                             |                  Grupo 3                    |                 Grupo 4                 |
+|:-------------------------|:-------------------:|:--------------------------------------------------------------:|:-------------------------------------------:|:---------------------------------------:|
+| Tema                     | Camino a la escuela |                               -                                |                      -                      |                    -                    |
+| País                     |      Colombia       |              Frontera entre Venezuela y Columbia               |                  Guatemala                  |                  Peru                   |
+| Lugar preciso            |      montanas       |                             un rio                             |                  La selva                   |                 un lago                 |
+| Medio de transporte      |      tirolina       |                      un puente de piedras                      |                   andando                   |              tina de lavar              |
+| Camino                   |      peligroso      |                            difícil                             |                en fila india                |                 difícil                 |
+| Dificultades encontradas |   ahorgarse, caer   | se pueden caer en el agua, ahorgarse, danarse con las piedras  | animales salvajes, perderse, estar cansados |  se pueden ahogar, resfriarse, mojarse  |
+| Duración del camino      |     30 minutos      |                           25 minutos                           |                    1H00                     |                  1H30                   |
 
 Para presntar vuestro trabajo oralmente: 
 
@@ -184,6 +184,27 @@ Las personas del video son _ (personas).
 Para ir a la escuela, ellos van en _ (medio de transporte).
 El camino es _ (camino). La duracion del camino es de _ (duracion del camino). Las personas _ (caracter : ser + adjectif) porque encuentran muchas dificultades como:
 
+
+| Texte                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Image |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----:|
+| Más de 30 niños en compañía de sus padres y representantes deben cruzar un río de unos 10 metros de ancho o caminar más de dos kilómetros por un costado de la autopista San Cristóbal – La Fría, ante la falta de un transporte que los lleve a sus escuelas y los regrese a sus hogares. [lien](https://www.lapatilla.com/2022/04/07/cruzando-el-rio-o-la-autopista-la-odisea-de-los-ninos-en-tachira-para-no-faltar-a-sus-escuelas-video/)                                                                                                                                                                                                                                                                                                                                      |   C   |
+| Varias generaciones de cubanos han llevado blusas y sayas, camisas, shores y pantalones con colores y diseños según el tipo de enseñanza, como parte de su uniforme escolar. Y lo han hecho suyos hasta nuestros días. […] Destacaron que su uso, además, es un gran ahorro para cada familia, fomenta la igualdad, mantiene la disciplina escolar y estimula hábitos de cuidado de la apariencia personal. Se trata de prendas que, a pesar de las limitaciones económicas, el Gobierno cubano garantiza. [lien](http://www.cubadebate.cu/especiales/2021/09/27/como-seran-los-nuevos-uniformes-escolares-en-cuba/)                                                                                                                                                               |   D   |
+| A seis grados de temperatura, los niños navegan alrededor de dos horas en bateas para lavar ropa: Dos niños son protagonistas de una conmovedora e increíble historia. Alfredo y Hugo, quienes tienen 9 años, exponen sus vidas al cruzar el Lago Titicaca en bateas para lavar ropa con el único fin de llegar al colegio. Los niños colocan en la base de la batea sus útiles escolares junto a una colcha y casacas para no sentir mucho frío, que al parecer, no les afecta tanto. El recorrido de dos kilómetros termina cuando ambos llegan a la isla donde está su colegio. El cansancio se apodera de ellos y algunas veces llegan con sus cuadernos mojados y lo ponen al sol para que sequen. [lien](https://www.educacionenred.pe/noticia/?portada=84572#ixzz8B7jw08pI) |   A   |
+| Carlos Yáñez, de 13 años, lleva desde los seis yendo al colegio montado en su caballo Chiverito. Todas las mañanas se levanta a las 6.00 horas y recorre 18 kilómetros de la Patagonia argentina, con su hermana Mica detrás, hasta que llegan a la escuela más cercana. Su casa está en mitad de la nada. No tienen electricidad ni agua corriente. [lien](https://www.elmundo.es/espana/2015/01/14/54b5987eca474186108b4574.html)                                                                                                                                                                                                                                                                                                                                                |   F   |
+| Los niños de ahora se quejan porque tienen que ir en autobús al cole, o montar en el coche de un compañero, para ahorrar gasolina. Pero en la localidad de Acacias, en Colombia, niños de 7 u 8 años tienen que bajar un barranco de casi 300 metros de altura, y colgar casi 500 metros en el aire sujetos solo por una simple polea y una cuerda. Lo hacen todos los días, para ir al colegio. [lien](https://computerhoy.com/noticias/life/colombia-ninos-cruzar-barranco-200-metros-altura-tirolina-escuela-955165)                                                                                                                                                                                                                                                            |   B   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   E   |
+
+En algunas zonas de america latina, algunos alumnos **van** al colegio en condiciones particulares.
+**Pueden** encontrar dificultes en su camino como rios, selava, lago.
+**Utilizan** puentes de piedras, tirolina, tina de lavar.
+
+### Proyecto de secuencia 1
+
+_El ayuntamiento de tu ciudad os ha elegido para presentar el proyecto de construcción de un nuevo cole innovador en América latina. Con 1 o 2 de tus compañeros, presentad oralmente sus particularidades apoyándoos en una maqueta construida antes o en una presentación virtual._
+
+
+
+[Project de séquence](../assets/noscans/spanish/projetdessequence1.docx)
 
 ## Annexes
 

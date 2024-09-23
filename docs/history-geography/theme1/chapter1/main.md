@@ -262,6 +262,7 @@ mindmap
             (Souffrances des civils)
                 Pénurie de produits alimentaires
                 Deuil des soldats pour les familles
+                    9 millions de morts
                 Réquisition de produits allimentaires dans les zones occupées
                 Bombardements
                 Travail forcé dans les régions occupées
@@ -293,5 +294,5 @@ mindmap
                     A Pétrograd
                     Le Gouvernement provisoire ne répond pas au attentes
                     Coup d#39;état
-                    La russie devient commmuniste
+                    Abolition de la propriété foncière, entamer des pourparlers pour la paix, mise en place d'un gouvernement d’ouvriers et de paysans, censure de la presse
 ```

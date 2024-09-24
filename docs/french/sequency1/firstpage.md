@@ -2,10 +2,31 @@
 # Séquence 1
 ## Savoir lire un texte:
 
-^^Texte d'étude^^: ["Une gourmandise"](../../assets/scans/une-gourmandise-francais.png) de [Muriel Barbery](https://en.wikipedia.org/wiki/Muriel_Barbery). 
+^^Texte d'étude^^: ["Une gourmandise"](../../assets/scans/une-gourmandise-francais.png) de [Muriel Barbery](https://en.wikipedia.org/wiki/Muriel_Barbery).
+
+??? abstract "Texte"
+
+	## Une gourmandise
+
+	La cuisine de ma grand-mère m'avait accoutumé à une atmosphère bruyante et enfiévrée où, dans le tintamarre des casseroles, le chuintement du beurre et le clac-clac des couteaux se démenait une virago en transe à laquelle seule sa longue expérience conférait une aura de sérénité - de celles que conservent les martyrs dans les flammes de l'enfer. Jacques, lui, accomplissait toutes choses avec mesure. Il ne se pressait pas, mais point de lenteur non plus. Chaque geste venait en son temps.
+
+	Il rinça soigneusement le riz thaïlandais dans une petite passoire argentée, l'égoutta, le versa dans la casserole, le recouvrit d'un volume et demi d'eau saléee, couvrit, laissa cuire. Les crevettes gisaient dans le bol de faïence. Tout en conversant avec moi, essentiellement de mon article et de mes projets, il les décortiqua avec une méticulosité concentrée. Pas un instant il n'accéléra la cadence, pas un instant il ne la ralentit. La dernière petite arabesque dépouillée de sa gangue protectrice, il se lava consciencieusement les mains, avec un savon qui sentait le lait. Avec la même uniformité sereine, il plaça une sauteuse en fonte sur le feu, y versa un filet d'huile d’olive, l'y laissa chauffer, y jeta en pluie les crevettes dénudées. Adroitement, la spatule en bois les circonvenait, ne laissant aux menus croissants aucune échappatoire, les saisissant de tous côtés, les faisant valser sur le grill odorant. Puis du curry. Ni trop ni trop peu. Une poussière sensuelle embellissant de son or exotique le cuivre rosé des crustacés: l'Orient réinventé. Sel, poivre, Il égrena aux ciseaux une branche de coriandre au-dessus de la poêlée. Enfin, rapidement, un bouchon de cognac, une allumette; du récipient jaillit une longue flamme hargneuse; comme un appel on ou cri qu'on libère enfin, soupir déchaîné qui s'éteint aussi vite qu'il s'est élevé.
+
+	Sur la table de marbre patientaient une assiette de porcelaine, un verre de cristal, une argenterie superbe et une serviette de lin brodé. Dans l'assiette, il disposa soigneusement, à la cuillère en bois, la moitié des crevettes, le riz auparavant tassé dans un minuscule bol et retourné en une petite coupole joufflue surmontée d'une feuille de menthe. Dans le verre, il se versa généreusement d'un liquide de blé transparent. 
+
+	" Je te sers un verre de sancerre ? "
+	
+	Je fis non de la tête. Il s'attabla.
+
+	Un repas sur le pouce. C'était ce que Jacques Destrères appelait un repas sur le pouce. Et je savais qu'il ne plaisantait pas, que chaque jour il se mitonnait ainsi une petite bouchées de paradis, ignorant du raffinement de son ordinaire, vrai gourmet, réel esthète dans l'absence de mise en scène qui caractérisait son quotidien. Je le regardais manger, sans toucher moi-même au mets qu'il avait préparé sous mes yeux, manger avec le même soin détaché et subtil qu'il avait mis à cuisine et ce repas que je ne goûtai pas demeura l'un des meilleurs de ma vie.
+
+	Déguster est un acte de plaisir, écrire ce plaisir est un fait artistique mais la seule vrai œuvre d'art, en définitive, c'est le festin de l'autre
+
+	**Muriel Barbery**, *Une gourmandise*, 2000 © Ed. Gallimard
+
 
 ### 1) ^^Étape 1^^:
-Avant de lire un texte, il faut l'observer car des renseignements nous sont donnés par l'étude: 
+Avant de lire un texte, il faut l'observer car des renseignements nous sont donnés par l'étude:
 
 ??? abstract inline end "Définition"
 
@@ -13,21 +34,21 @@ Avant de lire un texte, il faut l'observer car des renseignements nous sont donn
 
 - du **PARATEXTE**
 - du **TITRE**: Le titre, quand il y en à un, permet d'éclairer le sens d'un texte, d'en connaître le thème (le sujet)
-??? abstract inline end "Définition"
+  ??? abstract inline end "Définition"
 
-	**Mise en page**:  La disposition du texte sur la page
-	
-	- Paragraphes: roman
-	- Retours à la ligne: poésie
-	- Noms des personnages: théâtre
-	- Colonnes: articles de presse
-	- BD: planches
+  **Mise en page**:  La disposition du texte sur la page
+
+    - Paragraphes: roman
+    - Retours à la ligne: poésie
+    - Noms des personnages: théâtre
+    - Colonnes: articles de presse
+    - BD: planches
 - de la **MISE EN PAGE**
 
 
 La lecture du paratexte et l'observation de la mise en page permettent d'émettre des hypothèses sur la nature du document que l'on à sous les yeux et le genre littéraire auquel il appartient.
 
-Seule une lecture attentive permet de confirmer ou de démentir ces hypothèses. 
+Seule une lecture attentive permet de confirmer ou de démentir ces hypothèses.
 
 ```mermaid
 mindmap
@@ -65,29 +86,9 @@ mindmap
 
 
 
-!!! tip 
+!!! tip
 
 	Création de mot: **néologisme**
-
-??? abstract "Texte"
-
-	## Une gourmandise
-
-	La cuisine de ma grand-mère m'avait accoutumé à une atmosphère bruyante et enfiévrée où, dans le tintamarre des casseroles, le chuintement du beurre et le clac-clac des couteaux se démenait une virago en transe à laquelle seule sa longue expérience conférait une aura de sérénité - de celles que conservent les martyrs dans les flammes de l'enfer. Jacques, lui, accomplissait toutes choses avec mesure. Il ne se pressait pas, mais point de lenteur non plus. Chaque geste venait en son temps.
-
-	Il rinça soigneusement le riz thaïlandais dans une petite passoire argentée, l'égoutta, le versa dans la casserole, le recouvrit d'un volume et demi d'eau saléee, couvrit, laissa cuire. Les crevettes gisaient dans le bol de faïence. Tout en conversant avec moi, essentiellement de mon article et de mes projets, il les décortiqua avec une méticulosité concentrée. Pas un instant il n'accéléra la cadence, pas un instant il ne la ralentit. La dernière petite arabesque dépouillée de sa gangue protectrice, il se lava consciencieusement les mains, avec un savon qui sentait le lait. Avec la même uniformité sereine, il plaça une sauteuse en fonte sur le feu, y versa un filet d'huile d’olive, l'y laissa chauffer, y jeta en pluie les crevettes dénudées. Adroitement, la spatule en bois les circonvenait, ne laissant aux menus croissants aucune échappatoire, les saisissant de tous côtés, les faisant valser sur le grill odorant. Puis du curry. Ni trop ni trop peu. Une poussière sensuelle embellissant de son or exotique le cuivre rosé des crustacés: l'Orient réinventé. Sel, poivre, Il égrena aux ciseaux une branche de coriandre au-dessus de la poêlée. Enfin, rapidement, un bouchon de cognac, une allumette; du récipient jaillit une longue flamme hargneuse; comme un appel on ou cri qu'on libère enfin, soupir déchaîné qui s'éteint aussi vite qu'il s'est élevé.
-
-	Sur la table de marbre patientaient une assiette de porcelaine, un verre de cristal, une argenterie superbe et une serviette de lin brodé. Dans l'assiette, il disposa soigneusement, à la cuillère en bois, la moitié des crevettes, le riz auparavant tassé dans un minuscule bol et retourné en une petite coupole joufflue surmontée d'une feuille de menthe. Dans le verre, il se versa généreusement d'un liquide de blé transparent. 
-
-	" Je te sers un verre de sancerre ? "
-	
-	Je fis non de la tête. Il s'attabla.
-
-	Un repas sur le pouce. C'était ce que Jacques Destrères appelait un repas sur le pouce. Et je savais qu'il ne plaisantait pas, que chaque jour il se mitonnait ainsi une petite bouchées de paradis, ignorant du raffinement de son ordinaire, vrai gourmet, réel esthète dans l'absence de mise en scène qui caractérisait son quotidien. Je le regardais manger, sans toucher moi-même au mets qu'il avait préparé sous mes yeux, manger avec le même soin détaché et subtil qu'il avait mis à cuisine et ce repas que je ne goûtai pas demeura l'un des meilleurs de ma vie.
-
-	Déguster est un acte de plaisir, écrire ce plaisir est un fait artistique mais la seule vrai œuvre d'art, en définitive, c'est le festin de l'autre
-
-	**Muriel Barbery**, *Une gourmandise*, 2000 © Ed. Gallimard
 
 Roman=genre narratif
 + Nouvelle, conte
@@ -100,7 +101,7 @@ Roman policier: Sherlock Holmes, Agatha Christie, Ils étaient dix, Arsène Lupi
 
 points de vues interne, externe, omniscient
 
-théâtre: Molière 17ème (les femmes savantes, le malade imaginaire, l'avare, le médecin malgré lui, les fourberies de scapin), Racine, Phèdre 
+théâtre: Molière 17ème (les femmes savantes, le malade imaginaire, l'avare, le médecin malgré lui, les fourberies de scapin), Racine, Phèdre
 
 
 
@@ -117,16 +118,16 @@ https://www.larousse.fr/dictionnaires/francais/{mot}
 
 * le **VOCABULAIRE**
 
-à chercher: 
-[aura](https://www.larousse.fr/dictionnaires/francais/aura) (définiton 3), 
-[martyr](https://www.larousse.fr/dictionnaires/francais/martyr) (définition 2), 
-[gisaient](https://www.larousse.fr/dictionnaires/francais/gisaient) (définition 1), 
-[arabesque](https://www.larousse.fr/dictionnaires/francais/arabesque) (définition 2), 
-[gangue](#), 
+à chercher:
+[aura](https://www.larousse.fr/dictionnaires/francais/aura) (définiton 3),
+[martyr](https://www.larousse.fr/dictionnaires/francais/martyr) (définition 2),
+[gisaient](https://www.larousse.fr/dictionnaires/francais/gisaient) (définition 1),
+[arabesque](https://www.larousse.fr/dictionnaires/francais/arabesque) (définition 2),
+[gangue](#),
 [circonvenait](#) ,
-[sensuelle](#), 
-[hargneux](https://www.larousse.fr/dictionnaires/francais/hargneux) (définition 1), 
-[gourmet](https://www.larousse.fr/dictionnaires/francais/gourmet) (définition 1), 
+[sensuelle](#),
+[hargneux](https://www.larousse.fr/dictionnaires/francais/hargneux) (définition 1),
+[gourmet](https://www.larousse.fr/dictionnaires/francais/gourmet) (définition 1),
 [subtile](https://www.larousse.fr/dictionnaires/francais/subtile)
 
 ??? tip   "Conversant"
@@ -183,7 +184,7 @@ Ce jour-là, à Paris, le temps était magnifique, mais on leur avait annoncé q
 
 * le **TYPE DE TEXTE** (cf. Fiche prof n°4)
 
-sl DN-Exemples; DN-[TEmps dominants de référence]; DN-[Vocabulaire et outils grammaticaux]; DE-[cn logique, scientifique, ttn imp]; DA-1; DA-3[Engaged/jenous]; DA-5; 
+sl DN-Exemples; DN-[TEmps dominants de référence]; DN-[Vocabulaire et outils grammaticaux]; DE-[cn logique, scientifique, ttn imp]; DA-1; DA-3[Engaged/jenous]; DA-5;
 
 Schéma narratif
 
@@ -213,4 +214,23 @@ Le chien noir de mon voisin joue à la balle
 - Proposition subordonnée relative
 
 Le chien noir de mon voisin, qui à un collier, joue à la balle.
+
+### 3) Etape 3: étude des champs lexicaux pour confirmer l'idée du texte
+
+??? abstract "Champ lexical"
+
+    Ensemble de mots se rapportant à un même thème
+
+Relevez dans le texte les deux champs lexicaux dominants.
+
+| Champ lexical de la cuisine. | Champ lexical des aliments |
+|:----------------------------:|:--------------------------:|
+|          casseroles          |           beurre           |
+|           couteaux           |      riz thaîlandais       |
+|           passoire           |         crevettes          |
+|          casserole           |            lait            |
+|            cuire             |                            |
+|             bol              |                            |
+|                              |                            |
+|                              |                            |
 

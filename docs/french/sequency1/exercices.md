@@ -76,6 +76,8 @@ descriptif +1
 car: observateur neutre, emploi du présent
 
 Le texte adopte un point de vue d'observateur neutre et emploie le présent.
+
+
 ### Texte 4
 Au cours des vingt dernières années, le second rang des activités de loisir revient, si l'on en croit l'INSEE, aux sorties: "Inviter des parents ou des amis pour un repas au moins une fois par mois" se classe après l'indélogeable télé avec 64% de suffrages et une augmentation de 25 points. "Sortir le soir au moins une fois par mois" réalise aussi un bon score à 48% et gagne pratiquement un point par an
 
@@ -84,3 +86,4 @@ explicatif
 car: pas de narrateur, présent de vérité générale, 
 
 Le texte est explicatif car il n'y à pas de narrateur, et qu'il est au présent de vérité générale.
+

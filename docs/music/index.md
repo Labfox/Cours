@@ -1,4 +1,6 @@
 # Musique
+## Quel rapport la musique entretient-elle avec les images ?
+
 
 1) Caractre
 2) Instruments
@@ -55,4 +57,5 @@ La Bande-son est constitué de :
 
 - La musique : elle peut être originale, composée spécifiquement pour le film, ou préexistante, choisie pour accompagner certaines scènes.
 - Les dialogues : les voix des acteurs, que ce soit lors du tournage ou des enregistrements en post-production (doublages, voix-off).
-- Les effets sonores : tous les bruits d’ambiance, bruitages, sons d’objets, de mouvements, etc., qui sont ajoutés pour donner plus de réalisme ou de sens aux scènes.
+- Les effets sonores : tous les bruits d’ambiance, bruitages, sons d’objets, de mouvements, etc. qui sont ajoutés pour donner plus de réalisme ou de sens aux scènes.
+

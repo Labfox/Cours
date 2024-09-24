@@ -156,8 +156,28 @@ Première oui, deuxième non
 
 1.
 
-| $x$    | $-3$ | $-2$ | $-1$ | $0$ | $1$ | $2$ | $3$  |
-|--------|------|------|------|-----|-----|-----|------|
+|  $x$   | $-3$ | $-2$ | $-1$ | $0$ | $1$ | $2$ | $3$  |
+|:------:|:----:|:----:|:----:|:---:|:---:|:---:|:----:|
 | $f(x)$ | $−4$ | $1$  | $4$  | $5$ | $4$ | $1$ | $-4$ |
 
 ![](../../assets/noscans/maths/maths-chapter1-graphique2.png)
+
+## Exercice 30 p.127
+
+1. L'image de $2$ par la fonction $f$ est $4$
+2. L'antécédent de $0$ par la fonction $f$ est $-6$
+3. La valeur de $f(0)$ est $-3$, la valeur de $f(-2)$ est $2$, la valeur de $f(-6)$ est $0$.
+
+## Exercice 31 p.127
+
+Oui 
+
+## Exercice 32 p.127 
+
+1. L'image de $-1$ est $0$
+2. un antécédent de $2$ est $-2$
+3. $2$
+4. Des antécédents de $1$ sont $-3$, $2,5$, $-6,25$
+5. Il n'y à pas de nombre qui à pour image $3$.
+6. Un nombre qui à pour antécédent 2 est $-2$
+7. Une solution de l'équation $f(x)=0$ est $-1$

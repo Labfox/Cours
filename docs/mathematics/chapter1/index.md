@@ -75,9 +75,9 @@ On peut obtenir un tableau de valeurs:
 
 Ce tableau définit une fonction $g$ qui, à chaque nombre $x$ de la première ligne, associe un nombre $g(x)$ de la deuxième ligne. 
 
-| Nombre $x$ | $0$ | $1$ | $2$ | $3$ | $4$ | $5$ |
-|---|---|---|---|---|---|---|
-| Image $g(x)$ | $-5$ | $-3$ | $0$ | $5,2$ | $0$ | $7$ | 
+| Nombre $x$   | $0$  | $1$  | $2$ | $3$   | $4$  | $5$ |
+|--------------|------|------|-----|-------|------|-----|
+| Image $g(x)$ | $-5$ | $-3$ | $0$ | $5,2$ | $0$  | $7$ | 
 
 ### C) Une courbe
 
@@ -91,3 +91,4 @@ Par exemple, on peut lire que
 * $f(3) = 2$
 * $1$ a trois antécédents: $-1;0$ et $2$.
 * L'image de $-1.5$ par la fonction $f$ est $-0.5$
+

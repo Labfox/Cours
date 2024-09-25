@@ -72,5 +72,26 @@ Exemple :
 
 ## III) Le tableau périodique et l'atome
 
+Les atomes les plus légers ont été formés lors des premiers temps qui ont suivi le big
+bang (H, He) les plus lourds se sont formés au cœur des étoiles par des réactions de
+fusion nucléaire (C, O,N,…)
 
+Pour répertorier les différents atomes, le chimiste Dimitri Mendeleïev a mis au point un
+outil appelé **tableau périodique des éléments**. Créé en 1869, il est encore utilisé de nos
+jours.
+
+![](https://api.qrserver.com/v1/create-qr-code/?data=https://www.cea.fr/multimedia/Pages/videos/culture-scientifique/physique-chimie/tableau-Mendeleiv-ex&size=160x160&margin=10)
+
+Il évolue sans cesse car on ignore le nombre d’atomes qui peuvent exister. Les
+nouveaux atomes sont ajoutés au tableau périodique au fur et à mesure des
+découvertes.
+
+
+**^^Conclusion :^^**
+
+Chaque atome est caractérisé par un numéro atomique Z et un nombre de nucléon A
+inscrits dans le tableau périodique des éléments.
+
+**La structure de l’atome est dite lacunaire** c’est-à-dire qu’entre le noyau et le nuage
+d’électrons il y a du vide (absence de matière).
 

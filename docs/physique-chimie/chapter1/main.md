@@ -117,12 +117,17 @@ Horizontal :
 2. N; Nitrogen
 3. O; Oxygène
 
+## Exercice n°3
+
+1. 
+
 ## Exercice n°4
 
-1. Des atomes de carbone, d'hydrogène et d'oxygène
+1. Des atomes de carbone, d'hydrogène et d'oxygène, de fer, de carbone, et de calcium 
 2. 2 de carbone, 6 d'hydrogène, 1 d'oxygène
 3. 6 pour le carbonne, 1 pour l'hydrogène, 8 pour l'oxygène
 4. Autant que de protons
 5. (2*6)+6+8 = 26. Il y à donc 26 électrons dans la molécule d'éthanol
 
 [Activité 3](../../assets/noscans/chimie/chapter1-activity3.pdf)
+

@@ -9,7 +9,7 @@ Un modèle est une représentation qui permet d’expliquer un phénomène (Acti
 
 **Un atome est un élément indivisible constitutif de la matière. Il est constitué d'un noyau et d'électrons qui tournent autour du noyau. Un atome est électriquement neutre.**
 
-## I) Le noyau
+## I) Le noyau
 
 **Selon les représentations actuelles, le noyau d’un atome a une forme sphérique et occupe une place centrale dans l’atome.**
 
@@ -24,8 +24,8 @@ On peut comparer l’atome à un terrain de football et le noyau à une abeille 
 
 **Le noyau possède donc une charge électrique apportée par les protons: il est chargé positivement.**
 
-Il est donc possible de connaître le nombre de neutrons : nombre de neutrons (N)=
-nombre de nucléons (A) – nombre de protons (Z) ($N=A-Z$)
+Il est donc possible de connaître le nombre de neutrons : nombre de neutrons ($N$)=
+nombre de nucléons ($A$) – nombre de protons ($Z$) ($N=A-Z$)
 
 Attention on peut trouver la représentation symbolique d’un atome sous la forme : $^{A}{_{Z}}X$
 

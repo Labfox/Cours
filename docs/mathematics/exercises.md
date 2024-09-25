@@ -181,3 +181,9 @@ Oui
 5. Il n'y à pas de nombre qui à pour image $3$.
 6. Un nombre qui à pour antécédent 2 est $-2$
 7. Une solution de l'équation $f(x)=0$ est $-1$
+
+## Exercice 33 p.127
+
+1. C
+2. A
+3. B

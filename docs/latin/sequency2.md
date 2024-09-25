@@ -50,12 +50,12 @@ On reconnaît une déclinaison à son génitif singulier
 #### Decl 2 neutre (avec Forum, I, N)
 
 |           | Singulier | Pluriel |
-|-----------|-----------|:-------:|
+|:----------|:---------:|:-------:|
 | Nominatif |    UM     |    A    |
 | Vocatif   |    UM     |    A    |
 | Accusatif |    UM     |    A    |
 | Génitif   |     I     |  ORUM   |
 | Datif     |     O     |   IS    |
-| Ablatif   |    O      |   IS    |
+| Ablatif   |     O     |   IS    |
 
 Apprendre déclinaisons pour jeudi

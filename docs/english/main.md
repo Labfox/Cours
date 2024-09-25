@@ -143,14 +143,4 @@ where what when who how how long
 
 One week at miami
 
-- Noe: Where did you go
-- Nolan: I went to Miami, where were you ?
-- Noe: I was at London
-- Nolan: It's so bad
-- Adam: I hope the force was with you. 
-- Noe: Nah, that was cool. With you were you in Miami ?
-- Adam: I went to Miami with Nolan's oncle and mom.
-- Nolan: What activities did you do
-- Noe: I visited a the British museum
-- Adam: Oh my god, your vacation was so depressing
-- Noe: Stop talking about that! 
+Anecdote I've saw 

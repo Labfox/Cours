@@ -34,9 +34,9 @@ Avant de lire un texte, il faut l'observer car des renseignements nous sont donn
 
 - du **PARATEXTE**
 - du **TITRE**: Le titre, quand il y en à un, permet d'éclairer le sens d'un texte, d'en connaître le thème (le sujet)
-  ??? abstract inline end "Définition"
+??? abstract inline end "Définition"
 
-  **Mise en page**:  La disposition du texte sur la page
+    **Mise en page**:  La disposition du texte sur la page
 
     - Paragraphes: roman
     - Retours à la ligne: poésie
@@ -223,14 +223,22 @@ Le chien noir de mon voisin, qui à un collier, joue à la balle.
 
 Relevez dans le texte les deux champs lexicaux dominants.
 
-| Champ lexical de la cuisine. | Champ lexical des aliments |
-|:----------------------------:|:--------------------------:|
-|          casseroles          |           beurre           |
-|           couteaux           |      riz thaîlandais       |
-|           passoire           |         crevettes          |
-|          casserole           |            lait            |
-|            cuire             |                            |
-|             bol              |                            |
-|                              |                            |
-|                              |                            |
+| Champ lexical des ustensiles. | Champ lexical des ingrédients | Champ lexical de  | Champ lexical de _ |
+|:-----------------------------:|:-----------------------------:|:-----------------:|:------------------:|
+|       casseroles (l. 2)       |         beurre (l.2)          |                   |                    |
+|        couteaux (l. 3)        |    riz thaîlandais (l. 8)     |                   |                    |
+|        passoire (l. 8)        |       crevettes (l. 10)       |                   |                    |
+|       casserole (l. 9)        |         curry (l. 19)         |                   |                    |
+|    bol de faïence (l. 10)     |      sel, poivre (l. 21)      |                   |                    |
+| saauteuse en fonte (l. 15-16) |       coriandre (l.21)        |                   |                    |
+|    spatule en bois (l. 17)    |   feuille de menthe (l. 29)   |                   |                    |
+|         grill (l. 19)         |     huile d'olive (l. 16)     |                   |                    |
+|        ciseaux (l. 21)        |        cognac (l. 22)         |                   |                    |
+|      récipient (l.  22)       |                               |                   |                    |
+|     assiette (l. 25, 26)      |                               |                   |                    |
+|      argenterie (l. 26)       |                               |                   |                    |
+|   cuillère en bois (l. 27)    |                               |                   |                    |
+|     minuscule bol (l. 28)     |                               |                   |                    |
+|  verre (l. 25, l. 29, l. 31)  |                               |                   |                    |
+
 

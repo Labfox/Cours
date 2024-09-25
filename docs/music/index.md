@@ -59,3 +59,12 @@ La Bande-son est constitué de :
 - Les dialogues : les voix des acteurs, que ce soit lors du tournage ou des enregistrements en post-production (doublages, voix-off).
 - Les effets sonores : tous les bruits d’ambiance, bruitages, sons d’objets, de mouvements, etc. qui sont ajoutés pour donner plus de réalisme ou de sens aux scènes.
 
+??? question "Rondo"
+
+    Chanson qui s'organise en une alternance refrain-couplet.
+
+### Analyse filmique "La Vie est Belle", R.Benigni, 1998
+
+| Images   | Bande son                       |
+|----------|---------------------------------|
+| Scenario | Bruitages, dialogues, musique   |

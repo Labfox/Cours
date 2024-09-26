@@ -126,7 +126,7 @@ where what when who how how long
 4
 
 1. How did you go to Miami ?
-2. When was the last time your sister readed ?
+2. When was the last time your sister read ?
 3. When was the last time you went to cinema ?
 4. Who did you play tennis with ?
 5. How long James watched the TV for ?
@@ -143,4 +143,36 @@ where what when who how how long
 
 One week at miami
 
-Anecdote I've saw 
+|            | Le sujet ressent une émotion | Le sujet provoque une émotion |
+|:-----------|:----------------------------:|:-----------------------------:|
+| Interest   |         interressed          |          interesting          |
+| Excite     |           excited            |           exciting            |
+| Amaze      |            amazed            |            amazing            |
+| Fascinate  |          fascinated          |          fascinating          |
+| Bore       |            bored             |            boring             |
+| Terrify    |          terrified           |          terrifying           |
+| Disappoint |         disappointed         |         disappointing         |
+
+| Positive adjectives | Negative adjectives |
+|:-------------------:|:-------------------:|
+|      exciting       |     nightmarish     |
+|      peaceful       |    catastrophic     |
+|     incredible      |       strange       |
+|       amazing       |    uninteresting    |
+|        quiet        |        weird        |
+|      terrific       |        dull         |
+|      relaxing       |         odd         |
+|      wonderful      |       boring        |
+|      fabulous       |     disastrous      |
+|       awesome       |        awful        |
+
+😁: The view in the Pyrénées was fabulous and incredible.
+
+😠: The internet in the mountains was nightmarish and dull.
+
+👽: It was weird when I had to learn golang on the fly, and the experience was quite odd (well, as the language).
+
+🀧: Hiking in the Pyrénées was peaceful and relaxing.
+
+🥱: 2 weeks next to the beach were boring and uninteresting.
+

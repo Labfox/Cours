@@ -34,10 +34,10 @@ Avant de lire un texte, il faut l'observer car des renseignements nous sont donn
 
 - du **PARATEXTE**
 - du **TITRE**: Le titre, quand il y en à un, permet d'éclairer le sens d'un texte, d'en connaître le thème (le sujet)
-??? abstract inline end "Définition"
-
-    **Mise en page**:  La disposition du texte sur la page
-
+  ??? abstract inline end "Définition"
+  
+  **Mise en page**:  La disposition du texte sur la page
+    
     - Paragraphes: roman
     - Retours à la ligne: poésie
     - Noms des personnages: théâtre
@@ -223,22 +223,44 @@ Le chien noir de mon voisin, qui à un collier, joue à la balle.
 
 Relevez dans le texte les deux champs lexicaux dominants.
 
-| Champ lexical des ustensiles. | Champ lexical des ingrédients | Champ lexical de  | Champ lexical de _ |
-|:-----------------------------:|:-----------------------------:|:-----------------:|:------------------:|
-|       casseroles (l. 2)       |         beurre (l.2)          |                   |                    |
-|        couteaux (l. 3)        |    riz thaîlandais (l. 8)     |                   |                    |
-|        passoire (l. 8)        |       crevettes (l. 10)       |                   |                    |
-|       casserole (l. 9)        |         curry (l. 19)         |                   |                    |
-|    bol de faïence (l. 10)     |      sel, poivre (l. 21)      |                   |                    |
-| saauteuse en fonte (l. 15-16) |       coriandre (l.21)        |                   |                    |
-|    spatule en bois (l. 17)    |   feuille de menthe (l. 29)   |                   |                    |
-|         grill (l. 19)         |     huile d'olive (l. 16)     |                   |                    |
-|        ciseaux (l. 21)        |        cognac (l. 22)         |                   |                    |
-|      récipient (l.  22)       |                               |                   |                    |
-|     assiette (l. 25, 26)      |                               |                   |                    |
-|      argenterie (l. 26)       |                               |                   |                    |
-|   cuillère en bois (l. 27)    |                               |                   |                    |
-|     minuscule bol (l. 28)     |                               |                   |                    |
-|  verre (l. 25, l. 29, l. 31)  |                               |                   |                    |
+| Champ lexical des ustensiles. | Champ lexical des ingrédients |   Champ lexical de la minutie   | Champ lexical de l'élegance |
+|:-----------------------------:|:-----------------------------:|:-------------------------------:|:---------------------------:|
+|       casseroles (l. 2)       |         beurre (l.2)          |       avec mesure (l. 6)        |     raffinement (l. 35)     |
+|        couteaux (l. 3)        |    riz thaîlandais (l. 8)     |  soigneusement (l.8), (l. 27)   |     porcelaine (l. 25)      |
+|        passoire (l. 8)        |       crevettes (l. 10)       |      méticulosité (l. 12)       |       faïence (l. 10)       |
+|       casserole (l. 9)        |         curry (l. 19)         |    conscienseuement (l. 14)     |      lin brodé (l. 26)      |
+|    bol de faïence (l. 10)     |      sel, poivre (l. 21)      |       adroitement (l. 17)       |       cristal (l. 26)       |
+| sauteuse en fonte (l. 15-16)  |       coriandre (l.21)        | soin détaché et subtile (l. 37) |        fonte (l. 16)        |
+|    spatule en bois (l. 17)    |   feuille de menthe (l. 29)   |       rapidement (l. 22)        |    bois (l. 17), (l. 27)    |
+|         grill (l. 19)         |     huile d'olive (l. 16)     |                                 |       marbre (l. 25)        |
+|        ciseaux (l. 21)        |        cognac (l. 22)         |                                 |     argenterie (l. 16)      |
+|      récipient (l.  22)       |                               |                                 |                             |
+|     assiette (l. 25, 26)      |                               |                                 |                             |
+|      argenterie (l. 26)       |                               |                                 |                             |
+|   cuillère en bois (l. 27)    |                               |                                 |                             |
+|     minuscule bol (l. 28)     |                               |                                 |                             |
+|  verre (l. 25, l. 29, l. 31)  |                               |                                 |                             |
 
 
+### 4) Etape 4: Repèrage des procédés d'écriture: les figures de style
+
+??? info "Figure de style"
+
+    Les figures de style s'écartent de l'usage ordinaire de la langue et transforme la réalité quotidienne en la rendant souvent poétique. Elles enrichissent l'expression.
+
+Figure de style de l'analogie
+
+* la comparaision: Elle établit un lien entre deux élèments(comparé/comparant) ayant un point commun par le biais d'un outil de comparaison
+
+exemples: 
+
+* <span style="color: blue;">Le toit</span> <span style="color: green;">ressemblait à</span> <span style="color: red;">un bonnet de laine</span>
+* <span style="color: blue;">Il</span> <span style="color: purple;">est rouge</span> <span style="color: green;">comme</span> <span style="color: red;">une tomate</span>
+
+<span style="color: blue;">Comparé</span>
+
+<span style="color: red;">Comparant</span>
+
+<span style="color: green;">Outil</span>
+
+<span style="color: purple;">Point commun</span>

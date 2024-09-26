@@ -190,6 +190,12 @@ Oui
 
 ## Exercice 42 p.131
 
-1. OB est égal à 2
-2. Le filet est à 9m du lanceur, cela donne h(9), donc 3.35.
-3. La limite du camp adverse est à 19M. h(19) = -4.65, donc le balon sera tombé avant.
+1. $OB$ est égal à $2$.
+2. Le filet est à 9 m du lanceur, ce qui donne $h(9)$, donc $3.35$.
+3. La limite du camp adverse est à $19$ m. $h(19) = -4.65$, donc le ballon sera tombé avant.
+
+## Exercice 41 p.130
+
+1. 14, car $d(16)=14$
+2. Depuis 48 ans, car $d(48)=42$
+

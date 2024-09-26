@@ -34,15 +34,17 @@ Avant de lire un texte, il faut l'observer car des renseignements nous sont donn
 
 - du **PARATEXTE**
 - du **TITRE**: Le titre, quand il y en à un, permet d'éclairer le sens d'un texte, d'en connaître le thème (le sujet)
-  ??? abstract inline end "Définition"
-  
-  **Mise en page**:  La disposition du texte sur la page
-    
-    - Paragraphes: roman
-    - Retours à la ligne: poésie
-    - Noms des personnages: théâtre
-    - Colonnes: articles de presse
-    - BD: planches
+
+??? abstract inline end "Définition"
+
+  	**Mise en page**:  La disposition du texte sur la page 
+
+  	- Paragraphes: roman
+  	- Retours à la ligne: poésie
+  	- Noms des personnages: théâtre
+  	- Colonnes: articles de presse
+  	- BD: planches
+
 - de la **MISE EN PAGE**
 
 

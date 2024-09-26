@@ -188,7 +188,7 @@ Oui
 2. A
 3. B
 
-## Exercice 42 p.131
+## Exercice 47 p.131
 
 1. $OB$ est égal à $2$.
 2. Le filet est à 9 m du lanceur, ce qui donne $h(9)$, donc $3.35$.
@@ -199,3 +199,13 @@ Oui
 1. 14, car $d(16)=14$
 2. Depuis 48 ans, car $d(48)=42$
 
+## Exercice 43 p.131
+
+1. Le GPS à représenté la vitesse en fonction du temps.
+2. La vitesse de David au bout de 15 minutes est de 4 km/h, au bout de 65 minutes elle est de 6 km/h
+3. 10 km/h: de 40 à 45 minutes; 6 km/h: 30m, 60m; Elle n'est jamais égale à 12km/h
+4. _
+
+| Temps (en min)    | 0 | 15 | 40 | 50  | 70 |
+|-------------------|:-:|:--:|:--:|:---:|:--:|
+| Vitesse (en km/h) | 0 | 4  | 10 | 8.2 | 0  |

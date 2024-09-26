@@ -187,3 +187,9 @@ Oui
 1. C
 2. A
 3. B
+
+## Exercice 42 p.131
+
+1. OB est égal à 2
+2. Le filet est à 9m du lanceur, cela donne h(9), donc 3.35.
+3. La limite du camp adverse est à 19M. h(19) = -4.65, donc le balon sera tombé avant.

@@ -164,7 +164,6 @@ One week at miami
 |      relaxing       |         odd         |
 |      wonderful      |       boring        |
 |      fabulous       |     disastrous      |
-|       awesome       |        awful        |
 
 😁: The view in the Pyrénées was fabulous and incredible.
 

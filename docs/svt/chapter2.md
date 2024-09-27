@@ -72,9 +72,9 @@ J'en conclus donc que les anticorps apparaissent dans le sérum, et que les anti
 
 4. Expliquez pourquoi, en réalisant le même protocole que le lot B, les souris du lot C meurent.
 
-Comme démontré dans la question précédente (et dans le document 3), les anticorps défendent contre une seule maladie à la fois, causant donc une réponse immunitaire seulement au contact de toxines de la bonne maladie, or, les souris du lot C sont injectés de toxines du tétanos et d'un sérum d'un animal guérie de la diphtérie, alors que pour le lot B, l'injection est effectués d'un sérum guérie de la diphtérie, et de toxine diphtériques.
+Correction logiciel expériences de Bhering:
 
-5. D'après vous, quel type d'injection devrait être réalisé sur le lot C pour que les souris survivent à l'injection
-
-Comme démontré à la question précédente, les souris du lot C devraient être infectées de sérum d'une souris guérie du tétanos.
-
+2. Dans l'expérience du lot A, on **contamine** la souris par l'injection de toxines diphtériques. COmme l'**infection** provoque la mort de la souris on peut en déduire que la **phagocytose** a été **inefficace**.
+3. **D'après le document 1, on observe que** les souris qui ont reçu une injection de sérum d'un animal guéri de la diphtérie survivent à l'injection de la toxine diphtérique **contrairement à** celles du lot A qui n'ont pas reçu ce sérume. Donc on peut en conclure que le sérum est responsable de la guérison.
+D'après le doc 2, le sérum est le liquide du sang ne contenant pas de cellules.
+4. 

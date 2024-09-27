@@ -51,10 +51,10 @@ Activité 3: Feuille
 
 1. 
 | Lot | Résultats |
-|-----|-----------|
+|-----|:---------:|
 |  A  |   mort    |
-|  B  |   vivant  |
-|  C  |  mort     |
+|  B  |  vivant   |
+|  C  |   mort    |
 
 2. Résumez de façon précise en deux ou trois phrases l'expérience du lot A. Utilisez les mots: contamination, phagocytose, infection, inefficace.
 
@@ -77,4 +77,7 @@ Correction logiciel expériences de Bhering:
 2. Dans l'expérience du lot A, on **contamine** la souris par l'injection de toxines diphtériques. COmme l'**infection** provoque la mort de la souris on peut en déduire que la **phagocytose** a été **inefficace**.
 3. **D'après le document 1, on observe que** les souris qui ont reçu une injection de sérum d'un animal guéri de la diphtérie survivent à l'injection de la toxine diphtérique **contrairement à** celles du lot A qui n'ont pas reçu ce sérume. Donc on peut en conclure que le sérum est responsable de la guérison.
 D'après le doc 2, le sérum est le liquide du sang ne contenant pas de cellules.
-4. 
+4. Le sérum previent d'un animal guéri de la diphtérie, il a donc des **anticorps anti-diphtériques**. On injecte la toxine du tétanos donc les anticorps anti-diphtériques **ne correspondent pas à cet antigène.** C'est pour ça que les souris meurent.
+5. Il faudrait injecter un sérum d'un animal guéri du tétanos **car il contiendrait les anticorps spécifiques à la toxine** (antigène) du tétatnos (anticorps antitétaniques)
+
+Bilan 3: Une personne est "immunisée" contre une maladie quand elle est protégée contre celle-ci. Lorsqu'on tombe malade, la présence de l'antigène du micro-organisme **provoque l'apparition des "anticorps "  spécifiques dans notre sang**. On est alors "**sériooisitif**". Déf. **Antigène**. (dans le doc 3 et l'activité 3)

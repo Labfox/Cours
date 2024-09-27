@@ -144,13 +144,13 @@ where what when who how how long
 One week at miami
 
 |            | Le sujet ressent une émotion | Le sujet provoque une émotion |
-|:-----------|:----------------------------:|:-----------------------------:|
-| Interest   |         interressed          |          interesting          |
-| Excite     |           excited            |           exciting            |
-| Amaze      |            amazed            |            amazing            |
+|:----------:|:----------------------------:|:-----------------------------:|
+|  Interest  |         interressed          |          interesting          |
+|   Excite   |           excited            |           exciting            |
+|   Amaze    |            amazed            |            amazing            |
 | Fascinate  |          fascinated          |          fascinating          |
-| Bore       |            bored             |            boring             |
-| Terrify    |          terrified           |          terrifying           |
+|    Bore    |            bored             |            boring             |
+|  Terrify   |          terrified           |          terrifying           |
 | Disappoint |         disappointed         |         disappointing         |
 
 | Positive adjectives | Negative adjectives |
@@ -174,4 +174,25 @@ One week at miami
 🀧: Hiking in the Pyrénées was peaceful and relaxing.
 
 🥱: 2 weeks next to the beach were boring and uninteresting.
+
+Questions:
+
+* What happened to your arm ?
+* Who did you go with ?
+* What happened last summer ?
+< during your vacations
+
+he felt over his backpack. also he did some hitch-hiking.
+
+```mermaid
+mindmap
+    root ("Kyle#39;s vacation")
+        Rock-climbing
+        Kayaking
+        Tripped over his bag
+            Because of jetlag
+        He was with his brother in August
+        Shitty weather
+        Mountain-biking
+```
 

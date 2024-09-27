@@ -176,3 +176,13 @@ mindmap
             Accroissement des distances parcourues pour les trajets quotidiens
 ```
 
+### D. Lyon, une métropole internationale attractive
+
+![](../../../../assets/scans/2024-sept-27-1.png)
+
+1. è
+2. Deux autres activités présentent dans la métropole lyonaise sont la médecine et les médias
+3. l'avion, la voiture, le train
+4. Pour douvler la surface du centre-ville
+5. Plus de voyageurs, d'entreprises et d'étudiants
+

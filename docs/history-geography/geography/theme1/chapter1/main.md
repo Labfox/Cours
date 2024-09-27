@@ -18,6 +18,38 @@
   .green { background-color: green; }
   .blue { background-color: blue; }
   .black { background-color: black; }
+
+.arrow-both::after {
+    content: '↔';
+    color: blue;
+    font-size: 24px;
+    display: inline-block;
+    margin-right: 1%;
+  }
+
+  .arrow-right::after {
+    content: '→';
+    color: green;
+    font-size: 24px;
+    display: inline-block;
+    margin-right: 1%;
+  }
+
+  .arrow-left::after {
+    content: '←';
+    color: red;
+    font-size: 24px;
+    display: inline-block;
+    margin-right: 1%;
+  }
+  
+  .arrow-plus::after {
+    content: '+';
+    color: red;
+    font-size: 24px;
+    display: inline-block;
+    margin-right: 1%;
+  }
 </style>
 # Chapitre 1: Les aires urbaines, nouvelles géographie d'une France mondialisée
 
@@ -116,10 +148,31 @@ Avec plus de 2.6 millions d'habitants, Lyon est la 2e aire urbaine de France. El
 
 L'aire urbaine de Lyon, comme la majorité des aires urbaines françaises, a connu une forte croissance de sa population ces dernières années qui s'observe surtout dans la couronne périurbaine. Cette croissance urbaine s'accompagne d'un étalement spatial de la ville: on parle de périurbanisation **(= extension de la ville dans les campagnes proches)**. Cette périurbanisation entraine ausii l'augmentation des mobilités.
 
-<p style="backdrop-filter: blur(10px);position: fixed;top: 0%;">
-i'm testing there
-</p>
-
 ##### Les dynamiques spatiales
-Migration pendulaires = déplacements quotidiens domicile/travail
-Etalement urbain = 
+
+<span><span class="arrow-both"></span><span>Migration pendulaires = déplacements quotidiens domicile/travail</span></span>
+
+<span><span class="arrow-right"></span><span>Etalement urbain</span></span>
+
+<span><span class="arrow-plus"></span><span>Plus forte hausse de poplation</span></span>
+
+![](../../../../assets/scans/2024-sept-26-1.png)
+
+- augmentation des distances
+- voitures
+- pas de transports en commun
+
+```mermaid
+mindmap
+    root ("Étalement urbain (périurbanisation")
+        Causes
+            Augmentation de la vitesse des déplacements car: ___ - Amélioration des réseaux de transport  ________________ - Développement de l#39;automobile
+            Baisse des couts des transports
+            Recherche d#39;un environnement plus naturel
+            Coût du logement moins élevé quand on s#39;éloigne du centre ville
+        Conséquences    
+            Utilisation intensive de l#39;automobile émettrice de gaz à effet de serre
+            Disparition des zones agricoles périurbaines
+            Accroissement des distances parcourues pour les trajets quotidiens
+```
+

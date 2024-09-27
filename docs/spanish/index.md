@@ -206,8 +206,11 @@ _El ayuntamiento de tu ciudad os ha elegido para presentar el proyecto de constr
 
 [Project de séquence](../assets/noscans/spanish/projetdessequence1.docx)
 
+
+
 ## Annexes
 
 [Annexe 1: el indicativo](../assets/noscans/spanish/finducahier-1.pdf)
 
 [Annexe 2: el hora](../assets/noscans/spanish/finducahier-2.pdf)
+

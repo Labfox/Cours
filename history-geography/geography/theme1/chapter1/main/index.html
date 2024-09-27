@@ -1708,6 +1708,38 @@
   .green { background-color: green; }
   .blue { background-color: blue; }
   .black { background-color: black; }
+
+.arrow-both::after {
+    content: '↔';
+    color: blue;
+    font-size: 24px;
+    display: inline-block;
+    margin-right: 1%;
+  }
+
+  .arrow-right::after {
+    content: '→';
+    color: green;
+    font-size: 24px;
+    display: inline-block;
+    margin-right: 1%;
+  }
+
+  .arrow-left::after {
+    content: '←';
+    color: red;
+    font-size: 24px;
+    display: inline-block;
+    margin-right: 1%;
+  }
+
+  .arrow-plus::after {
+    content: '+';
+    color: red;
+    font-size: 24px;
+    display: inline-block;
+    margin-right: 1%;
+  }
 </style>
 <h1 id="chapitre-1-les-aires-urbaines-nouvelles-geographie-dune-france-mondialisee">Chapitre 1: Les aires urbaines, nouvelles géographie d'une France mondialisée</h1>
 <p><img alt="Fiche d'objectifs" src="../../../../../assets/scans/2024-sept-20-2.png" /></p>
@@ -1827,13 +1859,27 @@
 </tbody>
 </table>
 <p>L'aire urbaine de Lyon, comme la majorité des aires urbaines françaises, a connu une forte croissance de sa population ces dernières années qui s'observe surtout dans la couronne périurbaine. Cette croissance urbaine s'accompagne d'un étalement spatial de la ville: on parle de périurbanisation <strong>(= extension de la ville dans les campagnes proches)</strong>. Cette périurbanisation entraine ausii l'augmentation des mobilités.</p>
-<p style="backdrop-filter: blur(10px);position: fixed;top: 0%;">
-i'm testing there
-</p>
-
 <h5 id="les-dynamiques-spatiales">Les dynamiques spatiales</h5>
-<p>Migration pendulaires = déplacements quotidiens domicile/travail
-Etalement urbain = </p>
+<p><span><span class="arrow-both"></span><span>Migration pendulaires = déplacements quotidiens domicile/travail</span></span></p>
+<p><span><span class="arrow-right"></span><span>Etalement urbain</span></span></p>
+<p><span><span class="arrow-plus"></span><span>Plus forte hausse de poplation</span></span></p>
+<p><img alt="" src="../../../../../assets/scans/2024-sept-26-1.png" /></p>
+<ul>
+<li>augmentation des distances</li>
+<li>voitures</li>
+<li>pas de transports en commun</li>
+</ul>
+<pre class="mermaid"><code>mindmap
+    root ("Étalement urbain (périurbanisation")
+        Causes
+            Augmentation de la vitesse des déplacements car: ___ - Amélioration des réseaux de transport  ________________ - Développement de l#39;automobile
+            Baisse des couts des transports
+            Recherche d#39;un environnement plus naturel
+            Coût du logement moins élevé quand on s#39;éloigne du centre ville
+        Conséquences    
+            Utilisation intensive de l#39;automobile émettrice de gaz à effet de serre
+            Disparition des zones agricoles périurbaines
+            Accroissement des distances parcourues pour les trajets quotidiens</code></pre>
 
 
 

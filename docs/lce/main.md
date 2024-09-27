@@ -34,4 +34,10 @@ have
 
 Ryan Gosling is a Canadian actor. He is thirty-seven years old and he has one sister. He and is wife Eva Mendes have two daughters, their names are Esmeralda and Amada.
 
+??? info "landmark"
 
+    important place
+
+I hate phones and proprietary software
+
+I love coding

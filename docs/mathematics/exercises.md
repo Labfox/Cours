@@ -199,13 +199,29 @@ Oui
 1. 14, car $d(16)=14$
 2. Depuis 48 ans, car $d(48)=42$
 
-## Exercice 43 p.131
+## Exercice 42 p.131
 
 1. Le GPS à représenté la vitesse en fonction du temps.
-2. La vitesse de David au bout de 15 minutes est de 4 km/h, au bout de 65 minutes elle est de 6 km/h
-3. 10 km/h: de 40 à 45 minutes; 6 km/h: 30m, 60m; Elle n'est jamais égale à 12km/h
+2. La vitesse de David au bout de 15 minutes est de 4 km/h, au bout de 65 minutes elle est de 3 km/h
+3. 10 km/h: de 40 à 45 minutes; 6 km/h: 30m, 60m; Elle n'est jamais égale à 12km/
 4. _
 
-| Temps (en min)    | 0 | 15 | 40 | 50  | 70 |
+| Temps (en min)    | 0 | 15 | 42 | 50  | 70 |
 |-------------------|:-:|:--:|:--:|:---:|:--:|
 | Vitesse (en km/h) | 0 | 4  | 10 | 8.2 | 0  |
+
+## Exercice 44 p.131
+
+1. $A(x)= (30-2x)(16-2x)=4x^2 - 92x + 480$
+2. $A(2) = 312$ L'aire de la partie végétalisée est de 312m^2^.
+
+## Exercice 45 p.131
+
+1. $A(x) = ((100-x)*25)+(x*20)$
+2. $A(f) = 2 185$, 63 personnes on prit le menu à 20 euros
+
+
+
+Get-ADDomain -Current LocalComputer
+Get-ADDomain -Current LoggedOnUser
+Get-ADDomain

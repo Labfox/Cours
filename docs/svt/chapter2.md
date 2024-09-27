@@ -81,3 +81,9 @@ D'après le doc 2, le sérum est le liquide du sang ne contenant pas de cellules
 5. Il faudrait injecter un sérum d'un animal guéri du tétanos **car il contiendrait les anticorps spécifiques à la toxine** (antigène) du tétatnos (anticorps antitétaniques)
 
 Bilan 3: Une personne est "immunisée" contre une maladie quand elle est protégée contre celle-ci. Lorsqu'on tombe malade, la présence de l'antigène du micro-organisme **provoque l'apparition des "anticorps "  spécifiques dans notre sang**. On est alors "**sériooisitif**". Déf. **Antigène**. (dans le doc 3 et l'activité 3)
+
+Un antigène:
+
+- est une molécule généralement étrangère à l'organisme.
+- est capable de déclencher une réponse immunitaire.
+- se lie spécifiquement aux anticorps ou aux récepteurs d'antigènes des lymphocytes.

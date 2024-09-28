@@ -220,8 +220,19 @@ Oui
 1. $A(x) = ((100-x)*25)+(x*20)$
 2. $A(f) = 2 185$, 63 personnes on prit le menu à 20 euros
 
+## DM
+### Exercice 1
 
+1. _
+    1. Si on choisit $-3$ comme nombre de départ pour le programme A, la première étape du programme revient à $-3*-2$; $-3*-2=6$. La deuxième étape revient donc à $6+5$; $6+5=11$. Le résultat du programme est donc $11$.
+    2. Si on choisit $5,5$ comme nombre de départ pour le programme B, la première étape du programme revient à $5,5-5$; $5,5-5=0,5$. La deuxième étape du programme revient à $0,5*3$; $0,5*3=1,5$. La troisième étape du programme revient donc à $1,5+11$; $1,5+11=12,5$. Le résultat du programme est donc $12,5$
+2. Si $x$ est le nombre de départ, $A(x)=(x*-2)+5$, et $B(x)=((x-5)*3)+11$
+3. _
+    4. Dans ce graphique, $f(x)=3x-4$ et $g(x)=-2x+5$ sont représentés. Pour obtenir à quelle courbe un point appartient, il suffit de lire les valeurs du point et de les comparer au résultat de la fonction. En suivant cette méthode, on peut tester le point (1;3) de la droite $(D2)$, le résultat de $f(1)$ est $-1$, la droite ne correspond donc pas à la fonction $f$. Ensuite, on teste $g(1)$, $g(1)=1$, la droite $(D2)$ correspond donc à $g$. Vu qu'il n'y à que $f$ et $g$ représentés, on peut en déduire que $(D1)$ représente forcèment $f$.
+    5. L'intersection est approximativement à $0.8$.
+4. Pour obtenir l'intersection, nous devons résoudre $x$ dans l'équation : $(x \cdot -2) + 5 = ((x - 5) \cdot 3) + 11$. $-2x + 5 = 3(x - 5) + 11 = -2x + 5 = 3x - 15 + 11 = -2x + 5 = 3x - 4 = -2x - 3x = -4 - 5 = -5x = -9$ maintenant, $x = \frac{-9}{-5} = \frac{9}{5}$ Le nombre de départ pour lequel les programmes A et B donnent le même résultat est:  $x = \frac{9}{5}$
 
-Get-ADDomain -Current LocalComputer
-Get-ADDomain -Current LoggedOnUser
-Get-ADDomain
+### Exercice 2
+
+1. Pour savoir si le point \((3; -1)\) est sur la fonction \(f(x) = -2x + 8\), substituons \(x = 3\) et vérifions si l'image correspond à \(y = -1\). Calculons \(f(3) = -2 \cdot 3 + 8 = -6 + 8 = 2\). Étant donné que \(f(3) = 2\) et non \(-1\), le point \((3; -1)\) n'appartient pas à la fonction \(f(x) = -2x + 8\). La fonction $f$ est correspond donc forcèment à la droite $C2$
+

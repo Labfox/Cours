@@ -235,4 +235,14 @@ Oui
 ### Exercice 2
 
 1. Pour savoir si le point \((3; -1)\) est sur la fonction \(f(x) = -2x + 8\), substituons \(x = 3\) et vérifions si l'image correspond à \(y = -1\). Calculons \(f(3) = -2 \cdot 3 + 8 = -6 + 8 = 2\). Étant donné que \(f(3) = 2\) et non \(-1\), le point \((3; -1)\) n'appartient pas à la fonction \(f(x) = -2x + 8\). La fonction $f$ est correspond donc forcèment à la droite $C2$
+2. $f(3)=−2×3+8=2$. $f(3)$ est égale à $2$.
+3. Pour chercher l'antécédent de $6$ par la fonction $f$, on cherche $-2x+8=6$, Donc $-2x+8-8=6-8$, $-2x=-2$, $-2x/-2=-2/-2$, $x=1$, l'antécédent de $3$ par $f$ est donc $1$.
+4. On peut saisir "=B1*-2+8"
 
+### Exercice 3
+
+1. L'athlète c'est arrété pour son changement d'équipement de la 14ème minute à la 15ème minute. 
+2. La partie cyclisme commence à 0,6km et finit à 10,5km, çela donnne 9,9km parcouru à vélo
+3. L'étape de course à pied est commencée à 44,84mn et finie à 55,16mn, sela donne donc 10,32mn
+4. L'épreuve de natation est effectuée en 1,714 km/h, L'épreuve de cyclisme à 30km/h, l'épreuve de course à pied à été effetuée à 14,535km/h. L'athlète à donc étée plus rapide à vélo
+5. Non, car cela donne 13,972km/h

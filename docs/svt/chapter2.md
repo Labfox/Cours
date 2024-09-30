@@ -87,3 +87,4 @@ Un antigène:
 - est une molécule généralement étrangère à l'organisme.
 - est capable de déclencher une réponse immunitaire.
 - se lie spécifiquement aux anticorps ou aux récepteurs d'antigènes des lymphocytes.
+

@@ -104,13 +104,62 @@ Le texte est explicatif car il n'y à pas de narrateur, et qu'il est au présent
     3. La mort
 
 ## 3 textes
+
 ### Texte 1
 
-Il chercha un calepin, le trouva ainsi qu'une pointe Bic à triple couleur. Il y inscrivit les parles qui excitaient son attention en rouge,
-à la suite les unes des autres, quitte à y réfléchir plus tard. " Pour quand je serai vieux, se dit-il. A présent, j'agis, je vis. " Peu à peu, cette sorte de pêche le captiva, le passiona.
-Il jetait son filet, harponnait une phrase, ferrait quelques paroles, les inscrivait d'une écriture appliquée pour "plus tard".
+Il chercha un calepin, le trouva ainsi qu'une pointe Bic à triple couleur. Il y inscrivit les paroles qui excitaient son
+attention en rouge,
+à la suite les unes des autres, quitte à y réfléchir plus tard. " Pour quand je serai vieux, se dit-il. À présent,
+j'agis, je vis. " Peu à peu, cette sorte de pêche le captiva, le passionna.
+Il jetait son filet, harponnait une phrase, ferrant quelques paroles, les inscrivait d'une écriture appliquée pour "
+plus tard ".
 
-| Comparaisons | Métaphores                        |
-|--------------|-----------------------------------|
-|              | "cette sorte de pêche"            |
-|              | "une pointe bic à triple couleur" |
+| Comparaisons      | Métaphores                        |
+|-------------------|-----------------------------------|
+|                   | "cette sorte de pêche"            |
+|                   | "une pointe Bic à triple couleur" |
+| "comme une pêche" |                                   |
+|                   | "il jetait son filet"             |
+|                   | "harponnait une phrase"           |
+
+### Texte 2
+
+Harmonie du soir
+
+Voici venir les temps où vibrant sur sa tige
+Chaque fleur s'évapore ainsi qu'un encensoir ;
+Les sons et les parfums tournent dans l'air du soir
+Valse mélancolique et langoureux vertige !
+
+Chaque fleur s'évapore ainsi qu'un encensoir ;
+Le violon frémit comme un cœur qu'on afflige ;
+Le ciel est triste et beau comme un grand reposoir ;
+Le soleil s'est noyé dans son sang qui se fige.
+
+Un cœur tendre, qui hait le néant vaste et noir,
+Du passé lumineux recueille tout vestige !
+Le soleil s'est noyé dans son sang qui se fige...
+Ton souvenir en moi luit comme un ostensoir
+
+| Comparaisons                         | Métaphores         |
+|--------------------------------------|--------------------|
+| "comme un encensoir"                 | "le violon frémit" |
+| "comme un cœur qu'on afflige"        |                    |
+| "comme un grand reposoir"            |                    |
+| "le soleil s'est noyé dans son sang" |
+
+### Texte 3
+
+La pêche aux hommes vivants, voilà qui est mieux.
+Enorme travail brûlant devant les hauts-fourneaux
+Où l'on trempe le fer grésillant.
+Mais qui
+Oserait nous dire fainéants ?
+Nous polissons les cerveaux d'une langue râpeuse.
+
+| Comparaisons             | Métaphores                    |
+|--------------------------|-------------------------------|
+|                          | "la pêche aux hommes vivants" |
+| "énorme travail brûlant" | "nous polissons les cerveaux" |
+|                          | "une langue râpeuse"          |
+

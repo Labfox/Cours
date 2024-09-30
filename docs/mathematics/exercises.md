@@ -233,7 +233,8 @@ Oui
    2. La distance de freinage n'est pas une droite donc elle n'est pas proportionnelle
    3. A 90 km/h. Distance de réaction: 25m; Distance de freinage: 40M. 40+25 = 65m. A 90lm/h, la distance d'arrêt est de 65m
 3. 
-   
+
+
 
 ## DM
 ### Exercice 1

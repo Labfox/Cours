@@ -88,3 +88,4 @@ Un antigène:
 - est capable de déclencher une réponse immunitaire.
 - se lie spécifiquement aux anticorps ou aux récepteurs d'antigènes des lymphocytes.
 
+L'expérience 

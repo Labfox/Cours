@@ -266,3 +266,17 @@ exemples:
 <span style="color: green;">Outil</span>
 
 <span style="color: purple;">Point commun</span>
+
+??? info "Métaphore"
+
+    Elle rapproche des êtres ou des choses mais sans utiliser un outil de comparaison
+
+    Exemple: Le chat nous observait de ses émeraudes rondes.
+
+??? info "Personification"
+
+    La personnification consiste à attribuer à un animal ou à une chose les sentiments, les comportements, les qualités d'une personne
+
+    Exemple: Ces vents, ces flots qui furent mes premiers maîtres
+
+TD Bordas leçon 48 p. 82

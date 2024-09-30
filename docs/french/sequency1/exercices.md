@@ -87,3 +87,30 @@ car: pas de narrateur, présent de vérité générale,
 
 Le texte est explicatif car il n'y à pas de narrateur, et qu'il est au présent de vérité générale.
 
+## TD Bordas leçon 48 p. 82
+
+2. _
+    1. Ce protocole
+    2. comme
+    3. des fils
+3. _
+    1. Une personification
+    2. Une comparaison
+    3. Une allégorie
+    4. Une métaphore
+4. _
+    1. Le printemps
+    2. Un roi
+    3. La mort
+
+## 3 textes
+### Texte 1
+
+Il chercha un calepin, le trouva ainsi qu'une pointe Bic à triple couleur. Il y inscrivit les parles qui excitaient son attention en rouge,
+à la suite les unes des autres, quitte à y réfléchir plus tard. " Pour quand je serai vieux, se dit-il. A présent, j'agis, je vis. " Peu à peu, cette sorte de pêche le captiva, le passiona.
+Il jetait son filet, harponnait une phrase, ferrait quelques paroles, les inscrivait d'une écriture appliquée pour "plus tard".
+
+| Comparaisons | Métaphores                        |
+|--------------|-----------------------------------|
+|              | "cette sorte de pêche"            |
+|              | "une pointe bic à triple couleur" |

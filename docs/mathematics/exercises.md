@@ -220,6 +220,21 @@ Oui
 1. $A(x) = ((100-x)*25)+(x*20)$
 2. $A(f) = 2 185$, 63 personnes on prit le menu à 20 euros
 
+## Exercice 52 p.133
+
+1. Le niveau de bruit à une distance de 100 mètres est de 45 dB
+2. La tondeuse est à 25 mètres
+
+## Erxicce 53 p.133
+
+1. La distance d'arrêt est de 22.5m
+2. _
+   1. Pour une distnace de réaction de 15m on roule à 50km/h
+   2. La distance de freinage n'est pas une droite donc elle n'est pas proportionnelle
+   3. A 90 km/h. Distance de réaction: 25m; Distance de freinage: 40M. 40+25 = 65m. A 90lm/h, la distance d'arrêt est de 65m
+3. 
+   
+
 ## DM
 ### Exercice 1
 

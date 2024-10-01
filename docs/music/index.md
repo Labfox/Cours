@@ -68,3 +68,30 @@ La Bande-son est constitué de :
 | Images   | Bande son                       |
 |----------|---------------------------------|
 | Scenario | Bruitages, dialogues, musique   |
+
+```mermaid
+mindmap
+    root (Bande son)
+        Bruitages
+            In
+                Dans le champ
+                Hors champ
+            Off
+        Dialogues 
+            In
+                Dans le champ
+                Hors champ
+            Off
+        Musique
+            d#39;ecran diégétique
+            de fosse extra diégétique
+            emphatique
+            an/non emphatique
+```
+
+### Analyse filmique générique "La vie est belle", 1998, R. Benigni
+
+| Scénario  | Bande son |
+|:---------:|:---------:|
+|   Titre   |  Son off  |
+| Fond bleu | Voix off  |

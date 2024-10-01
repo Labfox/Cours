@@ -108,11 +108,9 @@ Le texte est explicatif car il n'y à pas de narrateur, et qu'il est au présent
 ### Texte 1
 
 Il chercha un calepin, le trouva ainsi qu'une pointe Bic à triple couleur. Il y inscrivit les paroles qui excitaient son
-attention en rouge,
-à la suite les unes des autres, quitte à y réfléchir plus tard. " Pour quand je serai vieux, se dit-il. À présent,
-j'agis, je vis. " Peu à peu, cette sorte de pêche le captiva, le passionna.
-Il jetait son filet, harponnait une phrase, ferrant quelques paroles, les inscrivait d'une écriture appliquée pour "
-plus tard ".
+attention en rouge,  à la suite les unes des autres, quitte à y réfléchir plus tard. " Pour quand je serai vieux, se dit-il. 
+À présent, j'agis, je vis. " Peu à peu, cette sorte de pêche le captiva, le passionna.
+Il jetait son filet, harponnait une phrase, ferrant quelques paroles, les inscrivait d'une écriture appliquée pour "plus tard".
 
 | Comparaisons      | Métaphores                        |
 |-------------------|-----------------------------------|
@@ -122,23 +120,30 @@ plus tard ".
 |                   | "il jetait son filet"             |
 |                   | "harponnait une phrase"           |
 
+| Comparaisons | Métaphores                                                                                             |
+|--------------|--------------------------------------------------------------------------------------------------------|
+|              | "cette sorte de pêche [...] jetait son filet [...] harponnait sa phrase [...] ferrait" Métaphore filée |
+
+
 ### Texte 2
 
 Harmonie du soir
 
-Voici venir les temps où vibrant sur sa tige
-Chaque fleur s'évapore ainsi qu'un encensoir ;
-Les sons et les parfums tournent dans l'air du soir
+Voici venir les temps où vibrant sur sa tige; <br />
+Chaque fleur s'évapore ainsi qu'un encensoir ;<br />
+Les sons et les parfums tournent dans l'air du soir; <br />
 Valse mélancolique et langoureux vertige !
 
-Chaque fleur s'évapore ainsi qu'un encensoir ;
-Le violon frémit comme un cœur qu'on afflige ;
-Le ciel est triste et beau comme un grand reposoir ;
-Le soleil s'est noyé dans son sang qui se fige.
 
-Un cœur tendre, qui hait le néant vaste et noir,
-Du passé lumineux recueille tout vestige !
-Le soleil s'est noyé dans son sang qui se fige...
+Chaque fleur s'évapore ainsi qu'un encensoir ; <br />
+Le violon frémit comme un cœur qu'on afflige ;<br />
+Le ciel est triste et beau comme un grand reposoir ;<br />
+Le soleil s'est noyé dans son sang qui se fige.<br />
+
+
+Un cœur tendre, qui hait le néant vaste et noir,<br />
+Du passé lumineux recueille tout vestige !<br />
+Le soleil s'est noyé dans son sang qui se fige...<br />
 Ton souvenir en moi luit comme un ostensoir
 
 | Comparaisons                         | Métaphores         |
@@ -146,15 +151,24 @@ Ton souvenir en moi luit comme un ostensoir
 | "comme un encensoir"                 | "le violon frémit" |
 | "comme un cœur qu'on afflige"        |                    |
 | "comme un grand reposoir"            |                    |
-| "le soleil s'est noyé dans son sang" |
+| "le soleil s'est noyé dans son sang" |                    |
+
+
+|         Comparaisons          |                    Métaphores                    |
+|:-----------------------------:|:------------------------------------------------:|
+| "comme un cœur qu'on afflige" |    "valse mélancolique et langoureux vertige"    |
+|    "ainsi qu'un encensoir"    | "le soleil c'est noyé dans son sang qui se fige" |
+|   "comme un grand reposoir"   |                                                  |
+|    "comme  un ostensoire"     |                                                  |
+
 
 ### Texte 3
 
-La pêche aux hommes vivants, voilà qui est mieux.
-Enorme travail brûlant devant les hauts-fourneaux
-Où l'on trempe le fer grésillant.
-Mais qui
-Oserait nous dire fainéants ?
+La pêche aux hommes vivants, voilà qui est mieux. <br />
+Enorme travail brûlant devant les hauts-fourneaux <br />
+Où l'on trempe le fer grésillant. <br />
+Mais qui <br />
+Oserait nous dire fainéants ? <br />
 Nous polissons les cerveaux d'une langue râpeuse.
 
 | Comparaisons             | Métaphores                    |
@@ -163,3 +177,8 @@ Nous polissons les cerveaux d'une langue râpeuse.
 | "énorme travail brûlant" | "nous polissons les cerveaux" |
 |                          | "une langue râpeuse"          |
 
+| Comparaisons | Métaphores                                       |
+|--------------|--------------------------------------------------|
+|              | "La pêche"                                       |
+|              | "Nous polissons les cerveaux d'une lange râpeuse |
+|              |                                                  |

@@ -234,6 +234,9 @@ Oui
    3. A 90 km/h. Distance de réaction: 25m; Distance de freinage: 40M. 40+25 = 65m. A 90lm/h, la distance d'arrêt est de 65m
 3. 
 
+## Exercice 
+
+
 
 
 ## DM
@@ -262,3 +265,44 @@ Oui
 3. L'étape de course à pied est commencée à 44,84mn et finie à 55,16mn, sela donne donc 10,32mn
 4. L'épreuve de natation est effectuée en 1,714 km/h, L'épreuve de cyclisme à 30km/h, l'épreuve de course à pied à été effetuée à 14,535km/h. L'athlète à donc étée plus rapide à vélo
 5. Non, car cela donne 13,972km/h
+## Exos flash
+### 1
+
+1. translation
+2. symétrie axiale
+3. symétrie centrale
+4. rotation
+
+### 2
+
+1. axiale
+2. centrale
+3. rotation
+4. translation
+
+### 3
+
+C'est une translation de quatres carreaux horizonteaux pour un carreau vertical
+
+### 4
+
+1. 1
+2. 4
+3. 9
+4. 16
+5. 25
+6. 36
+7. 49
+8. 64
+9. 81
+10. 100
+
+### 5
+
+14.4
+43.2
+
+### 6
+
+C'est le multiplier par 1/5
+

@@ -28,6 +28,7 @@ nav:
     - Mathematics:
       - Exercises: "mathematics/exercises.md"
       - "Sequence 1": "mathematics/chapter1/index.md"
+      - "Sequence 2": "mathematics/chapter2/cours.md"
     - Latin:
       - Main: "latin/main.md"
       - "Séquence 1": "latin/sequency2.md"

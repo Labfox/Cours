@@ -296,3 +296,6 @@ mindmap
                     Coup d#39;état
                     Abolition de la propriété foncière, entamer des pourparlers pour la paix, mise en place d'un gouvernement d’ouvriers et de paysans, censure de la presse
 ```
+
+- BAtaille de Verdun
+- G: Génocide arménien

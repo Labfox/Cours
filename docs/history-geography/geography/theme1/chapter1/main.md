@@ -199,7 +199,11 @@ Dans le contexte de la mondialisation, les grandes aires urbaines cherchent à �
 
 Carte 1 p. 220
 
-| Densités de population      | Où ?                                                                                                                                                            | Pourquoi ?                                                                                   |
-|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| *Densités les plus fortes*  | - Aires urbaines<br/>- Régions frontalières (Alsace, Nord-Pas-de-Calais)<br/>- Littoraux (atlantique, méditerranéeen)<br/>- Vallées fluviales (Rhône, Loire...) | Elles concentrent l'essentiel des emplois des services<br/> <br/>Zones d'échanges dynamiques |
-| *Densités les plus faibles* |                                                                                                                                                                 |                                                                                              |
+| Densités de population    | Où ?                                                                                                                                                            | Pourquoi ?                                                                                                                                                                                                                                             |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Densités les plus fortes  | - Aires urbaines<br/>- Régions frontalières (Alsace, Nord-Pas-de-Calais)<br/>- Littoraux (atlantique, méditerranéeen)<br/>- Vallées fluviales (Rhône, Loire...) | Elles concentrent l'essentiel des emplois et des services<br/> <br/>Zones d'échanges dynamiques                                                                                                                                                        |
+| Densités les plus faibles | Montagnes (Pyrénées, sud des Alpes, Corse, Massif central...)<br/> <br/>Certains espaces ruraux (des Ardennes aux Pyrénées)                                     | Principaux reliefs qui peuvent être un obstacle ) l'installation des hommes<br/> <br/>Ils ont connu un fort exode rural<br/>Certains types d'agriculture (grandes exploitations céréalières en Bourgogne par exemple) nécessitent peu de main d'oeuvre |
+
+
+Répartition et dynamiques de la popualtion française
+

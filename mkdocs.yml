@@ -55,6 +55,7 @@ nav:
          - "Sommaire": "french/sequency1/main.md"
          - "Next page": "french/sequency1/firstpage.md"
          - "Exercices": "french/sequency1/exercices.md"
+         - "Fiche vocabulaire récapitulative": "french/sequency1/fichevocabrecap.md"
     - Spanish:
        - "Home": "spanish/index.md"
        - "Sequency 2": "spanish/sequency2.md"

@@ -306,3 +306,10 @@ C'est une translation de quatres carreaux horizonteaux pour un carreau vertical
 
 C'est le multiplier par 1/5
 
+## Exercice 1
+
+1. Non. axiale
+2. Non. centrale
+3. Oui.
+4. Translation avec aggrandissment
+

@@ -279,4 +279,18 @@ exemples:
 
     Exemple: Ces vents, ces flots qui furent mes premiers maîtres
 
-TD Bordas leçon 48 p. 82
+TD Bordas leçon 8 p. 82
+
+Exemple:
+De **tous** les chemins **arrive** une grande foule. Elle est **constituée** de touristes et de curieux qui se rendent à la **fête**. La grande place est pleine de stands **divers** et bien **garnis** qui **attirent** les badauds. elle **résonne** d'un vacarme joyeux.
+Des tables sont **installées** sous les grands platanes qui les **ombragent**. Bientôt, des lampes **bleues** et **jaunes** s'allumeront dans la nuit **claire**.
+
+Exercice 1:
+
+La licorne est une créature légendaire représentée sous la forme d'un cheval blanc dont le front s'orne d'une longue corne éfillée, en forme de spirale. Son menton porte un petit bouc comme celui d'une chèvre et ses sabots sont fendus. Cependant, son aspect et son caractère diffère selon les mytologies régionales.
+
+Dès le Moyen Âge, elle figure sur de nombreuses armloiries, y comprit celle d'Angleterre, au côté d'un lion. Elle est le double symbole de la puissance, par sa corne, et de la pureté, par la blancheur de sa robe.
+
+Certains prétendent que le narval serait à l'origine du mythe de la licorne. Le narval, en effet, est un cétacé qui possède une défense torsadée pouvant mesurer jusqu'à trois mètres de long.
+
+Recopier points méthode td

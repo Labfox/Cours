@@ -50,6 +50,9 @@ nav:
       - "Chapter 1":
         - "Exos": "physique-chimie/chapter1/main.md"
         - "Cours": "physique-chimie/chapter1/cours.md"
+      - "Chapter 2":
+        - "Exos": "physique-chimie/chapter2/main.md"
+        - "Cours": "physique-chimie/chapter2/cours.md"
     - "Fr*nch":
        - "Home": "french/main.md"
        - "Sequency 1":

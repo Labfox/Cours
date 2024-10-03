@@ -131,3 +131,4 @@ Horizontal :
 
 [Activité 3](../../assets/noscans/chimie/chapter1-activity3.pdf)
 
+

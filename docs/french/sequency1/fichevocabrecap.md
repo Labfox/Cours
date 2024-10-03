@@ -67,10 +67,10 @@ Les quatres formes de discours
 |   encensoir   | vocabulaire des sennsationsations |
 |   sancerre    |          schèma narratif          |
 |  chuintement  |        valeurs du présent         |
-|    saisir     |        retour en arrière          |
-|   reposoir    |                 didascalies       |
-|               |            implicite              |
+|    saisir     |         retour en arrière         |
+|   reposoir    |            didascalies            |
+|               |             implicite             |
 |               |             explicite             |
-|               |              dialogue             |
-|               |                        tirade     |
-|               |                   pamphlet        |
+|               |             dialogue              |
+|               |              tirade               |
+|               |             pamphlet              |

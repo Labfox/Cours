@@ -199,5 +199,9 @@ mindmap
 This is a tatoo about the 9/11 events. We see the two towers on the tatoo.
 
 
-This document is a _. In the background, there's the American flag (called the Stars-spangled banner), there's a man, presumably a firefighter because he's holding a helmet under his left arm. The picture must have been taken in the USA shortly after the twin tower terrorist attack which took place on the September 9th 2001, widely called 9/11 attacjs? The fireman has got a tatoo all over his back which represents the plane and the twin towers in the middle and names on the left. The names must be those of firemen who died in the attacks of 9/11 victims. It must be the names of the members of his fire teammates who died while they were trying to rescue the victims from the debris. In the bottom left, we can notice/note the hand and the flame of the statue of liberty.
-The man must have got this tatto to pay respect to the firman
+This document is a _. In the background, there's the American flag (called the Stars-spangled banner), there's a man, presumably a firefighter because he's holding a helmet under his left arm. The picture must have been taken in the USA shortly after the twin tower terrorist attack which took place on the September 9th 2001, widely called 9/11 attacjs? The fireman has got a tatoo all over his back which represents the plane and the twin towers in the middle and names on the left. The names must be those of firemen who died in the attacks of 9/11 victims. It must be the names of the members of his fire teammates who died in the rescue of the 9/11 victims. In the bottom left, we can notice/note the hand and the flame of the statue of liberty.
+The man must have got this tattoo to pay respect to the firman
+
+Look and react. Say all you can about the differences and similarities between these three photos.
+
+In 2001, there was the win towers before the attacks. After, in 2011, there was two laser aimed at the sky to commemorate the attack. In 2021, A single skyscraper had been built.

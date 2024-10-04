@@ -207,3 +207,13 @@ Carte 1 p. 220
 
 Répartition et dynamiques de la popualtion française
 
+### C. Les dynamiques de la population
+
+Dynamique: évolution de la population dans le temps et dans l'espace
+
+#### 1. Une mobilité croissante
+
+![](../../../../assets/scans/2024-octo-4-1.png)
+
+##### Les flux migratoires internes
+

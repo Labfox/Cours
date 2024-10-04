@@ -38,6 +38,13 @@ Ryan Gosling is a Canadian actor. He is thirty-seven years old and he has one si
 
     important place
 
-I hate phones and proprietary software
+I hate phones and proprietary software.
 
 I love coding
+
+hardworking,
+
+1. Someone who is reliable is someone you can always count on.
+2. Someone who is punctual is somewone who is always organised and always on time.
+
+None

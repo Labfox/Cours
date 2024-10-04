@@ -313,3 +313,37 @@ C'est le multiplier par 1/5
 3. Oui.
 4. Translation avec aggrandissment
 
+## Exercice 2
+
+1. Faux: c'est la translation du vecteur AA`
+2. Vrai: \(BB` = CC`\)
+3. Vrai, les figures sont identiques
+
+## Exercice 3
+
+1. Oui
+2. Non
+3. Non
+4. Non
+
+## Exercice 4
+
+## Exercice 5
+
+1. _
+2. La translation de vecteur BC
+
+## Exercice 6
+
+. violet
+. vert
+. bleu
+. bleu
+. orange
+
+## Exercice 7
+
+## Exercice 8
+
+## Exercice 10
+

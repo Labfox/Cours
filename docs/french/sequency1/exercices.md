@@ -182,3 +182,9 @@ Nous polissons les cerveaux d'une langue râpeuse.
 |              | "La pêche"                                       |
 |              | "Nous polissons les cerveaux d'une lange râpeuse |
 |              |                                                  |
+
+## Exercice 2 p.107
+
+Les célèbres tapisseries de La Dame à la licorne sont au nombre de six. Elles ont été tissées au début du XVI^e^ siècle et représentent les cinq sens: l'ouïe, la vue, le goût, le toucher et l'odorat. Le sixième sens, évoqué dans la sixième tapisserie, est définit par l'inscription "A mon seul désir", ce qui à donné lieu à de nombreuses interpétations. Sur ces tapisseries, une jeune femme richement vêtue est accompagnée d'une licorne et d'un lion, dans un décor fleuri.
+Cest tapisseries sont exposées au musée de Cluny, à Paris.
+

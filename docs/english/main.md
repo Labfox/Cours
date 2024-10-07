@@ -204,5 +204,19 @@ The man must have got this tattoo to pay respect to the firman
 
 Look and react. Say all you can about the differences and similarities between these three photos.
 
-In 2001, there was the win towers before the attacks. After, in 2011, there was two laser aimed at the sky to commemorate the attack. In 2021, A single skyscraper had been built.
+In 2001, there was the twin towers before the attacks. After, in 2011, there was two laser aimed at the sky to commemorate the attack. In 2021, A single skyscraper had been built.
+
+The three photos show the New York skyline which is easily recognisable with all its tall skyscraper made of steel.
+
+They were taken every ten years from 2001 to 2021, because twenty three years ago there was a terrorist attack which destroyed the Twin Towers (= The World Trade Center) killing thousands of people.
+
+In 2001 there were two similar skyscrapesr, whereas in 2011 there was a neon light flashing up to the sky where the two towers were missing.
+
+Nowadays, in 2021, there is one tall skyscraper which was built where the two towers were standing.
+
+**Passive form: was / were + participe passé du verbe (was taken)**
+
+1. September 11^th^ is the Patriot Day
+2. Americans commemorate the 2001 terrorist attack
+3. There is a minute of silence at 8:46 am because the atack took place at that time.
 

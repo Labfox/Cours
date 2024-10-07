@@ -217,3 +217,32 @@ Dynamique: évolution de la population dans le temps et dans l'espace
 
 ##### Les flux migratoires internes
 
+![](../../../../assets/scans/2024-octo-7-1.png)
+
+Au 1^er^ janvier 2023, la France comptai plus de 68 millions d'habitants. Cette croissance de la population s'explique principalement par un solde naturel positif. De plus, même si la fécondité en France à tendance à diminuer ses dernières années (1,8 enfants par femme), elle reste la plus élevée d'Europe. Cependant, la population Française continued e vieillir en raison de la hausse de l'espérence de vie et de l'avancée en âge des génération du baby boom, mais le vieillisement de la popualtion reste modéré par rapport à nos voisins.
+
+
+??? abstract "Taux de natalité"
+
+    Nombre de naissances pour 1000 habitants en 1 an.
+
+??? abstract "Taux de mortalité"
+
+    Nombre de décès pour 1000 habitants en 1 an.
+
+??? abstract "Solde naturel"
+
+    Différence entre le taux de natalité et le taux de mortalité
+
+??? abstract "Taux de fécondité"
+
+    Nombre moyen d'enfants par femme
+
+??? abstract "Solde migratoire"
+
+    Différence entre le nombre d'entrées et de sorties dans une région ou un pays
+
+??? abstract "Baby-boom"
+
+    Période de forte natalité de 1945 au début des années 1970.
+

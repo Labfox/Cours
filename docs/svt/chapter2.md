@@ -88,4 +88,27 @@ Un antigène:
 - est capable de déclencher une réponse immunitaire.
 - se lie spécifiquement aux anticorps ou aux récepteurs d'antigènes des lymphocytes.
 
-L'expérience 
+L'
+
+
+### B) Comment les anticorps agissent-ils face aux antigènes ?
+
+Activité 4: Voir feuille
+
+Correction activité 3 brucellose
+
+Q3) J'observe que loesque je mélange les antigènes avec les anticorps, j'obtiens un mélange ^^hétérogène, granuleux, avec des paquets roses (paquets de bactéries)^^ ^^==alors que==^^ lorsque je mélange les antigènes avec le sérum qui ne contient pas d'anticorps, le ^^mélange est homogène, lisse et rose.^^
+
+Q4) ==Dans le document 1, j'observe que l'anticorps possède 2 sites de fixation à ses extrêmités.==
+
+==^^J'observe dans le doc. 2, j'observe que^^== les ^^anticorps sont capables de se fixer aux antigènes^^ ce qui provoque la formation de "^^complexes antigène-anticorps^^", entraînant une ^^agglutination des bactéries^^. Cela explique les ^^grains roses^^ observés dans nore expérience.
+
+![](../assets/scans/2024-octo-7-2.png)
+
+^^Bilan 4^^: Les anticorps se fixent aux antigènes formant un "**complexe antigène-anticorps**" qui neutralisent les micro-organismes et favorise la **phagocytose**.
+
+Un **Lymphocyte B** reconnaît un type d'antigène et produit les anticorps spécifiques à cet antigène. ==Remarque:== Cette fabrication d'anticorps spéfcifiques prend du temps, c'est pour cela qu'on parle d'une ^^réaction immunitaire lente et spécifique.^^ Contrairement à la phagocytose qui est ^^une réaction rapide et non spécifique.^^
+
+## IV - Comment l'organisme réagit-il lors d'une infection virale ?
+
+^^Activité 5^^: Consigne p.395: Explique comment les lymphocytes T tueurs permettent d'éliminer les cellules infectées.

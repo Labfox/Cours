@@ -185,6 +185,10 @@ Nous polissons les cerveaux d'une langue râpeuse.
 
 ## Exercice 2 p.107
 
-Les célèbres tapisseries de La Dame à la licorne sont au nombre de six. Elles ont été tissées au début du XVI^e^ siècle et représentent les cinq sens: l'ouïe, la vue, le goût, le toucher et l'odorat. Le sixième sens, évoqué dans la sixième tapisserie, est définit par l'inscription "A mon seul désir", ce qui à donné lieu à de nombreuses interpétations. Sur ces tapisseries, une jeune femme richement vêtue est accompagnée d'une licorne et d'un lion, dans un décor fleuri.
-Cest tapisseries sont exposées au musée de Cluny, à Paris.
+La licorne est une créature légendaire représentée sous la forme d'un cheval blanc dont le front s'orne d'une longue corne éfilée, en forme ed spirale. Son mento porte un petit bouc comme celui d'une chèvre et ses sabots sont fendus. Cependant, son aspect et so ncaractère différent selon les mythologies régionales. Dès le Moyen Âge, elle figure sur de nombreuses armoiries, y compis rcelles d'Angleterre, au côté d'un lion. Elle est le double symbole de la puissance, par sa corne [...]
+
+Les célèbres tapisseries de La Dame à la licorne sont au nombre de six. Elles ont été tissées au début du XVI^e^ siècle et représentent les cinq sens: l'ouïe, la vue, le goût, le toucher et l'odorat. Le sixième sens, évoqué dans la sixième tapisserie, est défini**t** par l'inscription "À mon seul désir", ce qui à donné lieu à de nombreuses interpétations. Sur ces tapisseries, une jeune femme richement vêtue est accompagnée d'une licorne et d'un lion, dans un décor fleuri.
+Ces tapisseries sont exposées au musée de Cluny, à Paris.
+
+![](../../assets/scans/2024-octo-7-3.png)
 

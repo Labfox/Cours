@@ -205,3 +205,4 @@ The man must have got this tattoo to pay respect to the firman
 Look and react. Say all you can about the differences and similarities between these three photos.
 
 In 2001, there was the win towers before the attacks. After, in 2011, there was two laser aimed at the sky to commemorate the attack. In 2021, A single skyscraper had been built.
+

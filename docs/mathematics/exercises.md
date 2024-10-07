@@ -347,3 +347,38 @@ C'est le multiplier par 1/5
 
 ## Exercice 10
 
+
+## Exercice scratch type brevet
+### 1)
+
+Dans l'algorithme 1, Scratch demande un nombre et affiche le double de ce nombre pendant 2 secondes.
+
+Dans l'algorithme 2, Scratch demande deux nombre et multiplie l'un par l'autre, puis affiche la réponse pendant 2 secondes.
+
+Dans l'algorithme 3, Scratch demande un nombre, et affiche si le nombre est inférieur ou supérieur pendant 2 secondes.
+
+Dans l'algorithme 4, Scratch demande un note sur 30 et la transforme en note sur 20, et affiche le résultat pendant 2 secondes.
+
+### 2)
+
+X=A<br />
+A=B<br />
+B=X
+
+### 3)
+
+Input<br />
+X=Response<br />
+Input<br />
+Z=Response<br />
+Input<br />
+Y=Response<br />
+Say X+Z+Y for 2 seconds
+
+### 4)
+
+SI X>Y:<br />
+    AFFICHER x est supérieur à y PENDANT 2 SECONDES<br />
+SI Y>X:<br />
+    AFFICHER y est supérieur à x PENDANT 2 SECONDES
+

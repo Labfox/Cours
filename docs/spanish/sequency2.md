@@ -43,6 +43,7 @@ mindmap
 Espana es un monarquia mientras que Colombia es una republica
 En Espana se habla espanol tal como en Colombia
 
+
 4. España es una monarquía constitucional mientras que Colombia es una república. 
 5. En España, se habla castellano al igual que en Colombia donde también se habla español. 
 6. Madrid es la capital de España, mientras que Bogotá es la de Colombia. 

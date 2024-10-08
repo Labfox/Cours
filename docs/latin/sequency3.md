@@ -10,4 +10,32 @@ Les plébéiens (une partie des citoyens privés de tous droits politiques) vont
 
 césession, sur l'aventin.
 
-Ils obtiennent la création de tribuns de la plèbe
+Ils obtiennent la création de tribuns de la plèbe et la codification des lois (Lois des 12 Tables). Quelques décénies plus tard, les plébéiens pourront devenir consul, dictateur, censeur, prêret
+
+* Les attaques sur le territoire romain
+
+Dés le début de la République, , Rome doit faire face aux attaquesde ces proches voisins, nottament les étrusques. La lutte les oppose pendant près d'un siècle. Mais, les romains triomphent en -396 lors de la prise de Véiis, puissantete ville étrusque de Véis, puissante ville étrusque (Camile). Avec les autres peuples, Rome fonde une confédération Latine.
+
+* L'invasion de Rome par les Gaulois
+
+En -390, les Gaulois sont repoussés par les Romains grâce aux oies du capitole. Ils seront battus plus tard par le général Camile
+
+* Conquête de l'Italie
+
+La prise de Tarente (en -272) marque la fin de la conquête de l'Italie.
+
+* Conquête de l'Orient
+
+Les Romains mènent trois guerres, les guerres puniques (Poeni, num, m, pluriel), de -264 à -146  contre les Carthaginois, leurs rivaux en Méditerranée. Le But: s'en emparer ! A la fin des trois guerres, Carthage est détruite et les Romains détiennent: la Corse, la Sardaigne et la Sicile et l'Espagne. Hannibal(cartaginois)/Scipion(romain)
+
+* Les Gracques
+
+À l'issue des guerres puniques, un déséquilibre va se faire jour dans la société Romaine. Certains Romains ce sont considérablement enrichis. Les Plébéiens, qui doivent le service millitaire, rentrent chez eux. Mais, ils ne peuevent plus entretenir leurs terres et sont criblés de dettes. Donc, ils viennent donc alors à Rome grossir le nombre de chômeurs. (Ils seront donc rémunérés par des riches personnes pour devenir des "esclaves"). Voyant çela, deux tribuns de la plèbe, deux frères, Tiberius et Caius Gracchus décident de lancer en -133 une réforme agraire pour distribuer aux pays enruinné ils créent l'ager publicus. Cette réforme aurait permit de reconstituer une classe moyenne de petits propriétaires, mais Tiberius se heurte à la noblesse sénatoriale. Ils est assasiné. Dix ans après, son frère Caius tente la même réforme et subit le même sort.
+
+!!! abstract "l'ager publicus"
+
+     Ce sont les terres prises aux peuples vaincus d'Italie et devenues propriété collective du peuple Romain.
+
+
+pr jeudi: chercher des oeuvres pouvant illustrer les différents évênements. Historiques évoqués dans l'oeuvre
+

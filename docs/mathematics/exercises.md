@@ -382,3 +382,26 @@ SI X>Y:<br />
 SI Y>X:<br />
     AFFICHER y est supérieur à x PENDANT 2 SECONDES
 
+## Exercice 9
+
+1. de centre O et d'angle 60° dans le sens anti-horaire
+2. de centre O et d'angle 120° dans le sens trigonométrique
+3. de centre O et d'angle 60° dans le sens trigonométrique
+4. de centre O et d'angle 120° dans le sens horaire
+
+
+## Exercice 12
+
+1. 42°*3 =135°
+2. 45°
+
+## Exercice 13
+
+1. _
+
+Pétale 1: Pétale 9
+Pétale 8: Pétale 4
+Pétale 6: Pétale 2
+
+
+

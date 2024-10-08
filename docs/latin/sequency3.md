@@ -7,3 +7,7 @@ Les plébéiens (une partie des citoyens privés de tous droits politiques) vont
 
 * Les plébéiens obtiennent le pouvoir
 * En -494, les plébéienss
+
+césession, sur l'aventin.
+
+Ils obtiennent la création de tribuns de la plèbe

@@ -66,6 +66,7 @@ nav:
          - "Exercices": "french/sequency1/exercices.md"
          - "Fiche vocabulaire récapitulative": "french/sequency1/fichevocabrecap.md"
          - "évaluations": "french/sequency1/eval.md"
+       - "Préparation à la séquence 2": "french/sequency2prep.md"
     - Spanish:
        - "Home": "spanish/index.md"
        - "Sequency 2": "spanish/sequency2.md"

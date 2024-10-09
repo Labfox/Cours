@@ -34,6 +34,7 @@ nav:
       - "Séquence 1": "latin/sequency2.md"
       - Evaluations: "latin/evals.md"
       - Exercises: "latin/exos.md"
+      - "Séquence 3": "latin/sequency3.md"
     - "History & Geography":
       - Home: "history-geography/main.md"
       - History:
@@ -46,6 +47,10 @@ nav:
             - "Point vocabulaire sur le terme échelle": "assets/scans/2024-sept-20-1.png"
             - "Chapitre 1":
                - Home: "history-geography/geography/theme1/chapter1/main.md"
+               - "Fiche de révision": "history-geography/geography/theme1/chapter1/revision.md"
+      - EMC:
+          - "Chapitre 1":
+              - Home: "history-geography/emc/chapter1/index.md"
     - "Physics & Chemistry":
       - "Chapter 1":
         - "Exos": "physique-chimie/chapter1/main.md"
@@ -60,6 +65,7 @@ nav:
          - "Next page": "french/sequency1/firstpage.md"
          - "Exercices": "french/sequency1/exercices.md"
          - "Fiche vocabulaire récapitulative": "french/sequency1/fichevocabrecap.md"
+         - "évaluations": "french/sequency1/eval.md"
     - Spanish:
        - "Home": "spanish/index.md"
        - "Sequency 2": "spanish/sequency2.md"

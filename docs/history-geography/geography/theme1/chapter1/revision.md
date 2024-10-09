@@ -22,3 +22,37 @@ Aire urbaine de Lyon = 2,6 millions d'habitants, 2^ème^ aire urbaine de France,
 -> Donc beaucoups de déplacements, de mobilités entre les 7 parties de l'aire urbaine
 
 + schèma
+### Les différente espaces d'une aire urbaine
+
+|        Zones         | Caractéristiques                                                                                                                                                                                                                                                                           |
+|:--------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Ville centre     | Espace le plus anciennement et le plus densément urbanisé<br/>- Habitat dense (nombreux immeubles anciens et récents)<br/>- Monuments historiques<br/>- Transports en commun<br/>- Nombreuses activités de commerces, de services, de loisirs<br/>- quartier d'affaire, centre de décision |
+|       Banlieue       | Habitat: <br/>- soit des immeubles avec de grands ensembles<br/>- soit des pavillons, des lotissements.<br/>- grandes surfaces, entreprises= beaucoup d'espace                                                                                                                             |
+| Couronne périurbaine | Espace qui "mélange" ville est campagne<br/>- lottissements, zones pavillonaires, petits immeubles<br/>- villages<br/>- commerces et services de proximité                                                                                                                                 |
+
+- Forte croissance des aires urbaines surtout la couronne périurbaine + étalement => Périurbanisation
+
+!!! abstract "Périurbanisation"
+
+	?
+
+- carte mentale: cause/conséquences
+
+### Lyon, une métropôle internationnale attractive
+
+!!! abstract "Pôle tertiaire"
+
+	Espace concentrant les activités de services et de commandement. Il attire chaque jour des flux de travailleurs.
+
+```mermaid
+mindmap
+	root (aire urbaine)
+		être attractive
+			Développement des transports
+				etendre leur influence
+			Des aménagements
+				Améliorer la compétitivité
+			Des rénovations des quartiers
+				Attirer les investisseurs et les touristes
+```
+

@@ -22,5 +22,20 @@
 
 ![](../../../assets/scans/2024-octo-9-4.png)
 
-1. Le premier type de suffrage était un suffrage censitaire (entre 1789 et 1848) réservé aux hommes, puis un suffrage universel masculin, puis un suffrage universel
-2. 
+#### 2. Le vote, une modalité d'expression du citoyen
+
+![](../../../assets/scans/2024-octo-10-1.png)
+
+| Qui peut-on élire ? | Durée du mandat | Type de suffrage | Mode de scrutin |
+|---|---|---|---|
+| Parlement européen | 5 ans | SUD (Suffrage universel direct) | **Scrutin proportionnel de liste:** <br /> l'électeur vote pour une liste de candidats. Les sièges sont attribués en proportion du nombre de voix obtenues
+| Président de la République | 5 ans | SUD | **Scrutin majoritaire uninominal à 2 tours:**<br /> l'électeur vote pour un seul candidat en 2 tours. Les 2 candidats arrivés en tête au 1^e^ tour s'affrontent au 2^e^ tour. |
+| Députés (assemblée nationale) | 5 ans | SUD | **Scrutin majoritaire uninominal à 2 tours** |
+| Sénateurs (sénat) | 6 ans | SUI (Indirect) | **Scrutin majoritaire à 2 tours** (3 sénateurs ou moins à élire) ou un scrutin proportionnel de list (4 sénateurs ou plus à élire) |
+| Conseillers régionnaux | 6 ans | SUD | **Scrutin de list à 2 tours avec représentation proportionelle et prime majoritaire** |
+| Conseillers départementaux | 6 ans | SUD | **Scrutin majoritaire binominal à 2 tours** (2 conseillers par canton) |
+| Conseillers municipaux | 6 ans | SUD | **Scrutin proportionnel de liste à 2 tours** (communes de plus de 1000 habitants) ou **Scrutin majoritaire plurinominal à 2 tours** (communes de moins de 1000 habitants) |
+
+![](../../../assets/scans/2024-octo-10-2.png)
+
+

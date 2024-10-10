@@ -403,5 +403,11 @@ Pétale 1: Pétale 9
 Pétale 8: Pétale 4
 Pétale 6: Pétale 2
 
+## Exercice 21
+
+C'est une rotation de point O (centre de la figure, de 60° horaire)
+
+## Exercice 22
+
 
 

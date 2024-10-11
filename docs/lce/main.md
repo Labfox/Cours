@@ -48,3 +48,21 @@ hardworking,
 2. Someone who is punctual is somewone who is always organised and always on time.
 
 None
+
+The docuument is a film /m movie postrer.
+
+The title of the movie is Warm Bodies
+
+There is a tagline which says : "He's still dead, but he's getting warmer"
+
+The characters are a boy and a girl. The boy is wearing sneakers (us) and blue jeans.
+
+They look emotionless.
+
+We suppose the story is a love story between a human and a zombie, between there is a crowd of zombies at the bottom.
+
+- I should spend more time on my PC programming
+- I should sleep more
+- I should make more sport
+- I should stop cutting internet to my sister when she plays Genshin Impact and saying that it's a "bug".
+- 

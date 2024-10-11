@@ -220,10 +220,52 @@ Nowadays, in 2021, there is one tall skyscraper which was built where the two to
 2. Americans commemorate the 2001 terrorist attack
 3. There is a minute of silence at 8:46 am because the atack took place at that time.
 
-_
+
 
 - 1wtc: freedom tower 3.8 billion dollars + 8 years build, 541 meters talles in western hemisphere
 
-a) one thousand and six hundred seventy seven
-b) four thousands square meters
-c) 
+1. one thousand and six hundred seventy seven
+2. four thousands square meters
+
+| who | where | what | when | feelings |
+|-----|-------|------|------|----------|
+| women | new york | when she was going to class | in the morning | horrified |
+
+Who are you ? Someone
+Can you tell me your name ? No
+
+Where were you when the attack took place ? I was in my house
+What were you doing ? I was coding
+
+When was it ? When the attack took place
+How did you feel ? Like nothing happened
+
+V1:
+```
+Hello ! What do you wanna do ?
+    1. Chat with a group
+    2. Join a group
+    3. Disable this
+    4. Quit a group
+```
+
+Si 1:
+```
+Ok. Do you want me to send backlog ?
+```
+
+Si 2:
+```
+Ok. send me the join code
+```
+
+Si 3:
+```
+Okay. I won't talk to you anymore
+```
+
+Si 4:
+```
+Okay ? What group do you wanna quit ?
+    - [liste groupes]
+```

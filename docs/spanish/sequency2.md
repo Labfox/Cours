@@ -65,7 +65,28 @@ sesion 2: la vida cotidiana en Espana y en COlombia
 "vidéo vidas paraleleas"
 
 Las dos chicas se llamana Sofia y Maria. Maria es Colombiana y Sofia es espanola. Por la manase levantan a las siete y trenta. Luego desayunan y van al colegio.
-
 Por la tarde, Maria habla inglés y Sofia trabaha.
 A las chicas les gusta el futbol.
+
+---
+
+Querida Sofía,
+
+Mi nombre es María y soy de Colombia.
+Por las mañanas, me levanto a las siete y media. Luego desayuno y voy al colegio. Mi colegio es moderno. 
+Después de las clases, en mis actividades extraescolares, suelo practicar inglés y los fines de semana veo el fútbol
+con mi familia.
+
+María
+
+---
+
+Querida María,
+
+Mi nombre es Sofía y soy de España. Soy española.
+Por las mañanas, me levanto a las siete y media. Luego desayuno y voy al colegio. 
+Después del colegio, en mis actividades extraescolares, trabajo en una tienda local y los fines de semana también veo al fútbol.
+
+
+Sofía
 

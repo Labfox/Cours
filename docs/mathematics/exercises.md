@@ -407,7 +407,9 @@ Pétale 6: Pétale 2
 
 C'est une rotation de point O (centre de la figure, de 60° horaire)
 
-## Exercice 22
+## Exercice 23
+
+
 
 
 

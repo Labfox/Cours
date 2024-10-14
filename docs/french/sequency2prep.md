@@ -9,3 +9,5 @@ Dans cette image, on voit une boule réfléchissante tenue par une main, et dans
 la philosophie /
 le regard sur soi-même /
 
+"main dans une boule de cristal", lithographie d'Escher, 1935
+

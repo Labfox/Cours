@@ -64,5 +64,4 @@ We suppose the story is a love story between a human and a zombie, between there
 - I should spend more time on my PC programming
 - I should sleep more
 - I should make more sport
-- I should stop cutting internet to my sister when she plays Genshin Impact and saying that it's a "bug".
 - 

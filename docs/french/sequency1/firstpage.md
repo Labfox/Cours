@@ -294,3 +294,4 @@ Dès le Moyen Âge, elle figure sur de nombreuses armloiries, y comprit celle d'
 Certains prétendent que le narval serait à l'origine du mythe de la licorne. Le narval, en effet, est un cétacé qui possède une défense torsadée pouvant mesurer jusqu'à trois mètres de long.
 
 Recopier points méthode td
+

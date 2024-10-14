@@ -240,6 +240,54 @@ What were you doing ? I was coding
 When was it ? When the attack took place
 How did you feel ? Like nothing happened
 
+1) Let's recap some survivors' testimonies of 9/11
+
+The first speaker is a woman who was living in New York at the time of the events and her dad worked in Manhattan. She remembers she was at school and the teacher asked them to sit down and watch tv.
+
+She was terrified and she couldn't believe what she saw.
+Her mum was crying as she went back home.
+
+2) Grammar sopts:
+
+* Agir sur quelqu'un avec la proposition infinitive=
+
+Verbe d'action sur quelqu'un (ask / tell / encourage ...) + PRONOM COMPLEMENT (me/you/him/her/us/you/them) + TO + BASE VERVALE
+
+EX: He asked her to sit down. He wants her to watch the news on TV.
+
+
+1. Make so the internet doesn't break
+2. I would like my mother to stop harassing me on grades (not really true, but used to be)
+
+
+## Exercices prétérit
+### 2
+
+1. that he watched the TV when you called
+2. That yo were tirerd yesterday when your friends came
+3. that your mom met your professor in the supermarket
+
+### 3
+
+1. What have you saw at Marks&Spencer's this morning ?
+2. Why didn't you bough that tee-shirt ?
+3. When did you went to China ?
+4. Where did youu went after the cinema ?
+5. Where did you met your boss ?
+
+### 4
+
+
+## 2) Emploi du Past Continuous (or progressive) (was/were ing)
+
+* **Le Past Continuous s'emploie pour indiquer qu'une action était en cours à un moment du passé. Il se traduit généralement par l'imparfait en français:**
+
+_"What were you doing at eight o'clock yesterday evening?" "I was watching TV." "Que faisiez-vous hier soir à huit heures ?" "He regardais la télé"._
+
+* **Il s'emploie fréquement en contraste avec le prétérit simple. Le prétérit continu désigne alors une action qui était en cours en constraste avec le prétérit simple qui désigne un fait nouveau qui s'est produit:**
+
+
+
 V1:
 ```
 Hello ! What do you wanna do ?

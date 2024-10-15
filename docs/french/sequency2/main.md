@@ -20,3 +20,23 @@ auto (de soi-même/ par soi-même) (préfixe) - bio (vie) (radical) - graphie (t
 
 19
 
++ _
+
+| auto | bio | graphie |
+|------|-----|---------|
+| autopsie | biogaz | sérigraphie |
+| autodérision | biologiste | photographie |
+| automutilation | biodégradable | cinématographe |
+| autodéfense | biodiverstié | caligraphie |
+| autonome | biopic | orthographe |
+| autoportrait | bioéthique | sténographe |
+| autodidacte | bioluminescent | lithographie |
+| autographe | biocarburant | chorégraphie |
+| autocratie | biotope | graphologue |
+| autocollant | biosphère | échographie |
+| autocritique | biométrie | |
+| autochtone | | |
+| autosatisfait | | |
+| autocensure | | |
+
+TD Bordas p. 64-65

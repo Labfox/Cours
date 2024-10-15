@@ -45,5 +45,8 @@ Les Romains mènent trois guerres, les guerres puniques (Poeni, num, m, pluriel)
      Ce sont les terres prises aux peuples vaincus d'Italie et devenues propriété collective du peuple Romain.
 
 
-pr jeudi: chercher des oeuvres pouvant illustrer les différents évênements. Historiques évoqués dans l'oeuvre
+## De crise en crise
+
+
+après la défaite des Gracques, le fossé se creuse entre "populares" et "optimates". (Doc 6 p.30 "Naissance de deux tendances politiques ")
 

@@ -90,3 +90,9 @@ Después del colegio, en mis actividades extraescolares, trabajo en una tienda l
 
 Sofía
 
+## Lunes, catorce de octubre
+### sesion 3: Andalucia
+
+Andalucia esta en Espana (en el sur). A los andaluces le gusta el baile flamenco y el gazpacho. Los andaluces suelen dormir la siesta porque es un ritmo diferentes y hace mucho calor.
+
+

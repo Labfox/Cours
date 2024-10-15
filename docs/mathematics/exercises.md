@@ -407,9 +407,14 @@ Pétale 6: Pétale 2
 
 C'est une rotation de point O (centre de la figure, de 60° horaire)
 
-## Exercice 23
+## Exercice 25
 
-
+| Homothétie de ...          | Numéro de l'image |
+|----------------------------|-------------------|
+| Centre I et de rapport 2   | 1 |
+| Centre I et de rapport -3  | 4 |
+| Centre I et de rapport 0,5 | 2 |
+| Centre I et de rapport 0,5 | 3 |
 
 
 

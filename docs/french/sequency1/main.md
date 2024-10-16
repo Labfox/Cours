@@ -44,7 +44,7 @@ Figures de style de l'analogie:
 
 ## IV) éVALUATIONS
 
-* évalations intermédiaires (Textes sur la corrida - MAgnard)
+* évalations intermédiaires (Textes sur la corrida - Magnard)
 * Dictée n°1
 * **BILAN SÉQUENCE**
 * Expression écrite n°1

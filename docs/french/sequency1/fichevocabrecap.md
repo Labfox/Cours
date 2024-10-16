@@ -45,8 +45,8 @@ Les quatres formes de discours
 |   Sérénité    |    La situation d'énonciation     |
 |  Se mitonner  |  Les quatres formes de discours   |
 | méticulosité  |            Métaphores             |
-| sensuelle     |            Allégories             |
-| egnema        |           Comparaisons            |
+|   sensuelle   |            Allégories             |
+|    egnema     |           Comparaisons            |
 |     aura      |         Personnification          |
 |    martyr     |             Paratexte             |
 |   arabesque   |           Mise en page            |

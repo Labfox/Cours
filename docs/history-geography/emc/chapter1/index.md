@@ -39,3 +39,38 @@
 ![](../../../assets/scans/2024-octo-10-2.png)
 
 
+La souveraineté nationale appartient au peuple. Celui-ci délègue son pouvoir à ses reorésentants éluus soit au suffrage universel direct, soi au suffrage universel indirect. Pour chaque élection, la présence de plusieurs candidats ou de plusieurs listes garantit le pluralisme politique et la liberté de choix de citoyens. C'est la démocratie représentative.
+
+**Suffrage universel: système dans lequel le corps électoral est constitué par tous les citoyen(ne)s**
+
+**Pluralisme politique: existence de plusieurs opinions politiques**
+
+(référencer les 3 feuilles)
+
+!!! abstract "Abstention"
+
+    Non-participation des électeurs à une élection
+
+1. Le taux d'abstention de manière générale en France à augmenté.
+2. Les principales raisons sont la perte de confiance pour les candidats, qui ont "déçu" une greande partie des électeurs, l'impression qu'un vote ne change rien, l'indécision des électeurs et les indisponibilités, ainsi qu'un manque d'intêret pour la politique
+
+3. (recopier qd stylo )
+
+^le sondages montrent que [...] records^
+
+_les politiques [...] mobiliser leurs électeurs_
+
+^en belgique [...] ne vote pas^
+
+_n'apporte pas de solutions_
+
+_le droit de vote [...] obligation_
+
+_si le vote[...] containte_
+
+### B. Le citoyen possède aussi des droits civils, économiques et sociaux
+
+| Catégories de droits | Textes qui les garantissent | Exemples de droits |
+|----------------------|-----------------------------|--------------------|
+| Civils | Déclaration des droits de l'homme et du citoyen déclaration universelle des droits de l'homme, 1948 | égalité devant la loi, sécurité, protection contre l'arbitraire, propriété |
+| économique et sociaux | Constitutions | droit au travail, à l'éducation, à la santé, à la protection contre le chomage |

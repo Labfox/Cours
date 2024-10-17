@@ -288,6 +288,19 @@ _"What were you doing at eight o'clock yesterday evening?" "I was watching TV." 
 
 
 
+The new topic will be about the American presidential elections.
+
+This document is a cartoon which was published on July, 22nd 2024 and where we can see the two candidates Kamala Harris and Donald Trump fighting with boxing gloves in a boxing ring. The message might be that this election will be really tense and rough, because both candidates are determined to win this election.
+
+
+In this chapter we will be able to:
+
+- Learn and understand how the American president is elected.
+- Learn about the symbols, the parties and the candidates.
+- Take part in a survey: "if i were president..."
+- Record an interview to let the school know all about the US elections.
+
+
 V1:
 ```
 Hello ! What do you wanna do ?

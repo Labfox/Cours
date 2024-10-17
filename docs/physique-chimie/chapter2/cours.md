@@ -27,4 +27,3 @@ D’après l’activité 1 nous en avons déduit que le poids est proportionnel 
 - M, la masse en kilogramme
 - « g » est appelé l’intensité de pesanteur et s’exprime en newton par kilogramme (N/kg). Elle dépend, comme le poids, du lieu où on se trouve. Sur Terre, g = 10N/kg ; sur la Lune g = 1,6 N/kg
 
-

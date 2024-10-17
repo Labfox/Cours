@@ -54,4 +54,17 @@ Les chefs militaires poussés souvent par leur ambition personnelles, entrent en
 
 En l'année 107 avant J.C., un "homo novus" est élu au consulat grâce à l'appui des chevaliers et du parti populaire: Caius Marius (ordre équestre). Le peuple lui confie aussitôt la direction de la guerre contre Jugurtha de Numidie qu'il mène à bien. Il s'illustre ensuite dans les guerres contre les Cimbres et les Teutons. Fort de ces succès, contrairement à la règle, Marius parvient à se faire ré-élir au consulat chaque année puis chaque année jusqu'en -100, date à laquelle il quitte Rome car il est incapable de gouverner. Le premier rang échoit alors à un patricien ruiné, Lucius Cornellius Sylla (noble), qui réprime le soulèvement des alliés de Rome. Contre Mithridate (Asie Mineure)
 
-Si Lae Marius, se disputent le commandement. Une véritable guerre civile appose les partisans des deux groupes. Sylla, de retour d'orient victorieux, devient dictateur en -82 et se venge des partisans de Marius (mort en -86), en établissant des listes de proscription: 1600 chevaliers et 40 sénateurs sont ainsi éxécutés. Il abdique en -79 et il redevient un simple citoyen. Non sans avoir rempli son rôle avec une grande cruauté et intrensigant. En -67, l'assemblée populaire donne les plein pouvoirs au général Pompée, lieutenant de Sylla. Il se fait connaître lui aussi par ces succés militaires: il bat les partisants de Marius, et les esclaves révoltés dirigés par Spartacus, élimine les bandes de pirates en Méditerranée et bat définitivement Mithridate. Pompée, de retour à Rome, se heurte à l'aristocratie. Il s'allie alors avec Crassus (citoyen très riche) et César (Populares) pour former un triumvirat 
+Si Lae Marius, se disputent le commandement. Une véritable guerre civile appose les partisans des deux groupes. Sylla, de retour d'orient victorieux, devient dictateur en -82 et se venge des partisans de Marius (mort en -86), en établissant des listes de proscription: 1600 chevaliers et 40 sénateurs sont ainsi éxécutés. Il abdique en -79 et il redevient un simple citoyen. Non sans avoir rempli son rôle avec une grande cruauté et intrensigant. En -67, l'assemblée populaire donne les plein pouvoirs au général Pompée, lieutenant de Sylla. Il se fait connaître lui aussi par ces succés militaires: il bat les partisants de Marius, et les esclaves révoltés dirigés par Spartacus, élimine les bandes de pirates en Méditerranée et bat définitivement Mithridate. Pompée, de retour à Rome, se heurte à l'aristocratie. Il s'allie alors avec Crassus (citoyen très riche) et César (Populares) pour former un triumvirat
+
+assemblées directes = comices
+
+édiles = maires
+
+prétoire = préteurs
+
+consuls: sénat / comices / armées = président (élection 1 ans)
+
+censeurs, tribuns de la plèbe, dictateur
+
+dictateur: ancien consul nmomé pour six mois, pleins pouvoirs
+

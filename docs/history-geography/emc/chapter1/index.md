@@ -73,4 +73,13 @@ _si le vote[...] containte_
 | Catégories de droits | Textes qui les garantissent | Exemples de droits |
 |----------------------|-----------------------------|--------------------|
 | Civils | Déclaration des droits de l'homme et du citoyen déclaration universelle des droits de l'homme, 1948 | égalité devant la loi, sécurité, protection contre l'arbitraire, propriété |
-| économique et sociaux | Constitutions | droit au travail, à l'éducation, à la santé, à la protection contre le chomage |
+| économique et sociaux | constitution de la 4e République 1946, constitution de la 5e République 1958 | droit au travail, à l'éducation, à la santé, à la protection contre le chomage |
+
+### C. Le citoyen a aussi des devoirs
+
+![](../../../assets/scans/2024-octo-18-1.png)
+
+En contrepartie, les citoyens ont des devoirs essentiels: respecter les lois de la République, payer des impôts pour financer par exemple les services publics (police, justice, écoles, hôpitaux...), participer à la défense de leurs pays, respecter les droits des autres citoyens, être jurés en cours d'assises.
+
+### D) Les droits des femmes en France ett dans le monde
+

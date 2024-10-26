@@ -40,3 +40,31 @@ auto (de soi-même/ par soi-même) (préfixe) - bio (vie) (radical) - graphie (t
 | autocensure | | |
 
 TD Bordas p. 64-65
+
+6:
+rival: rivaliser -> rivalité
+crème: crémant -> crémé
+uni: unique -> unifiant
+
+7:
+
+1. bi(deux) cyclette(roues): deux-roues
+2. anti (contre) constitutionellement (qui respecte la constitution): contre la constitution
+3. ininflammable: non inflammable
+4. expatrier: sortir de la patrie
+
+8:
+
+1. populaire, population
+2. manuel
+3. clairon
+
+9: 
+
+adjectif + nom
+adjectif + nom
+nom + nom
+verbe + nom
+
+
+

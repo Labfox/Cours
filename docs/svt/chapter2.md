@@ -112,3 +112,4 @@ Un **Lymphocyte B** reconnaît un type d'antigène et produit les anticorps spé
 ## IV - Comment l'organisme réagit-il lors d'une infection virale ?
 
 ^^Activité 5^^: Consigne p.395: Explique comment les lymphocytes T tueurs permettent d'éliminer les cellules infectées.
+

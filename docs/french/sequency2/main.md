@@ -43,15 +43,15 @@ TD Bordas p. 64-65
 
 6:
 rival: rivaliser -> rivalité
-crème: crémant -> crémé
-uni: unique -> unifiant
+crème: crémeu -> écrémé
+uni: union -> unifier
 
 7:
 
 1. bi(deux) cyclette(roues): deux-roues
 2. anti (contre) constitutionellement (qui respecte la constitution): contre la constitution
-3. ininflammable: non inflammable
-4. expatrier: sortir de la patrie
+3. in inflammable: non inflammable
+4. ex patrie r: sortir de la patrie
 
 8:
 
@@ -63,8 +63,16 @@ uni: unique -> unifiant
 
 adjectif + nom
 adjectif + nom
-nom + nom
+adverbe + nom
 verbe + nom
 
 
 
+## 3) Activité 3: Carte �mentale
+
+```mermaid
+mindmap
+	root ((autobiographie))
+		se décrir
+		
+```

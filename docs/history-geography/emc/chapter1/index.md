@@ -81,5 +81,16 @@ _si le vote[...] containte_
 
 En contrepartie, les citoyens ont des devoirs essentiels: respecter les lois de la République, payer des impôts pour financer par exemple les services publics (police, justice, écoles, hôpitaux...), participer à la défense de leurs pays, respecter les droits des autres citoyens, être jurés en cours d'assises.
 
-### D) Les droits des femmes en France ett dans le monde
+### D) Les droits des femmes en France et dans le monde
 
+_ roosvelt
+
+1975
+1979
+2010
+premier ministre
+l'égalité salariale
+1992
+1995
+première femme chef d'état en Afrique
+2014

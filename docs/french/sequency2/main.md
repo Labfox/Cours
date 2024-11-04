@@ -68,7 +68,7 @@ verbe + nom
 
 
 
-## 3) Activité 3: Carte �mentale
+## 3) Activité 3: Carte mentale
 
 ```mermaid
 mindmap

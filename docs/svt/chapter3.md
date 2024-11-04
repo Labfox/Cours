@@ -12,3 +12,4 @@ Activité 1 : Compétence travaillée : « Extraire les informations »
 1. Je constate que la réponse primaire génére moins d'anticorps que la réponse secondaire, la réponse secondaire est donc plus efficace
 2. Cette différence est causée par la "mise en mémoire" des anticorps, permettant une productino plus rapide
 3. Les poules du lot B survivent grâce à l'aide de la réoonse secondaire induite par l'injection de bactéries vieillies
+

@@ -45,3 +45,5 @@ M` est l'image de M par la rotation de centre O et d'angle 60° dans le sens inv
 1. \( \overset{\bigwedge}{MOM`} = 60°\)
 2. MO = OM`
 
+
+

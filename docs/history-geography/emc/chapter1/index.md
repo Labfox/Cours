@@ -94,3 +94,28 @@ l'égalité salariale
 1995
 première femme chef d'état en Afrique
 2014
+
+## II. Valeurs, principes et symboles de la République française
+### A. Les symboles de la République française
+
+![](../../../assets/scans/2024-novm-4-1.png)
+
+### B. Valeurs et principes de la République
+
+![](../../../assets/scans/2024-novm-4-2.png)
+
+!!! abstract "Valeurs"
+
+    Ce sont dse idéaux à atteindre ou à défendre reconnus par notre République. Elles forment notre devise nationale
+
+!!! abstract "Principes"
+
+    Règles considérées comme fondamentales permettent d'atteindre les valeurs défendues par notre République.
+
+![](../../../assets/scans/2024-novm-4-3.png)
+
+| Principes     |                                               sociale                                               |                                                                                    indivisible                                                                                     |                                                                         Laïcité                                                                          |                                                                               démocratique                                                                                |
+|---------------|:---------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Définition    | La République instaure une fraternité ou solidarité entre les citoyens au nom du principe d'égalité | Aucune partie du peuple ni aucn individu ne peut s'attribuer l'exercice de la souveraineté nationale. Seul le peuple pl'exerce par ses représenants. La loi est la même pour tous. | Le pouvoir politique est séparé de l'influence des Eglises et des religions au nom de la liberté de croyance et de l'égalité des citoyens devant la loi. | Le pepuple tout entier détient le pouvoir et l'exerce directement ou indirectement par l'intermédiare de représentants élus. Les libertés fondamentales sont respedctées. | 
+| Exemples (n°) |                                                 4,7                                                 |                                                                                        2, 8                                                                                        |                                                                           1, 6                                                                           |                                                                                   3,5,9                                                                                   |
+

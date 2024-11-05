@@ -447,11 +447,24 @@ C'est une rotation de point O (centre de la figure, de 60° horaire)
 ## Exercice 25
 
 | Homothétie de ...          | Numéro de l'image |
-|----------------------------|-------------------|
-| Centre I et de rapport 2   | 1 |
-| Centre I et de rapport -3  | 4 |
-| Centre I et de rapport 0,5 | 2 |
-| Centre I et de rapport 0,5 | 3 |
+|----------------------------|:-----------------:|
+| Centre I et de rapport 2   |         1         |
+| Centre I et de rapport -3  |         4         |
+| Centre I et de rapport 0,5 |         2         |
+| Centre I et de rapport 0,5 |         3         |
+
+## Questions flash
+
+1) 48
+2) 2
+3) 60/**85**
+
+## 1.
+1. 25
+2. 0
+3. 16
+
+## 2.
 
 
 

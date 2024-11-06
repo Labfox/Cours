@@ -98,6 +98,34 @@ première femme chef d'état en Afrique
 ## II. Valeurs, principes et symboles de la République française
 ### A. Les symboles de la République française
 
+2 pages
+
+1. La marseillaise, hymne national
+	1. La marseillaise à été composée dans la nuit du 25 au 26 avril 1792, à Strasbourgh par Clauude-Joseph Rouget de Lisle
+	2. Car les combattants venant du Sud la chantaient
+	3. En 1879, sous la IIIe République
+	4. Ils se battent contre la monarchie ("la tyranie"), la liberté est mise en avant
+2. Le drapeau tricolore: emblème national
+	1. Le blanc pour la monarchie, le bleu et le rouge pour la ville de Paris
+	2. Sur la cocarde
+	3. En 1794
+	4. DE 1814 à 1830
+	5. Sur les édifices publiques
+3. La device de la République
+	1. Les philosphes des Lumières
+	2. Par Rousseau et Locke
+	3. Sous la République
+	4. Sur les édifices publics
+4. La fête nationale
+	1. La prise de la bastille et la fête de la Fédération
+	2. En 1880 sous la République
+	3. Un défilé militaire sur les champs élysées, des balles et des feux d'artifices, un jour férié
+5. Allégorie de la République
+	1. La femme: le peuple, la république, le bonnet phrygien: la liberté
+	2. Car c'était un prénom très répandu au 18ème siècle
+	3. Dans les mairies, sur les pièces
+6. Le coq français, le faisceau de licteur, le sceau de la république
+
 ![](../../../assets/scans/2024-novm-4-1.png)
 
 ### B. Valeurs et principes de la République

@@ -38,3 +38,34 @@ Seule la 4 est possible à cause de l'attraction gravitationelle
 4. la force centrifuge baisserait, et le satellitte finirait par tomber
 5. car l'atmosphère cause beaucoup de résistance
 
+### 3) Calcul du poids
+
+P~terre~ = m x g~terre~
+
+P~terre~ = 35 x 9.81
+
+P~terre~ = 343,35 N
+
+P~terre~ = m x g~terre~
+
+P~terre~ = (35 + 72) x 3.711
+
+P~terre~ = 397 N
+
+### 4) Comparaison
+
+P~terre~ > P~Mars~
+
+Le poids est plus faible sur Mars donc Arthur sautera sur Mars
+
+## Activité 3
+
+### 1) La gravitation est une action _
+
+1. Quand le lanceur arrête de tirer su le filin, le poids part
+2. Une atraction
+3. La terre attire la lune
+
+### 2) La gravitation est une action _
+
+ 

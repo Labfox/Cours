@@ -72,45 +72,45 @@ verbe + nom
 ```mermaid
 mindmap
 	root ((autobiographie))
-	tranformation de la réalité A.G
-	Vécu A.B
-	Journal intime L.B
-	Histoire personnelle N.S.K 
-	Sentiments N.S.K
-	personnages réels C.H
-	posthume A.G
-	émotions C.A.L.H
-	Point de vue A.S
-	Autoportraits M.C
-	parcours de vie E.C
-	écriture C.M
-	Réalité O.R
-	Se décrire M.B
-	miroir H.B
-	récit à la 1ère presonne C.H
-	ellipse C.V
-	souvenirs L.B A.G
-	passé A.B
-	se raconter A.G
-	anectode O.R
-	raconter sa vie M.C
-	soi mème E.M
-	imagination/fiction E.M
-	l'enfance L.P
-	transmettre C.M
-	faits historiques C.H
-	famille A.G
-	péripéties A.V
-	selfie E.C
-	mémoire C.M
-	temps du passé M.C
-	vie commune ou vie extraordinaire C.H
-	enfant-adult A.V
-	idéaliser C.V
-	ordre chronologique L.D
-	nostalgie M.C
-	retour en arrière 
-	témoins A.B
+        tranformation de la réalité A.G
+        Vécu A.B
+        Journal intime L.B
+        Histoire personnelle N.S.K 
+        Sentiments N.S.K
+        personnages réels C.H
+        posthume A.G
+        émotions C.A.L.H
+        Point de vue A.S
+        Autoportraits M.C
+        parcours de vie E.C
+        écriture C.M
+        Réalité O.R
+        Se décrire M.B
+        miroir H.B
+        récit à la 1ère presonne C.H
+        ellipse C.V
+        souvenirs L.B A.G
+        passé A.B
+        se raconter A.G
+        anectode O.R
+        raconter sa vie M.C
+        soi mème E.M
+        imagination/fiction E.M
+        l'enfance L.P
+        transmettre C.M
+        faits historiques C.H
+        famille A.G
+        péripéties A.V
+        selfie E.C
+        mémoire C.M
+        temps du passé M.C
+        vie commune ou vie extraordinaire C.H
+        enfant-adult A.V
+        idéaliser C.V
+        ordre chronologique L.D
+        nostalgie M.C
+        retour en arrière 
+        témoins A.B
 ```
 philizot
 

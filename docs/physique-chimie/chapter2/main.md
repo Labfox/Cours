@@ -60,12 +60,25 @@ Le poids est plus faible sur Mars donc Arthur sautera sur Mars
 
 ## Activité 3
 
-### 1) La gravitation est une action _
+### 1) La gravitation est une action attractive
 
 1. Quand le lanceur arrête de tirer su le filin, le poids part
-2. Une atraction
-3. La terre attire la lune
+2. Le soleil doit retenir la planète
+3. La terre attir aussi la lune
 
-### 2) La gravitation est une action _
+### 2) La gravitation est une action à distance
 
- 
+1. Il l'attire. NOn, il le fait à distance
+2. Il faut rapprocher l'aimant donc l'intensité dépend de la distance
+
+### 3) La gravitation est une action réciproque
+
+1. En échangeant le clou et l'aimant cela foncctionne aussi donc c'est réciproque
+2. C'est réciproque car la lune attire la Terre et l'eau mo,nte et crée les marrées
+
+
+### 4) La gravitation est une action universelle
+
+1. Non
+2. Ils tombent. Ils subissent l'action de la Terre qui les attire: la gravitation.
+3. l'action de la Terre est universelle

@@ -466,7 +466,17 @@ C'est une rotation de point O (centre de la figure, de 60° horaire)
 
 ## 2.
 
+## Questions flash
 
+1. 77
+2. 27
+3. 6/11
+4. 
+5. 10
+
+## Exercice 13
+
+1. 
 
 Create Group
 Create Newsletter

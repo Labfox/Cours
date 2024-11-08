@@ -49,3 +49,35 @@ l'esclave -> CDN, Génitif, servi
 
 
 
+## Exercices déclinaisons
+
+1. _
+
+| Terminaison | 1^ère^ déclinaison | 2^ème^ déclinaison | 3^ème^ déclinaison |
+|:-----------:|:------------------:|:------------------:|:------------------:|
+|     -is     |                    |                    |    nominatif ?     |
+|     -i      |                    |                    |                    |
+|     -e      |                    |                    |                    |
+|     -a      |                    |                    |                    |
+|     -um     |                    |                    |      génitif       |
+
+
+2. _
+
+| Nom    | Entrée lexicale | Déclinaison | Cas possible |
+|--------|-----------------|-------------|--------------|
+| finis  |                 |             |              |
+| pueris |                 |             |              |
+| mari   |                 |             |              |
+| capita |                 |             |              |
+| aqua   |                 |             |              |
+
+
+3. Cherchez l'intrus de chaque série et justifiez votre réponse
+   1. templorum / le plorum
+   2. montium / la pronunciation
+   3. domina / pronunciation
+   4. sententia
+   5. patri
+4. _
+5. 

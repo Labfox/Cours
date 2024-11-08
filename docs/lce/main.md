@@ -49,7 +49,7 @@ hardworking,
 
 None
 
-The docuument is a film /m movie postrer.
+The docuument is a film / movie postrer.
 
 The title of the movie is Warm Bodies
 
@@ -64,4 +64,27 @@ We suppose the story is a love story between a human and a zombie, between there
 - I should spend more time on my PC programming
 - I should sleep more
 - I should make more sport
-- 
+
+1) "I have difficulties with grammar" (Kenny)
+
+Maybe, you can read over your paper to check if you made some mistakes<br />
+You should read more books <br />
+You can ask your French teacher for help. You're already a determined person, so you could solve the problem.
+
+2) "I'm afraid of speaking in public" (Brenda)
+
+You should try to speak out loud when you're alone. <br />
+YOu should record yourself and then listen to improve 
+on your speaking skills
+
+3) "I understand most things but it's harder for me to make sentences" Joshua
+
+You should ask AI to create exercises for you to 
+practice
+
+Personally, I'm more conviced by the first one, because it's more colorful and cheerful and it makes me smile, but she sounds a little desperate to win.
+
+The second one looks a little plain and it doesn't really catch my attention, even if Julia looks friendly.
+
+The last one catches my attention because there's a play one words which makes me want to smile.
+

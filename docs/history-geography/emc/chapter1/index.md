@@ -128,13 +128,30 @@ première femme chef d'état en Afrique
 
 ![](../../../assets/scans/2024-novm-4-1.png)
 
+<!--
+| Symboles                          | Marseillaise      | Drapeau tricolore | Liberté, égalité, fraternité | 14 juillet        | Marianne          |
+|-----------------------------------|-------------------|-------------------|------------------------------|-------------------|-------------------|
+| Date ou période ou ils s'imposent | 3^ème^ république | 1794              | 3^ème^ République            | 3^ème^ République | 3^ème^ République |
+| Nature du symbole                 | Hymne             | emblème           | devise                       | fête nationale    | emblème           |
+-->
+
+| Symbole                      | Date ou période ou ils s'imposent | Nature du symbole |
+|------------------------------|-----------------------------------|-------------------|
+| Marseillaise                 | 3^ème^ république                 | Hymne             |
+| Drapeau tricolore            | 1794                              | emblème           |
+| Liberté, égalité, fraternité | 3^ème^ République                 | devise            |
+| 14 juillet                   | 3^ème^ République                 | fête nationale    |
+| Marianne                     | 3^ème^ République                 | emblème           |
+
+
+
 ### B. Valeurs et principes de la République
 
 ![](../../../assets/scans/2024-novm-4-2.png)
 
 !!! abstract "Valeurs"
 
-    Ce sont dse idéaux à atteindre ou à défendre reconnus par notre République. Elles forment notre devise nationale
+    Ce sont des idéaux à atteindre ou à défendre reconnus par notre République. Elles forment notre devise nationale
 
 !!! abstract "Principes"
 
@@ -142,8 +159,68 @@ première femme chef d'état en Afrique
 
 ![](../../../assets/scans/2024-novm-4-3.png)
 
-| Principes     |                                               sociale                                               |                                                                                    indivisible                                                                                     |                                                                         Laïcité                                                                          |                                                                               démocratique                                                                                |
-|---------------|:---------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Définition    | La République instaure une fraternité ou solidarité entre les citoyens au nom du principe d'égalité | Aucune partie du peuple ni aucn individu ne peut s'attribuer l'exercice de la souveraineté nationale. Seul le peuple pl'exerce par ses représenants. La loi est la même pour tous. | Le pouvoir politique est séparé de l'influence des Eglises et des religions au nom de la liberté de croyance et de l'égalité des citoyens devant la loi. | Le pepuple tout entier détient le pouvoir et l'exerce directement ou indirectement par l'intermédiare de représentants élus. Les libertés fondamentales sont respedctées. | 
-| Exemples (n°) |                                                 4,7                                                 |                                                                                        2, 8                                                                                        |                                                                           1, 6                                                                           |                                                                                   3,5,9                                                                                   |
+
+<!--
+| Principes     |                                               sociale                                               |                                                                                    indivisible                                                                                    |                                                                         Laïcité                                                                          |                                                                               démocratique                                                                               |
+|---------------|:---------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Définition    | La République instaure une fraternité ou solidarité entre les citoyens au nom du principe d'égalité | Aucune partie du peuple ni aucun individu ne peut s'attribuer l'exercice de la souveraineté nationale. Seul le peuple exerce par ses représentants. La loi est la même pour tous. | Le pouvoir politique est séparé de l'influence des Eglises et des religions au nom de la liberté de croyance et de l'égalité des citoyens devant la loi. | Le pepuple tout entier détient le pouvoir et l'exerce directement ou indirectement par l'intermédiare de représentants élus. Les libertés fondamentales sont respectées. | 
+| Exemples (n°) |                                                 4,7                                                 |                                                                                            8                                                                                      |                                                                           1, 6                                                                           |                                                                                 2,3,5,9                                                                                  |
+-->
+
+
+|   Principes   |                                                                                    Définition                                                                                     | Exemples (n°) |
+|:-------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|
+|    sociale    |                                        La République instaure une fraternité ou solidarité entre les citoyens au nom du principe d'égalité                                        |      4,7      |
+|  indivisible  | Aucune partie du peuple ni aucun individu ne peut s'attribuer l'exercice de la souveraineté nationale. Seul le peuple exerce par ses représentants. La loi est la même pour tous. |       8       |
+|    laïcité    |             Le pouvoir politique est séparé de l'influence des Eglises et des religions au nom de la liberté de croyance et de l'égalité des citoyens devant la loi.              |      1,6      |
+| démocratique  |     Le pepuple tout entier détient le pouvoir et l'exerce directement ou indirectement par l'intermédiare de représentants élus. Les libertés fondamentales sont respectées.      |   2, 3, 5, 9  |
+
+```mermaid
+mindmap
+	root (La République française)
+		Des symboles
+			Marseillaise
+			Drapeau Tricolore
+			Liberté, égalité, fraternité
+			Marianne
+		Des valeurs
+			Liberté 
+			Égalité
+			Fraternité
+		Des principes
+			Sociale
+			Indivisible
+			Laïque
+			Démocratique
+```
+
+## II. Être citoyen européen
+### A. Qu'est-ce que la citoyenneté européenne ?
+
+inclure traité sur l'union européenne
+
+Article 8 A.1 > Droit de circuler et séjourner dans l'UE
+
+Article 8 B.1 > Vote et elligibilité aux élections municipales et aux élections du parlement européen dans l'état membre ou le citoyen européen réside
+
+Article 8 C > Droit de protection
+
+Article 8 D > Pétition devant le parlement européen 
+
+Traité de Maastricht (1992)
+
+Le traité de maastricht (1992) à 
+instauré une citoyenneté européenne. Ainsi, toute personne 
+ayant la nationalité d'un des états membres de l'union européenne
+bénéficie d'un certain nombre de droits. Voir texte.
+
+### B. Les symboles de l'Union européenne
+
+|                             Un drapeau                             |      Un hymne       |          Une devise          |         Une monaie unique          |  Journée de l'Europe  |
+|:------------------------------------------------------------------:|:-------------------:|:----------------------------:|:----------------------------------:|:---------------------:|
+|  _Drapeau aux 12 étoiles à 5 branches disposées sur un fond bleu_  |  _"Ode à la Joie"_  |  _"Unie dans la diversité"_  |  _L'euro (19 états au 1/01/2015)_  |        _9 mai_        |
+
+### C. Les valeurs et les principes de l'Union européenne
+
+La République française et l'Union Européenne sont fondées sur des valeurs et des principes qui les définissent respctivement. L'nue comme l'autre ont choisi d'établir leur fonctionnement sur des bases démocratiques. Dès lors, leurs principes et leurs valeurs sont quasiment identiques: liberté, égalité, solidarité, tolérance
 

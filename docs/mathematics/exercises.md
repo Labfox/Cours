@@ -478,6 +478,24 @@ C'est une rotation de point O (centre de la figure, de 60° horaire)
 
 1. 
 
+## Questions flash
+
+1. 56
+2. _
+3. -8/3
+4. 4x+4 - x^2^
+
+## Exercice 14
+
+1. $2^{-4} * 3^{-4} =6^{-4}$
+2. $6^4 * 6^{-4} = 1$
+
+## Exercice 19
+
+1. $1$
+2. $1$
+3. $1$
+
 Create Group
 Create Newsletter
 Decrypt Poll Vote

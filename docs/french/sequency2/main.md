@@ -105,7 +105,7 @@ mindmap
         mémoire C.M
         temps du passé M.C
         vie commune ou vie extraordinaire C.H
-        enfant-adult A.V
+        enfant-adulte A.V
         idéaliser C.V
         ordre chronologique L.D
         nostalgie M.C
@@ -151,7 +151,7 @@ mindmap
             raconter sa vie M.C
             soi mème E.M
             l'enfance L.P
-                enfant-adult A.V
+                enfant-adulte A.V
             transmettre C.M
             famille A.G
             péripéties A.V
@@ -159,3 +159,58 @@ mindmap
             nostalgie M.C
             retour en arrière
 ```
+
+```mermaid
+mindmap
+    root ((autobiographie))
+        (Comment raconte-t-on ?)
+            Transformation de la réalité
+            Temps du passé
+            Récit à la 1èr epersonne
+            Point de vue
+            Ordre chronologique
+            Idéaliser
+            Retour en arrière
+            Ellipse
+            Ecriture
+            Soi-même
+            Autour=personnages
+            Journal intime
+            Autoportrait
+            Selfie
+            Mémoires
+            enfant/adulte
+        (Que raconte-t-on ?)
+            Vie commune / extraordinaire
+            raconter sa vie
+            réalité
+            parcours de vie
+            l'enfance
+            anecdotes
+            souvenirs
+            faits historiques
+            histoire personnelle
+            péripéties
+            posthume
+            famille
+            émotions
+            nostalgie
+            vécu
+            miroir
+            sentiments
+            témoins
+            transmettre
+            fiction
+            se décrire
+            personnages réels
+            passé
+            se raconter
+```
+
+# Séquence 2 (le vrai départ)
+## Séance 1: Etude du Texte 1 : Une perfidie digne de l'enfer
+
+Appliquez à ce texte les Etapes 1 et 2 vues au cours de la Séquence 1
+
+
+

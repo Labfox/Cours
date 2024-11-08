@@ -33,3 +33,7 @@ classes more money. Journalists said that a lot of his ideas
 were contradictory. Some swing states used to vote for the 
 democratic party rather than the Republican party.
 
+branch, party, leader, president, government, reject, law, 
+
+savoir pourquoi les états sont unis
+

@@ -43,7 +43,7 @@ El día 1 de noviembre España celebra el Día de Todos los Santos, una festivid
 
 En Cataluña, en la noche del 31 de octubre se celebra la Castanyada, donde se consume este fruto además de panellets, los dulces típicos de la región. […] En Cádiz los mercados de Virgen del Rosario o Central recrean todo un Carnaval en el que gallinas, conejos, pescados y cerdos son disfrazados, mientras que con las frutas y verduras se hacen caricaturas de los personajes más relevantes de la actualidad. En Canarias también le han incorporado un toque de alegría a la noche, pues su Fiesta de los Finaos se celebra con música y actuaciones.
 
-[https://www.exoticca.com/es/blog/2016/10/como-se-celebra-el-dia-de-los-muertos-en-el-mundo/](https://www.exoticca.com/es/blog/2016/10/como-se-celebra-el-dia-de-los-muertos-en-el-mundo/)
+[Free Robux](https://www.exoticca.com/es/blog/2016/10/como-se-celebra-el-dia-de-los-muertos-en-el-mundo/)
 
 Cadiz, Canarias, Cataluna
  
@@ -54,4 +54,17 @@ En Cadiz, en los mercados suelen disfrazar animales, frutas y verduras.
 
 disfrazar = se déguiser
 velas = bougies
+
+
+## Viernes, ocho de noviembre
+### Sesion 2: el Dia de los Muertos en México
+
+**Se celebra** el 1 y 2 de noviembre en México. Las personnas
+**recurdan** a los seres queridos. _No_ **suelen** ver peliculas
+de horror **sino** decorar altares, bailar en los cementarios,
+escuchar musica y celebrar el dia de manera alegre.
+
+los serse queridos = les êtres chers
+
+un altar = un autel
 

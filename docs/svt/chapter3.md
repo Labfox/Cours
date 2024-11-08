@@ -13,3 +13,4 @@ Activité 1 : Compétence travaillée : « Extraire les informations »
 2. Cette différence est causée par la "mise en mémoire" des anticorps, permettant une productino plus rapide
 3. Les poules du lot B survivent grâce à l'aide de la réoonse secondaire induite par l'injection de bactéries vieillies
 
+Q5: aux microbes, reconnaisance par les lymphocytes T, produits par la moele osseuse

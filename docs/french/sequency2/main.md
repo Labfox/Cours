@@ -114,3 +114,48 @@ mindmap
 ```
 philizot
 
+```mermaid
+mindmap
+	root ((autobiographie))
+	    forme
+	        tranformation de la réalité A.G
+	        Sentiments N.S.K
+	        personnages réels C.H
+	        posthume A.G
+	        Point de vue A.S
+	        Se décrire M.B
+	        écriture C.M
+	        Réalité O.R
+	        miroir H.B
+	        récit à la 1ère presonne C.H
+	        ellipse C.V
+            passé A.B
+            se raconter A.G
+            imagination/fiction E.M
+            faits historiques C.H
+            selfie E.C
+            temps du passé M.C
+            vie commune ou vie extraordinaire C.H
+            idéaliser C.V
+            ordre chronologique L.D
+            témoins A.B
+     fond
+            Journal intime L.B
+            Vécu A.B
+            Histoire personnelle N.S.K
+            émotions C.A.L.H
+            parcours de vie E.C
+            Autoportraits M.C
+            souvenirs L.B A.G
+            anectode O.R
+            raconter sa vie M.C
+            soi mème E.M
+            l'enfance L.P
+                enfant-adult A.V
+            transmettre C.M
+            famille A.G
+            péripéties A.V
+            mémoire C.M
+            nostalgie M.C
+            retour en arrière
+```

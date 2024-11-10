@@ -74,10 +74,22 @@ l'esclave -> CDN, Génitif, servi
 
 
 3. Cherchez l'intrus de chaque série et justifiez votre réponse
-   1. templorum / le plorum
-   2. montium / la pronunciation
-   3. domina / pronunciation
-   4. sententia
-   5. patri
+   1. gladiorum / en rapports avec les armes
+   2. ivium / n'existe pas
+   3. domina / nom féminin: autres neutres
+   4. maria / sens différnet
+   5. libri / les autres sont des personnes
 4. _
-5. 
+
+| noms       | Déclinaison | Accusatif Singulier | Accusatif Pluriel | Génitif Pluriel |
+|------------|-------------|---------------------|-------------------|-----------------|
+| puer       | 2e          | puerum              | pueros            | puerorum        |
+| iter       | 3e (n)      | iter                | itinera           | iterum          |
+| magister   | 2e          | magistrum           | magistros         | magistrorum     |
+| servus     | 2e          | servum              | servos            | servorum        |
+| virtus     | 3e (f)      | virtutem            | virtutes          | virtutum        |
+| puella     | 1re         | puellam             | puellas           | puellarum       |
+| caput      | 3e (n)      | caput               | capita            | capitum         |
+| memoria    | 1re         | memoriam            | memorias          | memoriarum      |
+| hostis     | 3e (m/f)    | hostem              | hostes            | hostium         |
+| consilium  | 2e (n)      | consilium           | consilia          | consiliorum     |

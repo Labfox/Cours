@@ -1,9 +1,9 @@
-# Séquence 2: L'autobiographie
-## 2) Activité 2: Etymologie
+# Séquence 2 : L'autobiographie
+## 2) Activité 2 : Etymologie
 
 Décomposer le mot autobiographie en ces différents éléments. Nommer ces différents éléments et donner leur sens.
 
-auto (de soi-même/ par soi-même) (préfixe) - bio (vie) (radical) - graphie (tracer) (suffixe)
+auto (de soi-même/ par soi-même) (préfixe) — bio (vie) (radical) — graphie (tracer) (suffixe)
 
 | auto           | bio         | graphie       |
 |----------------|-------------|---------------|
@@ -40,17 +40,17 @@ auto (de soi-même/ par soi-même) (préfixe) - bio (vie) (radical) - graphie (t
 
 TD Bordas p. 64-65
 
-6:
-rival: rivaliser -> rivalité
-crème: crémeu -> écrémé
-uni: union -> unifier
+6 :
+rival : rivaliser -> rivalité
+crème : crémeu -> écrémé
+uni : union -> unifier
 
-7:
+7 :
 
-1. bi(deux) cyclette(roues): deux-roues
-2. anti (contre) constitutionellement (qui respecte la constitution): contre la constitution
+1. bi(deux) cyclette(roues) : deux-roues
+2. anti (contre) constitutionellement (qui respecte la constitution) : contre la constitution
 3. in inflammable: non inflammable
-4. ex patrie r: sortir de la patrie
+4. ex patrie r : sortir de la patrie
 
 8:
 
@@ -67,7 +67,7 @@ verbe + nom
 
 
 
-## 3) Activité 3: Carte mentale
+## 3) Activité 3 : Carte mentale
 
 ```mermaid
 mindmap
@@ -208,9 +208,12 @@ mindmap
 ```
 
 # Séquence 2 (le vrai départ)
-## Séance 1: Etude du Texte 1 : Une perfidie digne de l'enfer
+## Séance 1 : Etude du Texte 1 : Une perfidie digne de l'enfer
 
 Appliquez à ce texte les Etapes 1 et 2 vues au cours de la Séquence 1
 
 
+Je m'attends à ce soit un roman/nouvelle parlant d'une trahison.
 
+Vocabulaire : aucun; Situation d'énonciation: ancrée
+Type de texte: Texte narratif

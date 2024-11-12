@@ -51,6 +51,8 @@ l'esclave -> CDN, Génitif, servi
 
 ## Exercices déclinaisons
 
+![](../assets/scans/2024-novm-12-1.png)
+
 1. _
 
 | Terminaison | 1^ère^ déclinaison | 2^ème^ déclinaison | 3^ème^ déclinaison |
@@ -74,7 +76,7 @@ l'esclave -> CDN, Génitif, servi
 
 
 3. Cherchez l'intrus de chaque série et justifiez votre réponse
-   1. gladiorum / en rapports avec les armes
+   1. temporum / pas bonne déclinaison
    2. ivium / n'existe pas
    3. domina / nom féminin: autres neutres
    4. maria / sens différnet
@@ -84,12 +86,18 @@ l'esclave -> CDN, Génitif, servi
 | noms       | Déclinaison | Accusatif Singulier | Accusatif Pluriel | Génitif Pluriel |
 |------------|-------------|---------------------|-------------------|-----------------|
 | puer       | 2e          | puerum              | pueros            | puerorum        |
-| iter       | 3e (n)      | iter                | itinera           | iterum          |
+| iter       | 3e (n)      | iter                | itinera           | **itinerum**    |
 | magister   | 2e          | magistrum           | magistros         | magistrorum     |
 | servus     | 2e          | servum              | servos            | servorum        |
 | virtus     | 3e (f)      | virtutem            | virtutes          | virtutum        |
-| puella     | 1re         | puellam             | puellas           | puellarum       |
+| puella     | 1ère        | puellam             | puellas           | puellarum       |
 | caput      | 3e (n)      | caput               | capita            | capitum         |
 | memoria    | 1re         | memoriam            | memorias          | memoriarum      |
 | hostis     | 3e (m/f)    | hostem              | hostes            | hostium         |
 | consilium  | 2e (n)      | consilium           | consilia          | consiliorum     |
+
+
+5. _
+   1. Ad castra (camp) itinera ducunt
+   2. Hostium consilium consules timent et cuntorum civiuml auxilium petunt
+   3. Romani non tantum hostium multitudinem virtuemque sed etiam hominum magna corpora et novum pugnae genus timent

@@ -208,7 +208,7 @@ mindmap
 ```
 
 # Séquence 2 (le vrai départ)
-## Séance 1 : Etude du Texte 1 : Une perfidie digne de l'enfer
+## Séance 1: Etude du Texte 1 : Une perfidie digne de l'enfer
 
 Appliquez à ce texte les Etapes 1 et 2 vues au cours de la Séquence 1
 

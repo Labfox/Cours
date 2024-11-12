@@ -1,5 +1,6 @@
-Expression écrite n°1
+# Expression écrite n°1
 
+<!--
 Vous rentrez crotté(e) d'un match en terrain lourd. Votre mère ou votre père, découragé(e), exige que vous laviez vous-même votre linge dans la machine. Pour vous, c'est une première !
 
 Rédigez un récit comprenant les quatre formes de discours en 
@@ -30,7 +31,7 @@ f) Narration
 > Imaginez une chute humoristique à votre récit.
 
 ---
-
+-->
 
 Après une séance d'escalade en voie (un peu trop) naturelle, je rentre chez moi, couvert de terre. La falaise étant à quelques heures de route, il est assez tard. À peine la porte franchie, je croise ma mère. 
 Je viens de la réveiller. Elle me regarde et me dit :

@@ -492,36 +492,13 @@ C'est une rotation de point O (centre de la figure, de 60° horaire)
 
 ## Exercice 19
 
-1. $1$
-2. $1$
-3. $1$
+1. $3^4$
+2. $(\frac {4}{3})^8$
+3. $8^5$
 
-Create Group
-Create Newsletter
-Decrypt Poll Vote
-Receive Reactions
-Vote in poll
-Follow newsletter
-Get business profile
-Get contact QR link
-Get group info from invite and link
-Get group participants request
-Get joined Groups
-Get community participants
-Get newsletter info
-Get privacy settings
-Get profile picture info
-Set/get status
-Get groups of community
-Get user info
-Get if user is on whatsapp
-Join group with invite
-Leave group
-Link group with community
-Mark as read
-Send presence
-Disappearing messages
+## Exercice 21
 
-
-
-
+1. $10^219$
+2. $(\frac {1}{3})^{11}$
+3. $(\frac {27}{9})^7$
+4. 

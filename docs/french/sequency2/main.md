@@ -230,3 +230,8 @@ pittoresque
 parées
 
 que sait-on du narrateur 5 infos
+
+statut social: 
+
+Le malheur voulut que M. Lebrun, qui, contre mon gré, faisait bâtir une maison rue du Gros-Chenèt, donnaât par là prétexte à la calomnie.
+Certainement lui et moi nous avions gagné assez d'argent pour nous permettre une pareille dépense;

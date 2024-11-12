@@ -233,5 +233,38 @@ que sait-on du narrateur 5 infos
 
 statut social: 
 
-Le malheur voulut que M. Lebrun, qui, contre mon gré, faisait bâtir une maison rue du Gros-Chenèt, donnaât par là prétexte à la calomnie.
-Certainement lui et moi nous avions gagné assez d'argent pour nous permettre une pareille dépense;
+« Une perfidie digne de l'enfer »
+
+Le malheur voulut que M. Lebrun, qui, contre mon gré, faisait batir une maison rue du Gros-
+-Chenét, donnât par 1a prétexte à la calomnie. Certainement lui et moi nous avions gagné assez
+d'argent pour nous permettre une pareille dépense; cependant certaines gens soutenaient que M. de
+Calonne payait cette maison . — Vous voyez, disais-je sans cesse à M. Lebrun, quels infâmes
+propos l'on tient ! — Laissez-les dire, me répondait-il dans une sainte colére ; quand vous serez
+morte, je ferai élever dans mon jardin une pyramide qui ira jusqu'au ciel, et je ferai graver dessus la
+liste de vos portraits ; on saura bien alors à quoi s'en tenir sur votre fortune. (...)
+
+Mon indifférence pour la fortune tenait sans doute alors au peu de besoin que j'avais d'être riche.
+Ce qui rendait ma maison agréable n'exigeant aucun luxe, j'ai toujours vécu fort modestement. Je
+dépensais extrémement peu pour ma toilette : on me reprochait méme trop de négligence, car je ne
+portais que des robes blanches, de mousseline ou de linon, et je n'ai jamais fait faire de robes parées
+que pour mes séances 4 Versailles. Ma coiffure ne me coiitait rien, j'arrangeais mes Cheveux moi-
+méme, et le plus souvent je tortillais sur ma téte un fichu de mousseline, ainsi qu'on peut le voir
+dans mes portraits, 4 Florence, 4 Pétersbourg et 4 Paris, chez M. de Laborde. Dans tous mes
+portraits enfin, je me suis peinte ainsi, excepté dans celui qui est au ministére de l'intérieur, ott je
+suis costumée a la grecque. Certes, ce n'était pas une telle femme que pouvait séduire le titre de
+receveur-général des finances, et, sous tout autre rapport, M. de Calonne m’a toujours semblé peu
+séduisant ; car il portait une perruque fiscale. Une perruque ! jugez comme, avec mon amour du
+pittoresque, j'aurais pu m'accoutumer a une perruque ! je les ai toujours eues en horreur, au point de
+refuser un riche mariage, parce que le prétendant portait perruque ; et je ne peignais qu’a regret les
+hommes coiffés ainsi. .
+
+Ce qu'il y a d'ailleurs de surprenant dans cette affaire, c'est que rien n'avait pu préter une ombre
+de vraisemblance a la calomnie ; je connaissais 4 peine M. de Calonne. Une seule fois dans ma vie
+j'avais été chez lui au ministére des finances ; il donnait une grande soirée au prince Henri de
+Prusse, et ce prince venant habituellement chez moi, il avait jugé convenable de m'inviter ; enfin je
+me souviens d'avoir haté son portrait au point de ne pas faire les mains d'aprés lui, quoique j'eusse
+
+I'habitude de les faire toujours d'aprés mes modéles.
+Je n'aurais donc jamais imaginé de quelle source pouvaient naitre ces propos désolants, sans la
+
+découverte que je fis plus tard d'une perfidie digne de l'enfer.

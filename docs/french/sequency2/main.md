@@ -212,8 +212,21 @@ mindmap
 
 Appliquez à ce texte les Etapes 1 et 2 vues au cours de la Séquence 1
 
+etape 1: Je m'attends à ce soit un roman/nouvelle parlant d'une trahison.
 
-Je m'attends à ce soit un roman/nouvelle parlant d'une trahison.
 
-Vocabulaire : aucun; Situation d'énonciation: ancrée
+etape 2: Vocabulaire : aucun; 
+Situation d'énonciation: ancrée
 Type de texte: Texte narratif
+
+![](../../assets/scans/2024-novm-12-2.png)
+
+
+gré
+calomnie: accusation fausse qui atteint l'honneur de quelqu'un
+infâmes
+fiscale
+pittoresque
+parées
+
+que sait-on du narrateur 5 infos

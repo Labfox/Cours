@@ -222,5 +222,5 @@ bénéficie d'un certain nombre de droits. Voir texte.
 
 ### C. Les valeurs et les principes de l'Union européenne
 
-La République française et l'Union Européenne sont fondées sur des valeurs et des principes qui les définissent respctivement. L'nue comme l'autre ont choisi d'établir leur fonctionnement sur des bases démocratiques. Dès lors, leurs principes et leurs valeurs sont quasiment identiques: liberté, égalité, solidarité, tolérance
+La République française et l'Union Européenne sont fondées sur des valeurs et des principes qui les définissent respectivement. L'une comme l'autre ont choisi d'établir leur fonctionnement sur des bases démocratiques. Dès lors, leurs principes et leurs valeurs sont quasiment identiques: liberté, égalité, solidarité, tolérance
 

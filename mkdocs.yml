@@ -25,22 +25,27 @@ nav:
   - Cours:
     - English: 
       - Home: "english/main.md"
+      - "Unit 2": "english/unit2/main.md"
     - Mathematics:
       - Exercises: "mathematics/exercises.md"
       - "Sequence 1": "mathematics/chapter1/index.md"
       - "Sequence 2": "mathematics/chapter2/cours.md"
+      - "Sequence 3": "mathematics/chapter3/cours.md"
+      - Puissances: "mathematics/fichederevisionpuissances.md"
     - Latin:
       - Main: "latin/main.md"
       - "Séquence 1": "latin/sequency2.md"
       - Evaluations: "latin/evals.md"
       - Exercises: "latin/exos.md"
       - "Séquence 3": "latin/sequency3.md"
+      - "Séquence 2": "latin/sequence2/main.md"
     - "History & Geography":
       - Home: "history-geography/main.md"
       - History:
          - "Thème 1":
             - Home: "history-geography/theme1/main.md"
             - "Chapter 1": "history-geography/theme1/chapter1/main.md"
+            - "Chapter 2": "history-geography/theme1/chapter2/main.md"
       - Geography:
          - "Thème 1":
             - Home: "history-geography/geography/theme1/main.md"
@@ -66,17 +71,26 @@ nav:
          - "Exercices": "french/sequency1/exercices.md"
          - "Fiche vocabulaire récapitulative": "french/sequency1/fichevocabrecap.md"
          - "évaluations": "french/sequency1/eval.md"
+         - Dictee: "french/sequency1/dictee.md"
        - "Sequency 2":
          - Main: "french/sequency2/main.md"
+         - Index: "french/sequency2/index.md"
+         - Redaction: "french/redaction.md"
+         - Dictee: "french/sequency2/dictee.md"
        - "Préparation à la séquence 2": "french/sequency2prep.md"
+       - AP: "french/ap/main.md"
     - Spanish:
        - "Home": "spanish/index.md"
        - "Sequency 2": "spanish/sequency2.md"
+       - "Sequency 3": "spanish/sequency3.md"
     - SVT:
         - "Home": "svt/index.md"
         - "Chapter 2": "svt/chapter2.md"
+        - "Chapter 3": "svt/chapter3.md"
     - LCE: "lce/main.md"
-    - Musique: "music/index.md"
+    - Musique:
+        - Main: "music/index.md"
+        - Quiz: "music/quiz.md"
     - Techno: "techno/securiteroutiere.md"
   - Manuels: "manuels/index.md"
 

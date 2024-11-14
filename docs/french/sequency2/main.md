@@ -3,7 +3,7 @@
 
 Décomposer le mot autobiographie en ces différents éléments. Nommer ces différents éléments et donner leur sens.
 
-auto (de soi-même/ par soi-même) (préfixe) — bio (vie) (radical) — graphie (tracer) (suffixe)
+Auto (de soi-même/ par soi-même) (préfixe) — bio (vie) (radical) — graphie (tracer) (suffixe)
 
 | auto           | bio         | graphie       |
 |----------------|-------------|---------------|
@@ -41,16 +41,16 @@ auto (de soi-même/ par soi-même) (préfixe) — bio (vie) (radical) — graphi
 TD Bordas p. 64-65
 
 6 :
-rival : rivaliser -> rivalité
-crème : crémeu -> écrémé
-uni : union -> unifier
+rival : rivaliser → rivalité
+crème : crémeu → écrémé
+uni : union → unifier
 
 7 :
 
 1. bi(deux) cyclette(roues) : deux-roues
 2. anti (contre) constitutionellement (qui respecte la constitution) : contre la constitution
 3. in inflammable: non inflammable
-4. ex patrie r : sortir de la patrie
+4. ex patrie r: sortir de la patrie
 
 8:
 
@@ -237,34 +237,51 @@ statut social:
 
 Le malheur voulut que M. Lebrun, qui, contre mon gré, faisait batir une maison rue du Gros-
 -Chenét, donnât par 1a prétexte à la calomnie. Certainement lui et moi nous avions gagné assez
-d'argent pour nous permettre une pareille dépense; cependant certaines gens soutenaient que M. de
-Calonne payait cette maison . — Vous voyez, disais-je sans cesse à M. Lebrun, quels infâmes
-propos l'on tient ! — Laissez-les dire, me répondait-il dans une sainte colére ; quand vous serez
+d'argent pour nous permettre une pareille dépense ; cependant certaines gens soutenaient que M. de
+Calonne payait cette maison. — Vous voyez, disais-je sans cesse à M. Lebrun, quels infâmes
+propos l'on tient ! — Laissez-les dire, me répondait-il dans une sainte colère ; quand vous serez
 morte, je ferai élever dans mon jardin une pyramide qui ira jusqu'au ciel, et je ferai graver dessus la
 liste de vos portraits ; on saura bien alors à quoi s'en tenir sur votre fortune. (...)
 
 Mon indifférence pour la fortune tenait sans doute alors au peu de besoin que j'avais d'être riche.
 Ce qui rendait ma maison agréable n'exigeant aucun luxe, j'ai toujours vécu fort modestement. Je
-dépensais extrémement peu pour ma toilette : on me reprochait méme trop de négligence, car je ne
+dépensais extrêmement peu pour ma toilette : on me reprochait méme trop de négligence, car je ne
 portais que des robes blanches, de mousseline ou de linon, et je n'ai jamais fait faire de robes parées
-que pour mes séances 4 Versailles. Ma coiffure ne me coiitait rien, j'arrangeais mes Cheveux moi-
-méme, et le plus souvent je tortillais sur ma téte un fichu de mousseline, ainsi qu'on peut le voir
+que pour mes séances 4 Versailles. Ma coiffure ne me coutait rien, j'arrangeais mes Cheveux moi-même, 
+et le plus souvent je tortillais sur ma téte un fichu de mousseline, ainsi qu'on peut le voir
 dans mes portraits, 4 Florence, 4 Pétersbourg et 4 Paris, chez M. de Laborde. Dans tous mes
-portraits enfin, je me suis peinte ainsi, excepté dans celui qui est au ministére de l'intérieur, ott je
+portraits enfin, je me suis peinte ainsi, excepté dans celui qui est au ministère de l'Intérieur, où je
 suis costumée a la grecque. Certes, ce n'était pas une telle femme que pouvait séduire le titre de
 receveur-général des finances, et, sous tout autre rapport, M. de Calonne m’a toujours semblé peu
 séduisant ; car il portait une perruque fiscale. Une perruque ! jugez comme, avec mon amour du
 pittoresque, j'aurais pu m'accoutumer a une perruque ! je les ai toujours eues en horreur, au point de
-refuser un riche mariage, parce que le prétendant portait perruque ; et je ne peignais qu’a regret les
-hommes coiffés ainsi. .
+refuser un riche mariage, parce que le prétendant portait perruque ; et je ne peignais qu’à regret les
+hommes coiffés ainsi.
 
-Ce qu'il y a d'ailleurs de surprenant dans cette affaire, c'est que rien n'avait pu préter une ombre
-de vraisemblance a la calomnie ; je connaissais 4 peine M. de Calonne. Une seule fois dans ma vie
-j'avais été chez lui au ministére des finances ; il donnait une grande soirée au prince Henri de
-Prusse, et ce prince venant habituellement chez moi, il avait jugé convenable de m'inviter ; enfin je
+Ce qu'il y a d'ailleurs de surprenant dans cette affaire, c'est que rien n'avait pu prêter une ombre
+de vraisemblance à la calomnie ; je connaissais 4 peine M. de Calonne. Une seule fois dans ma vie
+j'avais été chez lui au ministère des Finances ; il donnait une grande soirée au prince Henri de
+Prusse, et ce prince venant habituellement chez moi, il avait jugé convenable de m'inviter ; enfin, je
 me souviens d'avoir haté son portrait au point de ne pas faire les mains d'aprés lui, quoique j'eusse
-
-I'habitude de les faire toujours d'aprés mes modéles.
+l'habitude de les faire toujours d'aprés mes modèles.
 Je n'aurais donc jamais imaginé de quelle source pouvaient naitre ces propos désolants, sans la
-
 découverte que je fis plus tard d'une perfidie digne de l'enfer.
+
+1. Le narrateur est une femme, car on a des accords au féminin : "quand vous serez morte" (l. 5-6), "je me suis peinte" (l. 15), "une telle femme" (l. 16)
+2. La narratrice est peintre : "je me suis peinte" (l. 15), "la liste de vos portraits" (l. 7), "je ne peignais qu'à regret" (l. 20)
+3. La narratrice peint avec talent, car ses portraits sont exposés partout. "à Florence, à Petersbourg et à Paris" (l.14), "au ministère de l'Intérieur" (l. 15) et peint des personnes importantes. "prince Henri de Prusse" (l. 24-25)
+4. La narratrice vient d'un milieu aisé : "votre fortune" (l. 7), "Nous avions gagné assez d'argent" (l. 2-3)
+5. La narratrice vit simplement, elle est économe : "j'ai toujours vécu fort modestement" (l. 9), "Je dépensais extrêmement peu" (l. 10-11), "Ma coiffure ne me coûtait rien" (l. 12)
+6. La narratrice est désintéressée : "Mon indifférence pour la fortune" (l. 8)
+7. La narratrice n'est pas coquette : "Je ne portai que des robes blanches" (l. 11), "Ma coiffure ne me coûtait rien" (l. 12)
+
+Louise Elisabeth Vigée Lebrun
+
+Souvenirs (écrits entre 1825 et 1837)
+
+Née en 1755 et morte en 1842
+
+à vécu la révolution française, 1789
+
+
+https://discord.gg/vNbsdef4Hqœ

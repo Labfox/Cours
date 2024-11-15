@@ -286,12 +286,9 @@ _"What were you doing at eight o'clock yesterday evening?" "I was watching TV." 
 
 * **Il s'emploie fréquement en contraste avec le prétérit simple. Le prétérit continu désigne alors une action qui était en cours en constraste avec le prétérit simple qui désigne un fait nouveau qui s'est produit:**
 
-
-
 The new topic will be about the American presidential elections.
 
 This document is a cartoon which was published on July, 22nd 2024 and where we can see the two candidates Kamala Harris and Donald Trump fighting with boxing gloves in a boxing ring. The message might be that this election will be really tense and rough, because both candidates are determined to win this election.
-
 
 In this chapter we will be able to:
 
@@ -300,7 +297,12 @@ In this chapter we will be able to:
 - Take part in a survey: "if i were president..."
 - Record an interview to let the school know all about the US elections.
 
+THe presidents first do primaries, then the national election
 
+I understood that people with similar ideas are in the parties and they delivers / make speeches to share their ideas.
+
+I heard the word December... In January, they know who the president will be.
+Each has a different number of electors.
 
 
 V1:

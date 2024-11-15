@@ -502,3 +502,23 @@ C'est une rotation de point O (centre de la figure, de 60° horaire)
 2. $(\frac {1}{3})^{11}$
 3. $(\frac {27}{9})^7$
 4. 
+
+## Questions flash
+
+1. 47
+2. 11
+3. 11
+4. 7
+5. 
+
+## Exercice 34
+
+1. positif
+2. négatif
+3. positif
+4. négatif
+5. positif
+6. positif
+
+## Exercice 36
+

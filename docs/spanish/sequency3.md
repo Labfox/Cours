@@ -68,3 +68,18 @@ los serse queridos = les êtres chers
 
 un altar = un autel
 
+las calaveritas |  | papel picado
+
+las velas | el pam de muertos | las fotos
+
+mexicana; mexicanos; mexicano; nuestra; nuestros; nuestros; nos; nos; nosotros; nuesstro; adornamos; nustras; comemos; nos; hacemos
+
+## Viernes, quince de noviembre
+### Sesion 3: la muerte como parte de la identidad mexicana
+
+La muerte esta omnipresente en la vida de los maxicanos (en los juegos, en las fiestas...)
+
+Los mexicanos la celebran de manera festiva: cantan, adornan las casas.
+
+adornar = decorar
+

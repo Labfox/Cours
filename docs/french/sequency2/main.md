@@ -283,5 +283,3 @@ Née en 1755 et morte en 1842
 
 à vécu la révolution française, 1789
 
-
-https://discord.gg/vNbsdef4Hqœ

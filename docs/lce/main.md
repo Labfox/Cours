@@ -88,3 +88,12 @@ The second one looks a little plain and it doesn't really catch my attention, ev
 
 The last one catches my attention because there's a play one words which makes me want to smile.
 
+Is noah convicing ?
+
+I'm conviced this guy will at least be a little responsive.
+
+
+
+
+
+

@@ -283,3 +283,9 @@ Née en 1755 et morte en 1842
 
 à vécu la révolution française, 1789
 
+Élisabeth Vigée Le Brun (LEVL) a écrit ce texte pour répondre aux calomnies. Elle y présente plusieurs arguments : 
+
+1. Son mode de vie modeste réfute l'idée d'un besoin d'argent: Elle insiste sur sa simplicité et son indépendance financière: « Je dépensais extrêmement peu pour ma toilette : on me reprochait même trop de négligence, car je ne portais que des robes blanches, de mousseline ou de linon. »* 
+2. Son succès repose uniquement sur son travail d’artiste: « Quand vous serez morte, je ferai élever dans mon jardin une pyramide qui ira jusqu’au ciel, et je ferai graver dessus la liste de vos portraits. »
+3. La calomnie est infondée car elle connaissait à peine M. de Calonne :« Une seule fois dans ma vie j'avais été chez lui au ministère des Finances. »
+

@@ -83,3 +83,10 @@ Los mexicanos la celebran de manera festiva: cantan, adornan las casas.
 
 adornar = decorar
 
+Cabeza de gallo y cola de chancho; conejo con orejas de hojas verdes; tigre alado con cuernos de toro… Seres híbridos que resultan de la combinación de **animales o plantas**, los alebrijes son artesanías que suelen realizarse en **cartón, madera o papel**.
+
+Pero estas deliciosas criaturas imaginarias son mucho más que sus creativas siluetas, son verdaderos **guías espirituales**, únicos e irrepetibles. Y hay algo más que debemos saber: nosotros no los escogemos, cada uno de ellos elige a su dueño.
+
+Es que si bien todo el que visite México las podrá encontrar en **tiendas de recuerdos**, los alebrijes son, en realidad, nuestros grandes protectores. Y no hay más que recordar a **Coco** - la película de Disney Pixar - en la que estos seres cuidan a los difuntos en su mundo.
+
+Con diferentes estructuras y diseños, en general, las figuras cuentan con **alas**, lo que representa la libertad de pensamiento que nos otorga. Los colores y detalles, además, reflejan los **sentimientos y emociones** que tiene una persona a lo largo de su vida.  

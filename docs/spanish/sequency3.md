@@ -158,7 +158,16 @@ de nationalités différentes
 * Santiago: Me llamo Santiago, tengo quatorze años también Viven México en Puebla y al lado es Pablo.
 * Pablo: Hola, Soy pablo, tengo trece años, vivo en Puebla también
 * Pedro: Manana es el día de muertos, ¿Cuál es son las costumbres en Mexico?
-* Pablo: El día de muertos se celebra el uno y dos de noviembre en estos días recuerdamos los muertos
-* Santiago: Si, solemos decorar altares y bailamos en los cementarios
-* Pablo: Escuchamos musica y comemos para de muertos. Decoramos las altares con calaveritas , fotos, flor de cempasutchil, velas y por fin papel picado.
-* Santiago: Y en Mexico
+* Pablo: El día de muertos se celebra el uno y dos de noviembre en estos días recuerda los muertos
+* Santiago: Sí, solemos decorar altares y bailamos en los comentarios
+* Pablo: Escuchamos música y comemos para de muertos. 
+* Santiago: Decoramos los altares con calaveritas, fotos, flor de cempasúchil, velas y por fin papel picado. Y un Mexicano llamarse Pedro Linares realizar un sueno con creaturas fantásticas llamarse Alebrijes que protegen y guida cuando moriste 
+* Pedro: Woa, tienen muchas costumbres y tradiciones. En España la muerte es triste. La fiesta se llama el día de todos los santos y celebra el uno de noviembre, rendimos homenaje a los muertos. Solemos decoran las timbas con flores y veas. Estamos triste.
+* Pablo: Como es el día de los santos en Canarias y en Cadiz.
+* Pedro: En Canarias, suelen bailar en el cementerio y escuchar música, pero en Cadiz suelen disfrazar animales en el mercado como cerdos 
+* Santiago: Aah es extremo !
+* Pedro: Sí, También en salvador personas suelen soler a desinflar con atuendos de la Santa Muerta
+* Santiago: Aah, original
+* Pablo: En mexico la muerta está triste, pero en el día de muertos es alegre
+* Pedro: En España la muerte está triste también. Algunos, rígenos de España basil en el día de los santos.
+* Santiago: La muerta es triste y alegre, pero es muy importante es se recuerdan a los difuntos

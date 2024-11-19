@@ -20,6 +20,7 @@ Al mediodía, tenemos una pausa para almorzar en la cafetería del colegio. Desp
 ![](https://images.stockcake.com/public/6/b/2/6b2fd395-c2b4-4dea-b4fd-483ce49c14d2_large/late-night-studying-stockcake.jpg)
 
 Por la noche, hacia las 6:00 de la tarde, regreso a casa. Después de otra ducha, hago mis tareas, lo cual me lleva, en general, una hora. Luego, paso un rato con mi familia y cenamos juntos a eso de las 7:30 de la noche.
+
 ---
 
 ![](https://wander-lush.org/wp-content/uploads/2018/10/Emily-Lush-market-Medellin-Colombia-39.jpg)

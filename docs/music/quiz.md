@@ -1,6 +1,6 @@
 
 1> continu, bruitage/aucun, son extra
-2> discussion plus lente, pas de musique, son entièrement in, rapport avec hitler et les nazis
+2> discussion plus lente, pas de musique, son entièrement in, rapport avec les nazis
 3> 
 
 le maire n'écoute pas guido, 

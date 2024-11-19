@@ -102,3 +102,63 @@ consecuencias un sueno
 
 Pedro Linares es un artesano mexicano famoso. Layo enfermo un suêno con criaturas fantasticas muy coloridas. Al despertar realizo con sus manos alebrijes con papel maché. Para los mexicanos, los alebrijes, protegen y guian.
 
+
+
+Grille de contrôle
+
+Consigne en lien avec le projet de séquence :
+
+Por parejas, cread un diálogo entre dos alumnos hispanohablantes de nacionalidad diferente
+
+y presentad cada uno vuestras tradiciones y lo que soléis hacer durante el Día de Muertos
+
+en vuestros países respetivos
+
+
+
+Points à aborder lors de l’évaluation (EOI) :
+
+    Points culturels:
+    Présentation (date et objectif) du Día de Todos los Santos en Espagne OU Día
+
+de Muertos au Méxique (selon les pays choisis)
+
+    Traditions (coutumes, activités) des pays choisis.
+
+Axes de réflexion:
+
+    A partir des traditions, expliquer la conception de la mort dans son pays.
+
+(triste, joyeux, etc.)
+
+    Montrer que la mort se célèbre de différente manière selon les pays.
+
+ 
+
+    Outils lexicaux:
+    Lexique de la présentation (prénom/âge/nationalité/domicile)
+    Lexique de la célébration
+
+ 
+
+    Outils grammaticaux:
+    Soler + inf
+    Traduction du « on»
+    Pronoms interrogatifs
+    Structure du dialogue:
+
+    Se saludan y se presentan
+    Presentan las costumbres de sus países para celebrar el Día de muertos
+    Analizan el estado de espíritu adoptado en sus países respetivos (triste o alegre)
+
+de nationalités différentes
+
+* Santiago: Hola, ¿Quién eres?
+* Pedro: Hola, Me llamo Pedro, tengo quatorze años y vivo en Barcelona entonces soy Español. Y tu quièn eres
+* Santiago: Me llamo Santiago, tengo quatorze años también Viven México en Puebla y al lado es Pablo.
+* Pablo: Hola, Soy pablo, tengo trece años, vivo en Puebla también
+* Pedro: Manana es el día de muertos, ¿Cuál es son las costumbres en Mexico?
+* Pablo: El día de muertos se celebra el uno y dos de noviembre en estos días recuerdamos los muertos
+* Santiago: Si, solemos decorar altares y bailamos en los cementarios
+* Pablo: Escuchamos musica y comemos para de muertos. Decoramos las altares con calaveritas , fotos, flor de cempasutchil, velas y por fin papel picado.
+* Santiago: Y en Mexico

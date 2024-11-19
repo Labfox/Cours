@@ -37,3 +37,23 @@ branch, party, leader, president, government, reject, law,
 
 savoir pourquoi les états sont unis
 
+travel _ person _ costs _ campaign _ candidates _ debate
+
+
+
+election _ vote _ Electors _ called _ US _ senators
+
+candidate _ ALL _ election _ Electors_ January _ winner
+
+new _ Inauguration _ promises _ White _ work _ four
+
+
+| _president_ | _vice president_ | _kamala_ |
+|-------------|------------------|----------|
+| money       | vote             | all      |
+| _here       | citizens         | better   |
+
+
+
+
+

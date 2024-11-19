@@ -77,7 +77,7 @@ mexicana; mexicanos; mexicano; nuestra; nuestros; nuestros; nos; nos; nosotros; 
 ## Viernes, quince de noviembre
 ### Sesion 3: la muerte como parte de la identidad mexicana
 
-La muerte esta omnipresente en la vida de los maxicanos (en los juegos, en las fiestas...)
+La muerte esta omnipresente en la vida de los mexicanos (en los juegos, en las fiestas...)
 
 Los mexicanos la celebran de manera festiva: cantan, adornan las casas.
 
@@ -90,3 +90,15 @@ Pero estas deliciosas criaturas imaginarias son mucho más que sus creativas sil
 Es que si bien todo el que visite México las podrá encontrar en **tiendas de recuerdos**, los alebrijes son, en realidad, nuestros grandes protectores. Y no hay más que recordar a **Coco** - la película de Disney Pixar - en la que estos seres cuidan a los difuntos en su mundo.
 
 Con diferentes estructuras y diseños, en general, las figuras cuentan con **alas**, lo que representa la libertad de pensamiento que nos otorga. Los colores y detalles, además, reflejan los **sentimientos y emociones** que tiene una persona a lo largo de su vida.  
+
+nombre pedro linares
+nacionalidad mexicano
+profesion artesano
+problema vivido cayo enfermo
+consecuencias un sueno
+
+## Lunes, dieciocho de noviembre
+### sesion 4: los alebrijes mexicanos
+
+Pedro Linares es un artesano mexicano famoso. Layo enfermo un suêno con criaturas fantasticas muy coloridas. Al despertar realizo con sus manos alebrijes con papel maché. Para los mexicanos, los alebrijes, protegen y guian.
+

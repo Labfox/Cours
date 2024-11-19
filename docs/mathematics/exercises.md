@@ -522,3 +522,24 @@ C'est une rotation de point O (centre de la figure, de 60° horaire)
 
 ## Exercice 36
 
+## E5 not sci
+
+1. 30
+2. 4
+3. 3.5
+
+## E6 not sci
+
+1. -2
+2. -6
+
+## E7 not sci 
+
+1. false: ^6
+2. true
+3. false: ^5
+4. true
+
+## E9 not sci
+
+1. 

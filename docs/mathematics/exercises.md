@@ -542,4 +542,27 @@ C'est une rotation de point O (centre de la figure, de 60° horaire)
 
 ## E9 not sci
 
-1. 
+
+## Flash
+
+1) 150
+2) 4/3 > 7/6
+3) 0.5
+4) 33
+
+## Exercice 1
+
+Le triangle ABV étant un triangle rectangle en V, l'hypothènuuse est AB. 
+$AB^2 = BV^2 + AV^2$<br />
+$AB = \sqrt[]{BV^2 + AV^2}$<br />
+$AB = \sqrt[]{1296+110.25}$<br />
+$AB = \sqrt[]{1406.25}$<br />
+$AB = \sqrt[]{1406.25}$<br />
+$AB = 37.5$<br />
+
+Maintenant le temps ($T$):
+
+$T = (60/150)*37.5$
+
+Le temps est donc 15 minutes
+

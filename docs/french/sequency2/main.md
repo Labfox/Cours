@@ -289,3 +289,17 @@ Née en 1755 et morte en 1842
 2. Son succès repose uniquement sur son travail d’artiste: « Quand vous serez morte, je ferai élever dans mon jardin une pyramide qui ira jusqu’au ciel, et je ferai graver dessus la liste de vos portraits. »
 3. La calomnie est infondée car elle connaissait à peine M. de Calonne :« Une seule fois dans ma vie j'avais été chez lui au ministère des Finances. »
 
+LEVL à écrit ce texte pour se justifier, por se laver de l'accusation portée contre elle: elle serait la maïtresse de M. De Calonne, qui la paierait pour ceci.
+
+
+déja des thunes + vit simplement + ne connais pas M. De Calonne + pas attirant + 
+
+Louise Elisabeth Vigée Lebrun écrit ce texte pour répondre aux calomnies. Elle 
+présente plsusieurs arguments. Tout d'abord, elle avance l'absence d'une 
+nécessité d'argent en expliquant sa simplicité 
+("j'ai toujours vécu fort modestement", "je dépensais extrêmement peu", 
+"ma coiffure ne me coûtait rien") et sa richesse: 
+("nous avions gagné assez d'argent"). La narratrice explique aussi l'origine
+de sa fortune, ses oeuvres qui sont exposées partout 
+("à Florence, a Petersbourg et à Paris"). Elle avance aussi le fait qu'elle
+ne connait pas Mr De Calonne (, 

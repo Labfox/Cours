@@ -76,11 +76,11 @@ l'esclave -> CDN, Génitif, servi
 
 
 3. Cherchez l'intrus de chaque série et justifiez votre réponse
-   1. temporum / pas bonne déclinaison
-   2. ivium / n'existe pas
-   3. domina / nom féminin: autres neutres
-   4. maria / sens différnet
-   5. libri / les autres sont des personnes
+    1. temporum / pas bonne déclinaison
+    2. ivium / n'existe pas
+    3. domina / nom féminin: autres neutres
+    4. maria / sens différnet
+    5. libri / les autres sont des personnes
 4. _
 
 | noms       | Déclinaison | Accusatif Singulier | Accusatif Pluriel | Génitif Pluriel |
@@ -98,6 +98,25 @@ l'esclave -> CDN, Génitif, servi
 
 
 5. _
-   1. Ad castra (camp) itinera ducunt
-   2. Hostium consilium consules timent et cuntorum civiuml auxilium petunt
-   3. Romani non tantum hostium multitudinem virtuemque sed etiam hominum magna corpora et novum pugnae genus timent
+    1. Ad castra itinera ducunt = Les chemins mènent au camp
+    2. Hostium consilium consules timent et cuntorum civium auxilium petunt = Les consuls ont peur du projet des ennemis et cherchent à obtenir l'aide de tous les citoyens
+    3. Romani non tantum hostium multitudinem virtuemque sed etiam hominum magna corpora et novum pugnae genus timent
+
+
+
+Romani (Romain) non (non) tantum (seulement) hostium (ennemis) multitudinem (foule) 
+virtutemque (bravoure/force) sed (mais) etiam (aussi) hominum (personne) magna (great) 
+corpora (corps) et (et) novum (nouveau) pugnae (bataille) genus 
+(sang/race/origines/rang/manière de) timent (peur)
+
+= 
+
+Romain non seulement ennemis foule
+bravoure/force mais aussi en plus personne great corps
+et nouveau bataille sang/race/origines/rang/manière de
+peur
+
+
+Les romains ont non seulement une foule d'ennemis braves mais aussi beaucoup de 
+corps sur les mains et la peur d'une nouvelle bataille fratricide
+

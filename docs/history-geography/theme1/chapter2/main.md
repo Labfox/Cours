@@ -31,3 +31,34 @@
 
 4. Ils labourent un champ
 5. De ch
+
+Staline mène une politique de terreur et de répression pour imposer son pouvoir et contrôler le parti communiste, parti unique. Cette politique est particulièrement intense entre 1937 et 1938 lors de la grande Terreur qui vise notameent, lors de procès truqués, de hauts responsables du parti, de l'armée, de l'Etat. Ainsi Staline envoie des milliers de personnes dans les camps du goulag.
+
+^^Camps du Goulag^^: camps de travail forcé où Staline fait enfermer ceux qui s'opposent à lui ou lui déplaisent
+
+### B. En Allemagne, un régime établi dans un pays en crise.
+
+![](../../../assets/scans/2024-novm-20-1.png)
+
+En 1919, l'Allemagne est déclarée responsable de la 1ère Guerre Mondiale. Le Traité de Versailles lui impose des conditions très dures et que le parti nazi dénonce (un Diktat pour les Allemands). Celui-ci arrive au pouvoir dans un contexte de crise économique (= Grande Dépression depuis 1929). Hitler deient chancelier en Janvier 1933. Il porte le titre de führer et impose une dictature dans laquelle il détient tous les pouvoirs. Rapidement, il fait du parti nazi un parti unique et supprime les libertés  et les droits fondamentaux. Hitler sera au pouvoir jusqu'en 1945.
+
+#### 2. Une société encadrée.
+
+![](../../../assets/scans/2024-novm-20-2.png)
+
+étape 1:
+
+Ce document est une affiche de propagande commandée par Adolf Hitler, crée dans les années 1930, destinée à la population allemande.
+
+étape 2: 
+
+Au premier plan, on voit des centaines d'enfants regardant hitler et faisant le salut nazi, au second plan, on voit hitler.
+
+étape 3:
+
+Cette affiche est probablement une affiche de propagande pour hitler, pour amener les enfants à s'inscrire dans les jeunesses hitlériennes quand ils auront l'age.
+
+
+
+
+

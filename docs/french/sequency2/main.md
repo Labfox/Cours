@@ -305,3 +305,27 @@ de sa fortune, ses oeuvres qui sont exposées partout
 ne connait pas Mr De Calonne (, 
 
 Dans ce texte, Louise Élisabeth Vigée Le Brun répond aux calomnies l'accusant d'être la maîtresse de M. de Calonne, qui l'aurait financée. Elle affirme d'abord son indépendance financière et son mode de vie simple : *« J'ai toujours vécu fort modestement »*, expliquant qu'elle n'avait aucun besoin d'argent grâce à sa propre richesse : *« Nous avions gagné assez d'argent. »* Elle met également en avant le succès de son travail d’artiste, attesté par ses portraits exposés dans des lieux prestigieux (*« à Florence, à Petersbourg et à Paris »*), prouvant que sa fortune repose uniquement sur son talent. De plus, elle souligne qu’elle connaissait à peine M. de Calonne : *« Une seule fois dans ma vie j'avais été chez lui »*, et déclare qu’il ne l’attirait pas, notamment à cause de sa *« perruque fiscale »*, ridiculisant ainsi l’accusation. Enfin, elle insiste sur l’absence totale de fondement de ces rumeurs, concluant que rien ne pouvait leur donner de vraisemblance. Par ces arguments, elle cherche à défendre son honneur et à démontrer que sa vie et sa réussite étaient uniquement dues à son travail et à son talent.
+
+LEVL a écrit ce texte pour se justifier de la calomnie dont elle est victime.
+Tout d'abord, elle a suffisamment d'argent : "nous avions gagné assez d'argent" (l. 2-3).
+Ensuite, LEVL ajoute qu'elle est désintéressée : "Mon indifférence pour la fortune" (l. 8).
+Puis, elle vit simplement : "je dépensais extrêmement peu" (l. 10).
+De plus, M. de Calonne est un homme qui, pour elle, n'est pas attirant : "M. de Calonne m'a toujours semblé peu séduisant" (l. 17-18).
+Pour finir, elle connait à peine cet homme : "Une seule fois dans ma vie j'avais été chez lui" (l. 23-24)
+
+Dans l'autobiographie, l'auteur, le narrateur et le personnage ont la même identité
+
+Le récit autobiographique est un récit intime, rétrospectif. 
+
+Une des raisons qui peuvent pousser les écrivains à écrire leur autobiographie est le besoin de ce justifier.
+
+Texte narratif à visée argumentative. Présence d'un narrateur (ici, une narratrice). Expression d'une quier : subjectivité 
+
+## Séance 2: L'expression de la subjectivité: Modalisation et modalisateurs
+
+1. _
+   1. Objectif
+   2. Subjectif
+   3. Subjectif
+   4. Objectif
+   5. Subjectif

@@ -56,9 +56,31 @@ Au premier plan, on voit des centaines d'enfants regardant hitler et faisant le 
 
 étape 3:
 
-Cette affiche est probablement une affiche de propagande pour hitler, pour amener les enfants à s'inscrire dans les jeunesses hitlériennes quand ils auront l'age.
+Cette affiche est probablement une affiche de propagande pour hitler, pour inculquer un culte de la personnalité d'hitler, et ramener les enfants dans les jeunesses hitlériennes
+
+![](../../../assets/scans/2024-novm-21-1.png)
+
+1. L'auteur du texte est Guillaume Ducher
+2. L'objectif de Guillaume Ducher est d'alerter l'opinion publique sur le nombre et la cruauté des camps de concentration
+3. _
 
 
+| Opposants politiques au régime hitlérien                | députés du reichtag, communistes                                      |
+|---------------------------------------------------------|-----------------------------------------------------------------------|
+| Opposants civils au régime hitlérien                    | éditeurs de journaux, mouvements marxistes                            |
+| Citoyens allemands discriminés à cause de leur religion | 200 personnes (juifs)                                                 |
+| Détenus de droit commun                                 | pacifistes, avocats, artistes, médecins, ouvriers, paysans, bourgeois |
 
+Les jeunes et les adultes sont encadrés dans des organistations contrôlées par le régime nazi. La propagande développe le culte de la personnalité autour d'Hitler.
+La Gestapo (police politique), fait régner la terreur. Les opposants sont envoyés dans des camps de concentration.
 
+#### 3. Un régime raciste et antisémite
+
+| Une idéologie raciste et antisémite                                             | Mise en application                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| _Une race supérieure: la race aryenne._ <br/> _Une race inférieure: les Juifs_  | _^^Lois de Nuremberg 1935^^: Les Juifs sont privés de la citoyenneté allemande, interdiction des mariages entre Juifs et allemands, de hisser le drapeau national..._ <br />^^9-10 novembre 1938: Nuit de cristal^^<br /> Destruction et pillage en Allemagne de plus de 200 synagogues et dde plus de 7500 commerces tenus par des Juifs, arrestation de 30 000 Juifs<br />^^Odronnances du 12 novembre 1938^^ <br /> Interdictions de certaines professions aux Juifs |
+
+![](../../../assets/scans/2024-novm-21-2.png)
+
+![](../../../assets/scans/2024-novm-21-3.png)
 

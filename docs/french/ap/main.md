@@ -22,3 +22,10 @@
 * Repérage des questions: 3, 4, 5, 6, 7
 * Relever des mots clés dans les différentes questions
 
+Peuple - Manière de vivre. Traditions. Exposition universelle.
+
+Colonisation. Comment vont être vus les autochtones rencontrés par le vieil homme ?
+
+Confrontation entre les indigènes et les officiels.
+
+1) D'après les lignes 1 à 4, les voyage en bateau s'est déroulé dans de mauvaises conditions ("nous vivions sur le troisième pont" (l. 1), "il faisait trop chaud le jour, trop froid la nuit" (l. 2)), et sans aide médicale ("plusieurs d'entre nous ont contracté la malaria [...]. Il y à eu trois morts" (l. 3-4))

@@ -48,10 +48,10 @@ candidate _ ALL _ election _ Electors_ January _ winner
 new _ Inauguration _ promises _ White _ work _ four
 
 
-| _president_ | _vice president_ | _kamala_ |
-|-------------|------------------|----------|
-| money       | vote             | all      |
-| _here       | citizens         | better   |
+| president | vice president | kamala |
+|-----------|----------------|--------|
+| money     | vote           | all    |
+| here      | citizens       | better |
 
 
 

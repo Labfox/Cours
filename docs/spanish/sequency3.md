@@ -171,3 +171,19 @@ de nationalités différentes
 * Pablo: En mexico la muerta está triste, pero en el día de muertos es alegre
 * Pedro: En España la muerte está triste también. Algunos, rígenos de España basil en el día de los santos.
 * Santiago: La muerta es triste y alegre, pero es muy importante es se recuerdan a los difuntos
+
+
+Proyecto de secuencia ALEBRIJE
+Tarea en casa para el ………………………………………….
+Por parejas, cread vuestro alebrije mexicano.
+1) Presentad su nombre y su nacionalidad.
+2) Realizad una descripción física completa (cuerpo / colores / particularidades).
+3) Mencionad su(s) poder(es) y cómo os ayuda en vuestras vidas cotidianas.
+4) Dibujadlo o creadlo con el ordenador o con vuestras manos
+
+
+Mi alebrije se llama cousa y es mexiano. Tiene una cabeza de gallina con un pico ammarillo y plumas peliroja. Tiene cuerpo de mona con pelo rojo. Y un cola de gotocon pelo voride. Tiene patas rosa. Cousa es imperfecto, ingenioso y comico. Cousa puede me teleporte en el mundo de muertos pero no puede volver en el mundo de los vivos.
+
+Mi alebrije se llama Cousa y es mexicano. Tiene una cabeza de gallina con un pico amarillo y plumas pelirrojas. Tiene el cuerpo de una mona con pelo rojo y una cola de gato con pelo verde. Tiene patas rosas. Cousa es imperfecto, ingenioso y cómico. Cousa puede teletransportarme al mundo de los muertos, pero no puede volver al mundo de los vivos.
+
+

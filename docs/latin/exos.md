@@ -120,3 +120,11 @@ peur
 Les romains ont non seulement une foule d'ennemis braves mais aussi beaucoup de 
 corps sur les mains et la peur d'une nouvelle bataille fratricide
 
+Les romains craignent non seulement la foule et le courage des ennemis mais aussi les grands corps des hommes et un nouveau genre de combat.
+
+tempus, temporis, n: abl, s: tempore <br />
+servolus, servolu, m: acc s: servolum <br />
+corpus, corporis, n: acc p: corpora <br />
+consul, consulis, m: gen p: consulum <br />
+toga, togae, f: acc p: togas
+

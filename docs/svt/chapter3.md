@@ -14,4 +14,24 @@ Activité 1 : Compétence travaillée : « Extraire les informations »
 3. Les poules du lot B survivent grâce à l'aide de la réoonse secondaire induite par l'injection de bactéries vieillies
 
 
+## II - Pour quelles raisons certains vaccins sont-ils obligatoires ?
 
+^^Bilan 2: ^^ La vaccination permet de lutter contre la contamination et l'infection.
+
+^^La couverture vaccinnale^^ = proportion d'individus vaccinés dans une population (en %)
+
+Plus la couverture vaccinale est grande, plus l'épidémie tend à disparaître.
+
+Si la couverture vaccinale n'est pas suffisante, il y a un risque d'épidémie pour les personnes non vaccinées
+
+```mermaid
+flowchart TD
+    A[Prévension des maladies] --> B(Vaccination)
+    A --> C(Hygiène)
+    A --> D(Dépistage)
+    A --> E(Préservatifs)
+    B --> F(Protection des populations)
+    C --> F 
+    D --> F 
+    E --> F
+```

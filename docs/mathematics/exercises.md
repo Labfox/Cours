@@ -574,7 +574,7 @@ Le temps est donc 15 minutes
 4) 20 euros
 5) 1515 euros
 
-veyon-cli feature start 127.0.0.1 TextMessage "{\"text\": \"ima bad guy\"}"
+
 
 ## E3
 
@@ -583,4 +583,18 @@ Le plus grand des 3 coté du triangle ABC est BC.
 $BC^2 = 1,34^2 = 1,7956$
 
 $AB^2 + AC^2 = 0,6^2 + 1,2^2 = 0.36+1,44 = 1,8$
+
+## Flash
+
+1) 65
+2) 32
+3) 45
+4) 8
+5) 0
+
+
+## Exercice 20
+
+BC: 5.872972973
+EC: 2.464864862
 

@@ -296,7 +296,7 @@ déja des thunes + vit simplement + ne connais pas M. De Calonne + pas attirant 
 
 Louise Elisabeth Vigée Lebrun écrit ce texte pour répondre aux calomnies. Elle 
 présente plsusieurs arguments. Tout d'abord, elle avance l'absence d'une 
-nécessité d'argent en expliquant sa simplicité 
+nécessité d'argent en 0expliquant sa simplicité 
 ("j'ai toujours vécu fort modestement", "je dépensais extrêmement peu", 
 "ma coiffure ne me coûtait rien") et sa richesse: 
 ("nous avions gagné assez d'argent"). La narratrice explique aussi l'origine
@@ -319,7 +319,7 @@ Le récit autobiographique est un récit intime, rétrospectif.
 
 Une des raisons qui peuvent pousser les écrivains à écrire leur autobiographie est le besoin de ce justifier.
 
-Texte narratif à visée argumentative. Présence d'un narrateur (ici, une narratrice). Expression d'une quier : subjectivité 
+Texte narratif à visée argumentative. Présence d'un narrateur (ici, une narratrice). Expression d'une opinion : subjectivité 
 
 ## Séance 2: L'expression de la subjectivité: Modalisation et modalisateurs
 
@@ -329,3 +329,44 @@ Texte narratif à visée argumentative. Présence d'un narrateur (ici, une narra
    3. Subjectif
    4. Objectif
    5. Subjectif
+2. _
+   1. Il ^^me semble^^ que les cinémas étaient plus fréquentés autrefois.
+   2. Lola a ^^bien sûr^^ raté son train.
+   3. ^^J’apprécie^^ votre aide en ces moments difficiles.
+   4. Notre plan a ^^malheureusement^^ échoué, il était ^^certainement^^ irréalisable.
+   5. Ce local est, certes, exigu, mais pour ma part, je le ^^trouve^^ suffisant pour mon activité.
+   6. Vous avez ^^peut-être^^ raison, mais ^^j’en doute^^
+3. _
+   1. Alexis est ^^étourdi^^, ^^il a une cervelle de moineau^^: péjoratif, métaphore
+   2. La nouvelle autoroute ^^serait^^ ouverte prochainement à la circulation: vocabulaire mélioratif
+   3. Son regard est ^^glacial^^ et ^^aussi noir qu’un ciel d’orage^^: péjoratif, métaphore
+4. Un _énorme_ incendie a détruit plusieurs hectares de forêt. Ce sont _probablement_ _encore_ de _mauvais_ campeurs qui ont provoqué ce sinistre en faisant _un mauvais_ feu
+
+_
+
+### Exercice 5
+1. Heureseument, notre voyage se termine et j'en suis heureux
+2. Vous avez ceertainement raison, j'en suis sur
+
+### Exercice 6
+1. Valorisante: variées et stimulantes, chaleureuse
+2. Neutre
+3. Dévalorisante: fragile, inconfortable
+
+### Exercice 7
+
+1. Malheureusement, votre séjour parmis nous à été bref.
+2. La commune pourait agrandir le stade
+3. Nous allons finalement passer une semaine à la montagne
+4. Chacun doit veiller à préserver la nature
+
+### Exercice 8
+
+Ces élèves ont au moins bavardé pendant 3 heures !
+Les êtres humains ont tendance à bavarder.
+
+Cette journée fut extrêment longue !
+Les journées d'été sont les plus longues.
+
+### Exercice 9
+

@@ -80,7 +80,22 @@ La Gestapo (police politique), fait régner la terreur. Les opposants sont envoy
 |---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | _Une race supérieure: la race aryenne._ <br/> _Une race inférieure: les Juifs_  | _^^Lois de Nuremberg 1935^^: Les Juifs sont privés de la citoyenneté allemande, interdiction des mariages entre Juifs et allemands, de hisser le drapeau national..._ <br />^^9-10 novembre 1938: Nuit de cristal^^<br /> Destruction et pillage en Allemagne de plus de 200 synagogues et dde plus de 7500 commerces tenus par des Juifs, arrestation de 30 000 Juifs<br />^^Odronnances du 12 novembre 1938^^ <br /> Interdictions de certaines professions aux Juifs |
 
+### C. En france: l'example du Front Populaire
+
 ![](../../../assets/scans/2024-novm-21-2.png)
 
 ![](../../../assets/scans/2024-novm-21-3.png)
+
+1. Les partis de gauche dénoncent une tentative de coup d'État et lancent des contre-manifestations
+2. S.F.I.O (Section de l'Internationale Ouvrière), le parti radical, le parti communiste français (PCF).
+3. Le pain, la paix et la liberté
+4. Le front populaire gagne les élections. Léon Blum est nommé chef du gouvernement
+5. Les ouvriers vont manifester, organiser des grèves, occuper les usines, pour inciter le gouvernement à mettre en oeuvre son programme.
+6. Ce sont les accords de Matignon.
+7. Hausse des salaires, 15 jours de congés payés, réduction du temps de travail, mise en place des délégués du personnel, et des conventions collectives
+8. Le 21 juin 1938
+9. Daladier forme un nouveau gouvernement avec la droite
+
+
+5. Droit civils (fonder une famille, se marier), droits économiques et sociaux (travail, grève etc...).
 

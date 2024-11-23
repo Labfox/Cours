@@ -55,5 +55,55 @@ new _ Inauguration _ promises _ White _ work _ four
 
 
 
+1. **Quel est le rôle du président américain ?**  
+   (Il dirige le pays et représente les États-Unis dans le monde.)
+
+2. **Combien de temps dure un mandat présidentiel aux États-Unis ?**  
+   (Quatre ans.)
+
+3. **Quels animaux représentent les partis politiques américains ?**  
+   (L’éléphant pour les Républicains et l’âne pour les Démocrates.)
+
+4. **Comment s’appelle le groupe qui élit officiellement le président ?**  
+   (Le Collège électoral.)
+
+5. **Combien de grands électeurs faut-il pour gagner l’élection présidentielle ?**  
+   (270.)
+
+6. **Que signifie "swing state" ?**  
+   (Un État où les votes changent souvent de parti d’une élection à l’autre.)
+
+7. **Qui était président avant l’élection de 2024 ?**  
+   (Joe Biden.)
+
+8. **Quand le nouveau président entre-t-il officiellement en fonction ?**  
+   (En janvier, lors de l’inauguration.)
+
+9. **Qu’est-ce qu’un débat présidentiel ?**  
+   (C’est une discussion télévisée où les candidats présentent leurs idées.)
+
+10. **Quel parti est représenté par la lettre D ?**  
+    (Le Parti démocrate.)
+
+11. **Combien y a-t-il de grands électeurs au total ?**  
+    (538.)
+
+12. **Pourquoi les swing states sont-ils importants ?**  
+    (Ils peuvent décider de l’issue de l’élection.)
+
+13. **Comment les citoyens participent-ils aux élections ?**  
+    (Ils votent pour les grands électeurs.)
+
+14. **Qu’est-ce qu’un caucus ?**  
+    (Une réunion où les membres d’un parti choisissent leur candidat.)
+
+15. **Pourquoi les campagnes coûtent-elles cher ?**  
+    (Pour financer la publicité et les déplacements.)
+
+16. **Quels sont les deux principaux partis politiques aux États-Unis ?**  
+    (Le Parti démocrate et le Parti républicain.)
+
+17. **Quelle est la couleur associée au Parti républicain ?**  
+    (Le rouge.)
 
 

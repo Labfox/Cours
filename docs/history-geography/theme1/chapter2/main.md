@@ -19,11 +19,11 @@
 |---------------------------|---------------------|
 | Réalisateur et scénariste | Sergueï Eisenstein  |
 | Date de sortie            | 1929                |
-| Naturee                    | Film                |
+| Naturee                   | Film                |
 
 1.
-| Les koulaks (paysans riches)                                                                                                                       | Les paysans pauvres |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|---|
+| Les koulaks (paysans riches)                                                                                                                       | Les paysans pauvres                                                        |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | Maison décourée, en surpoid, ne travaille pas, allongée, la femme à des bijoux, ils ont beaucoup d'animaux en bonne santé, abondance de la boisson | Mal habillés, salles, maigres, pieds nus, maison délabrée, matériaux vieux |
 
 2. Demander un cheval / taureau pour labourer
@@ -98,4 +98,30 @@ La Gestapo (police politique), fait régner la terreur. Les opposants sont envoy
 
 
 5. Droit civils (fonder une famille, se marier), droits économiques et sociaux (travail, grève etc...).
+
+
+## B. Les démocraties inquiètes face aux régimes totalitaires
+
+
+À partir de 1935, en violation du Traité de Versailles, Hitler réarme l'Allemagne et oriente l'économie vers la préparation de la guerre:
+
+- rétablissement du service militaire
+- remilitarisation de la Rhéanie
+- production d'armes modernes  (tanks, avions ...)
+
+Hitler souhaite en effet étendre l'Allemagne par la conquête d'un "espace vital" à l'est:
+
+- mars 1938: rattachement de l'Autriche à l'Allemagne (Anschluss)
+- septembre 1938: annexion des Sudètes
+- mars 1939: invasion de la Bohême-Moravie
+
+Face à ces provocations, les démocraties veulent sauver la paix. Lors de la conférence de Munich en 1938, les démocraties occidentales accordent aux nazis les territoires qu'ils réclament.
+
+^^**Conclusion**^^: 
+
+Durant l'entre 2 guerres, l'Europe voit se développer des régimes totalitaires comme le régime soviétique, nazi. Ces régimes totalitaires menacent la paix en Europe et cette montée des périls dans un contexte de crise fragilise les démocraties.
+
+!!! abstract "Régime totalitaire"
+
+    régime d'un pays dans lequel le pouvoir appartient à un parti unique et à un dictateur, et où l'Etat contrôle toute la vie politique, économique, sociale, culturelle. La soumission totale des individus est obtenue par l'encadrement de la population la propagande et la terreur.
 

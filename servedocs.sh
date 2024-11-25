@@ -2,4 +2,4 @@
 
 cd /home/labfox/Cours/
 source venv/bin/activate
-mkdocs serve -v
+mkdocs serve

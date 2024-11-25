@@ -31,7 +31,8 @@ nav:
       - "Sequence 1": "mathematics/chapter1/index.md"
       - "Sequence 2": "mathematics/chapter2/cours.md"
       - "Sequence 3": "mathematics/chapter3/cours.md"
-      - Puissances: "mathematics/fichederevisionpuissances.md"
+      - "Sequence 4": "mathematics/chapter4/main.md"
+      - Puissances: "mathematics/fichederevisionspuissances.md"
     - Latin:
       - Main: "latin/main.md"
       - "Séquence 1": "latin/sequency2.md"
@@ -53,6 +54,7 @@ nav:
             - "Chapitre 1":
                - Home: "history-geography/geography/theme1/chapter1/main.md"
                - "Fiche de révision": "history-geography/geography/theme1/chapter1/revision.md"
+            - "Chapitre 2": "history-geography/geography/theme1/chapter2/main.md"
       - EMC:
           - "Chapitre 1":
               - Home: "history-geography/emc/chapter1/index.md"
@@ -63,6 +65,8 @@ nav:
       - "Chapter 2":
         - "Exos": "physique-chimie/chapter2/main.md"
         - "Cours": "physique-chimie/chapter2/cours.md"
+      - "Chapter 3":
+        - "Exos": "physique-chimie/chapter3/main.md"
     - "Fr*nch":
        - "Home": "french/main.md"
        - "Sequency 1":
@@ -87,6 +91,7 @@ nav:
         - "Home": "svt/index.md"
         - "Chapter 2": "svt/chapter2.md"
         - "Chapter 3": "svt/chapter3.md"
+        - "Chapter 4": "svt/chapter4.md"
     - LCE: "lce/main.md"
     - Musique:
         - Main: "music/index.md"

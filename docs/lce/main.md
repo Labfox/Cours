@@ -93,7 +93,15 @@ Is noah convicing ?
 I'm conviced this guy will at least be a little responsive.
 
 
+He begins by saying students should vote for him because he's fnny. He shows us "embarrassing moments" when he's making bad jokes that are not really funny. His audience, a girl, doesn't laugh.
 
+Then, he adds that he's a good leader, and we see him giving orders to his siblings, sitting on the couch and wearing his campagin suit. They don't obey.
 
+He is presented as being able to be self-deprecating (_il fait preuve d'auto dérision_), he doesn't take himself too seriously.
 
+a. You need to be eloquent, honest, altruistic, collborative, a good leader, kind, punctiual, persuasive, determined, empathetic, anti-bullying, respectful, convicing, positivity, sociable, activist, flexible, humility and easy-going
+
+| qualities                                             | verbs of actions                | issues topics                  |
+|-------------------------------------------------------|---------------------------------|--------------------------------|
+| show humility<br/>be humble<br/>sociable<br/>eloquent | make<br/>hear<br/>help<br/>vote | women's rights<br/>immigration |
 

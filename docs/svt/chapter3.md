@@ -35,3 +35,12 @@ flowchart TD
     D --> F 
     E --> F
 ```
+
+
+ 
+2) La couverture virale augmente de 82% en 1996 à 85% en 2004 (2 doses recommandées en 96, ça augmente l'immunité)
+3) immunité augmentée donc plus de cas de rougeole
+
+* Se vacciner c'est "se protéger soi-même" car le vaccin provoque la fabrication d'anticorps et de lymphocytes B mémoiresqui immunisent
+* Se vacciner c'est "protéger aussi les autres" car étant mmunisé, nous ne pouvons pas contaminer (transmettre la maladie) d'autres personnes
+

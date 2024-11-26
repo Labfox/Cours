@@ -346,7 +346,7 @@ _
 
 ### Exercice 5
 1. Heureseument, notre voyage se termine et j'en suis heureux
-2. Vous avez ceertainement raison, j'en suis sur
+2. Vous avez certainement raison, j'en suis sur
 
 ### Exercice 6
 1. Valorisante: variées et stimulantes, chaleureuse
@@ -355,8 +355,8 @@ _
 
 ### Exercice 7
 
-1. Malheureusement, votre séjour parmis nous à été bref.
-2. La commune pourait agrandir le stade
+1. Malheureusement, votre séjour parmis nous à été trop bref.
+2. La commune pourrait agrandir le stade
 3. Nous allons finalement passer une semaine à la montagne
 4. Chacun doit veiller à préserver la nature
 
@@ -365,8 +365,18 @@ _
 Ces élèves ont au moins bavardé pendant 3 heures !
 Les êtres humains ont tendance à bavarder.
 
-Cette journée fut extrêment longue !
+Cette journée fut extrêmement longue !
 Les journées d'été sont les plus longues.
 
 ### Exercice 9
+
+des cheveux rêches + une terre fertile - un climat tempéré - un élève négligent - une eau pure - des idées claires
+
+
+
+Retrouvez dans le texte de LEVL les modalisateurs
+
+malheur - prétexte - calomnie - infâmes - négligence - peu - fortune - 
+
+malheur - infâmes - assez d'argent - sainte - certainement - sans doute - fort modestement - extrêmement peu - même - certes - telle - sous tout autres rapport - m'a semblé
 

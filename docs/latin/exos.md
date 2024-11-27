@@ -128,3 +128,13 @@ corpus, corporis, n: acc p: corpora <br />
 consul, consulis, m: gen p: consulum <br />
 toga, togae, f: acc p: togas
 
+L'esclave ramena Cesar chez lui.
+
+Le conjuré blesse César sous la gorge
+
+César pris le bras de Casca
+
+César reçut une blessure à la poitrine
+
+L'ennemi transperça la gorge de son glaive.
+

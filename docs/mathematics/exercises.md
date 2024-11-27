@@ -606,4 +606,29 @@ EC: 2.464864862
 5) 9x^2^
 
 
+## Flash
+
+1) 70
+2) 3
+3) $1,5 = \frac{3}{2}$
+4) _
+5) A=0
+
+1 481 959 811
+
+Ex 3
+
+CB/ZY = AC/XZ = AB/XY
+
+## Exercice 4
+
+Ils le sont car 5/3 et 3/1.8 sont égaux
+
+## Exercice 5
+
+Pas semblables
+
+## Exercice 6
+
+chaigneau247
 

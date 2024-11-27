@@ -20,4 +20,3 @@
 
 ![](../../../../assets/scans/2024-novm-25-5.png)
 
-(les 4 questions c ici)

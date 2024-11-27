@@ -21,22 +21,22 @@ Auto (de soi-même/ par soi-même) (préfixe) — bio (vie) (radical) — graphi
 
 + _
 
-| auto | bio | graphie |
-|------|-----|---------|
-| autopsie | biogaz | sérigraphie |
-| autodérision | biologiste | photographie |
-| automutilation | biodégradable | cinématographe |
-| autodéfense | biodiverstié | caligraphie |
-| autonome | biopic | orthographe |
-| autoportrait | bioéthique | sténographe |
-| autodidacte | bioluminescent | lithographie |
-| autographe | biocarburant | chorégraphie |
-| autocratie | biotope | graphologue |
-| autocollant | biosphère | échographie |
-| autocritique | biométrie | |
-| autochtone | | |
-| autosatisfait | | |
-| autocensure | | |
+| auto           | bio            | graphie        |
+|----------------|----------------|----------------|
+| autopsie       | biogaz         | sérigraphie    |
+| autodérision   | biologiste     | photographie   |
+| automutilation | biodégradable  | cinématographe |
+| autodéfense    | biodiverstié   | caligraphie    |
+| autonome       | biopic         | orthographe    |
+| autoportrait   | bioéthique     | sténographe    |
+| autodidacte    | bioluminescent | lithographie   |
+| autographe     | biocarburant   | chorégraphie   |
+| autocratie     | biotope        | graphologue    |
+| autocollant    | biosphère      | échographie    |
+| autocritique   | biométrie      |                |
+| autochtone     |                |                |
+| autosatisfait  |                |                |
+| autocensure    |                |                |
 
 TD Bordas p. 64-65
 
@@ -378,5 +378,8 @@ Retrouvez dans le texte de LEVL les modalisateurs
 
 malheur - prétexte - calomnie - infâmes - négligence - peu - fortune - 
 
-malheur - infâmes - assez d'argent - sainte - certainement - sans doute - fort modestement - extrêmement peu - même - certes - telle - sous tout autres rapport - m'a semblé
+malheur - infâmes - assez d'argent - sainte - certainement - sans doute - fort modestement - extrêmement peu - même - certes - telle - sous tout autres rapport - m'a semblé - jugez comme - peu séduisant - j'aurais pu - en honneur - à regret - surprenant - il avait jugé convenable - digne de l'enfer - je n'aurais donc jamais imaginé - désolants - 
 
+l'air - découragement - croassement
+
+Martin - corbeau - voyageur

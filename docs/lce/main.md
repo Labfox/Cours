@@ -105,3 +105,12 @@ a. You need to be eloquent, honest, altruistic, collborative, a good leader, kin
 |-------------------------------------------------------|---------------------------------|--------------------------------|
 | show humility<br/>be humble<br/>sociable<br/>eloquent | make<br/>hear<br/>help<br/>vote | women's rights<br/>immigration |
 
+Noah L. Sydow, 50 ans, Montain View, California
+
+slogan: ?
+
+symbole: [m]
+
+parti: démocrate
+
+

@@ -138,3 +138,28 @@ César reçut une blessure à la poitrine
 
 L'ennemi transperça la gorge de son glaive.
 
+## Nouveaux exos
+
+Le messager fuit la douleur
+^     ^       ^   ^    ^
+
+messager fuit douleur
+
+
+Elle donne            son amour à son mari
+ ^     ^               ^    ^   ^  ^    ^
+     (do, das, dare)  
+
+Elle donne son amour à son mari
+
+La femme du consul demande de l'aide au messager
+ ^   ^   ^     ^      ^    ^     ^    ^    ^
+
+
+Le combat est dans la ville
+ ^    ^    ^   ^    ^   ^
+
+
+L'épouse de l'homme détruit les lettres du messager
+    ^    ^      ^       ^    ^     ^     ^    ^
+

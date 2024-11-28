@@ -106,4 +106,15 @@ new _ Inauguration _ promises _ White _ work _ four
 17. **Quelle est la couleur associée au Parti républicain ?**  
     (Le rouge.)
 
+pros and cons of being us president
+
+| pros | cons |
+|------|------|
+|      |      |
+
+400 000 bucks/y
+
+jumbo jet, air force 1
+
+600 Pennsylvania avenue, Washington D.C.
 

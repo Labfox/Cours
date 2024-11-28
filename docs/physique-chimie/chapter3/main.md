@@ -10,4 +10,3 @@ _
 1) Cela s'appelle un ionogramme car cela permet de mesurer la concentration d'ion dans le sang
 2) Cela représente la concentration en g/L, 
 
-bilan du stage (1 page pc)

@@ -114,3 +114,24 @@ symbole: [m]
 parti: démocrate
 
 
+| Helen                                                         | Alan                                                                                                        | Libby                                                         |
+|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| reduce poverty<br/>find a home for everyone, end homelessness | protect the banks<br/>vice-president mother<br/>run a security platform to secure the banks and the prisons | have more peace<br/>create world peace<br/>try to stop racism |
+
+for
+
+- to be in favour of smth
+- to support
+- to encourage
+- to agree with
+
+against
+
+- to oppose
+- to disagree
+- to disapprove
+
+kamala harris was in favor of gun control
+
+donal trump was against abortion
+

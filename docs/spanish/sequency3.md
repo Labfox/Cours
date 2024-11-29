@@ -187,3 +187,16 @@ Mi alebrije se llama cousa y es mexiano. Tiene una cabeza de gallina con un pico
 Mi alebrije se llama Cousa y es mexicano. Tiene una cabeza de gallina con un pico amarillo y plumas pelirrojas. Tiene el cuerpo de una mona con pelo rojo y una cola de gato con pelo verde. Tiene patas rosas. Cousa es imperfecto, ingenioso y cómico. Cousa puede teletransportarme al mundo de los muertos, pero no puede volver al mundo de los vivos.
 
 
+16/16
+
++0 +0 +4 +0 -4 +4 +0 -4 +0 +0 +4
+
+4/48
+
+7/98
+
+0/90
+
+27
+
+-7 +7 +7

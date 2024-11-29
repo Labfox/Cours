@@ -118,3 +118,12 @@ jumbo jet, air force 1
 
 600 Pennsylvania avenue, Washington D.C.
 
+requirements:
+
+- born in the US and American
+- 35 or older
+- living in the US for more than 14 years
+
+In order to become president of the USA, you must have been born in the USA. Moreover, you must be thirty five years old or older.
+
+Finally, you need  

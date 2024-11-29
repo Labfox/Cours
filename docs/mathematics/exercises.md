@@ -632,3 +632,25 @@ Pas semblables
 
 chaigneau247
 
+## fLASH
+
+1) 26
+2) 60
+3) 2^-2^
+4) 18 euros
+5) 2km/min
+
+## Exercice 7
+
+| Sommest homologues | Côtés homologes | Angles homologues |
+|--------------------|-----------------|-------------------|
+| A et E             | AB et ER        | ^R et Ê           |
+| B et R             | BC et RD        | ^B et ^R          |
+| C et D             | CA et ED        | ^C et ^D          |
+
+## Exercice 9
+
+Hervé
+
+## Exercice 14
+

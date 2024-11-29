@@ -384,3 +384,16 @@ l'air - découragement - croassement
 
 Martin - corbeau - voyageur
 
+
++ onomatopées
+
+
+
+
+
+
+
+
+
+
+

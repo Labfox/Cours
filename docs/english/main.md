@@ -304,6 +304,19 @@ I understood that people with similar ideas are in the parties and they delivers
 I heard the word December... In January, they know who the president will be.
 Each has a different number of electors.
 
+me, people, questions, street, sleep, mirror, street, sleep, mirror, sleep, goodbye, walk, why
+
+child, blind, sitting, road
+
+7, 6, 5, 2, 1, 3, 4, 8
+
+work, wage, me, bombs, bed
+
+nothing, How, head
+
+_, honestly, same, wage, lonely, dumb, what kind of
+
+The song critiques policies, decisions, and societal issues under George W. Bush's administration.
 
 V1:
 ```

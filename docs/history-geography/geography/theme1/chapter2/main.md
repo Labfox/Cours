@@ -58,3 +58,21 @@ communs et innovants. C'est un pôle de compétitivité.
 
 ![](../../../../assets/scans/2024-novm-27-2.png)
 
+```mermaid
+mindmap
+    root (Les espaces productifs à dominante industrielle)
+        Vers un développement industriel durable ?
+            Approche du cycle de vie des objets
+            Réflexion sur les conséquences environnementales des produits
+        De nouveaux paysages industriels
+            Création de technôpoles
+            En périphérie ou dans le centre des agglomérations
+        Vers un déclin industriel ?
+            600 000 emplois industriels perdus en dix ans
+            Moyenne d'emplois industriels dans la population active en dessous de la moyenne
+        Facteurs de localisation
+            Proximité des ressources énergétiques et des matières premières
+            Proximité des centres de recherche et des universités
+            Cadre de vie
+            Intégration aux circuits d'échanges européens/mondiaux
+```

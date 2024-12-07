@@ -28,6 +28,6 @@ flowchart
     D --> F
 ```
 
-^^Un caracctère héréditaire:^^ un caractère qui se transmet de génération en génération. Il peut sauter une génération.
+^^Un caractère héréditaire :^^ un caractère qui se transmet de génération en génération. Il peut sauter une génération.
 
-^^Phénotype:^^ ensemble des caractéristiques visibles d'un individu ou 
+^^Phénotype :^^ ensemble des caractéristiques visibles d'un individu ou des cellules composant cet individu

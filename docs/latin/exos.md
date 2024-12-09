@@ -141,25 +141,27 @@ L'ennemi transperça la gorge de son glaive.
 ## Nouveaux exos
 
 Le messager fuit la douleur
-^     ^       ^   ^    ^
-
-messager fuit douleur
-
-
-Elle donne            son amour à son mari
- ^     ^               ^    ^   ^  ^    ^
-     (do, das, dare)  
+^ ^ ^ ^ ^
+nuntius dolore fugit
+sujet COD verbe
 
 Elle donne son amour à son mari
+^ ^ ^ ^ ^ ^ ^
+illa dat suum amorem suo marito
+sujet verbe COD COD COS
 
 La femme du consul demande de l'aide au messager
- ^   ^   ^     ^      ^    ^     ^    ^    ^
-
+^ ^ ^ ^ ^ ^ ^ ^ ^
+uxor consulis auxilium nuntium rogat
+sujet CDN COD COS verbe
 
 Le combat est dans la ville
- ^    ^    ^   ^    ^   ^
-
+^ ^ ^ ^ ^ ^
+pugna est in urbe
+sujet verbe prép. CDN
 
 L'épouse de l'homme détruit les lettres du messager
-    ^    ^      ^       ^    ^     ^     ^    ^
+^ ^ ^ ^ ^ ^ ^ ^
+uxor viri epistulas nuntii delet
+sujet CDN COD CDN verbe
 

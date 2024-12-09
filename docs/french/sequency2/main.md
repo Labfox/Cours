@@ -388,12 +388,32 @@ Martin - corbeau - voyageur
 + onomatopées
 
 
+Exercice sur les classes grammaticales
 
 
+Il voyait le soleil. La chambre, dès qu'il leva le volet, en fut inondée. Il ouvrit la fenêtre et apreçut, en face, à trente mètres au moins, un immeuble blanc tout pareil au leur. En face aussi, chaque appartement avait un balcon de ciment et, sur quelques-uns de ces balcons, du linge séchait.
 
+La rue des Francs-Bourgeois, à l'endroit où ils habitaient trois jours plus tôt encore, était à peine large de cinq mètres et on devait descendre du trottoir quand on croisait un passant
 
+Deux avions vrombissaient dans le ciel, parfois cachés par la brume matinale. On n'était qu'à huit kilomètes d'Orly.
 
-
-
-
-
+Il: déterminant
+Chambre: nom
+Dès qu: 
+le: déterminant
+en: 
+leur: 
+chaque: 
+et: 
+ces: pronom
+à: déterminant
+où:
+encore: adjectif
+large: adjectif qualificatif
+de: déterminant
+quand: déterminant
+croisait: verbe
+dans: déterminant
+parfois: adjectif
+on: pronom
+huit: nom

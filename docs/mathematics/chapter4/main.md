@@ -64,3 +64,4 @@ KLM est une réduction de RST dans le rapport $\frac{2}{3}$ bien RST est un agra
 on arrive dans une configuration très particulière, la configuration de Thalès.
 
 
+## III) Nouvelle configuration: Le sablier / 

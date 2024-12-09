@@ -127,3 +127,30 @@ requirements:
 In order to become president of the USA, you must have been born in the USA. Moreover, you must be thirty five years old or older.
 
 Finally, you need  
+
+In this song Pink is blaming the president for not helping people in need / for not providing the Homeless with a bed. 
+
+She criticizes George W. Bush, because he didn't help American people during the Irak War.
+
+She denounces the fact he didn't help enough teenagers who suffered from addictions.
+
+He didn't solve poverty.
+
+
+
+
+
+
+
+
+
+
+
+Title: IDK
+
+I suppose, the man is dreaming of becoming a rockstar or a movie star.
+
+He also seems to be dreaming of becoming a successful athlete or even the president of the USA.
+
+In a word, he is dreaming of becoming someone rich and famous / successful.
+

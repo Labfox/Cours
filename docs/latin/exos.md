@@ -190,3 +190,8 @@ uxares virorum epistulam nuntiorum -> 0
 
 
 m,e,e
+
+
+Jules César, né en 100 av. J.-C., est issu d’une famille patricienne. Capturé par des pirates en mer Égée, il impressionne ses ravisseurs avant de les punir une fois libéré. Chef charismatique, il inspire ses soldats par sa proximité et ses discours motivants. Le 15 mars 44 av. J.-C., il est tragiquement assassiné au Sénat par des conjurés craignant qu’il ne devienne roi.
+
+

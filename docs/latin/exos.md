@@ -141,27 +141,52 @@ L'ennemi transperça la gorge de son glaive.
 ## Nouveaux exos
 
 Le messager fuit la douleur
-^ ^ ^ ^ ^
-nuntius dolore fugit
-sujet COD verbe
+^            ^       ^
+nuntius dolore_m_  fugit
+sujet     verbe     COD
+
+-> 2
 
 Elle donne son amour à son mari
-^ ^ ^ ^ ^ ^ ^
+^      ^       ^     ^  ^   ^
 illa dat suum amorem suo marito
 sujet verbe COD COD COS
 
+verbe (3e personne)  COD(Accusatif sing.)  COI (D sing.)
+amorem marito dat.
+
+-> 0
+
 La femme du consul demande de l'aide au messager
-^ ^ ^ ^ ^ ^ ^ ^ ^
-uxor consulis auxilium nuntium rogat
-sujet CDN COD COS verbe
+^            ^        ^       ^           ^
+uxor     consulis   auxilium nuntiis     petit
+sujet CDN Verbe COD COS
+
+-> 1
 
 Le combat est dans la ville
-^ ^ ^ ^ ^ ^
-pugna est in urbe
-sujet verbe prép. CDN
+    ^      ^       ^ 
+  pugna   est    in urbe
+  sujet  verbe    CC
+
+pugna in urbe est
+
+-> 2
 
 L'épouse de l'homme détruit les lettres du messager
 ^ ^ ^ ^ ^ ^ ^ ^
 uxor viri epistulas nuntii delet
 sujet CDN COD CDN verbe
 
+-> 1
+
+---
+
+nuntii dolores -> 1
+amores maritis -> 0
+uxores consulum auxilia nuntio -> 0
+pugnae in urbibus -> 0
+uxares virorum epistulam nuntiorum -> 0
+
+
+m,e,e

@@ -116,14 +116,27 @@ mindmap
 
     Zone Industrialo-Portuaire, espace regroupant un port et des activités industrielles
 
-| Quels types d'espaces industriels                                                       | Quelles régions ?                                     | Pourquoi ?                                                                                             | Permanences et mutations ?                                                          |
-|-----------------------------------------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| Industries de pointe, nouvelles technologies                                            | Région parisienne, Agglomération de Lyon et alentours | - Carrefours<br/>- Axes de circulation<br/>- Héritage<br/>- Nombreux technopoles                       | - Métropolisation<br/>- Déconcentration industrielle des années 1960-1970           |
-| Industries tournées vers l'export et les industries nécessitants des imports importants | Littoraux de l'Ouest, Sud-Ouest et Sud de la france   | - ZIP/façades maritimes<br/>- Technopoles/Pôles de compétitivité                                       | - Littoralisation<br/>- Métropolisation<br/>- Bonne intégration à la mondialisation |
-| Industries basées sur la transformation de matières premières                           | Nord-Est de la France                                 | - Crise des industries et des matières premières traditionnelles (charbon, sidérurgie, métallurgie...) | - Reconversion<br/>- Friches industrielles<br/>- Euro-région                        |
-|                                                                                         | Le reste                                              | Difficulté d'accessibilité                                                                             | A l'écart de la mondialisation                                                      |
+| Quels types d'espaces industriels                          | Quelles régions ?                                         | Pourquoi ?                                                                                             | Permanences et mutations ?                                                          |
+|------------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+|                                                            |                                                           | - Carrefours<br/>- Axes de circulation<br/>- Héritage<br/>- Nombreux technopoles                       | - Métropolisation<br/>- Déconcentration industrielle des années 1960-1970           |
+|                                                            |                                                           | - ZIP/façades maritimes<br/>- Technopoles/Pôles de compétitivité                                       | - Littoralisation<br/>- Métropolisation<br/>- Bonne intégration à la mondialisation |
+| Espaces en voie de désindustrialisation ou de reconversion | Nord-Est, quelques régions autour du massif central, Nord | - Crise des industries et des matières premières traditionnelles (charbon, sidérurgie, métallurgie...) | - Reconversion<br/>- Friches industrielles<br/>- Euro-région                        |
+| Espaces ruraux sous-industrialisés                         | Espaces de montagne, espaces ruraux                       | Difficulté d'accessibilité                                                                             | A l'écart de la mondialisation                                                      |
 
 
+!!! abstract "Reconversion"
+
+    Remplacement d'une activité par une autre (industrielle ou non)
 
 
+## II. Des espaces productifs de services parfaitement intégrés à la mondialisation
+### A. Etude de cas: Le Parc Astérix, un espace touristique dynamique
+
+![](../../../../assets/scans/2024-dect-11-1.png)
+
+![](../../../../assets/scans/2024-dect-11-2.png)
+
+![](../../../../assets/scans/2024-dect-11-3.png)
+
+![](../../../../assets/scans/2024-dect-11-4.png)
 

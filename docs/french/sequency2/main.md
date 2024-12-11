@@ -397,23 +397,27 @@ La rue des Francs-Bourgeois, à l'endroit où ils habitaient trois jours plus t�
 
 Deux avions vrombissaient dans le ciel, parfois cachés par la brume matinale. On n'était qu'à huit kilomètes d'Orly.
 
-Il: pronom
-Chambre: nom
-Dès qu': locution conjonctive
-le: déterminant
-en: pronom
-leur: pronom
-chaque: déterminant
-et: conjonction de coordination
-ces: déterminant
-à: préposition
-où: adverbe relatif
-encore: adverbe
-large: adjectif qualificatif
-de: préposition
-quand: conjonction de subordination
-croisait: verbe
-dans: préposition
-parfois: adverbe
-on: pronom
-huit: adjectif numéral
+Il: pronom -> 1
+Chambre: nom -> 0.5
+Dès qu': conjonction de subordination -> 0
+le: déterminant -> 0
+en: pronom -> 0.5
+leur: pronom -> 0.5
+chaque: déterminant ->  0.5
+et: conjonction de coordination -> 1
+ces: déterminant -> 0.5
+à: préposition -> 1
+où: adverbe relatif ->  0
+encore: adverbe -> 1
+large: adjectif qualificatif -> 1
+de: préposition -> 1
+quand: conjonction de subordination -> 1
+croisait: verbe -> 1
+dans: préposition -> 1
+parfois: adverbe -> 1
+on: pronom -> 0.5
+huit: adjectif numéral -> 0.5
+
+15.5
+
+   

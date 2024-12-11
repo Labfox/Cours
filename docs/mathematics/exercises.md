@@ -654,3 +654,17 @@ Hervé
 
 ## Exercice 14
 
+## Flash
+
+$$200$$
+$$\sqrt[]{9}$$
+$$1$$
+$$103,033$$
+$$-2$$
+
+## Exercice 19 p.249
+
+GC/FG = EG/EA = EC/FA
+
+## Exercice 42 p.253
+

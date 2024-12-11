@@ -2719,25 +2719,40 @@ toga, togae, f: acc p: togas</p>
 <p>L'ennemi transperça la gorge de son glaive.</p>
 <h2 id="nouveaux-exos">Nouveaux exos</h2>
 <p>Le messager fuit la douleur
-^ ^ ^ ^ ^
-nuntius dolore fugit
-sujet COD verbe</p>
+^            ^       ^
+nuntius dolore_m_  fugit
+sujet     verbe     COD</p>
+<p>-&gt; 2</p>
 <p>Elle donne son amour à son mari
-^ ^ ^ ^ ^ ^ ^
+^      ^       ^     ^  ^   ^
 illa dat suum amorem suo marito
 sujet verbe COD COD COS</p>
+<p>verbe (3e personne)  COD(Accusatif sing.)  COI (D sing.)
+amorem marito dat.</p>
+<p>-&gt; 0</p>
 <p>La femme du consul demande de l'aide au messager
-^ ^ ^ ^ ^ ^ ^ ^ ^
-uxor consulis auxilium nuntium rogat
-sujet CDN COD COS verbe</p>
+^            ^        ^       ^           ^
+uxor     consulis   auxilium nuntiis     petit
+sujet CDN Verbe COD COS</p>
+<p>-&gt; 1</p>
 <p>Le combat est dans la ville
-^ ^ ^ ^ ^ ^
-pugna est in urbe
-sujet verbe prép. CDN</p>
+    ^      ^       ^ 
+  pugna   est    in urbe
+  sujet  verbe    CC</p>
+<p>pugna in urbe est</p>
+<p>-&gt; 2</p>
 <p>L'épouse de l'homme détruit les lettres du messager
 ^ ^ ^ ^ ^ ^ ^ ^
 uxor viri epistulas nuntii delet
 sujet CDN COD CDN verbe</p>
+<p>-&gt; 1</p>
+<hr />
+<p>nuntii dolores -&gt; 1
+amores maritis -&gt; 0
+uxores consulum auxilia nuntio -&gt; 0
+pugnae in urbibus -&gt; 0
+uxares virorum epistulam nuntiorum -&gt; 0</p>
+<p>m,e,e</p>
 
 
 
@@ -2758,7 +2773,7 @@ sujet CDN COD CDN verbe</p>
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">December 9, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">December 11, 2024</span>
   </span>
 
     

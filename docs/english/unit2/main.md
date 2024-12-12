@@ -138,7 +138,7 @@ He didn't solve poverty.
 
 
 
-
+œ
 
 
 
@@ -153,4 +153,16 @@ I suppose, the man is dreaming of becoming a rockstar or a movie star.
 He also seems to be dreaming of becoming a successful athlete or even the president of the USA.
 
 In a word, he is dreaming of becoming someone rich and famous / successful.
+
+Santa's sack sags slightly
+
+Sort of audio, Who, What, nb of speakers.
+
+a street-interview, there are 5 speakers. The speakers idea:
+
+* If the first man were president, he would reduce poverty and he would make every American work. He thinks spending money on wars is a waste.
+* If the second man were elected president, he wouldn't want the job because he thinks he is too old.
+* If the third man were president, he would do whatever he wants and he would make the day after the Super Bowl a holiday. He thinks football should be the nation's priority.
+* If the first woman were president, she would stop global warming and she would make everyone recycle. She thinks the environment needs more attention.
+* If the second woman were president, she would finance research to counter AIDS, cancer, and other diseases. She thinks medical progress is crucial.
 

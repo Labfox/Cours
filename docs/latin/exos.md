@@ -225,7 +225,7 @@ Jules César, né en -100 où -101, dans une famille patricienne prestigieuse: l
 
 Rentré à Rome, après la démission de Scylla, il entreprend une grande carrière politique. Il fait le cursus honorum, puis il est envoyé comme gouverneur en Espagne et devient membre du sénat. Il se lie d'amitié avec Pompée et Crassus (citoyens très riches), en -60. Il forment le premier triumvirat. 
  
-En -59, il obtient le commandement des troupes en Gaule et mène 7 campagnes militaires en -58 jusqu'en -52, triomphant de Vercingétorix à Alésia
+En -59, il obtient le commandement des troupes en Gaule et mène 7 campagnes militaires en -58 jusqu'en -52, triomphant de Vercingétorix à Alésiaw
 
 
 [e](https://mermaid.live/view#pako:eNptU8tu2zAQ_JWFLm6BVIjbtAffXNk1bCRpkN4CX9YibRMluQofAtIg_1L0VPU3-GNdykllB9VBIsXZndnZ5WNRk5DFpDDKCoPN2gI_jijAmyp1Ht3bw6_81C51GBRZEBGCU9G0ymEo4ZpSN8A-fQBsS1hVsHBoBdyQDWorS5haiwOsQhU9hKjzp0LJXCAtaGawJVxSVH4ALzVIHyCQ2aQOPHGIllDv0RkJQkKlU0dN-hUc83ytWaeVQ_Q1GcNhQtUBg4wO0k9olcx07y4uSqg4j6YQjkJmspU2gpdRQ03W84dpbslw_js6Ai69jyBG0UrYolGaZTXI5tRKWvs_MV_YlHqvQi7gNm4UZz9SAAOwl5G6Wme8hMywi9I5rlu1SnPuS6Z7OCqTa-Sk4_ewillIyJL1CC2Mz8-5J7Aqq1fqp96jVxZZDTnPeA_L_OLAK3T-DMYfwfDi4NNpAxeps6lzyK0JsGeLuROj1IU8EVOBZkB-xoC9M7MRaukVvgZUZO9j-hP6XmqEBca-vtMh4IHU6feGDWiIm-hZZ8stJeV4xdYrZuHlsy_lEDi3W-nyBLCPP_oimzy4GXo6uvOGfX1ogrqPTH_jaDuc3VATNfb5Tw_mtVMt5qHN_4uzwjAZKsG36jGj1kXYSyPXxYSXAt33dbG2T4zDGOjbg62LSXBRnhWO4m5fTLaoPe9iI1jiTOHOoXmBNGjviP5tpVCB3NXhCvc3-SVu3p88J3v6C0NOR-I)

@@ -666,5 +666,15 @@ $$-2$$
 
 GC/FG = EG/EA = EC/FA
 
-## Exercice 42 p.253
+## Exercice 42 p.257
+
+
+
+## Flash
+
+1) 45
+2) 4
+3) 3450
+4) sqrt 6
+5) $2^6$
 

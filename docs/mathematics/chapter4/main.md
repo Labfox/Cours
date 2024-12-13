@@ -64,4 +64,17 @@ KLM est une réduction de RST dans le rapport $\frac{2}{3}$ bien RST est un agra
 on arrive dans une configuration très particulière, la configuration de Thalès.
 
 
-## III) Nouvelle configuration: Le sablier / 
+## III) Nouvelle configuration: Le sablier / ?
+
+Théorème du cercle circonscrit à un triangle rectangle
+
+Propriété
+
+Dans un triangle rectangle, le milieu de l'hypoténuse est le centre du cercle circonscrit à ce triangle.
+
+Autre formulations du théorème:
+
+* Si un triangle est rectangle, alors il peut être inscrit dans un cercle ayant pour diamètre son hypoténuse.
+* Le milieu de l'hypoténuse d'un triangle rectangle est équidistant des trois sommets.
+
+0

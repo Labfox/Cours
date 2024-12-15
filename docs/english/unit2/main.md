@@ -166,3 +166,5 @@ a street-interview, there are 5 speakers. The speakers idea:
 * If the first woman were president, she would stop global warming and she would make everyone recycle. She thinks the environment needs more attention.
 * If the second woman were president, she would finance research to counter AIDS, cancer, and other diseases. She thinks medical progress is crucial.
 
+
+I would strengthen gun control by making a certification necessary, add more forces to child protection programs, force the government to use ONLY open-source software, try to revoque DMCA some parts of the DMCA.

@@ -678,3 +678,8 @@ GC/FG = EG/EA = EC/FA
 4) sqrt 6
 5) $2^6$
 
+## Exercice 45 p.257
+
+Le sapin est situé à 2525m, car 2750-1850 = 900. Elle parcourt donc 900 mètres en vertical. 900%(72+24) = 9,375 m/s verticaux. 
+24*9,375= 225m. Au bout de 24s elle à donc parcouru 225m verticaux. 2750-225=2525: Le sapin est à 2525m d'altitude.
+

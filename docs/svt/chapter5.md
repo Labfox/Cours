@@ -14,3 +14,8 @@ Lors de la fécondation de l'ovule, ce ne sont pas les "caractères héréditair
 
 ![](../assets/scans/2024-dect-9-2.png)
 
+## II. Comment se présente l’information héréditaire dans le noyau ?
+
+Le caryotype ordonné d’une personne s’obtient en prélevant les chromosomes d’une cellule par paire («22 paires de chromosomes 
+homologues(semblables) + 1paire de chromosomes ») et par taille décroissante (excepté pour les chromosomes sexuels)
+

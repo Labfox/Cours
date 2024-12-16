@@ -73,3 +73,13 @@ El molde le permite cocinar, pasar momentos con su familia y réir. Para el es l
 
 
 No hay un objeto que representa mi momentos felices
+
+Los ninios piden regalos materiales a los Reyes Magos (una wii, una guitarraà mientras que piden regalos inmateriales a los padres (momentos juntos).
+
+Al final prefieren enviar la carta a los padres para tener momentos compartidos, momentos felices porque es los que necessitan realmente
+
+
+Me gustaria tener
+- dinero
+- 100 SSD
+

@@ -683,3 +683,17 @@ GC/FG = EG/EA = EC/FA
 Le sapin est situé à 2525m, car 2750-1850 = 900. Elle parcourt donc 900 mètres en vertical. 900%(72+24) = 9,375 m/s verticaux. 
 24*9,375= 225m. Au bout de 24s elle à donc parcouru 225m verticaux. 2750-225=2525: Le sapin est à 2525m d'altitude.
 
+## DM
+### Exo 1
+
+1. Si [AB] est un segment et que CAB et EBD sont des angles de 90°, ils ont une différence d'angle de 180°. Ils sont donc paralléles
+2. 4 pas (thorème de pythagore) AB/AE = CA/BD
+3. (théorème de thalèes) AC^2+AE^2=CE^2; 18+400 = 418; 20.4 pas; 20.4*65/100 = 13.3
+4. _
+   1. 5/13,3  = 0.37593985 m/s
+   2. 2.66 km/h, donc oui, le baton va à moins de 10km/j
+
+### Exo 3
+
+
+

@@ -19,3 +19,9 @@ Lors de la fécondation de l'ovule, ce ne sont pas les "caractères héréditair
 Le caryotype ordonné d’une personne s’obtient en prélevant les chromosomes d’une cellule par paire («22 paires de chromosomes 
 homologues(semblables) + 1paire de chromosomes ») et par taille décroissante (excepté pour les chromosomes sexuels)
 
+|       |       |
+|-------|-------|
+| homme | X + Y |
+| femme | X + X |
+
+

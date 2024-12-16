@@ -81,5 +81,16 @@ Al final prefieren enviar la carta a los padres para tener momentos compartidos,
 
 Me gustaria tener
 - dinero
-- 100 SSD
+- 130 SSD (matching 16 TB)
+- un servidor PowerEdge R960
+- un bastidor de servidor
+- A /8 IPv4 Block
 
+Querida mama
+
+1. Espero que estés bien y que te vaya bien.
+2. Quiero agradecerte todo lo que haces por mí.
+3. Espero que pases más tiempo conmigo.
+
+
+431 895,49

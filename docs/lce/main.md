@@ -166,3 +166,4 @@ kamala harris was in favor of gun control
 
 donal trump was against abortion
 
+

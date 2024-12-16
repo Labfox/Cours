@@ -6,7 +6,7 @@
 
 !!! abstract "Espaces productifs"
 
-    parties du territoire directement dédiées à la production de riches'uqses elles soient agricoles, industrielles ou de services
+    parties du territoire directement dédiées à la production de richesses elles soient agricoles, industrielles ou de services
 
 ## I. Des espaces productifs industriels transformés pour s'adapter à la mondialisation
 ### A. Etude de cas: la Cosmetic Valley
@@ -49,9 +49,9 @@ communs et innovants. C'est un pôle de compétitivité.
 
 ![](../../../../assets/scans/2024-novm-27-1.png)
 
-| Place de la Cosmetic Valley dans le monde                                                                                                                                                                                                                                     | Nouveaux défis de la Cosmetic Valley                                                    | La volonté d'intégrer le développement durable                                                                                                                                                                                            |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| - 1^er centre de ressources mondial en parfumerie-cosmétique / 1^e pôle français<br/>- Principaux marchés = Europe, Etats-Unis<br/>- Développement de nouveaux marchés dans les pays émergents (Chine, Inde, Brésil)<br/>- Présence dans les différents salons internationaux | - Faire face à la concurence de nouveaux pays (Corée du sud, Taïwan, Chine, Etats-Unis) | - Signature d'une charte d'éco-responsabilité<br/>- Mise en place d'un système de pivoines en fonction des actions engagées par les entreprises en faveur du développement durable<br/>- Eco-conception des usines ex: La Ruche, Guerlain |
+| Place de la Cosmetic Valley dans le monde                                                                                                                                                                                                                                     | Nouveaux défis de la Cosmetic Valley                                                     | La volonté d'intégrer le développement durable                                                                                                                                                                                            |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| - 1^er centre de ressources mondial en parfumerie-cosmétique / 1^e pôle français<br/>- Principaux marchés = Europe, Etats-Unis<br/>- Développement de nouveaux marchés dans les pays émergents (Chine, Inde, Brésil)<br/>- Présence dans les différents salons internationaux | - Faire face à la concurrence de nouveaux pays (Corée du sud, Taïwan, Chine, Etats-Unis) | - Signature d'une charte d'éco-responsabilité<br/>- Mise en place d'un système de pivoines en fonction des actions engagées par les entreprises en faveur du développement durable<br/>- Eco-conception des usines ex: La Ruche, Guerlain |
 
 ### B. Les espaces industriels à l'échelle nationale
 #### 1. Des espaces industriels qui se transforment
@@ -140,3 +140,29 @@ mindmap
 
 ![](../../../../assets/scans/2024-dect-11-4.png)
 
+|                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. Présentation et organisation de l'espace productif<br/>**Doc 2, 4 et 5 p.238-239 + plan du parc** <br/> <br/> Vous préciserez et expliquerez la localisation du parc Astérix, l'organisation, les aménagements réalisés dans le parc et pour se rendre à ce parc                       | - ^^Localisation:^^ Plailly (Oise) à 40 km au nord de l'agglomération parisienne<br/>- ^^Explication de cette localisation:^^ pour des raisons fiscales mais aussi pour la proximité de l'Ile-de-France (clientèle principale du parc)<br/>- ^^Organisation / Aménagements:^^<br/>  - 7 univers composés de 50 attractions, de restaurants, de boutiques réparties sur une surface de 18 hectares.<br/>  - 1 raccordement direct à l'autoroute A1<br/>  - A 15 minutes de l'aéroport Roissy Charles de Gaulle<br/>  - Proximité de la gare TGV |
+| 2. Le dynamisme de cet espace productif<br/>**Docs 1 et 3 p. 238 + Doc 1,2,5,6 photocopiés**<br/> <br/>Vous montrerez que ce parc est une réussite économique et comment elle à été obtenue                                                                                               | - Hausse du nombre de visiteurs pour atteindre 2.8 millions en 2023 (hausse de 6% par rapport à 2022).<br/>- Chiffre d'affaires: 123 millions d'euros<br/>- 2^ème^ parc d'attraction français<br/>- Des investissements importants, innovation pour rester compétitif face à la concurrence<br/>- Nouvelles attractions à sensation ou animations: la tour de Numérobis, une comédie musicale, de nouvelles mascottes<br/>- Politique de communication<br/>- Renforcement de l'offre d'hébergement                                             |
+| 3. Les acteurs à l'origine du projet et ceux mobilisés pour la réussite du parc<br/>**Doc 5 p. 239 + Doc 3, 4 photocopiés**<br/> <br/>Vous indiquerez quels sont les inventeurs de l'univers du parc Astérix (+ date de création à mais aussi les acteurs importants du parc et leur rôle | - "Inventeurs" du parc: Uderzo, Pierre Tchernia<br/>- Un parc créé en 1989<br/>- Depuis 2002, il est géré par la Compagnie des Alpes<br/>- Plus de 80 métiers, plus de 300 salariés permanents, 1000 emplois saisonniers                                                                                                                                                                                                                                                                                                                       |
+| 4. Les ambitions et les défis récents et pour les années à venir<br/>**Doc 6, 7 photocopiés**<br/> <br/>Vous préciserez les ambitions du parc dans les années à venir                                                                                                                     | - Volonté de devenir une destination de séjour<br/>- Construction de nouveaux hôtels  et augmentation de la capacité des hôtels existants.<br/>- Attirer une clientèle de toute la France et de Belgique<br/>- Continuer la politique d'investissement (nouvelles attractions...)<br/>- Volonté de s'implanter en Chine<br/>- Volonté d'ouvrir ses portes à Noël                                                                                                                                                                               |
+
+### B. Les espaces productifs de services en France
+
+![](../../../../assets/scans/2024-dect-16-1.png)
+
+## III. Des espaces agricoles modernisés et spécialisés mais inégalement intégrés à la mondialisation
+### A. Des espaces spécialisés
+
+![](../../../../assets/scans/2024-dect-16-3.png)
+
+L'agriculture joue un rôle essentiel dans l'économie française. Si elle concerne seulement 3% de la population active, la France est le premier producteur européen de denrées agricoles et le troisième exportateur de l'UE. Les espaces agricoles occupent plus de la moitié du territoire national. Ils sont de plus en plus spécialisés: la polyculture est en diminution. (Voir tableau)
+
+### B. Des espaces en mutation
+
+
+![](../../../../assets/scans/2024-dect-16-4.png)
+
+![](../../../../assets/scans/2024-dect-16-5.png)
+
+1. 

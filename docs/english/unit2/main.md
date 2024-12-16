@@ -166,5 +166,23 @@ a street-interview, there are 5 speakers. The speakers idea:
 * If the first woman were president, she would stop global warming and she would make everyone recycle. She thinks the environment needs more attention.
 * If the second woman were president, she would finance research to counter AIDS, cancer, and other diseases. She thinks medical progress is crucial.
 
+* If the sixth speaker were president and if she had enough money, she would finance research to cure cancer and other diseases.
+* If the fourth speaker were president, he would make the day after the Super Bowl a holiday and he would make football the nation's priority.
+* If the fifth speaker were president, he would reduce pollution by stopping global warming.
+
+ç_ 
+
+1. I would recycle if I had more time.
+2. If I were you, I'd work harder
+3. If I were the teacher, I would give less homework.
+4. I would buy a yacht if I won the lottery.
+5. If I met Madonna, I'd ask her for her autograph
+
+_
+
+1. If i were rich, I'd buy a big house near the sea.
+2. If i lived near the sea, I would walk on the beach every day
+3. Also, if i had a lot of money, I'd give some to my family and I'd help people who are very poor.
+
 
 I would strengthen gun control by making a certification necessary, add more forces to child protection programs, force the government to use ONLY open-source software, try to revoque DMCA some parts of the DMCA.

@@ -15,15 +15,15 @@ Transforma las frases siguientes utilizando el pretérito imperfecto.
 Recuerdos de niñez. Cuando yo era pequeño…
 El día de Navidad es un día feliz.  El día de Navidad era un día feliz.
 1. Por la noche, voy a misa. 
-Por la noche, veia a misa.
+Por la noche, iba a misa.
 2. Después, cenamos con toda la familia. 
-Después, ceniamos on toda la fmilia
+Después, cenabamos on toda la fmilia
 3. El 6 de enero los Reyes vienen montados en camellos y me traen regalos. 
-El 6 de enero los Reyes vienian en camellos y me traia, regalos.
+El 6 de enero los Reyes vienian en camellos y me traian, regalos.
 4. Como mucho turrón y mazapanes. 
 Comia mucho turron y mazapanes
 5. A veces nieva y todo el campo se vuelve blanco. 
-A veces nieve y todo el campo vulvabamos blanco.
+A veces nevaba y todo el campo volvia blanco.
 
 Vocabulario de Navidad
 
@@ -54,7 +54,7 @@ Regalar: offrir
 Los regalos: les cadeaux  
 El abeto : le sapin  
 Los adornos de navidad: les décorations de Noël  
-El año nuevo: le nouvel an  
+El año nuevo: le nouvel an
 Navidad: Noël  
 La nochebuena: le réveillon de Noël  
 La nochevieja: la Saint-Sylvestre  
@@ -64,5 +64,12 @@ Las bolas: les boules (de Noël)
 La cabalgata de los reyes magos: le défilé des Rois Mages  
 Las campanas: les cloches  
 El día de los reyes: le jour des Rois Mages
+
+## Viernes, trece de diciembre
+### session 2: regalos inmateriales
+
+Para la Navidad, el nino recibio  un molde. Para las senors es poco pero para el es mucho.
+El molde le permite cocinar, pasar momentos con su familia y réir. Para el es la mas importante.
+
 
 No hay un objeto que representa mi momentos felices

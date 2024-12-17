@@ -422,7 +422,40 @@ huit: adjectif numéral -> 0.5
 
 
 
-Tout d'abord, la narratrice est ne femme "paresseuse" (l. 32), Elle vit au XIXe siècle "1879" (l. 1). Ensuite, elle entre dans l'âge adulte "dix-sept ans" (l. 3). Elle est spontanée "caractère insouciant et enfantin" (l. 4). La narratrice est sensible à l'art "le sentiment [...] lorsque j'entends de la belle musique [...]: l'inspiration" (l. 9-11). Elle aime bien la littérature et la poésie "ce que je ressens est peut-être ce qui anime les poètes" (l. 10-11) "J'ai une légère inclination vers la littérature" (l. 31). Puis elle est aussi instruite et cultivée "J'ai lu ce soir du Lamartine" (l. 8). De plus elle appartient à une classe sociale aisée: "je me retrouve entre les quatres murs de mon couvent" (l. 18-19). Enfin, elle a failli se marrier: "j'ai reçu une demande en mariage" (l. 26)
+1. Subite : Qui se produit soudainement, de manière imprévue et rapide.
+2. Ardents : Qui brûle avec intensité, littéralement ou figurativement ; peut aussi désigner une passion ou un désir très vif.
+3. Impétueux : Qui agit ou se déplace avec fougue et sans retenue, ou qui manifeste une grande énergie et un caractère passionné.
+4. Couvent : Maison religieuse où vivent des moines ou des moniales qui ont fait vœu de consacrer leur vie à Dieu.
+5. Vocation : Inclination ou appel profond pour une profession, une activité ou une mission considérée comme un idéal.
+6. Futilité : Caractère de ce qui est insignifiant, sans importance ou inutile.
+7. Insouciant : Qui ne se préoccupe pas des soucis, des dangers ou des responsabilités ; léger et détendu.
+8. Paralyse : Incapacité temporaire ou permanente de bouger une partie du corps ou, au sens figuré, de réagir face à une situation.
+9. Mélancolique : Qui exprime ou éprouve une tristesse douce, vague et rêveuse.
+10. Irruption : Entrée soudaine et souvent violente dans un lieu ou un groupe.
+
+
+
+La narratrice est une femme, elle vit au 19 ème siècle ("18 juillet 1879" (l. 1)),
+et âgée de 17 ans ("J'ai maintenant dix-sept ans" (l. 3)). Elle a la résolution de tenir un journal
+("Je prends [...] une [...] résolution: celle de tenir un journal" (l. 1)). Elle explore ces sentiments dans ce texte et imagine
+une vie plus libre, vivant dans un couvent
+("mon imagination à la bride sur le cou. Je me vois parfois dans le monde, courant de plaisir en plaisir ;
+et le lendemain, je me retrouve entre les quatre murs de mon couvent" (l. 1-2)).
+Elle a aussi reçu une demande en mariage ("Il me faut noter que j'ai reçu une demande en mariage" (l. 26))
+
+
+
+
+Tout d'abord, la narratrice est une femme "paresseuse" (l. 32), Elle vit au XIXe siècle "1879" (l. 1). 
+Ensuite, elle entre dans l'âge adulte "dix-sept ans" (l. 3). Elle est spontanée "caractère insouciant et enfantin" (l. 4). 
+La narratrice est sensible à l'art "le sentiment [...] lorsque j'entends de la belle musique [...]: l'inspiration" (l. 9-11). 
+Elle aime bien la littérature et la poésie "ce que je ressens est peut-être ce qui anime les poètes" (l. 10-11) 
+"J'ai une légère inclination vers la littérature" (l. 31). Puis, elle est aussi instruite et cultivée 
+"J'ai lu ce soir du Lamartine" (l. 8). De plus elle appartient à une classe sociale aisée : 
+"je me retrouve entre les quatre murs de mon couvent" (l. 18-19). Enfin, elle a failli se marier : 
+"j'ai reçu une demande en mariage" (l. 26)
+
+
 
 * Quels eléments montre qu'il s'agit d'un journal intime ? 
 * A qui l'autrice destine-t-elle son récit ?

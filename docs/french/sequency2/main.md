@@ -422,3 +422,12 @@ huit: adjectif numéral -> 0.5
 
 
 
+Tout d'abord, la narratrice est ne femme "paresseuse" (l. 32), Elle vit au XIXe siècle "1879" (l. 1). Ensuite, elle entre dans l'âge adulte "dix-sept ans" (l. 3). Elle est spontanée "caractère insouciant et enfantin" (l. 4). La narratrice est sensible à l'art "le sentiment [...] lorsque j'entends de la belle musique [...]: l'inspiration" (l. 9-11). Elle aime bien la littérature et la poésie "ce que je ressens est peut-être ce qui anime les poètes" (l. 10-11) "J'ai une légère inclination vers la littérature" (l. 31). Puis elle est aussi instruite et cultivée "J'ai lu ce soir du Lamartine" (l. 8). De plus elle appartient à une classe sociale aisée: "je me retrouve entre les quatres murs de mon couvent" (l. 18-19). Enfin, elle a failli se marrier: "j'ai reçu une demande en mariage" (l. 26)
+
+* Quels eléments montre qu'il s'agit d'un journal intime ? 
+* A qui l'autrice destine-t-elle son récit ?
+* Pour quelle raisons décide-t-elle de tenir son journal ?
+* A quelle personne la narration est-elle menée ?
+* A quel temps le journal est-il principalement écrit ?
+* Quel est le champ lexical dominant ?
+

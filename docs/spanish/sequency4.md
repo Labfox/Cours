@@ -86,11 +86,43 @@ Me gustaria tener
 - un bastidor de servidor
 - A /8 IPv4 Block
 
+<!--
+
 Querida mama
 
 1. Espero que estés bien y que te vaya bien.
 2. Quiero agradecerte todo lo que haces por mí.
 3. Espero que pases más tiempo conmigo.
 
+-->
 
 431 895,49
+
+reducir = réduire
+
+aumentar = augmente
+
+consumir = consommer
+
+comprar = acheter
+
+el medioambiente = l'environnement
+
+ahorrar = économiser
+
+de temporada = de saison
+
+### session 4: Naivdad / sostenible responsable
+
+Para proteger el medioambiente, es necesario que reduzcamos los envoltorios para los regalos.
+
+Ejercicio : 1, 2, 3
+
+1. (COMPRAR) en comercios locales y de proximidad.
+2. (COMER) productos locales, frescos y de temporada
+3. (MIRAR) las etiquetas para que (SABER) como y donde se fabrica el producto
+4. (DECLARAR) la guerra al plastico y (ELEGIR) un arbol de Navidad natural
+5. (PONER) una guirnalda LED y (REDUCIR) el consumo de electricidad
+6. (HACER) tus propios adornos navidenos caseros
+7. (REGALAR) actividades o entradas a espectaculos para liberar la casa de objetos materiales
+8. (ENVOLVER) los regalos con papel de periodico y revistar

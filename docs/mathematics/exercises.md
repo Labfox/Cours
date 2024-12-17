@@ -697,3 +697,28 @@ Le sapin est situé à 2525m, car 2750-1850 = 900. Elle parcourt donc 900 mètre
 
 
 
+## Flash
+
+1) 19
+2) 24
+3) 3
+4) $x^2+7x+15$
+
+## Activité 1
+
+2
+
+A=19
+
+B=11
+
+C=-40
+
+D=10
+
+3
+
+B=12-8x
+
+C=-3x + -21
+

@@ -25,3 +25,11 @@ homologues(semblables) + 1paire de chromosomes ») et par taille décroissante (
 | femme | X + X |
 
 
+
+
+Une anomalie chromosomique est une modification du nombre (ou taille, forme) des chromosomes qui entraîne une modification des caractères, cela confirme bien que les chromosomes sont le support des informations héréditaires.
+
+Le noyau des cellules comporte des chromosomes (déf. P241) qui sont le support des informations héréditaires.
+Chaque espèce a un nombre de chromosomes caractéristique. L’espèce humaine compte 46 chromosomes, 22paires de chromosomes homologues et 1 paire de chromosomes sexuels qui déterminent le sexe de l’individu : 2 chromosomes X pour la femme et 1 Chromosome X et 1 chromosome Y pour l’homme.
+Syndrome = ensemble de signes (symptômes) qui caractérisent une maladie.
+Trisomie : Anomalie chromosomique ; liée à la présence de trois chromosomes au lieu de 2 pour une paire donnée.

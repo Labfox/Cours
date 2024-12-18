@@ -22,4 +22,10 @@ _
 
 ## Exercice 2
 
-1. 
+| ion          | symbole | nombre de protons | nombre d'électrons | charge électrique globale | cation ou anion ? |
+|--------------|---------|-------------------|--------------------|---------------------------|-------------------|
+| ion cuivre   | Cu2+    | 29                | 27                 | positif                   | cation            |
+| ion ferrique | Fe3+    | 26                | 23                 | positif                   | cation            |
+| ion chlorure | Cl-     | 17                | 18                 | négatif                   | anion             |
+| ion bromure  | Br-     | 35                | 36                 | négatif                   | anion             |
+

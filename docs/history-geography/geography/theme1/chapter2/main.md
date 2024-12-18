@@ -165,4 +165,7 @@ L'agriculture joue un rôle essentiel dans l'économie française. Si elle conce
 
 ![](../../../../assets/scans/2024-dect-16-5.png)
 
-1. 
+
+![](../../../../assets/scans/2024-dect-16-2.png)
+
+![](../../../../assets/scans/2024-dect-18-1.png)

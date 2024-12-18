@@ -10,3 +10,16 @@ _
 1) Cela s'appelle un ionogramme car cela permet de mesurer la concentration d'ion dans le sang
 2) Cela représente la concentration en g/L, 
 
+2) On observe un précipité vert avec la solution donc il y a des ions fer II (Fe^2+^). Le médicament permet de répondre la carence en ion Fe^2+^
+
+
+
+## Exercice 1
+
+1. ![](../../assets/noscans/chimie/atome-jsp.png)
+2. positif
+3. négatif
+
+## Exercice 2
+
+1. 

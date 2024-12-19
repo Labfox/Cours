@@ -118,6 +118,11 @@ Para proteger el medioambiente, es necesario que reduzcamos los envoltorios para
 
 Ejercicio : 1, 2, 3
 
+Exemples:
+
+- es esencial que mires la procedencia.
+- Te aconsejo que compres agua.
+
 1. (COMPRAR) en comercios locales y de proximidad.
 2. (COMER) productos locales, frescos y de temporada
 3. (MIRAR) las etiquetas para que (SABER) como y donde se fabrica el producto
@@ -126,3 +131,14 @@ Ejercicio : 1, 2, 3
 6. (HACER) tus propios adornos navidenos caseros
 7. (REGALAR) actividades o entradas a espectaculos para liberar la casa de objetos materiales
 8. (ENVOLVER) los regalos con papel de periodico y revistar
+
+phrases
+
+1. Es esencial que **compres** en comercios locales y de proximidad.
+2. Te aconsejo que **comas** productos locales, frescos y de temporada.
+3. Es importante que **mires** las etiquetas para que **sepas** cómo y dónde se fabrica el producto.
+4. Te sugiero que **declares** la guerra al plástico y que **elijas** un árbol de Navidad natural.
+5. Es buena idea que **pongas** una guirnalda LED y que **reduzcas** el consumo de electricidad.
+6. Es recomendable que **hagas** tus propios adornos navideños caseros.
+7. Te propongo que **regales** actividades o entradas a espectáculos para liberar la casa de objetos materiales.
+8. Es creativo que **envuelvas** los regalos con papel de periódico y revistas.

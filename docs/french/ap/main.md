@@ -29,3 +29,10 @@ Colonisation. Comment vont être vus les autochtones rencontrés par le vieil ho
 Confrontation entre les indigènes et les officiels.
 
 1) D'après les lignes 1 à 4, les voyage en bateau s'est déroulé dans de mauvaises conditions ("nous vivions sur le troisième pont" (l. 1), "il faisait trop chaud le jour, trop froid la nuit" (l. 2)), et sans aide médicale ("plusieurs d'entre nous ont contracté la malaria [...]. Il y à eu trois morts" (l. 3-4))
+
+
+Tout d'abord, les kanaks sont moins bien traités que les autres: "Nous vivions sur le troisième pont, comme des passagers de dernière catégorie" (l. 1 et 2). Les conditions climatiques sont extrêmes, ne sont pas bonnes: "Il faisait trop chaud le jour, trop froid la nuit" (l. 2 et 3). De plus, certains d'entre eux sont tombés malades et par la suite 3 sont morts: "Plusieurs d'entre nous on contracté la malaria [...] Il y a eu trois morts" (l. 3 et 4)
+
+2. _
+   1. L'équipage jete les corps à la mer pour éviter les contaminations et pour libérer de l'espace
+   2. Le narrateur perçoit ce geste comme une insulte au morts: "Les morts ne peuvent vivre dans l'océan, il ne peuvent pas retrouver leur tribu" (l. 6-7)

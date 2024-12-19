@@ -29,3 +29,16 @@ _
 | ion chlorure | Cl-     | 17                | 18                 | négatif                   | anion             |
 | ion bromure  | Br-     | 35                | 36                 | négatif                   | anion             |
 
+## Exercice 3
+
+1. Fe^2+^
+2. Vert foncé
+3. Fe^3+^
+
+## Exercice 4
+
+1. Zn^2+^
+2. D'un cation
+3. Cl^-^
+4. D'un anion
+5. Selon les tests effectués, la formule est Zn^2+^ + Cl^-^

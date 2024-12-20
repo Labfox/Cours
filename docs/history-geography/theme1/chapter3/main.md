@@ -10,3 +10,14 @@
 
 ![](../../../assets/scans/2024-dect-18-4.png)
 
+## II. Une mobilisation totale
+
+![](../../../assets/scans/2024-dect-20-1.png)
+
+1. La bataille de Stalingrad à lieu de juillet 1942 à février 1943
+2. Les bélligérents
+
+![](../../../assets/scans/2024-dect-20-2.png)
+
+![](../../../assets/scans/2024-dect-20-3.png)
+

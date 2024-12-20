@@ -232,11 +232,23 @@ En -59, il obtient le commandement des troupes en Gaule et mène 7 campagnes mil
 
 ## Questions
 
-à quel momentr se déroule la bataille;
-qu'arrive-t-il au soldats de vercingétorix; 
-que fait vercingétorix au lendemain de la bataille;
+à quel moment se déroule la bataille;
+
+de nuit
+
+qu'arrive-t-il au soldats de Vercingétorix ; 
+
+
+que fait Vercingétorix au lendemain de la bataille;
+
+Au lendemain de la bataille, Vercingétorix capitule et jette ses armes aux pieds de César: ""
+
 pour quel motif dit-il avoir entreprit cette guerre;
-qu'est-il prêt à faire
+
+
+qu'est-il prêt à faire ;
+
+
 quel est la phrase du texte qui illustre le mieux le tableau de Lionel Royer
 
 

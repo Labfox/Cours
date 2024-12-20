@@ -33,3 +33,9 @@ Le noyau des cellules comporte des chromosomes (déf. P241) qui sont le support 
 Chaque espèce a un nombre de chromosomes caractéristique. L’espèce humaine compte 46 chromosomes, 22paires de chromosomes homologues et 1 paire de chromosomes sexuels qui déterminent le sexe de l’individu : 2 chromosomes X pour la femme et 1 Chromosome X et 1 chromosome Y pour l’homme.
 Syndrome = ensemble de signes (symptômes) qui caractérisent une maladie.
 Trisomie : Anomalie chromosomique ; liée à la présence de trois chromosomes au lieu de 2 pour une paire donnée.
+
+## III. De quoi les chromosomes se composent-ils ?
+
+Bilan 3: Un chromosome EST constitué d'une molécule d'adn (déf p. 243).
+
+Quand la cellule est prête a se diviser la molécule d'ADN s'enroule sur elle-même, ce qui rend le chromosome visible au microscope

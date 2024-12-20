@@ -464,3 +464,17 @@ Elle aime bien la littérature et la poésie "ce que je ressens est peut-être c
 * A quel temps le journal est-il principalement écrit ?
 * Quel est le champ lexical dominant ?
 
+rendre rapport de stage
+avoir le compte rendu d'autobiographie prêt
+
+fond 
+
+* narration: 4 étapes: 2pts (arrivée, acceuil, décision, réaction)
+* argumentation: 2pts
+  * autonomie
+  * aider les parents
+* narration: 1pts
+* description de la machine: 2pts (figures de style, expansions du nom...)
+* explication sous la forme d'un dialogue: 2pts
+* chute humoristique: 1pts
+

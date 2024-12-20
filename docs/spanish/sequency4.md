@@ -137,8 +137,9 @@ phrases
 1. Es esencial que **compres** en comercios locales y de proximidad.
 2. Te aconsejo que **comas** productos locales, frescos y de temporada.
 3. Es importante que **mires** las etiquetas para que **sepas** cómo y dónde se fabrica el producto.
-4. Te sugiero que **declares** la guerra al plástico y que **elijas** un árbol de Navidad natural.
-5. Es buena idea que **pongas** una guirnalda LED y que **reduzcas** el consumo de electricidad.
+4. Te aconsejo que **declares** la guerra al plástico y que **elijas** un árbol de Navidad natural.
+5. Es esencial idea que **pongas** una guirnalda LED y que **reduzcas** el consumo de electricidad.
 6. Es recomendable que **hagas** tus propios adornos navideños caseros.
-7. Te propongo que **regales** actividades o entradas a espectáculos para liberar la casa de objetos materiales.
+7. Te aconsejo que **regales** actividades o entradas a espectáculos para liberar la casa de objetos materiales.
 8. Es creativo que **envuelvas** los regalos con papel de periódico y revistas.
+

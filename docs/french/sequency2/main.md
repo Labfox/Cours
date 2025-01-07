@@ -464,6 +464,58 @@ Elle aime bien la littérature et la poésie "ce que je ressens est peut-être c
 * A quel temps le journal est-il principalement écrit ?
 * Quel est le champ lexical dominant ?
 
+1. **Quels éléments montrent qu'il s'agit d'un journal intime ?**
+   - L'écriture est à la première personne du singulier, ce qui traduit une réflexion personnelle.
+   - Les dates précises en début de chaque entrée structurent le texte comme un journal.
+   - L'autrice partage des pensées et des émotions intimes, parfois contradictoires, sans chercher à les dissimuler.
+
+2. **À qui l’autrice destine-t-elle son récit ?**
+   - À elle-même, principalement, comme un moyen de confier ses pensées et émotions. Elle mentionne aussi l'absence d'un confident, ce qui renforce l'idée que le journal est un substitut.
+
+3. **Pour quelles raisons décide-t-elle de tenir son journal ?**
+   - Elle souhaite consigner ses impressions et pensées, qu’elle décrit comme un "miroir" de ses émotions et réflexions.
+   - Elle ressent un besoin d’exprimer ce qu’elle ne peut pas partager avec autrui.
+
+4. **À quelle personne la narration est-elle menée ?**
+   - À la première personne du singulier ("je").
+
+5. **À quel temps le journal est-il principalement écrit ?**
+   - Il est écrit principalement au passé simple et à l’imparfait pour raconter les événements et les états d’âme. Quelques passages au présent renforcent l'immédiateté des réflexions.
+
+6. **Quel est le champ lexical dominant ?**
+   - Le champ lexical des émotions et des sentiments domine : "amour", "mélancolique", "rêveuse", "inspiration", "plaisir", "imagination".
+
+**18 juillet 1879**. Vendredi
+
+Je prends ce soir une subite résolution : celle de tenir un journal, miroir de mes impressions.
+
+J'ai maintenant dix-sept ans et connais à peine les sentiments ardents et les illusions qu'on attribue à l'adolescence - à cause peut-être de mon caractère insouciant et enfantin.  
+L'irruption spontanée de ces sensations en mon âme fait vibrer toutes mes cordes. Seraient-ce les premiers souffles impétueux de l'amour ? Je deviens mélancolique et rêveuse,  
+et ne me sens pas dans mon état normal. Le cœur a un grand besoin d'aimer, mais il ne sait pas encore où se fixer... J'ai lu ce soir du Lamartine : les *Confidences* et *Graziella*.  
+Dans mon présent état d'esprit, cette lecture a eu chez moi l'effet du vent sur la flamme. Le sentiment dont je parle est celui que je ressens lorsque j'entends de la belle musique ;  
+et ce que je ressens est peut-être ce qui anime les poètes : l'inspiration.
+
+Je voudrais alors traduire mes idées avec la plume, ou les confier à quelqu'un dans l'intimité ; mais mon impuissance à rendre pleinement mes impressions, et l'absence du confident  
+souhaité, me paralysent.
+
+**20 juillet 1879**. Dimanche
+
+Ces jours-ci, mon imagination a la bride sur le cou. Je me vois parfois dans le monde, courant de plaisir en plaisir ; et le lendemain, je me retrouve entre les quatre murs de mon  
+couvent, penchée sur mes livres. L'étude a pour moi un certain attrait ; et j'envisage sans trop de déplaisir une dernière année d'études, comme pensionnaire. J'aime bien la  
+société, mais je ne suis pas encore d'âge à presser une vocation. Je puis encore rester un an dans l'ombre, sans que mes charmes - si charmes il y a - en souffrent le moins du monde.  
+Tout cela m'amène à penser que les impressions d'hier ne sont pas celles d'aujourd'hui, et seront sujet d'indifférence demain. Les émotions que je ressentais ces jours-ci se sont envolées,  
+et je dois en constater la futilité.
+
+Il me faut noter que j'ai reçu une demande en mariage. Quand je pense à la charpente prononcée du prétendant, à sa figure florissante et par trop épanouie, je ne m'étonne pas de la réponse  
+aussi brève que négative que je lui fis.
+
+Voilà un souvenir que je raconterai à mes petits-neveux lorsque, vieille et célibataire, je leur parlerai du passé : du temps où, jeune et charmante, j'ai refusé un brillant.
+
+J'ai une légère inclination vers la littérature. J'ai écrit ces jours-ci quelques petites chroniques que papa me promet de faire publier, si je ne suis pas trop paresseuse pour  
+les corriger et les mettre au point. L'avouerai-je ? La paresse a mille chances de triompher sur l'ambition de donner au public mes essais littéraires. Je suis cependant résolue  
+à dompter cette vilaine bête et à me mettre au travail.
+
+
 rendre rapport de stage
 avoir le compte rendu d'autobiographie prêt
 

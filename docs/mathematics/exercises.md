@@ -752,3 +752,16 @@ C=3(a+1)
 4) 15
 5) 9
 
+## 1)
+
+1) Soit a et b des nombres quelconques. EN utilisant que (a - b)^2 = (a-b)*(a-b), développer et réduire (a-b)^2
+
+## Flash
+
+1) 7
+2) 43
+3) 
+
+7^2 - 2*7*2x + 2x^2
+49-28x+4x^2
+

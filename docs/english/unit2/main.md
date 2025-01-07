@@ -186,3 +186,19 @@ _
 
 
 I would strengthen gun control by making a certification necessary, add more forces to child protection programs, force the government to use ONLY open-source software, try to revoque DMCA some parts of the DMCA.
+
+New Year's resolutions:
+
+(examples)
+
+- I will exercise more
+- I will stop smoking
+
+
+The cat's answer is ironic, because a New Year's resolution is a promise which a person makes to be a better person at the beginning of the New Year, but which most people give up / are unable to stick to for more than a few days. What about you ? Do you make resolutions for the New Year? Do you usually stick to them or not ? If yes, how long for ? 
+
+Personally, I didn't make New Year Resolutions because I already knew I wouldn't stick to them and I prefer keeping my immediate future unknown, I prefer doing day-to-day resolutions.
+
+I will, I want, I would like
+
+

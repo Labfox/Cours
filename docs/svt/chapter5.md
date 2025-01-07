@@ -36,6 +36,11 @@ Trisomie : Anomalie chromosomique ; liée à la présence de trois chromosomes a
 
 ## III. De quoi les chromosomes se composent-ils ?
 
-Bilan 3: Un chromosome EST constitué d'une molécule d'adn (déf p. 243).
+Bilan 3: Un chromosome EST constitué d'une molécule d'adn (déf p. 243). QUand la cellule est prête à se diviser en 2, la molécule d'A.D.N. s'enroule sur elle-même, ce qui rend visible les chromosomes au microscope
 
 Quand la cellule est prête a se diviser la molécule d'ADN s'enroule sur elle-même, ce qui rend le chromosome visible au microscope
+
+## IV. Comment expliquer que toutes les cellules d'un même organisme possèdent le même caryotype
+
+graphique (quantité d'ADN par cellule) (une paireà jusqu'à duplication puis  (deux paires) puis ) brusque (une paire) paire de chromosomes simples () molécule d'ADN ) -> Réplication (* ADN) äire de chromosomes doubles (à  molécules d'ADN ) -> Division (deux cellules
+

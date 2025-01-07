@@ -1,5 +1,5 @@
 #!/bin/bash
 
-cd /home/labfox/Cours/
+cd /home/labfox/WritersideProjects/Cours/
 source venv/bin/activate
 mkdocs serve

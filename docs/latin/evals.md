@@ -118,3 +118,27 @@ Ils seront assassins
 
 consulat _ noble _ homo novus 
 
+## Latin 4
+### Exercice 1
+
+| 1^ere^                                    | 2^e^                                      | 3^e^                             |
+|-------------------------------------------|-------------------------------------------|----------------------------------|
+| -ae, statua<br/>puella<br/>amien<br/>vita | saeculum<br/>imperium<br/>forum<br/>annus | oris<br/>pectus<br/>rex<br/>oris |
+
+### Exercice 2
+
+|        | puella, ae, f | forum, i, n | amor, amoris, m | navis, navis, f | anus, i, m | pectus, pectoris, m |
+|--------|---------------|-------------|-----------------|-----------------|------------|---------------------|
+| N.     | puella        | fora        | amores          | navis           |            |                     |
+| V.     | puella        | fora        | amores          | navem           |            |                     |
+| Acc.   | puellam       | fora        | amores          | navis           |            |                     |
+| G.     | puellae       | fororum     | amorum          | navi            |            |                     |
+| D.     | puellae       | foris       | amoribus        | nave            |            |                     |
+| Abl.   | puella        | foris       | amoribus        |                 |            |                     |
+
+## Exercice 4
+1b
+2d
+c3
+4e
+

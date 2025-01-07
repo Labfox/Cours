@@ -143,3 +143,11 @@ phrases
 7. Te aconsejo que **regales** actividades o entradas a espectáculos para liberar la casa de objetos materiales.
 8. Es creativo que **envuelvas** los regalos con papel de periódico y revistas.
 
+fiestas:  noel, los reyes magos, 
+
+
+
+impacto medioambiental
+pasar tiempo con los seres queridos
+que no sean otros regalos los que no utilicemos
+

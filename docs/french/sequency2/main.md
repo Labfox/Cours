@@ -515,6 +515,17 @@ J'ai une légère inclination vers la littérature. J'ai écrit ces jours-ci que
 les corriger et les mettre au point. L'avouerai-je ? La paresse a mille chances de triompher sur l'ambition de donner au public mes essais littéraires. Je suis cependant résolue  
 à dompter cette vilaine bête et à me mettre au travail.
 
+1. **18 juillet 1879**
+2. **20 juillet 1879**
+3. "Ces jours-ci"
+4. "Hier"
+5. "Aujourd'hui"
+6. "Demain"
+7. "Ces jours-ci" (répété)
+8. "Ces jours-ci" (dans un autre contexte)
+9. "Lorsque, vieille et célibataire"
+10. "Du passé"
+11. "Du temps où, jeune et charmante"
 
 rendre rapport de stage
 avoir le compte rendu d'autobiographie prêt

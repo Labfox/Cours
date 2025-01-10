@@ -194,11 +194,24 @@ New Year's resolutions:
 - I will exercise more
 - I will stop smoking
 
-
 The cat's answer is ironic, because a New Year's resolution is a promise which a person makes to be a better person at the beginning of the New Year, but which most people give up / are unable to stick to for more than a few days. What about you ? Do you make resolutions for the New Year? Do you usually stick to them or not ? If yes, how long for ? 
 
 Personally, I didn't make New Year Resolutions because I already knew I wouldn't stick to them and I prefer keeping my immediate future unknown, I prefer doing day-to-day resolutions.
 
 I will, I want, I would like
 
+make laws for gun-related crimes harsher,
+and i would legalize popular drugs but force a heavy tax on them and a repelling packaging,
+coupled with ads to make people aware of the problems caused by drugs. If someone still wants
+to buy drugs after that, thats their choice
+I would also completely remove DMCA and rewrite a new law with less intellectual property
+rights, especially on trade secrets and shareable media, and expand fair use clauses.
 
+My pet would probably the dog i already have.
+
+Who would live with me in the White House. Nobody.
+
+Vicce President: random guy on the street.
+
+- un médicament contre le mal de tête (qd tu essaie de comprendre les arguments des présidents)
+- 

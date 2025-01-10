@@ -541,3 +541,18 @@ fond
 * explication sous la forme d'un dialogue: 2pts
 * chute humoristique: 1pts
 
+Joséphine Marchand, *Journal Intime*, (1879-1900)
+
+Née en 1861. Morte en 1925
+
+Pionière du journalisme féminin au canada
+
+Elle a laancé le premier journal féminin au Canada.
+ 
+
+1) Les éléments qui montre que ce texte est un journal intime sont: les dates (jour, mois, année): "18 juillet 1879" (l. 1); l'emploi de la 1^e^ personne du singulier: "Je" (l. 1); l'expression des sentiments: "mion de mes impressions" (l. 1-2), "mélancolique et rêveuse" (l. 6).
+2) Joséphine Marchand destine son récit à elle-même: "Voilà ce qui me décide à être mon propre confident" (l. 15)
+3) Joséphine Marchand tient son journal intime parce qu'elle veut mettre des mots sur ce qu'elle éprouve: "jJe voudrais alors traduire mes idées avec la plume" (L. 12). Elle le fait aussi parce qu'elle n'a personne à qui parler: "l'absence du confident souhaité" (l. 12-13). Ce journal intime va aussi lui permettre de ce rappeler des moments de sa vie passée: "Voilà un souvenir que je raconterais ) mes pettits neveux " (l. 29)
+4) La narration est menée à la 1^ère^ personne du singulier: "Je" (l. 1), "mes" (l. 5), "me" (l. 4)
+
+   

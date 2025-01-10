@@ -42,3 +42,23 @@ _
 3. Cl^-^
 4. D'un anion
 5. Selon les tests effectués, la formule est Zn^2+^ + Cl^-^
+
+## Activité 3
+### 1)
+L'intêret de l'eau électrolysée est une meilleure efficacité, et un séchage plus rapide.
+
+### 2)
+
+L'ion électrolysé contient des ions
+
+### 3)
+
+| Solution étudiée      | Eau déminéralisée | Eau salée         |
+|-----------------------|-------------------|-------------------|
+| Intensité (A)         | 0                 | 0.15              |
+| Brillance de la lampe | 0 LX              | lègére            |
+| Electrode (+)         | 0                 | rien              |
+| Electrode (-)         | 0                 | dégagement gazeux |
+
+Conclusion: Les particules de sel présentes dans l'eau sont conductrices
+

@@ -239,6 +239,6 @@ Toolbox:
 - newspaper
 - article
 - 1st World War
-- banner
+- banner 
 - layout = mise en page
 

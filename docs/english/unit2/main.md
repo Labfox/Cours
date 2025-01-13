@@ -215,3 +215,30 @@ Vicce President: random guy on the street.
 
 - un médicament contre le mal de tête (qd tu essaie de comprendre les arguments des présidents)
 - 
+
+
+^^Final challenge:^^ Writing: You are a journalist in the early 20^th^ century for a famous
+British newspaper. Write about women's fight for the right to vote.
+
+The new chapter will be about the suffragettes, who fought for the voting rights for women.
+
+The new chapter will be about the fight of British women for their right to vote during the
+World War One (the first World War), because we can see three woman who are holding banners 
+where it is written "vote for women". It will be about their protest to become equal to men.
+The Suffragettes were British women who wanted to have the rights to vote at the beginning 
+of the 20th century. They fought for their rights, because they were supposed to do what 
+their husbands wanted during the Victorian Age. THe picture on the left is a photo from an 
+article in a newspaper, whereas the picture on the right looks like the front cover of a 
+novel or it must be the movies poster of the movie "Suffragette"
+
+Toolbox: 
+
+- protest
+- demonstrate
+- gather
+- newspaper
+- article
+- 1st World War
+- banner
+- layout = mise en page
+

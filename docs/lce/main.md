@@ -116,33 +116,7 @@ parti: démocrate
 Discours:
 
 Dear fellow Americans,  
-My name is Noah L. Sydow. I am 45 years old and I come from the beautiful state of Colorado, where the mountains stand
-tall and the spirit of community is strong. I am proud to stand before you today as a candidate for a united, fair, and
-prosperous future.
-
-If you believe in the values of equality, kindness, and collaboration, I can promise you that together, we will work
-tirelessly for positive change. My campaign focuses on two essential themes: **environmental sustainability** and *
-*education reform**.
-
-First of all, protecting our planet is not just a responsibility—it is our moral duty. I will promote renewable energy
-initiatives, reduce pollution, and preserve the natural beauty of our states. If we act now, we will ensure that our
-children and grandchildren inherit a cleaner, greener Earth. But if we neglect this responsibility, we risk losing
-irreplaceable resources and jeopardizing our future.
-
-Moreover, I believe that education is the foundation of a strong society. I will fight to provide better funding for
-public schools, higher salaries for teachers, and affordable college tuition for every hardworking student. If every
-child has access to quality education, we will create a generation of empowered, innovative, and responsible citizens.
-
-To achieve these goals, I am committed to being a leader who is humble, reliable, and collaborative. I encourage you to
-look at our shared values and join me in this mission for a brighter future. If you vote for me, I will dedicate every
-resource, every moment, and every ounce of energy to making our vision a reality.
-
-Together, we can build a tomorrow where opportunities flourish, where nature thrives, and where everyone feels valued
-and respected.
-
-Thank you, and may we continue moving forward—stronger together, united as one.
-
-**Vote Noah L. Sydow. Vote for a better tomorrow.**
+My name is . (I am 22 years old and )I come from the beautiful state of California, 
 
 
 | Helen                                                         | Alan                                                                                                        | Libby                                                         |
@@ -165,5 +139,6 @@ against
 kamala harris was in favor of gun control
 
 donal trump was against abortion
+
 
 

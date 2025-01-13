@@ -779,3 +779,23 @@ $D=7^2-4b^2$
 
 ## Exercice 33 p. 77
 
+## ETB
+
+## Exercice 1
+
+1) On peut résumer le programme tel que, avec $y$ le nombre de départ et $k$ le résultat: $k=(y-6)*(y-2)$. $y$ étant 8, $(8-6)*(8-2)=12$, Le programme donne bien 12 comme résultat avec 8 en entrée
+2) On peut résumer qu'il faut trouver $y$ dans l'équation suivante $0=(y-6)*(y-2)$. Si $y=2$, cette expression est vérifiée, donc **le nombre d'entrée pour avoir zéro est $2$**.
+3) L'affirmation est prouvée avec la valeur 3: le résultat du programme est -3. L'affirmation 2 peut être vérifiée comme suit: $(\frac {1}{3}-\frac {18}{3})*(\frac {1}{3}-\frac{6}{3})=\frac {-17}{3}*\frac {-5}{3}=\frac{85}{3}$. $\frac{85}{3}!=\frac{85}{9}$. L'affirmation est donc **fausse** 
+
+## Exercice 5
+
+1. Nous considérons l'aire de la figure en m^2^ étant k et que Z est le milieu du segment AE: $k=AB*AE+(ZC-AB)*BD/2$. Nous considérons que, ABDE étant un triangle, $[AE]=[BD]$, et donc que $k=AB*AE+(ZC-AB)*AE/2=6*7.5+(9-6)*7.5/2=45+11.25=56.25$. $k=56.25$. Il suffit maintenant de diviser la surface totale à couvrir par la surface couverte par un pot de peinture: $k/24=56.25/24=2.34375$. Il faut donc 2.34375 pots de peinture. Considérant qu'il n'est pas possible d'acheter des portions de pots de peinture, on considérera qu'il faut 3 pots de peinture et qu'il restera 0.65625 pots de peinture inutilisés. 3 pots de peinture donnent **310.35 euros.**
+2. La première mensualité est donc $\frac {2} {5}$ de la facture, soit $\frac {2}{5}*343,50=137.4$. Les trois autres mensualités sont toutes d'un tiers du reste, soit $(343.5-137.4)/3=68.7$. Voici donc le tableau des mensualités:
+
+| Mensualité | Montant |
+|:----------:|:-------:|
+|     1      |  137.4  |
+|     2      |  68.7   |
+|     3      |  68.7   |
+|     4      |  68.7   |
+

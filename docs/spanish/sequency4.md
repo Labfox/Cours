@@ -112,7 +112,7 @@ ahorrar = économiser
 
 de temporada = de saison
 
-### session 4: Naivdad / sostenible responsable
+### session 4: Navidad / sostenible responsable
 
 Para proteger el medioambiente, es necesario que reduzcamos los envoltorios para los regalos.
 

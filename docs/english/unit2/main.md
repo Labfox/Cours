@@ -242,3 +242,23 @@ Toolbox:
 - banner 
 - layout = mise en page
 
+campaigned
+fight
+working-class
+peaceful
+motto
+action
+handcuffing
+hunger streaks
+campaigning
+
+late 19th and early 20th centuries
+great britain
+women
+fighting for voting rights
+
+bombing, griefing, and suicide-mimicking tactics
+imprisonment or death
+yes
+
+

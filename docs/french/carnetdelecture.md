@@ -1,6 +1,6 @@
 # Si c'est un homme, _Primo Levi_, éditions Pocket, paru en 2003
 
-Dans Si c’est un homme de Primo Levi, publié en 1947, l’auteur témoigne de son expérience en tant que prisonnier dans le camp de concentration d’Auschwitz pendant la Seconde Guerre mondiale. Ce récit puissant explore la déshumanisation imposée par le système nazi et les tentatives des déportés pour préserver leur humanité.
+Dans Si c’est un homme de Primo Levi, publié en 1947, l’auteur témoigne de son expérience en tant que prisonnier dans le camp de concentration d’Auschwitz III pendant la Seconde Guerre mondiale. Ce récit puissant explore la déshumanisation imposée par le système nazi et les tentatives des déportés pour préserver leur humanité.
 
 Levi, un jeune chimiste italien d’origine juive, est arrêté en décembre 1943 et déporté à Auschwitz III (La Buna). Il y découvre un monde brutal où les hommes sont réduits à des numéros et à une lutte constante pour survivre. Le livre retrace le quotidien dans le camp : les travaux forcés, la faim dévorante, le froid mordant, et l’angoisse omniprésente. Levi observe également les dynamiques sociales entre les prisonniers et les méthodes du régime pour briser leur esprit.
 

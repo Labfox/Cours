@@ -262,3 +262,10 @@ imprisonment or death
 yes
 
 
+À partir de la bande-annonce du film **"Suffragette"**, Maud Watts est présentée comme une jeune femme ordinaire, travaillant dur dans une blanchisserie industrielle pour subvenir aux besoins de sa famille. Au début, elle semble réticente à s'impliquer dans des activités militantes. Cependant, après avoir été témoin des injustices et des abus dont sont victimes les femmes autour d'elle, elle commence à remettre en question sa situation et celle des autres femmes de son époque.
+
+La bande-annonce met en avant son évolution dramatique :
+
+- **Une prise de conscience** : Maud découvre le mouvement des suffragettes à travers des figures comme Emmeline Pankhurst (jouée par Meryl Streep) et se rend compte de l'ampleur de l'oppression des femmes.
+- **Des choix difficiles** : On la voit confrontée à des dilemmes personnels, notamment les conséquences sur sa vie de famille et son travail. Son engagement militant la pousse à défier les normes sociales et les autorités.
+- **Un combat déterminé** : La bande-annonce montre des scènes de manifestations, d’affrontements avec la police et d’actes de désobéissance civile, où Maud devient un symbole de courage et de rébellion.

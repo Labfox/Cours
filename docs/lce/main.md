@@ -140,5 +140,11 @@ kamala harris was in favor of gun control
 
 donal trump was against abortion
 
+Mr.Anonymous
 
-
+I would make laws for gun-related crimes harsher, I would make drugs on schedule II or lower legal to
+consume, given a psychological exam for schedule II (and, obviously, forbidden for kids under 21). 
+I would also create a tax on schedule II and III drugs. I would redirect these funds to education and 
+prevention on drugs. I would also make laws for gun-caused crimes and felonies harsher. 
+I would also try to remove DMCA to replace it with a law with less intellectual property rights on 
+trade secrets and with expanded fair use clauses.

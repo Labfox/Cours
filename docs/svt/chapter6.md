@@ -5,3 +5,4 @@ Activité 1: D'après les documents 3 p.243, expliquez comment 1 caractère hér
 
 En récupérant les génes nécessaires et en utilisant un outil tel que Crispr-Cas9 pour implanter l'ADN
 
+lire le doc4 p243 et apprendre déf de gène et transgénèse

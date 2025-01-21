@@ -573,4 +573,16 @@ Elle a laancé le premier journal féminin au Canada.
 
 
 
-principalement des noms, 
+
+- intime
+- journal
+- 1ère personne du singulier
+
+!!! abstract "Le journal intime"
+  C'est un écrit régulier (quotidien ou plus espacé), chronologique. Il est écrit à la 1ère personne.
+  Il est fait mention des dates, des jours et de l'année de l'écriture. C'est un écrit non fictionnel, privé,
+  destiné au départ à n'être lu que de celui qui l'écrit. C'est la relation de son vécu (intérieur et extérieur).
+  La rédaction d'un hournal intime aide à mieux saisir et comprendre ce qui arrive à la personne qui l'écrit, ce qu'elle
+  éprouve (émotions et sentiments). Il conserve la mémoire des événements traversés et est écrit aux temps du présent (présent comme temps de référence avec recours au passé composé, imparfait et futur simple).
+
+5) Séance 5: Le vocabulaire des émotions et des sentiments

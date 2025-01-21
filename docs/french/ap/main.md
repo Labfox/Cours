@@ -36,3 +36,16 @@ Tout d'abord, les kanaks sont moins bien traités que les autres: "Nous vivions 
 2. _
    1. L'équipage jete les corps à la mer pour éviter les contaminations et pour libérer de l'espace
    2. Le narrateur perçoit ce geste comme une insulte au morts: "Les morts ne peuvent vivre dans l'océan, il ne peuvent pas retrouver leur tribu" (l. 6-7)
+
+
+Les conditions de traitement des Kanaks dans ce texte sont dures, premièrement à cause 
+de l'enfermement dans un Zoo: "dans un village kanak [au] zoo de Vincennes",
+l'obligation d'agir comme des animaux, par le biais d'un dressage : 
+"des hommes sont venus nous dresser", et de l'obligation de simuler une vie pseudo-animale :
+"il fallait aller se baigner et nager [...] en poussant des cris de bêtes". Les kanaks sont
+aussi obligés de simuler une vie selon les idées reçues des visiteurs.
+
+
+3) _
+   1) La particularité grammaticale de cette phrase est l'absence d'un sujet, ou d'un verbe.
+   2) L'effet produit par cette phrase est un effet de longue répétition

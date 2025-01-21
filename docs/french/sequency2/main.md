@@ -556,3 +556,21 @@ Elle a laancé le premier journal féminin au Canada.
 4) La narration est menée à la 1^ère^ personne du singulier: "Je" (l. 1), "mes" (l. 5), "me" (l. 4)
 
    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+principalement des noms, 

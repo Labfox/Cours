@@ -142,3 +142,15 @@ consulat _ noble _ homo novus
 c3
 4e
 
+## LE machin sur vércingétorix
+
+1) La bataille se déroule de nuit: "de media nocte" (l. 1)
+2) Les soldats de V. sont pris, tués ou repartent dans leur tribu: "capitur atque inruficitum;"
+3) Le lendemain; V. convoque une assemblée: "concilio convocado" (l. 4) 2pts
+4) V. dit avoir entrepris cette guerre non à des fins personnelles, mais pour la liberté commune: "non marum necessitatum sed communis liberatis" (l. 5)
+5) V. est prêt à mourir pour donner satisfaction aux Romains ou à ce livrer vivant: "seu monté sua Romanis satisfacere seu vivum tradere" (l. 6-7)
+6) 
+
+
+Parodie du tableau de 
+

@@ -269,3 +269,18 @@ La bande-annonce met en avant son évolution dramatique :
 - **Une prise de conscience** : Maud découvre le mouvement des suffragettes à travers des figures comme Emmeline Pankhurst (jouée par Meryl Streep) et se rend compte de l'ampleur de l'oppression des femmes.
 - **Des choix difficiles** : On la voit confrontée à des dilemmes personnels, notamment les conséquences sur sa vie de famille et son travail. Son engagement militant la pousse à défier les normes sociales et les autorités.
 - **Un combat déterminé** : La bande-annonce montre des scènes de manifestations, d’affrontements avec la police et d’actes de désobéissance civile, où Maud devient un symbole de courage et de rébellion.
+She worked since she was 7 (first part-time then full-tile at 12). She was soon married to 
+someone. She started to fight for women's right to vote.
+
+They organized riots
+THey smashed windows
+They set fire to post boxes
+They burned down buildings
+
+they used unlawful methods for their cause.
+
+I'd rather be a rebel than a slave!
+
+We don't want to be lawbreakers, we ant to be lawmakers
+
+Never gonna give you up

@@ -586,3 +586,70 @@ Elle a laancé le premier journal féminin au Canada.
   éprouve (émotions et sentiments). Il conserve la mémoire des événements traversés et est écrit aux temps du présent (présent comme temps de référence avec recours au passé composé, imparfait et futur simple).
 
 5) Séance 5: Le vocabulaire des émotions et des sentiments
+
+Joyeux : Les enfants étaient joyeux en découvrant les cadeaux sous le sapin de Noël.
+Allégresse : Une allégresse indescriptible s'empara de la foule lorsque le feu d'artifice illumina le ciel.
+Ravissement : Elle regardait le coucher de soleil avec un ravissement qui se lisait sur son visage.
+Heureux : Il était heureux de retrouver ses amis après une longue absence.
+Émerveillement : L'émerveillement des touristes devant la Tour Eiffel était palpable.
+Épanoui : Depuis qu'il a trouvé sa passion, il semble plus épanoui et confiant.
+Gaieté : La gaieté des enfants qui jouaient dans le parc était contagieuse.
+Réjoui : La bonne nouvelle concernant sa promotion l'a tellement réjoui qu'il a organisé un dîner pour fêter ça.
+Plaisir : Elle prend un immense plaisir à lire un livre au coin du feu pendant l'hiver.
+
+Dépit : Chagrin mêlé de colère dû à une déception personnelle
+
+    Adjectif : Dépité(e)
+
+Amertume : Sentiment durable de tristesse mêlée de rancœur
+
+    Adjectif : Amer/amère
+
+Chagrin : État moralement douloureux, tristesse
+
+    Adjectif : Chagrin(e)
+
+Déception : Déconvenue, désillusion
+
+    Adjectif : Déçu(e)
+
+Tourment : Vive souffrance morale qui agite sans cesse l'esprit
+
+    Adjectif : Tourmenté(e)
+
+Nostalgie : Regret du temps passé
+
+    Adjectif : Nostalgique
+
+Dépité(e) :
+
+    Après avoir perdu le concours qu'il avait préparé pendant des mois, il est rentré chez lui, dépité et amer.
+
+Amer/amère :
+
+    Elle ressent une amertume profonde depuis cette trahison qui a bouleversé sa confiance.
+
+Chagrin(e) :
+
+    Elle portait un regard chagrin sur le monde, incapable de se réjouir depuis la perte de son meilleur ami.
+
+Déçu(e) :
+
+    Paul était tellement déçu par le résultat de l'examen qu'il n'a même pas voulu en parler.
+
+Tourmenté(e) :
+
+    Ses nuits étaient tourmentées par des cauchemars récurrents liés à son passé.
+
+Nostalgique :
+
+    En écoutant cette vieille chanson, il est devenu nostalgique de son enfance insouciante.
+
+Son départ a plongé la famille dans la tristesse.
+Au premier coup de feu, tout le monde fut saisi de panique.
+Les étudiants étaient un peu anxieux le jour de l'épreuve.
+La nouvelle a chagriné tout le monde. Ce fut un moment douloureux.
+Le réalisateur a réussi à créer une atmosphère sombre, angoissante.
+Il était envahi par une profonde peine après l'annonce.
+Malgré son sourire, on pouvait deviner une certaine anxiété dans son regard.
+Les souvenirs de cette période restent encore très attristés dans son cœur.

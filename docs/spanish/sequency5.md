@@ -34,3 +34,11 @@ Paseaba cuando de repente una bomba exploto
 
 Ils étaient avec leurs parents et un soldat est arrivé.
 
+1. Soldados republicanos españoles en la frontera francesa
+   La primera fotografía muestra a un grupo de hombres caminando por un camino rural. Van cargando sacos y llevando ropa abrigadora, aparentemente en un contexto invernal. Sus rostros reflejan cansancio, posiblemente después de un largo trayecto. Están agrupados y avanzan en fila, destacando un ambiente de seriedad y concentración.
+
+2. Civiles en Pertús, Francia
+   La segunda imagen presenta a mujeres y niños desplazándose por una calle de un pueblo. Algunas mujeres cargan mantas y objetos personales, mientras otras parecen intentar protegerse del frío. El lugar muestra edificios sencillos y parece haber actividad a pesar del clima adverso. Se percibe un ambiente de movimiento y búsqueda de refugio.
+
+3. Niños frente a un centro de acogida
+   En la tercera fotografía, un grupo de niños está formado en fila frente a un edificio. Sobre la entrada hay un cartel que indica que se trata de un centro de acogida para niños españoles. Una mujer de pie, vestida con delantal blanco, parece estar atendiendo o registrando a los niños. Los menores están ordenados, mostrando calma y esperando ser atendidos.

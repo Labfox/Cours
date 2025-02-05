@@ -284,3 +284,30 @@ I'd rather be a rebel than a slave!
 We don't want to be lawbreakers, we ant to be lawmakers
 
 Never gonna give you up
+1928
+
+**Planisaf**
+_nono4po_
+Labfox
+
+**Hello @everyone, we're going to talk abt "the representation of the people's act".
+In 1918, British women gained the right to vote if they were other 30, owned 
+property (themselves or by marriage).**
+_This year, over 8.4 million women could vote, and, later in 1928, women finally received equal suffrage 
+with men._
+
+This picture is a photograph in grayscale, this scene took place in the street during a protest 
+in London, probably in the 20th century.
+
+In the foregrounds, we can see a woman holding a banner with a tagline, "Vote for Women".
+
+That woman was wearing black clothing, with a big hat. On the left we can see someone wih similar clothes,
+maybe also part of the manifest.
+
+**On the right of his picture, there's another protester holding another banner, we can also see some 
+buildings and parts of the street, but the background is very blurry. 
+This photograph shows the fight needed for women's voting rights**
+
+_In this text, I learnt the meaning of three words, breakthrough, meaning a huge amount of progress
+(in French un énorme progrès), through, meaning "à travers" in French, and also own, in French 
+"posséder"._

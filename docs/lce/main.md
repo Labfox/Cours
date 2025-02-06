@@ -148,3 +148,4 @@ I would also create a tax on schedule II and III drugs. I would redirect these f
 prevention on drugs. I would also make laws for gun-caused crimes and felonies harsher. 
 I would also try to remove DMCA to replace it with a law with less intellectual property rights on 
 trade secrets and with expanded fair use clauses.
+

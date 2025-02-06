@@ -653,3 +653,13 @@ Le réalisateur a réussi à créer une atmosphère sombre, angoissante.
 Il était envahi par une profonde peine après l'annonce.
 Malgré son sourire, on pouvait deviner une certaine anxiété dans son regard.
 Les souvenirs de cette période restent encore très attristés dans son cœur.
+
+
+1. sortirai, fini: futur simple, passé composé
+2. dévoré, s'endort:  passé composé, présent de l'indicatif
+3. eurent passé, se referma: passé antérieur, passé simple
+4. essayait, avait dit: imparfait, plus-que-parfait
+
+
+
+

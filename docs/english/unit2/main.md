@@ -301,7 +301,7 @@ in London, probably in the 20th century.
 
 In the foregrounds, we can see a woman holding a banner with a tagline, "Vote for Women".
 
-That woman was wearing black clothing, with a big hat. On the left we can see someone wih similar clothes,
+That woman was wearing black clothing, with a fancy. On the left we can see someone wih similar clothes,
 maybe also part of the manifest.
 
 **On the right of this picture, there's another protester holding another banner, we can also see some 

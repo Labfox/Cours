@@ -304,7 +304,7 @@ In the foregrounds, we can see a woman holding a banner with a tagline, "Vote fo
 That woman was wearing black clothing, with a big hat. On the left we can see someone wih similar clothes,
 maybe also part of the manifest.
 
-**On the right of his picture, there's another protester holding another banner, we can also see some 
+**On the right of this picture, there's another protester holding another banner, we can also see some 
 buildings and parts of the street, but the background is very blurry. 
 This photograph shows the fight needed for women's voting rights**
 

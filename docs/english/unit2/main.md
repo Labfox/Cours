@@ -291,7 +291,7 @@ _nono4po_
 Labfox
 
 **Hello everyone, we're going to talk about "the representation of the people's act".
-In 1918, British women gained the right to vote if they were other 30, owned 
+In 1918, British women gained the right to vote if they were over 30, owned 
 property (themselves or by marriage).**
 _This year, over 8.4 million women could vote, and, later in 1928, women finally received equal suffrage 
 with men._

@@ -663,3 +663,57 @@ Les souvenirs de cette période restent encore très attristés dans son cœur.
 
 
 
+4) _
+
+2. **Tu t’es trompé ?**
+    - **Mode** : Indicatif passé composé
+    - **Infinitif** : se tromper
+
+2. **Nous nous promènerons**
+    - **Mode** : Indicatif futur simple
+    - **Infinitif** : se promener
+
+3. **Je me suis amusé ?**
+    - **Mode** : Indicatif passé composé
+    - **Infinitif** : s’amuser
+
+4. **Souvenez-vous**
+    - **Mode** : Impératif présent
+    - **Infinitif** : se souvenir
+
+5. **(Il faut que) je me dépêche**
+    - **Mode** : Subjonctif présent (→ « que je me dépêche »)
+    - **Infinitif** : se dépêcher
+
+
+5) _
+
+1. **Il entendit**  
+   → **Il fut entendu** (passé simple)
+
+2. **Qu’il entende**  
+   → **Qu’il soit entendu** (subjonctif présent)
+
+3. **Il entendrait**  
+   → **Il serait entendu** (conditionnel présent)
+
+4. **Elle avait entendu**  
+   → **Elle avait été entendue** (plus-que-parfait)
+
+5. **Qu’elle ait entendu**  
+   → **Qu’elle ait été entendue** (subjonctif passé)
+
+6. **Elle aurait entendu**  
+   → **Elle aurait été entendue** (conditionnel passé)
+
+6)
+
+- **Verbes impersonnels** :
+    - (l.1) « Il se trouve »
+    - (l.2) « il se prépare »
+    - (l.3) « Il s’est vendu », « il reste »
+
+- **Verbes pronominaux** :
+    - (l.1) « s’est trompé »
+    - (l.3) « se désole »
+    - (l.4) « s’inquiète »

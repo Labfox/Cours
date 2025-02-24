@@ -28,6 +28,8 @@ jobs:
         git fetch origin main --depth=1
         python -m pip install --upgrade pip
         if [ -f requirements.in ]; then pip install -r requirements.in; fi
+        git clone https://github.com/Labfox/Cours
+        cd Cours
     - name: Publish with mkdocs
       run: |
         git config --global user.email "action@github.com"

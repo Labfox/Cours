@@ -58,7 +58,7 @@ uni : union → unifier
 2. manuel
 3. clairon
 
-9: 
+9:
 
 adjectif + nom
 adjectif + nom
@@ -71,11 +71,11 @@ verbe + nom
 
 ```mermaid
 mindmap
-	root ((autobiographie))
+ root ((autobiographie))
         tranformation de la réalité A.G
         Vécu A.B
         Journal intime L.B
-        Histoire personnelle N.S.K 
+        Histoire personnelle N.S.K
         Sentiments N.S.K
         personnages réels C.H
         posthume A.G
@@ -109,26 +109,26 @@ mindmap
         idéaliser C.V
         ordre chronologique L.D
         nostalgie M.C
-        retour en arrière 
+        retour en arrière
         témoins A.B
 ```
 philizot
 
 ```mermaid
 mindmap
-	root ((autobiographie))
-	    forme
-	        tranformation de la réalité A.G
-	        Sentiments N.S.K
-	        personnages réels C.H
-	        posthume A.G
-	        Point de vue A.S
-	        Se décrire M.B
-	        écriture C.M
-	        Réalité O.R
-	        miroir H.B
-	        récit à la 1ère presonne C.H
-	        ellipse C.V
+ root ((autobiographie))
+     forme
+         tranformation de la réalité A.G
+         Sentiments N.S.K
+         personnages réels C.H
+         posthume A.G
+         Point de vue A.S
+         Se décrire M.B
+         écriture C.M
+         Réalité O.R
+         miroir H.B
+         récit à la 1ère presonne C.H
+         ellipse C.V
             passé A.B
             se raconter A.G
             imagination/fiction E.M
@@ -208,14 +208,14 @@ mindmap
 ```
 
 # Séquence 2 (le vrai départ)
-## Séance 1: Etude du Texte 1 : Une perfidie digne de l'enfer
+## Séance 1 : Etude du Texte 1 : Une perfidie digne de l'enfer
 
 Appliquez à ce texte les Etapes 1 et 2 vues au cours de la Séquence 1
 
 etape 1: Je m'attends à ce soit un roman/nouvelle parlant d'une trahison.
 
 
-etape 2: Vocabulaire : aucun; 
+etape 2: Vocabulaire : aucun;
 Situation d'énonciation: ancrée
 Type de texte: Texte narratif
 
@@ -231,7 +231,7 @@ parées
 
 que sait-on du narrateur 5 infos
 
-statut social: 
+statut social:
 
 « Une perfidie digne de l'enfer »
 
@@ -247,7 +247,7 @@ Mon indifférence pour la fortune tenait sans doute alors au peu de besoin que j
 Ce qui rendait ma maison agréable n'exigeant aucun luxe, j'ai toujours vécu fort modestement. Je
 dépensais extrêmement peu pour ma toilette : on me reprochait méme trop de négligence, car je ne
 portais que des robes blanches, de mousseline ou de linon, et je n'ai jamais fait faire de robes parées
-que pour mes séances 4 Versailles. Ma coiffure ne me coutait rien, j'arrangeais mes Cheveux moi-même, 
+que pour mes séances 4 Versailles. Ma coiffure ne me coutait rien, j'arrangeais mes Cheveux moi-même,
 et le plus souvent je tortillais sur ma téte un fichu de mousseline, ainsi qu'on peut le voir
 dans mes portraits, 4 Florence, 4 Pétersbourg et 4 Paris, chez M. de Laborde. Dans tous mes
 portraits enfin, je me suis peinte ainsi, excepté dans celui qui est au ministère de l'Intérieur, où je
@@ -283,26 +283,26 @@ Née en 1755 et morte en 1842
 
 à vécu la révolution française, 1789
 
-Élisabeth Vigée Le Brun (LEVL) a écrit ce texte pour répondre aux calomnies. Elle y présente plusieurs arguments : 
+Élisabeth Vigée Le Brun (LEVL) a écrit ce texte pour répondre aux calomnies. Elle y présente plusieurs arguments :
 
-1. Son mode de vie modeste réfute l'idée d'un besoin d'argent: Elle insiste sur sa simplicité et son indépendance financière: « Je dépensais extrêmement peu pour ma toilette : on me reprochait même trop de négligence, car je ne portais que des robes blanches, de mousseline ou de linon. »* 
+1. Son mode de vie modeste réfute l'idée d'un besoin d'argent: Elle insiste sur sa simplicité et son indépendance financière: « Je dépensais extrêmement peu pour ma toilette : on me reprochait même trop de négligence, car je ne portais que des robes blanches, de mousseline ou de linon. »*
 2. Son succès repose uniquement sur son travail d’artiste: « Quand vous serez morte, je ferai élever dans mon jardin une pyramide qui ira jusqu’au ciel, et je ferai graver dessus la liste de vos portraits. »
 3. La calomnie est infondée car elle connaissait à peine M. de Calonne :« Une seule fois dans ma vie j'avais été chez lui au ministère des Finances. »
 
 LEVL à écrit ce texte pour se justifier, por se laver de l'accusation portée contre elle: elle serait la maïtresse de M. De Calonne, qui la paierait pour ceci.
 
 
-déja des thunes + vit simplement + ne connais pas M. De Calonne + pas attirant + 
+déja des thunes + vit simplement + ne connais pas M. De Calonne + pas attirant +
 
-Louise Elisabeth Vigée Lebrun écrit ce texte pour répondre aux calomnies. Elle 
-présente plsusieurs arguments. Tout d'abord, elle avance l'absence d'une 
-nécessité d'argent en 0expliquant sa simplicité 
-("j'ai toujours vécu fort modestement", "je dépensais extrêmement peu", 
-"ma coiffure ne me coûtait rien") et sa richesse: 
+Louise Elisabeth Vigée Lebrun écrit ce texte pour répondre aux calomnies. Elle
+présente plsusieurs arguments. Tout d'abord, elle avance l'absence d'une
+nécessité d'argent en 0expliquant sa simplicité
+("j'ai toujours vécu fort modestement", "je dépensais extrêmement peu",
+"ma coiffure ne me coûtait rien") et sa richesse:
 ("nous avions gagné assez d'argent"). La narratrice explique aussi l'origine
-de sa fortune, ses oeuvres qui sont exposées partout 
+de sa fortune, ses oeuvres qui sont exposées partout
 ("à Florence, a Petersbourg et à Paris"). Elle avance aussi le fait qu'elle
-ne connait pas Mr De Calonne (, 
+ne connait pas Mr De Calonne (,
 
 Dans ce texte, Louise Élisabeth Vigée Le Brun répond aux calomnies l'accusant d'être la maîtresse de M. de Calonne, qui l'aurait financée. Elle affirme d'abord son indépendance financière et son mode de vie simple : *« J'ai toujours vécu fort modestement »*, expliquant qu'elle n'avait aucun besoin d'argent grâce à sa propre richesse : *« Nous avions gagné assez d'argent. »* Elle met également en avant le succès de son travail d’artiste, attesté par ses portraits exposés dans des lieux prestigieux (*« à Florence, à Petersbourg et à Paris »*), prouvant que sa fortune repose uniquement sur son talent. De plus, elle souligne qu’elle connaissait à peine M. de Calonne : *« Une seule fois dans ma vie j'avais été chez lui »*, et déclare qu’il ne l’attirait pas, notamment à cause de sa *« perruque fiscale »*, ridiculisant ainsi l’accusation. Enfin, elle insiste sur l’absence totale de fondement de ces rumeurs, concluant que rien ne pouvait leur donner de vraisemblance. Par ces arguments, elle cherche à défendre son honneur et à démontrer que sa vie et sa réussite étaient uniquement dues à son travail et à son talent.
 
@@ -315,31 +315,31 @@ Pour finir, elle connait à peine cet homme : "Une seule fois dans ma vie j'ava
 
 Dans l'autobiographie, l'auteur, le narrateur et le personnage ont la même identité
 
-Le récit autobiographique est un récit intime, rétrospectif. 
+Le récit autobiographique est un récit intime, rétrospectif.
 
 Une des raisons qui peuvent pousser les écrivains à écrire leur autobiographie est le besoin de ce justifier.
 
-Texte narratif à visée argumentative. Présence d'un narrateur (ici, une narratrice). Expression d'une opinion : subjectivité 
+Texte narratif à visée argumentative. Présence d'un narrateur (ici, une narratrice). Expression d'une opinion : subjectivité
 
-## Séance 2: L'expression de la subjectivité: Modalisation et modalisateurs
+## Séance 2 : L'expression de la subjectivité : Modalisation et modalisateurs
 
 1. _
-   1. Objectif
-   2. Subjectif
-   3. Subjectif
-   4. Objectif
-   5. Subjectif
+    1. Objectif
+    2. Subjectif
+    3. Subjectif
+    4. Objectif
+    5. Subjectif
 2. _
-   1. Il ^^me semble^^ que les cinémas étaient plus fréquentés autrefois.
-   2. Lola a ^^bien sûr^^ raté son train.
-   3. ^^J’apprécie^^ votre aide en ces moments difficiles.
-   4. Notre plan a ^^malheureusement^^ échoué, il était ^^certainement^^ irréalisable.
-   5. Ce local est, certes, exigu, mais pour ma part, je le ^^trouve^^ suffisant pour mon activité.
-   6. Vous avez ^^peut-être^^ raison, mais ^^j’en doute^^
+    1. Il ^^me semble^^ que les cinémas étaient plus fréquentés autrefois.
+    2. Lola a ^^bien sûr^^ raté son train.
+    3. ^^J’apprécie^^ votre aide en ces moments difficiles.
+    4. Notre plan a ^^malheureusement^^ échoué, il était ^^certainement^^ irréalisable.
+    5. Ce local est, certes, exigu, mais pour ma part, je le ^^trouve^^ suffisant pour mon activité.
+    6. Vous avez ^^peut-être^^ raison, mais ^^j’en doute^^
 3. _
-   1. Alexis est ^^étourdi^^, ^^il a une cervelle de moineau^^: péjoratif, métaphore
-   2. La nouvelle autoroute ^^serait^^ ouverte prochainement à la circulation: vocabulaire mélioratif
-   3. Son regard est ^^glacial^^ et ^^aussi noir qu’un ciel d’orage^^: péjoratif, métaphore
+    1. Alexis est ^^étourdi^^, ^^il a une cervelle de moineau^^: péjoratif, métaphore
+    2. La nouvelle autoroute ^^serait^^ ouverte prochainement à la circulation: vocabulaire mélioratif
+    3. Son regard est ^^glacial^^ et ^^aussi noir qu’un ciel d’orage^^: péjoratif, métaphore
 4. Un _énorme_ incendie a détruit plusieurs hectares de forêt. Ce sont _probablement_ _encore_ de _mauvais_ campeurs qui ont provoqué ce sinistre en faisant _un mauvais_ feu
 
 _
@@ -376,9 +376,9 @@ des cheveux rêches + une terre fertile - un climat tempéré - un élève négl
 
 Retrouvez dans le texte de LEVL les modalisateurs
 
-malheur - prétexte - calomnie - infâmes - négligence - peu - fortune - 
+malheur - prétexte - calomnie - infâmes - négligence - peu - fortune -
 
-malheur - infâmes - assez d'argent - sainte - certainement - sans doute - fort modestement - extrêmement peu - même - certes - telle - sous tout autres rapport - m'a semblé - jugez comme - peu séduisant - j'aurais pu - en honneur - à regret - surprenant - il avait jugé convenable - digne de l'enfer - je n'aurais donc jamais imaginé - désolants - 
+malheur - infâmes - assez d'argent - sainte - certainement - sans doute - fort modestement - extrêmement peu - même - certes - telle - sous tout autres rapport - m'a semblé - jugez comme - peu séduisant - j'aurais pu - en honneur - à regret - surprenant - il avait jugé convenable - digne de l'enfer - je n'aurais donc jamais imaginé - désolants -
 
 l'air - découragement - croassement
 
@@ -446,18 +446,18 @@ Elle a aussi reçu une demande en mariage ("Il me faut noter que j'ai reçu une 
 
 
 
-Tout d'abord, la narratrice est une femme "paresseuse" (l. 32), Elle vit au XIXe siècle "1879" (l. 1). 
-Ensuite, elle entre dans l'âge adulte "dix-sept ans" (l. 3). Elle est spontanée "caractère insouciant et enfantin" (l. 4). 
-La narratrice est sensible à l'art "le sentiment [...] lorsque j'entends de la belle musique [...]: l'inspiration" (l. 9-11). 
-Elle aime bien la littérature et la poésie "ce que je ressens est peut-être ce qui anime les poètes" (l. 10-11) 
-"J'ai une légère inclination vers la littérature" (l. 31). Puis, elle est aussi instruite et cultivée 
-"J'ai lu ce soir du Lamartine" (l. 8). De plus elle appartient à une classe sociale aisée : 
-"je me retrouve entre les quatre murs de mon couvent" (l. 18-19). Enfin, elle a failli se marier : 
+Tout d'abord, la narratrice est une femme "paresseuse" (l. 32), Elle vit au XIXe siècle "1879" (l. 1).
+Ensuite, elle entre dans l'âge adulte "dix-sept ans" (l. 3). Elle est spontanée "caractère insouciant et enfantin" (l. 4).
+La narratrice est sensible à l'art "le sentiment [...] lorsque j'entends de la belle musique [...]: l'inspiration" (l. 9-11).
+Elle aime bien la littérature et la poésie "ce que je ressens est peut-être ce qui anime les poètes" (l. 10-11)
+"J'ai une légère inclination vers la littérature" (l. 31). Puis, elle est aussi instruite et cultivée
+"J'ai lu ce soir du Lamartine" (l. 8). De plus elle appartient à une classe sociale aisée :
+"je me retrouve entre les quatre murs de mon couvent" (l. 18-19). Enfin, elle a failli se marier :
 "j'ai reçu une demande en mariage" (l. 26)
 
 
 
-* Quels eléments montre qu'il s'agit d'un journal intime ? 
+* Quels eléments montre qu'il s'agit d'un journal intime ?
 * A qui l'autrice destine-t-elle son récit ?
 * Pour quelle raisons décide-t-elle de tenir son journal ?
 * A quelle personne la narration est-elle menée ?
@@ -465,25 +465,25 @@ Elle aime bien la littérature et la poésie "ce que je ressens est peut-être c
 * Quel est le champ lexical dominant ?
 
 1. **Quels éléments montrent qu'il s'agit d'un journal intime ?**
-   - L'écriture est à la première personne du singulier, ce qui traduit une réflexion personnelle.
-   - Les dates précises en début de chaque entrée structurent le texte comme un journal.
-   - L'autrice partage des pensées et des émotions intimes, parfois contradictoires, sans chercher à les dissimuler.
+    - L'écriture est à la première personne du singulier, ce qui traduit une réflexion personnelle.
+    - Les dates précises en début de chaque entrée structurent le texte comme un journal.
+    - L'autrice partage des pensées et des émotions intimes, parfois contradictoires, sans chercher à les dissimuler.
 
 2. **À qui l’autrice destine-t-elle son récit ?**
-   - À elle-même, principalement, comme un moyen de confier ses pensées et émotions. Elle mentionne aussi l'absence d'un confident, ce qui renforce l'idée que le journal est un substitut.
+    - À elle-même, principalement, comme un moyen de confier ses pensées et émotions. Elle mentionne aussi l'absence d'un confident, ce qui renforce l'idée que le journal est un substitut.
 
 3. **Pour quelles raisons décide-t-elle de tenir son journal ?**
-   - Elle souhaite consigner ses impressions et pensées, qu’elle décrit comme un "miroir" de ses émotions et réflexions.
-   - Elle ressent un besoin d’exprimer ce qu’elle ne peut pas partager avec autrui.
+    - Elle souhaite consigner ses impressions et pensées, qu’elle décrit comme un "miroir" de ses émotions et réflexions.
+    - Elle ressent un besoin d’exprimer ce qu’elle ne peut pas partager avec autrui.
 
 4. **À quelle personne la narration est-elle menée ?**
-   - À la première personne du singulier ("je").
+    - À la première personne du singulier ("je").
 
 5. **À quel temps le journal est-il principalement écrit ?**
-   - Il est écrit principalement au passé simple et à l’imparfait pour raconter les événements et les états d’âme. Quelques passages au présent renforcent l'immédiateté des réflexions.
+    - Il est écrit principalement au passé simple et à l’imparfait pour raconter les événements et les états d’âme. Quelques passages au présent renforcent l'immédiateté des réflexions.
 
 6. **Quel est le champ lexical dominant ?**
-   - Le champ lexical des émotions et des sentiments domine : "amour", "mélancolique", "rêveuse", "inspiration", "plaisir", "imagination".
+    - Le champ lexical des émotions et des sentiments domine : "amour", "mélancolique", "rêveuse", "inspiration", "plaisir", "imagination".
 
 **18 juillet 1879**. Vendredi
 
@@ -530,12 +530,12 @@ les corriger et les mettre au point. L'avouerai-je ? La paresse a mille chances 
 rendre rapport de stage
 avoir le compte rendu d'autobiographie prêt
 
-fond 
+fond
 
 * narration: 4 étapes: 2pts (arrivée, acceuil, décision, réaction)
 * argumentation: 2pts
-  * autonomie
-  * aider les parents
+    * autonomie
+    * aider les parents
 * narration: 1pts
 * description de la machine: 2pts (figures de style, expansions du nom...)
 * explication sous la forme d'un dialogue: 2pts
@@ -548,14 +548,14 @@ Née en 1861. Morte en 1925
 Pionière du journalisme féminin au canada
 
 Elle a laancé le premier journal féminin au Canada.
- 
+
 
 1) Les éléments qui montre que ce texte est un journal intime sont: les dates (jour, mois, année): "18 juillet 1879" (l. 1); l'emploi de la 1^e^ personne du singulier: "Je" (l. 1); l'expression des sentiments: "mion de mes impressions" (l. 1-2), "mélancolique et rêveuse" (l. 6).
 2) Joséphine Marchand destine son récit à elle-même: "Voilà ce qui me décide à être mon propre confident" (l. 15)
 3) Joséphine Marchand tient son journal intime parce qu'elle veut mettre des mots sur ce qu'elle éprouve: "jJe voudrais alors traduire mes idées avec la plume" (L. 12). Elle le fait aussi parce qu'elle n'a personne à qui parler: "l'absence du confident souhaité" (l. 12-13). Ce journal intime va aussi lui permettre de ce rappeler des moments de sa vie passée: "Voilà un souvenir que je raconterais ) mes pettits neveux " (l. 29)
 4) La narration est menée à la 1^ère^ personne du singulier: "Je" (l. 1), "mes" (l. 5), "me" (l. 4)
 
-   
+
 
 
 
@@ -579,13 +579,40 @@ Elle a laancé le premier journal féminin au Canada.
 - 1ère personne du singulier
 
 !!! abstract "Le journal intime"
-  C'est un écrit régulier (quotidien ou plus espacé), chronologique. Il est écrit à la 1ère personne.
-  Il est fait mention des dates, des jours et de l'année de l'écriture. C'est un écrit non fictionnel, privé,
-  destiné au départ à n'être lu que de celui qui l'écrit. C'est la relation de son vécu (intérieur et extérieur).
-  La rédaction d'un hournal intime aide à mieux saisir et comprendre ce qui arrive à la personne qui l'écrit, ce qu'elle
-  éprouve (émotions et sentiments). Il conserve la mémoire des événements traversés et est écrit aux temps du présent (présent comme temps de référence avec recours au passé composé, imparfait et futur simple).
+C'est un écrit régulier (quotidien ou plus espacé), chronologique. Il est écrit à la 1ère personne.
+Il est fait mention des dates, des jours et de l'année de l'écriture. C'est un écrit non fictionnel, privé,
+destiné au départ à n'être lu que de celui qui l'écrit. C'est la relation de son vécu (intérieur et extérieur).
+La rédaction d'un hournal intime aide à mieux saisir et comprendre ce qui arrive à la personne qui l'écrit, ce qu'elle
+éprouve (émotions et sentiments). Il conserve la mémoire des événements traversés et est écrit aux temps du présent (présent comme temps de référence avec recours au passé composé, imparfait et futur simple).
 
-5) Séance 5: Le vocabulaire des émotions et des sentiments
+## Séance 5 : Le vocabulaire des émotions et des sentiments
+
+1) Un sentiment est un état plus ou moins fort et durable. l'émotion est une réaction (souvent physique) intense et brève.
+2) _
+
+| émotions     | sentiments |
+|--------------|------------|
+| peur         | tendresse  |
+| angoisse     | mépris     |
+| joie         | bonheur    |
+| tristesse    | amour      |
+| colère       | affection  |
+| stupéfaction |            |
+| effroi       |            |
+|              |            |
+|              |            |
+il y à 7 émotions de base en psychologie. La joie, la tristesse, la colère, la peur, la surprise, le dégout et la honte.
+3) _
+    1) crainte peur angoisse terreur épouvante
+    2) dégoût aversion répulsion horreur
+    3) intérêt penchant passion amour
+    4) gaieté joie jubilation extase
+    5) lassitude tristesse accablement désespoir
+4) joie -> trépigner; honte -> rougir; colère -> hurler; rage -> sauter; peur -> blêmir;
+5) _
+    1) rage -> vert, peur -> bleu, colère -> rouge
+        2) Il eu une peur bleue. ça la rendu vert de rage. ça à cause une colère rouge.
+6)
 
 Joyeux : Les enfants étaient joyeux en découvrant les cadeaux sous le sapin de Noël.
 Allégresse : Une allégresse indescriptible s'empara de la foule lorsque le feu d'artifice illumina le ciel.
@@ -655,12 +682,25 @@ Malgré son sourire, on pouvait deviner une certaine anxiété dans son regard.
 Les souvenirs de cette période restent encore très attristés dans son cœur.
 
 
+
 1. sortirai, fini: futur simple, passé composé
 2. dévoré, s'endort:  passé composé, présent de l'indicatif
 3. eurent passé, se referma: passé antérieur, passé simple
 4. essayait, avait dit: imparfait, plus-que-parfait
+=======
+## Séance 6: Etude du Texte 3
+
+Probablement une autobiographie, pas de titre, "Simone de Beauvoir, *Mémoires d'une jeune fille rangée*, 1958, Gallimard"
+
+Vocabulaire: apitoyer, (être touché de pitié )
+
+Mémoires: récit par celui qui les à vécu ou à été témoin des évènements de sa vie.
 
 
+
+Paratexte: Simone de Beauvoir, _Mémoires d'une jeune fille rangée_, 1658, Gallimard
+
+encré + coupé
 
 
 4) _
@@ -717,3 +757,174 @@ Les souvenirs de cette période restent encore très attristés dans son cœur.
     - (l.1) « s’est trompé »
     - (l.3) « se désole »
     - (l.4) « s’inquiète »
+
+=======
+
+Les grandes personnes ne partageaient pas nos jeux ni nos plaisirs. Je n'en connaissais aucune qui parût beaucoup s'amuser sur terre: la vie n'est pas gaie, la vie n'est pas un roman, déclaraient-elles en choeur.
+
+La monotonie de l'existence adulte m'avait toujours apitoyée; quand je me rendis compte que dans un bref délai, elle deviendrait mon lot; l'angoisse me prit. Un après-midi, j'aidais maman à faire la vaiselle; elle lavait des assiettes, je les essuyais, par la fenêtre, je voyais le mur de la caserne de pompiers, et d'autres cuisines ou des femmes frottaient des casseroles ou épluchaient des légumes.
+
+Chaque jour, le déjeuner, le dîner; chaqu ejour la vaiselle; ces heures indéfiniment recommencées et qui ne mènent nulle part: vivrais-je ainsi ? Une image se forma dans ma tête, avec une
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Le vocabulaire du malheur : "monotonie", "apitoyée", "l'angoisse"
+Le vocabulaire de la cuisine : "vaisselles", "assiettes", "casseroles"
+
+
+
+
+
+
+
+
+
+
+
+
+Les grandes personnes ne partageaient pas nos jeux ni nos plaisirs. Je n'en connaissais aucune qui
+parût beaucoup s'amuser sur terre : « la vie n'est pas gaie, la vie n'est pas un roman »,
+déclaraient-elles en chœur.
+
+La monotonie de l'existence adulte m'avait toujours apitoyée ; quand je me rendis compte que, dans un
+bref délai, elle deviendrait mon lot, l'angoisse me prit. Un après-midi, j'aidais maman à faire la
+vaisselle ; elle lavait des assiettes, je les essuyais ; par la fenêtre, je voyais le mur de la caserne de pompiers et d'autres cuisines où des femmes frottaient des casseroles ou épluchaient des légumes. Chaque jour, le déjeuner, le dîner ; chaque jour, la vaisselle ; ces heures indéfiniment recommencées et qui ne mènent nulle part : vivrais-je ainsi ?
+
+Une image se forma dans ma tête, avec une netteté si désolante que je me la rappelle encore aujourd’hui : une rangée de carrés gris s'étendait jusqu'à l’horizon, diminués selon les lois de la perspective, mais tous identiques et plats ; c’étaient les jours, les semaines et les années. Moi, depuis ma naissance, je m'étais endormie chaque soir un peu plus riche que la veille ; je m'élevais de degré en degré ; mais si, là-haut, je ne trouvais qu'un morne plateau, sans aucun but vers lequel marcher, à quoi bon ?
+
+Non, me dis-je, tout en rangeant dans le placard une pile d’assiettes ; ma vie, à moi, me conduira quelque part. Heureusement, je n'étais pas vouée à un destin de ménagère. Mon père n'était pas féministe ; il admirait la sagesse des romans de Colette Yver où l'avocate, la doctoresse, finissent par sacrifier leur carrière à l'harmonie du foyer ; mais nécessité fait loi : « Vous, mes petites, vous ne vous marierez pas », répétait-il souvent. « Vous n'avez pas de dot, il faudra travailler. »
+
+Je préférais infiniment la perspective d'un métier à celle du mariage ; elle autorisait des espoirs. Il y avait eu des gens qui avaient fait des choses : j’en ferais. Je ne prévoyais pas bien lesquelles. L'astronomie, l'archéologie, la paléontologie tour à tour m'avaient réclamée, et je continuais à caresser vaguement l’idée d’écrire.
+
+
+
+
+Dans ce texte, Simone de Beauvoir s'oppose au destin tout tracé de la majorité des femmes en occident:
+n'exister que comme épouse et ménagère, sans exercer d'activités professionnelles. Elle veut être
+libre de choisir sa vie.
+
+Elle revendique l'égalité des sexes.
+
+Elle veut aussi montrer que l'émancipation de la femme est possible, son parcours peut ouvrir la voie
+à d'autres femmes
+
+
+!!! abstract "Les Mémoires"
+
+C'est un écrit continu, différent du journal intime (écriture fragmentée, dates).
+Les Mémoires sont destinés à être publiés: les sujets personnels ou très intimes
+y occupent moins de place que dans le journal. Davantage de place est accordée
+au récit, à la relation d'événements, à la peinture d'une époque. Les temps du récit sont au passé.
+
+Les grandes personnes ne partageaient pas nos jeux ni nos plaisirs. Je n'en connaissais aucune qui
+parût beaucoup s'amuser sur terre : « la vie n'est pas gaie, la vie n'est pas un roman »,
+déclaraient-elles en chœur.
+
+La monotonie de l'existence adulte m'avait toujours apitoyée ; quand je me rendis compte que, dans un
+bref délai, elle deviendrait mon lot, l'angoisse me prit. Un après-midi, j'aidais maman à faire la
+vaisselle ; elle lavait des assiettes, je les essuyais ; par la fenêtre, je voyais le mur de la caserne
+de pompiers et d'autres cuisines où des femmes frottaient des casseroles ou épluchaient des légumes.
+Chaque jour, le déjeuner, le dîner ; chaque jour, la vaisselle ; ces heures indéfiniment recommencées et
+qui ne mènent nulle part : vivrais-je ainsi ?
+
+Une image se forma dans ma tête, avec une netteté si désolante que je me la rappelle encore aujourd’hui :
+une rangée de carrés gris s'étendait jusqu'à l’horizon, diminués selon les lois de la perspective, mais
+tous identiques et plats ; c’étaient les jours, les semaines et les années. Moi, depuis ma naissance,
+je m'étais endormie chaque soir un peu plus riche que la veille ; je m'élevais de degré en degré ; mais
+si, là-haut, je ne trouvais qu'un morne plateau, sans aucun but vers lequel marcher, à quoi bon ?
+
+Non, me dis-je, tout en rangeant dans le placard une pile d’assiettes ; ma vie, à moi, me conduira quelque
+part. Heureusement, je n'étais pas vouée à un destin de ménagère. Mon père n'était pas féministe ; il
+admirait la sagesse des romans de Colette Yver où l'avocate, la doctoresse, finissent par sacrifier leur
+carrière à l'harmonie du foyer ; mais nécessité fait loi : « Vous, mes petites, vous ne vous marierez pas »,
+répétait-il souvent. « Vous n'avez pas de dot, il faudra travailler. »
+
+Je préférais infiniment la perspective d'un métier à celle du mariage ; elle autorisait des espoirs.
+Il y avait eu des gens qui avaient fait des choses : j’en ferais. Je ne prévoyais pas bien lesquelles.
+L'astronomie, l'archéologie, la paléontologie tour à tour m'avaient réclamée, et je continuais à caresser
+vaguement l’idée d’écrire.
+
+
+| Mot                     | Mode Personnel |
+|-------------------------|----------------|
+| partageaient (ligne 1)  | 1              |
+| connaissais (ligne 2)   | 1              |
+| déclaraient (ligne 3)   | 1              |
+| avait (ligne 5)         | 1              |
+| rendis (ligne 5)        | 2              |
+| devenait (ligne 6)      | 1              |
+| prit (ligne 7)          | 2              |
+| lavait (ligne 8)        | 1              |
+| essuyais (ligne 8)      | 1              |
+| voyais (ligne 9)        | 1              |
+| frottaient (ligne 9)    | 1              |
+| épluchaient (ligne 9)   | 1              |
+| recommencées (ligne 11) | 1              |
+| mènent (ligne 11)       | 2              |
+| vivrais (ligne 11)      | 3              |
+| se forma (ligne 13)     | 2              |
+| rappelle (ligne 13)     | 2              |
+| étendait (ligne 14)     | 1              |
+| s'étaient (ligne 15)    | 1              |
+| m'étais (ligne 16)      | 1              |
+| endormie (ligne 16)     | 1              |
+| trouvais (ligne 17)     | 1              |
+| dis (ligne 19)          | 2              |
+| rangeant (ligne 19)     | 1              |
+| conduira (ligne 19)     | 3              |
+| admirait (ligne 21)     | 1              |
+| finissent (ligne 21)    | 2              |
+| répétait (ligne 23)     | 1              |
+| faudra (ligne 23)       | 3              |
+| préférais (ligne 25)    | 1              |
+| autorisait (ligne 25)   | 1              |
+| avaient (ligne 26)      | 1              |
+| faisaient (ligne 26)    | 1              |
+| ferais (ligne 26)       | 1              |
+| prévoyais (ligne 27)    | 1              |
+| réclamée (ligne 28)     | 2              |
+| continuais (ligne 28)   | 1              |
+
+| Imparfait                                                 | Passé simple      | Plus que parfait             | Futur dans le passé conditionnel | Présent                                                    |
+|-----------------------------------------------------------|-------------------|------------------------------|----------------------------------|------------------------------------------------------------|
+| "partageaient" (l. 1)                                     | "redis" (l. 4)    | "m'avaient réclamée" (l. 12) | "vivrais" (l. 9)                 | "mènent" (l. 9)                                            |
+| "connaissais" (l. 1)                                      | "prit" (l. 5)     | "m'avait apitoyée" (l. 4)    | "deviendrait" (l. 5)             | "me la rappelle" (l. 10)                                   |
+| "déclaraient" (l. 2)                                      | "se forma" (l. 9) | "avait eu" (l. 20)           | "ferais" (l. 21)                 | "fait" (l. 18)                                             |
+| "aidais" (l. 5)                                           | "dis" (l. 15)     | "avaient fait" (l. 21)       |                                  | "finissent" (l. 17)                                        |
+| "essuyais" (l. 6)                                         |                   | "m'étais endormie" (l. 12)   |                                  |                                                            |
+| "épluchaient" (l. 7)                                      |                   |                              |                                  |                                                            |
+| "étendait" (l. 10)                                        |                   |                              |                                  |                                                            |
+| "étaient" (l. 11)                                         |                   |                              |                                  |                                                            |
+| "m'élevais" (l. 13)                                       |                   |                              |                                  |                                                            |
+| "trouvais" (l. 13)                                        |                   |                              |                                  |                                                            |
+| "admirait" (l. 17)                                        |                   |                              |                                  |                                                            |
+| "répétait" (l. 19)                                        |                   |                              |                                  |                                                            |
+| "préférais" (l. 19)                                       |                   |                              |                                  |                                                            |
+| "autorisait" (l. 20)                                      |                   |                              |                                  |                                                            |
+| "continuais" (l. 22)                                      |                   |                              |                                  |                                                            |
+| Narrateur enfant - Moment des événements - temps du passé | -                 | -                            | -                                | Narrateur adulte - Moment de l'écriture - Temps du présent |
+
+
+
+## Séance 8: Le verbe, mode, temps, voix
+
+
+n° 3
+
+1. 
+

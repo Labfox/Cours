@@ -154,3 +154,39 @@ c3
 
 Parodie du tableau de 
 
+## Latin EDT 1
+
+Classes grammaticale: "colore": nom commun, 
+"paulo": adverbe, "nigris": adjectif qualificatif,
+"oculis": nom commun, "prospera": adjectif,
+"atque": conjonction de coordination,
+"solebat": verbe,
+"tonderetur": verbe,
+"sed": conjonction de coordination,
+"saepe": adverbe
+
+Les adjectifs du 1er paragraphe sont au nombre
+de huit: "excelsea", "candido", "teretibus",
+"pleniore", "nigris", "vegetis", "prospera",
+"externo. Ablatif
+
+Le champ lexical du corps ce consitue des
+mots suivants: "statura", "oculis", "ore",
+"corporis", "calvitis". La partie la plus décrite
+est la tête. 
+
+César fait très attention à lui, il est attentif
+à son corps, à son apparence: "et non solum
+tradetum [...] sed volunterem etiam".
+
+Il est susceptible: "calviti defonteratum [..]
+expertus". Il est fier/orgueilleux: "Idemque ad sueveat"
+
+Portrait de César
+
+"oculis": yeux, oculaire
+"somnum": sommeil, somnolent
+"corporis": corps, corpulent
+"capillum": cheuveux, capillaire
+"populo": peuple, populaire
+

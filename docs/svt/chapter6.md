@@ -14,3 +14,19 @@ Chez tous les êtres humains, un gène occupe la même position sur les chromoso
 
 
 lire le doc4 p243 et apprendre déf de gène et transgénèse
+
+Bilan :
+
+Quand la paire de chromosomes présente 2 allèles différents, l'allèle qui s'exprime est celui qui
+détermine le caractère: c'est l'allèle dominant à écrire en majuscule.
+
+Ainsi, pour savoir si un allèle est dominant, il faut regarder le cas ou les 2 allèles sont présents sur une même paire
+
+L'allèle s'exprimant dans cette situation sont les allèles N, car si l'allèle M était dominant, le patient serait malade
+
+N et m
+
+
+
+Pour adrien, Nm, comme pour Hélène, et lucas à mm.
+

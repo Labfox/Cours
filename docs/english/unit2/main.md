@@ -284,6 +284,7 @@ I'd rather be a rebel than a slave!
 We don't want to be lawbreakers, we ant to be lawmakers
 
 Never gonna give you up
+
 1928
 
 **Planisaf**
@@ -311,3 +312,111 @@ This photograph shows the fight needed for women's voting rights**
 _In this text, I learnt the meaning of three words, breakthrough, meaning a huge amount of progress
 (in French un énorme progrès), through, meaning "à travers" in French, and also own, in French 
 "posséder"._
+=======
+
+Women were supposed to be weaker than men.
+MEn were more independent than women
+Men were stronger than women
+THe UK were more advanced than the other European countries.
+It was easier to ravel long distances
+
+Women weren't expected to be seen in public spaces
+Public spaces were reserved for men.
+Women were considered weaker than men
+Men were considered more rational and logical.
+Women were supposed to be passive.
+Men were more individual than women.
+
+* Men were supposed more active than women
+* Men were powerful contrary to women who had to be weaker
+* To conclude, men were supposed to belong to the public sphere, as opposed tom en who were expected to be part of the private sphere
+
+Don't underestimate the power we, women, have
+In order to be heard, the suffragettes had to be violent and hey had to defy the government
+In 1912, women started protesting for their rights
+Because they broke the law, they were imprisoned
+During the Victorian Era, women used to be obedient. THey didn't used to be disrespectful
+Maud Watts, the main character became a protester and an activist because she had enough of doing what men told her.
+Emeline Pankhurst made history with the Suffragette movement.
+
+
+1d
+2f
+3b
+4e
+5a
+6c
+7h
+8g
+
+Before, women used to wear corsets, whereas nowadays, they can wear trousers.
+Before, women used to have access to a limited number of professions whereas now they can do all types of jobs.
+Before, women didn't used to vote whereas nowadays, they can take part in elections.
+During the 19th century, women used to be married, to have children whereas nowadays, they can have children without being married.
+Before, women didn't used to drive cars whereas nowadays, they can pass the driving license.
+Before, women used to marry very young but nowadays, they can stay single
+
+A) Sujet + used to + Base verbale
+B) Sujet + use to + Base verbale
+
+The factory workers used to work 14 hours a day.
+Women used to stay home.
+They didn't use to work at cool jobs
+They used to wear corsets
+
+## 2) Listen and find out more about what men and women were supposed to be like at the end of the nineteenth century
+
+I used to be
+Sophie used to 
+Mary didn't use to 
+Ricardo used to get up
+What did you used to
+My brother used to wear
+Becky used to be afraid of dogs
+We used to give 
+Paul used to 
+
+| Women                                                                                         | Men                                                                                       |
+|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Women: in a home, nurturing, kind, sweet, best place = stay home+keep it clean+raise children | men: tough, outside world, harsh realities of business and politics. No place for a women |
+
+
+Some women were granted voting rights
+
+They had to be over the age of 30 and own property, or be married to someone who owned property
+
+Approximately 8.4 million women were granted voting rights
+
+In 1928, the suffrage became equal.
+
+This picture is a photograph which seems to take place in Londonian streets, we can see two women, 
+one of them holding a sign saying "Votes for Women"
+
+the right to vote in elections
+
+men
+
+no
+
+The two movements which fought for the right to vote for women were: The National Union of Women's Suffrage Societies (leader Milicent Garet Fawcett / nickname : THe Suffragists);
+It was a peaceful movement
+
+Women's Social and Political Union. (leader Emeline Pankhurst/ nickname Suffragettes); it became more violent
+
+- Adjectif (invariable) avant le nom (British women = les femmes britanniqus)
+- Pluriel irréguliers: a womAn / two women / a child / two children
+- POUR (afin de) + VERBE = TO + VERB (To take care of the children)
+- "The" uniquement devant les noms de choses connues ou déja mentionnées. (British women, pas d'articles, les femems en général !)
+- mots terminées en -ly = adverbes = -ment (peacefully)
+- Conjugueur les verbes au bon temps, revoir le préterit
+- FOrme passive = BE + participe passé (ex: be educated / was ou wre imprisoned / married)
+- After et before sont suivis d'un verbe +ing = after being married
+
+b) In the late nineteenth century, British women didn't use to have children before getting married, whereas nowadays when they can have children whenever they want.
+c) DUring the Victorian Age, British women used to wear dresses and corsets all the time, whereas nowadays they can wear trousers or whatever they want
+d) Before, British women used to have low-paid jobs, whereas nowadays they can have better-paid jobs
+
+protesting: DEED NOT WORDS
+
+a) _more_
+

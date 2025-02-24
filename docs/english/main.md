@@ -44,15 +44,15 @@ After the summer. Part 2: How was your summer
 ![](../assets/scans/2024-sept-9-3.png)
 
 | Regular verbs (write the past simple form) | Irregular verbs (write the past simple form) |
-|---|---|
-| listened/d/ | slept |
-| stayed/d/ | ate |
-| walked/d/ | done |
-| visited | gone |
-| watched/d/ | read |
-| played/d/ | swam |
-| drawed/d/ | rode |
-| | fought |
+|--------------------------------------------|----------------------------------------------|
+| listened/d/                                | slept                                        |
+| stayed/d/                                  | ate                                          |
+| walked/d/                                  | done                                         |
+| visited                                    | gone                                         |
+| watched/d/                                 | read                                         |
+| played/d/                                  | swam                                         |
+| drawed/d/                                  | rode                                         |
+|                                            | fought                                       |
 
 I love programming, I think MacOS is good, I know how to center something on a website.
 
@@ -227,8 +227,8 @@ Nowadays, in 2021, there is one tall skyscraper which was built where the two to
 1. one thousand and six hundred seventy seven
 2. four thousands square meters
 
-| who | where | what | when | feelings |
-|-----|-------|------|------|----------|
+| who   | where    | what                        | when           | feelings  |
+|-------|----------|-----------------------------|----------------|-----------|
 | women | new york | when she was going to class | in the morning | horrified |
 
 Who are you ? Someone

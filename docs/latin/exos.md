@@ -221,11 +221,18 @@ mindmap
         Ecrivain. Prof
 ```
 
-Jules César, né en -100 où -101, dans une famille patricienne prestigieuse: la gens Julia. Marius, son oncle par alliance, s'intéresse à lui: sous son influence, César se range au côté des démocrates (les populares). Pour éviter les proscriptions (Scylla), il se rend à Rhodes où il étudie la rhétorique: il était bilingue. 
+Jules César, né en -100 où -101, dans une famille patricienne prestigieuse: la gens Julia. Marius, 
+son oncle par alliance, s'intéresse à lui: sous son influence, César se range au côté des démocrates 
+(les populares). Pour éviter les proscriptions (Scylla), il se rend à Rhodes où il étudie la 
+rhétorique: il était bilingue. 
 
-Rentré à Rome, après la démission de Scylla, il entreprend une grande carrière politique. Il fait le cursus honorum, puis il est envoyé comme gouverneur en Espagne et devient membre du sénat. Il se lie d'amitié avec Pompée et Crassus (citoyens très riches), en -60. Il forment le premier triumvirat. 
+Rentré à Rome, après la démission de Scylla, il entreprend une grande carrière politique. Il fait le 
+cursus honorum, puis il est envoyé comme gouverneur en Espagne et devient membre du sénat. 
+Il se lie d'amitié avec Pompée et Crassus (citoyens très riches), en -60. Il forment le premier 
+triumvirat. 
  
-En -59, il obtient le commandement des troupes en Gaule et mène 7 campagnes militaires en -58 jusqu'en -52, triomphant de Vercingétorix à Alésiaw
+Devenu Consul en -59, il obtient le commandement des troupes en Gaule et mène 7 campagnes militaires 
+en -58 jusqu'en -52, triomphant de Vercingétorix à Alésia
 
 en son absence, crassus, après être rentré en guerre contre les parthes et battu et tué. seul pompée, nommé consul unique par le sénat en -52 sépare César du pouvoir absolu. Au début de -49, César, refusant de céder aux injonction de son rival, et de démanteler son armée, César marche sur Rome, ou il se fait nommer dictateur, et mène une guerre civile contre Pompée. Il porte la guerre en grèce, ou pompée c'est enfui, l'écrase à la bataille de Pharsale et le poursuit en égypte, ou il est assasiné par des agents du frère de Cléopâtre.
 
@@ -255,3 +262,7 @@ quel est la phrase du texte qui illustre le mieux le tableau de Lionel Royer
 
 
 
+Doc. 9: Etude du texte de Suétone p. 12 (Manuel)
+
+Assidentem conspirati specie offici circumsteterunt 
+Les conjurés entourèrent 

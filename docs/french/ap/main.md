@@ -46,6 +46,27 @@ l'obligation d'agir comme des animaux, par le biais d'un dressage :
 aussi obligés de simuler une vie selon les idées reçues des visiteurs.
 
 
+1) _
+2) _
 3) _
    1) La particularité grammaticale de cette phrase est l'absence d'un sujet, ou d'un verbe.
    2) L'effet produit par cette phrase est un effet de longue répétition
+4) _
+   1) La figure de style est "comme des moutons", c'est une comparaison
+   2) Perdus, qui se regroupent avec leurs semblables
+5) _
+6) _
+7) Parvenues à la gare, elles n'osaient pas bouger. Elles restaient collées les unes aux autres, comme des moutons, effrayées par le bruit, les fumées, les râles de vapeur et les sifflements des locomotives. La fatigue l'a terrassée. Elle n'a presque rien vu du voyage [...] "
+1+1+1+1+1+1+0+1+0+0+
+
+Je pris la main de l'enfant et je la serra. Je ne savait pas
+pourquoi, mais je n'avais jamais ressenti un tel bonheur 
+auparavant.
+
+"Apprends-moi d'autres choses", dit-il; "tu sais tellement de choses!"
+Au lieu de me répondre, l'enfant se leva d'un bond et courut vers
+le réservoir. Il prit un peu d'eau dans sa main en coupe, et me
+l'apporta. Il approcha ses mais de ma bouche. 
+"Bois" dit-il.
+J'obéis. L'enfant versa doucement l'eau entre mes lèvres.
+

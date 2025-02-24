@@ -36,7 +36,7 @@ Entre chaque numéro, il y à 5 lignes et 40 minutes, cela veut dire que une lig
 2. Les phases de consommation sont: 80-75L entre 0 et 60 minutes; 75-45L entre 60 et 148 minutes; pas de consommation entre 148 et 180, recharge jusqu'à 90L entre 180 et 188. Entre 188 et 308 minutes, on passe de $90$L à $80$L.
 
 ## Activité 2 p 120 (faux, mal lu la consigne)
-3. On sait que $(X-10)*2=Y$, donc 
+3. On sait que $(X-10)*2=Y$, donc
 
 $Y=(X-10)*2$
 
@@ -84,12 +84,12 @@ d. Faux
 
 2. Elle est de 0
 
-3. 
+3.
 | $x$    | $0$ | $0,4$ | $0,8$ | $1,2$ | $1,6$ |
 |--------|-----|-------|-------|-------|-------|
 | $h(x)$ | $2$ | $3.9$ | $4.2$ | $2.9$ | $0$   | 
 
-4. 
+4.
 
 ## Exercice 4 p.123
 1. (-27)
@@ -170,9 +170,9 @@ Première oui, deuxième non
 
 ## Exercice 31 p.127
 
-Oui 
+Oui
 
-## Exercice 32 p.127 
+## Exercice 32 p.127
 
 1. L'image de $-1$ est $0$
 2. un antécédent de $2$ est $-2$
@@ -229,12 +229,12 @@ Oui
 
 1. La distance d'arrêt est de 22.5m
 2. _
-   1. Pour une distnace de réaction de 15m on roule à 50km/h
-   2. La distance de freinage n'est pas une droite donc elle n'est pas proportionnelle
-   3. A 90 km/h. Distance de réaction: 25m; Distance de freinage: 40M. 40+25 = 65m. A 90lm/h, la distance d'arrêt est de 65m
-3. 
+    1. Pour une distnace de réaction de 15m on roule à 50km/h
+    2. La distance de freinage n'est pas une droite donc elle n'est pas proportionnelle
+    3. A 90 km/h. Distance de réaction: 25m; Distance de freinage: 40M. 40+25 = 65m. A 90lm/h, la distance d'arrêt est de 65m
+3.
 
-## Exercice 
+## Exercice
 
 
 
@@ -260,7 +260,7 @@ Oui
 
 ### Exercice 3
 
-1. L'athlète c'est arrété pour son changement d'équipement de la 14ème minute à la 15ème minute. 
+1. L'athlète c'est arrété pour son changement d'équipement de la 14ème minute à la 15ème minute.
 2. La partie cyclisme commence à 0,6km et finit à 10,5km, çela donnne 9,9km parcouru à vélo
 3. L'étape de course à pied est commencée à 44,84mn et finie à 55,16mn, sela donne donc 10,32mn
 4. L'épreuve de natation est effectuée en 1,714 km/h, L'épreuve de cyclisme à 30km/h, l'épreuve de course à pied à été effetuée à 14,535km/h. L'athlète à donc étée plus rapide à vélo
@@ -378,9 +378,9 @@ Say X+Z+Y for 2 seconds
 ### 4)
 
 SI X>Y:<br />
-    AFFICHER x est supérieur à y PENDANT 2 SECONDES<br />
+AFFICHER x est supérieur à y PENDANT 2 SECONDES<br />
 SI Y>X:<br />
-    AFFICHER y est supérieur à x PENDANT 2 SECONDES
+AFFICHER y est supérieur à x PENDANT 2 SECONDES
 
 nv
 
@@ -403,12 +403,12 @@ nv
 |    7     |    5    | 27  | 20 |
 |    8     |    5    | 27  | 20 |
 
-### 5) 
+### 5)
 
 | Etapes | Réponse | X  | Y |
 |:------:|:-------:|:--:|:-:|
 |   1    |   20    | 80 | 0 |
-|   2    |   20    | 
+|   2    |   20    |
 |   3    |   20    |
 |   4    |   20    |
 |   5    |   20    |
@@ -471,12 +471,12 @@ C'est une rotation de point O (centre de la figure, de 60° horaire)
 1. 77
 2. 27
 3. 6/11
-4. 
+4.
 5. 10
 
 ## Exercice 13
 
-1. 
+1.
 
 ## Questions flash
 
@@ -501,7 +501,7 @@ C'est une rotation de point O (centre de la figure, de 60° horaire)
 1. $10^219$
 2. $(\frac {1}{3})^{11}$
 3. $(\frac {27}{9})^7$
-4. 
+4.
 
 ## Questions flash
 
@@ -509,7 +509,7 @@ C'est une rotation de point O (centre de la figure, de 60° horaire)
 2. 11
 3. 11
 4. 7
-5. 
+5.
 
 ## Exercice 34
 
@@ -533,7 +533,7 @@ C'est une rotation de point O (centre de la figure, de 60° horaire)
 1. -2
 2. -6
 
-## E7 not sci 
+## E7 not sci
 
 1. false: ^6
 2. true
@@ -552,7 +552,7 @@ C'est une rotation de point O (centre de la figure, de 60° horaire)
 
 ## Exercice 1
 
-Le triangle ABV étant un triangle rectangle en V, l'hypothènuuse est AB. 
+Le triangle ABV étant un triangle rectangle en V, l'hypothènuuse est AB.
 $AB^2 = BV^2 + AV^2$<br />
 $AB = \sqrt[]{BV^2 + AV^2}$<br />
 $AB = \sqrt[]{1296+110.25}$<br />
@@ -680,7 +680,7 @@ GC/FG = EG/EA = EC/FA
 
 ## Exercice 45 p.257
 
-Le sapin est situé à 2525m, car 2750-1850 = 900. Elle parcourt donc 900 mètres en vertical. 900%(72+24) = 9,375 m/s verticaux. 
+Le sapin est situé à 2525m, car 2750-1850 = 900. Elle parcourt donc 900 mètres en vertical. 900%(72+24) = 9,375 m/s verticaux.
 24*9,375= 225m. Au bout de 24s elle à donc parcouru 225m verticaux. 2750-225=2525: Le sapin est à 2525m d'altitude.
 
 ## DM
@@ -690,8 +690,8 @@ Le sapin est situé à 2525m, car 2750-1850 = 900. Elle parcourt donc 900 mètre
 2. 4 pas (thorème de pythagore) AB/AE = CA/BD
 3. (théorème de thalèes) AC^2+AE^2=CE^2; 18+400 = 418; 20.4 pas; 20.4*65/100 = 13.3
 4. _
-   1. 5/13,3  = 0.37593985 m/s
-   2. 2.66 km/h, donc oui, le baton va à moins de 10km/j
+    1. 5/13,3  = 0.37593985 m/s
+    2. 2.66 km/h, donc oui, le baton va à moins de 10km/j
 
 ### Exo 3
 
@@ -760,7 +760,7 @@ C=3(a+1)
 
 1) 7
 2) 43
-3) 
+3)
 
 7^2 - 2*7*2x + 2x^2
 49-28x+4x^2
@@ -785,7 +785,7 @@ $D=7^2-4b^2$
 
 1) On peut résumer le programme tel que, avec $y$ le nombre de départ et $k$ le résultat: $k=(y-6)*(y-2)$. $y$ étant 8, $(8-6)*(8-2)=12$, Le programme donne bien 12 comme résultat avec 8 en entrée
 2) On peut résumer qu'il faut trouver $y$ dans l'équation suivante $0=(y-6)*(y-2)$. Si $y=2$, cette expression est vérifiée, donc **le nombre d'entrée pour avoir zéro est $2$**.
-3) L'affirmation est prouvée avec la valeur 3: le résultat du programme est -3. L'affirmation 2 peut être vérifiée comme suit: $(\frac {1}{3}-\frac {18}{3})*(\frac {1}{3}-\frac{6}{3})=\frac {-17}{3}*\frac {-5}{3}=\frac{85}{3}$. $\frac{85}{3}!=\frac{85}{9}$. L'affirmation est donc **fausse** 
+3) L'affirmation est prouvée avec la valeur 3: le résultat du programme est -3. L'affirmation 2 peut être vérifiée comme suit: $(\frac {1}{3}-\frac {18}{3})*(\frac {1}{3}-\frac{6}{3})=\frac {-17}{3}*\frac {-5}{3}=\frac{85}{3}$. $\frac{85}{3}!=\frac{85}{9}$. L'affirmation est donc **fausse**
 
 ## Exercice 5
 
@@ -795,7 +795,7 @@ $D=7^2-4b^2$
 | Mensualité | Montant |
 |:----------:|:-------:|
 |     1      |  137.4  |
-|     2      |  68.7   |
+|      2     |  68.7   |
 |     3      |  68.7   |
 |     4      |  68.7   |
 
@@ -817,4 +817,154 @@ E=4^2^+3a^24a
 Jade: non 12
 
 x=-20/44
+
+3x2.3
+19
+123.4
+
+## La méthode d'Al Khwarizmi
+
+### 1)
+
+$x^2+12x=85$
+
+$(x+6)^2=85$
+
+$x^2+(6x)*2+36=85$
+
+$x^2+12x+36=85$
+
+$x^2+12x=49$
+
+$(x^2+12x)/x=49/x$
+
+$x+12=49/x$
+
+$x=49/x-12$
+
+$x^2=49-12$
+
+$x^2=37$
+
+$\sqrt[2][x^2]=\sqrt[2][37]$
+
+$x=\sqrt[2][37]$
+
+
+## bruh
+
+On définit $x$ le côté des triangles contenus:
+
+$3*3x=6-(x*x/2)$
+
+$9x=6-(x^2/2)$
+
+$18x=12-x^2$
+
+
+
+80:
+
+1 mm^3
+4 mm
+
+$4*\\pi*r^2$
+
+Donc $h$ = $4*4*\\pi*30^2$
+
+$50.265482457*900$
+
+$45238.9342113$mm
+
+$4.52389342113$ m
+
+## 74
+Pour sa fête d’anniversaire, Jade a organisé un jeu
+« Quitte ou Triple » où, à chaque partie, chaque joueur
+mise un certain nombre de jetons et répond à une
+question.
+
+es règles du jeu sont les
+suivantes.
+ Si le joueur donne une bonne
+réponse à la question, il gagne
+et reçoit le triple du nombre
+de jetons qu’il a misés.
+ Si le joueur donne une
+réponse fausse, il perd tous
+les jetons qu’il a misés.
+Jules décide de jouer ainsi : il
+misera tous ses jetons et, s’il gagne, il en donnera à
+chaque fois 12 à son petit frère Pierre pour constituer
+une réserve ; puis il jouera à nouveau avec tous les
+jetons qui lui restent.
+Jules joue et gagne ses trois premières parties. Après
+sa troisième partie, il a donné en tout 36 jetons à Pierre,
+et il lui en reste 87 pour la quatrième partie.
+
+
+AA', BB', CC' parallèles à OA
+
+OA=4
+OA'=4.84
+AA'=2.73
+OB=5.6
+OB'=6.78
+BB'=3.82
+OC=7.36
+OC'=8.91
+CC'=5.02
+
+OA/OA'=0.826446281
+OB/OB'=0.825958702
+OC/OC'=0.826038159
+
+Les valeurs sont à peu près équivalentes, mais quand même différentes.
+
+cos(O) = 0.825999928
+
+Les valeurs sont aussi dans le même angle de grandeur.
+
+AA'/OA'=0.564049587
+BB'/OB'=0.563421829
+CC'/OC'=0.563411897
+
+sin(O)=0.563670222 même ordre de grandeur.
+
+AA'/OA=0.6825
+BB'/OA=0.955
+CC'/OA=1.255
+
+tan(O)=0.682409529
+
+| On connaît | On utilise                                        | On obtient avec la calculatrice (arrondir au dixième) |
+|------------|---------------------------------------------------|-------------------------------------------------------|
+|            | 4/8=cos(x)=0.5                                    | acos(0.5)=60                                          |
+|            | 5/7=cos(x)=44.415308621<br/>180-(90+44.415308621) | 45.584691379                                          |
+|            |                                                   |                                                       |
+
+### B)
+
+| La situation | Cos, Sin, Tan                                        | Résolution |
+|--------------|------------------------------------------------------|------------|
+|              | Dans le triangle MNP rectangle en N:<br/>On connaît  |            |
+|              |                                                      |            |
+|              |                                                      |            |
+
+cah
+soh
+toa
+
+
+cos=adjacent/hypothénuse
+sin=opposé/hypothénuse
+tan=opposé/adjacent
+
+
+
+
+56.94426888
+33.05573112
+5=BC
+
 

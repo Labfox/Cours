@@ -112,3 +112,32 @@ mindmap
             torture
             execution/déportation
 ```
+
+
+
+
+
+Dès 1940, certains Français manifestent leur opposition à l'occupation allemande et au régime de Vichy. La
+résistance intérieure s'organise progressivement en zone occupée et en zone sud: des réseaux, des mouvements 
+(comme Combat, Libération-Sud) et des maquis se structurent dans la clandestinité.
+
+!!! abstract "Réseaux, mouvement de résistance"
+
+    Organisation clandestine spécialiésée soit dans l'information, soit dans le renseignement, le sabotage ou les évasions
+
+!!! abstract "Maquis"
+
+    Région isolée servant de base arrière d'opérations pour un groupe de résistants. Les maquisards sont souvent à partir de 1943 de jeunes hommes qui ont fui le STO.
+
+### C. L'unification de la résistance intérieure autour de De Gaulle
+
+Dès 1942, Jean Moulin est envoyé par De Gaulle pour unifier la résistance française. Son action aboutit à la création 
+le 27 mai 1943 du CNR (Conseil National de la Résistance): il réunit des mouvements de résistance et des
+délégués des anciens partis et syndicats.
+
+Le CNR rédige un programme (mars 1944) qui à un double objectif: préparer la libération du pays et la 
+refondation de la République. De Gaulle devient chef du GPRF (Gouvernement Provisoire de la République Française)
+en juin 1944.
+
+![](../../../assets/scans/2025-jan-22-1.png)
+

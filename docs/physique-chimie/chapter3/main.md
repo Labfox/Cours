@@ -60,5 +60,5 @@ L'ion électrolysé contient des ions
 | Electrode (+)         | 0                 | rien              |
 | Electrode (-)         | 0                 | dégagement gazeux |
 
-Conclusion: Les particules de sel présentes dans l'eau sont conductrices
+Conclusion : Les particules de sel présentes dans l'eau sont conductrices
 

@@ -14,7 +14,7 @@ She has two siblings: one sister, Jamie and one brother, Will. Jamie has very re
 
 userful words: 
 hazel eyes: nuts color
-freckles: taches de rousseur
+3333freckles: taches de rousseur
 
 BE:
 am
@@ -148,4 +148,16 @@ I would also create a tax on schedule II and III drugs. I would redirect these f
 prevention on drugs. I would also make laws for gun-caused crimes and felonies harsher. 
 I would also try to remove DMCA to replace it with a law with less intellectual property rights on 
 trade secrets and with expanded fair use clauses.
+
+I liked the show, even tho I think sometimes it was a little too much. 
+I also thought the english was too adapted for French ppl.
+
+On the whole, most of us enjoyed the show.
+First, we agree that the show was interesting and the actors played really well, considering
+they had to play many parts.
+Secondly, we found the story of Nelson Mandela inspiring, because he became a leader, after
+spending 27 years in jail.
+Yet, some of us thought the stage was plain and furthermore the weak point was that one of 
+the actors didn't speak loud enough, whereas the actor who played the other lawyer really 
+embodied real Mandela
 

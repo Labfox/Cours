@@ -13,6 +13,5 @@ Il débute par une séquence mettant en scène une vie paisible, brutalement int
 
 Cependant, une lueur d'espoir émerge dans la dernière partie du clip, marquée par une séquence de "rollback" où les catastrophes semblent s'inverser. Le vent souffle avec force, les personnes lèvent les yeux vers le ciel, et les images sont présentées en accéléré et en inversion, symbolisant une possible rémission des erreurs passées.
 
-Conclusion: Notre avenir n'est probablement pas brillant
 
-
+ 

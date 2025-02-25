@@ -34,7 +34,7 @@ Paseaba cuando de repentir una bomba exploto
 
 Ils étaient avec leurs parents et un soldat est arrivé.
 
-<<<<<<< HEAD
+
 1. Soldados republicanos españoles en la frontera francesa
    La primera fotografía muestra a un grupo de hombres caminando por un camino rural. Van cargando sacos y llevando ropa abrigadora, aparentemente en un contexto invernal. Sus rostros reflejan cansancio, posiblemente después de un largo trayecto. Están agrupados y avanzan en fila, destacando un ambiente de seriedad y concentración.
 
@@ -43,7 +43,7 @@ Ils étaient avec leurs parents et un soldat est arrivé.
 
 3. Niños frente a un centro de acogida
    En la tercera fotografía, un grupo de niños está formado en fila frente a un edificio. Sobre la entrada hay un cartel que indica que se trata de un centro de acogida para niños españoles. Una mujer de pie, vestida con delantal blanco, parece estar atendiendo o registrando a los niños. Los menores están ordenados, mostrando calma y esperando ser atendidos.
-=======
+
 Tipo dde documento: un relato
 Narrador: el padre oraindia
 Tipo de evento: el bombardeo
@@ -158,6 +158,7 @@ civil espanola y del franquismo y reparar los danos causados.
 los danos = les dommages
 aprobada = approuvée
 
+<<<<<<< HEAD
 >>>>>>> 71f35837 (Solved)
 
 (tu fais partie d'un groupe de jeunes espagnols qui recueille les derniers témoignages des enfants de la guerre. En contextualisant le témoignage de Marcos Ana en présentant la guerre civile espagnole (dates, contexte, type de conflit, différents camps, bombardement de Guernica, exil des espagnols, etc ...), commente à l'écrit ce qu'a vécu Marcos Ana (en t'aidant de l'analyse du texte) puis conclue en expliquant comment l'état espagnol a mis en place une reconnaissance des victimes grâce à la loi de "memoria democrAtica" (pense à citer 2 objectifs de la loi).
@@ -200,3 +201,8 @@ Bien sûr, voici un lexique plus détaillé et plus long en espagnol-français s
 
 
 
+=======
+
+Textes:
+tu fais partie d'un groupe de jeunes espagnols qui recueille les derniers témoignages des enfants de la guerre. En contextualisant le témoignage de Marcos Ana en présentant la guerre civile espagnole (dates, contexte, type de conflit, différents camps, bombardement de Guernica, exil des espagnols, etc ...), commente à l'écrit ce qu'a vécu Marcos Ana (en t'aidant de l'analyse du texte) puis conclue en expliquant comment l'état espagnol a mis en place une reconnaissance des victimes grâce à la loi de "memoria democrAtica" (pense à citer 2 objectifs de la loi).
+>>>>>>> 1f3cf5b8 (EEEG)

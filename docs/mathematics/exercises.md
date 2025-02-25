@@ -967,4 +967,3 @@ tan=opposé/adjacent
 33.05573112
 5=BC
 
-

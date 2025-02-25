@@ -266,3 +266,29 @@ Doc. 9: Etude du texte de Suétone p. 12 (Manuel)
 
 Assidentem conspirati specie offici circumsteterunt 
 Les conjurés entourèrent 
+
+Nec in tot vulneribus, ut Antistius medicus existimabat, letale ullum repertum est, nisi quod secundo loco in pectore acceperat.
+
+
+
+| l           | f                 |
+|-------------|-------------------|
+| Nec         |                   |
+| tot         |                   |
+| vulneribus  | blessures         |
+| medicus     | médecin           |
+| existimabat | considérer, juger |
+| letale      |                   |
+| ullum       |                   |
+| repertum    | trouver           |
+| nisi        | ne pas            |
+| quod        | qu'               |
+| secundo     | second            |
+| loco        | pays ?            |
+| pectore     | la poitrine       |
+| acceperat   | recevoir, prendre |
+|             |                   |
+
+Parmis ses nombreuses blessures, son médecin Antistius juge qu'elles ne sont pas létales, 
+à l'exception du second coup reçu dans la poitrine
+

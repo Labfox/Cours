@@ -159,3 +159,44 @@ los danos = les dommages
 aprobada = approuvée
 
 >>>>>>> 71f35837 (Solved)
+
+(tu fais partie d'un groupe de jeunes espagnols qui recueille les derniers témoignages des enfants de la guerre. En contextualisant le témoignage de Marcos Ana en présentant la guerre civile espagnole (dates, contexte, type de conflit, différents camps, bombardement de Guernica, exil des espagnols, etc ...), commente à l'écrit ce qu'a vécu Marcos Ana (en t'aidant de l'analyse du texte) puis conclue en expliquant comment l'état espagnol a mis en place une reconnaissance des victimes grâce à la loi de "memoria democrAtica" (pense à citer 2 objectifs de la loi).
+
+## Résumé
+
+### Un Conflit Dévastateur (1936-1939)
+
+- La guerre civile espagnole (1936-1939) opposa :
+  - Les républicains
+  - Les nationalistes dirigés par Franco
+- En 1939, Franco remporta la victoire et instaura une dictature.
+- Cette guerre causa près d’un demi-million de morts.
+- Bombardement de Guernica (26 avril 1937) :
+  - Avions détruisant la ville en pleine journée de marché
+  - De nombreuses victimes civiles
+  - Inspirera Picasso pour son tableau *Guernica*, dénonçant la violence de la guerre
+- Après la guerre, de nombreux Espagnols furent contraints à l’exil, notamment des enfants seuls dans des conditions difficiles.
+
+### Marcos Ana : Une Vie de Résistance
+
+- Marcos Ana (né en 1920) : jeune républicain
+- Après la victoire franquiste :
+  - Arrêté et emprisonné pendant 23 ans
+  - Condamné à mort et torturé
+- Témoigna plus tard de son expérience :
+  - La difficulté de retrouver la liberté après tant d’années d’enfermement
+  - La nécessité de se réadapter à la vie normale
+
+### La Loi de "Memoria Democrática"
+
+- Adoptée en 2022
+- Objectifs :
+  - Reconnaître les souffrances des victimes du franquisme
+  - Retrouver et identifier les disparus
+  - Réparer les injustices causées par la dictature
+
+Bien sûr, voici un lexique plus détaillé et plus long en espagnol-français sur la Guerre Civile Espagnole et la Mémoire Historique :
+
+
+
+

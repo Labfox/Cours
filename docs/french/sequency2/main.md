@@ -928,3 +928,14 @@ n° 3
 
 1. 
 
+
+
+1. _
+   1. J'étais: imparfait; ennuyais: imparfait; sonna: passé
+   2. respect de la durré
+2. _
+   1. faisaient: imparfait; dresse: présent
+   2. faits récent, récit.
+
+Pendant que le nouveau venu se chauffait, le dos tourné, le digne aubergiste Jacquin Labarre tira un crayon de sa poche, puis il déchira le coin d'un vieux journal qui traînait sur une petite table près de la fenêtre. Sur la marge blanche il écriva une ligne ou deux, plia sans cacheter et ? ce chiffon de papier à un enfant qui parraisait lui servir tout à la fois de marmion et de laquais. l'aubergiset dit un mot à l'aureille du marmiton, et l'enfant partit en courant en direction de la mairie.
+ 

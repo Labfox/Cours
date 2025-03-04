@@ -420,3 +420,17 @@ protesting: DEED NOT WORDS
 
 a) _more_
 
+The suffragettes were arrested by the police for breaking the law.
+
+Cette phrase est à la forme PASSIVE
+Forme passive au prétérit: WAS/ WERE + Participe Passe (verbe réguliers + ED) (verbes irréguliers 3ème colone) Changements: l'objet devient le sujet
+
+Queen Victoria called the fight for women's rights "a mad, wicked folly"
+
+the call for the women's rights were called "a mad, wicked folly" by Queen Victoria.
+
+Some newspapers gave nicknames for the groups of fighting women
+
+The two groupes used very different tactics to draw attention
+
+Milicent Faucette led the NUWSS

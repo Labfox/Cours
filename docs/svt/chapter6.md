@@ -30,3 +30,13 @@ N et m
 
 Pour adrien, Nm, comme pour Hélène, et lucas à mm.
 
+
+CFTR + CFTRm -> CFTRm, CFTR -> 2\*CFTRm, 2\*CFTR
+
+
+| types d'ovules/<br />types de spermatozoïdes | CFTRm | CFTR |
+|-|-|-|
+|  CFTRm | CFTRm, CFTRm | CFTRm, CFTR |
+|  CFTR  | CFTRm, CFTR | CFTR, CFTR |
+
+

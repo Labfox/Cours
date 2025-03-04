@@ -161,3 +161,29 @@ Yet, some of us thought the stage was plain and furthermore the weak point was t
 the actors didn't speak loud enough, whereas the actor who played the other lawyer really 
 embodied real Mandela
 
+"I learned hat courage was not the absence of fear, but the triumph over it."
+
+"If people can learn to hate they can be taught to love, for love comes more naturally to the human heart than it's opposite."
+
+"Education is the most powerful weapon which you can use to change the world."
+
+"I either win or lean, but I never lose."
+
+"The best weapon is to sit down and talk"
+
+"It always seems impossible until it's done"
+
+
+- It is the best film ihave ever seen
+- What a disappointment
+- It is really worth seing
+- Worst movie ever !
+- It is such a masterpiece !
+- Don't miss it, it is really worth seing
+- What a waste of time !
+
+
+
+
+
+

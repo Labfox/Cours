@@ -967,3 +967,30 @@ tan=opposé/adjacent
 33.05573112
 5=BC
 
+Exercice 1:
+
+Moyenne Ali: $11.84$.
+
+$MBarbara < MAli < MAlan$
+
+
+
+La moyenne d'une série de données et le nombre égal à la somme des données de la série divisée par l'effectif total de la série.
+
+Exemple: moyenne de 1, 2 et 3: $(1+2+3)/3$
+
+Exercice 1:
+1) 174.6 cm
+2) 179 cm (moyenne des valeurs 7-8)
+3) 19
+4) 3/14
+
+Exercice 2:
+1) $(8*2+9*3+10+11*3+12*5+13*4+14+15*3+16*2+17)/(2+3+1+3+5+4+1+3+2+1)$, $12.24$
+2) 12-13: C'est 12
+3) 14/25
+4) 9
+
+Exercice 3:
+
+1) 

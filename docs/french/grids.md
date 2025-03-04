@@ -66,23 +66,61 @@ B
 AB
 AB
 
+Louis
+TB
+B
+B
+B
+B
+
+
+B
+B
+AB
+AB
+AB
+
+Lilly
+TB
+B
+B
+B
+AB
+
+Nolan
+I
+I
+TB
+I
+TB
+
+Anna
+B
+TB
+TB
+TB
+TB
+
+erwann
+B
+B
+TB
+B
+TB
+
+éloise
+TB
+TB
+B
+B
+TB
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-| Nom:                                                                                    | Incomplet /1pt | AB /2pts | Satisfaisant /3pts | Très bien /4pts |
+| Nom:                                        | Incomplet /1pt | AB /2pts | Satisfaisant /                                            3pts | Très bien /4pts |
 |-----------------------------------------------------------------------------------------|----------------|----------|--------------------|-----------------|
 | Présentation de l'auteur et de ses principaux ouvrages - Contexte de l'oeuvre présentée |                |          |                    |                 |
 | Logique du résumé et projet de l'auteur                                                 |                |          |                    |                 |

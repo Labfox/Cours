@@ -56,9 +56,14 @@ L'ion électrolysé contient des ions
 | Solution étudiée      | Eau déminéralisée | Eau salée         |
 |-----------------------|-------------------|-------------------|
 | Intensité (A)         | 0                 | 0.15              |
-| Brillance de la lampe | 0 LX              | lègére            |
-| Electrode (+)         | 0                 | rien              |
-| Electrode (-)         | 0                 | dégagement gazeux |
+| Brillance de la lampe | null              | lègére            |
+| Electrode (+)         | null              | rien              |
+| Electrode (-)         | null              | dégagement gazeux |
 
 Conclusion : Les particules de sel présentes dans l'eau sont conductrices
+
+4. Cela parait plus lourd sur Krypton donc l'intensité de pesanteur est plus élevée sur Krypton. 
+
+
+
 

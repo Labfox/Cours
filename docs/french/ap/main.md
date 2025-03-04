@@ -59,14 +59,22 @@ aussi obligés de simuler une vie selon les idées reçues des visiteurs.
 7) Parvenues à la gare, elles n'osaient pas bouger. Elles restaient collées les unes aux autres, comme des moutons, effrayées par le bruit, les fumées, les râles de vapeur et les sifflements des locomotives. La fatigue l'a terrassée. Elle n'a presque rien vu du voyage [...] "
 1+1+1+1+1+1+0+1+0+0+
 
-Je pris la main de l'enfant et je la serra. Je ne savait pas
+Je pris la main de l'enfant et je la serrai. Je ne savais pas
 pourquoi, mais je n'avais jamais ressenti un tel bonheur 
 auparavant.
 
-"Apprends-moi d'autres choses", dit-il; "tu sais tellement de choses!"
+"Apprends-moi d'autres choses", dit-il ; "tu sais tellement de choses !"
 Au lieu de me répondre, l'enfant se leva d'un bond et courut vers
 le réservoir. Il prit un peu d'eau dans sa main en coupe, et me
 l'apporta. Il approcha ses mais de ma bouche. 
 "Bois" dit-il.
 J'obéis. L'enfant versa doucement l'eau entre mes lèvres.
 
+7
+
+
+## III) La question de réécriture au DNB
+
+1) Tu connaîtras un petit restaurant ou tu prendras ton repas du soir. Tu iras à pied. Tu te sentiras tout dépaysé par la dureté du trottoir et le balancement des hanches qu'il faudra avoir pour éviter ceux qui te frôlent.
+2) Mais nous étions vigoureux, nous avions du moignon, et nous lui prenions le torchons des mains pour continuer la lutte. Nous nous jettons sur le meuble ou nous nous précipitons contre la rampe, et nous mangeons le bois, nous dévorons le vernis.
+3) 

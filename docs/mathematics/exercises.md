@@ -994,3 +994,27 @@ Exercice 2:
 Exercice 3:
 
 1) 
+
+```
+mindmap
+    root ((Statistiques))
+        Moyenne
+        Médianne
+        étendue
+            plus grand - plus pettit
+        fréquence
+            nombre de la valeur / total des valeurs
+```
+
+## Exercice 1
+
+- 6
+- 1
+- 20
+
+## Exercice 2
+
+16,6
+
+## Exercice 3
+

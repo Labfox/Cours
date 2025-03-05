@@ -929,7 +929,6 @@ n° 3
 1. 
 
 
-<<<<<<< HEAD
 
 1. _
    1. J'étais: imparfait; ennuyais: imparfait; sonna: passé
@@ -940,7 +939,7 @@ n° 3
 
 Pendant que le nouveau venu se chauffait, le dos tourné, le digne aubergiste Jacquin Labarre tira un crayon de sa poche, puis il déchira le coin d'un vieux journal qui traînait sur une petite table près de la fenêtre. Sur la marge blanche il écriva une ligne ou deux, plia sans cacheter et ? ce chiffon de papier à un enfant qui parraisait lui servir tout à la fois de marmion et de laquais. l'aubergiset dit un mot à l'aureille du marmiton, et l'enfant partit en courant en direction de la mairie.
  
-=======
+
 ## Séance 9: L'indicatif et ses emplois (révision)
 
 TD Bordas p.34 à 38
@@ -1000,4 +999,6 @@ j'était reparti, j'aurai été reparti, j'était reparti, j'eus reparti.
     7) récit
 3)
     1) _venais_, 
->>>>>>> 9992c6e7 (UIIA)
+
+1. a disparu, l'aura: passé composé, futur antérieur: simplicité, supposition
+

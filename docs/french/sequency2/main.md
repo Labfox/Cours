@@ -1002,3 +1002,5 @@ j'était reparti, j'aurai été reparti, j'était reparti, j'eus reparti.
 
 1. a disparu, l'aura: passé composé, futur antérieur: simplicité, supposition
 
+L'autobiographie au féminin
+

@@ -29,6 +29,23 @@ Guerre froide: période allant de 1947 à 1991 durant laquelle les USA et l'URSS
 
 | | Doc. 1 | Doc. 2 |
 |-|-|-|
-| Présentez le document | | Guerre froide vue de l'URSS |
-| D'après l'auteur quelles sont les grandes caractéristiques de son pays ? | | démocratique, socialiste, gouverné par le peuple |
-| Quelles caractéristiques donne-t-il à l'autre bloc ? | | antidémocratique, prêt à une guerre |
+| Présentez le document | Discours du président américain Hary Trueman, 12 mars 1947 | Rapport d'Andreï Jdanov, septembre 1947 |
+| D'après l'auteur quelles sont les grandes caractéristiques de son pays ? | démocratique, libre (élection, personnes, organisations) | république populaire (pouvoir au peuple), communistes  |
+| Quelles caractéristiques donne-t-il à l'autre bloc ? | terreur, oppression, pas de liberté, média contrôlés | impérialiste, antidémocratique, pour la guerre, contre le socialisme et la démocratie |
+
+12 mars 1947
+
+Impérialisme: politique d'un état qui tend à mettre certaines populations ou certains états sous sa dépendance politique et/ou économique
+
+Les USA défendent un modèle qui s'appuie sur les libertés fondamentales, la démocratie, et en économie sur l'entreprise privée.
+
+L'URSS défend le modèle communiste qui s'appuie sur l'égalité sociale et sur la collectivisation des moyens de production. Le régime politique est un régime totalitaire.
+
+### B. Un affrontement culturel.
+
+author: drawings: John Romita; scenario: Stan Lee
+couverture: sept 1954, n° 78 
+heros: steve rogers
+context: cold war, communist witch-hunting
+colors: joune + rouge + drapeau us
+à: bouclier, casque ailé

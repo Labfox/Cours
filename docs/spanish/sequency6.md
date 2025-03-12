@@ -10,3 +10,24 @@ mindmap
     "Découverte" de l'amérique
     Début de l'empire espagnol
 ```
+
+
+- 
+
+1) Cristobal COlon fue a ver a la Reina Isabel la Catolica para financiar su viaje a la India (queria crear una ruta maritima comercia hacia eloeste)
+2) El 3 de agosto de 1492, Cristobal Colon y los marineros salieron  del Puerto de Palos (sur de espana) con tres caravelas: la nina, la pinta y la santa maria.
+3) Viajaron mas de dos meses sin ver tierra. Los marineros estaban cansados, desperados. Tenian miedo, sed y hambre.
+4) Finalmente, el 12 de octubre de 1492, Rodrigo de Triano vio la tierra y grito "Tierra Tierra Tierra" llegaron a la isla de Guanaharni, actual San Salvador, y se encontraron con los indigenas.
+
+
+salir = partir
+la salida = le départ
+estar cansado = être fatigué
+tener miedo = avoir peur
+tener sed = avoir soif
+tener hambie = avoir faim
+encontrar = trouver
+llegar = arriver
+
+
+ 

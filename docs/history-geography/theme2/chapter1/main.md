@@ -43,9 +43,10 @@ L'URSS défend le modèle communiste qui s'appuie sur l'égalité sociale et sur
 
 ### B. Un affrontement culturel.
 
-author: drawings: John Romita; scenario: Stan Lee
-couverture: sept 1954, n° 78 
-heros: steve rogers
-context: cold war, communist witch-hunting
-colors: joune + rouge + drapeau us
-à: bouclier, casque ailé
+cette bd montre les communistes de manières très négative, le superhéro montre la supériorité ddes états-unis dans la guerre froide
+
+Chaque état mobilise tous les moyens d'information (radio, cinéma, BD, affiches...) contre le camp ennemi.
+
+## III. Crises et tensions pendant la guerre froide
+### A. Un exemple d'affrontement indirect en Europe: L'allemagne
+

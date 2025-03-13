@@ -1,0 +1,4 @@
+Une tente minuscule en coton léger, ses piquets de fer, des cordes, un grand morceau de cuir non tanné, de provenance tibétaine, pour ressemeler nos bottes, un carré de grosse toile devant atténuer quelque peu l'humidité ou le froid du sol nu sur lequel nous nous étendrions pour dormir, et le sabre court servant à des usages multiples, partie essentielle de l'équipement de tout voyageur tibétain (pour nous, surtout cognée de bûcheron), étaient les seuls objets pesants que j'avais conservés. Mais le beurre, le thé, un peu de viande séchée atteignaient essemble un nombre respectable de kilogrammes et nos doutes croissaient quant à la possibilité de transporter notre charge à pas accélérés le long de pentes raides, dans notre ascension des premiers versants du Kha Karpo.
+
+D'après Alexandre David Nel, Voyage d'une parisienne à Lhassa, 1927
+

@@ -50,3 +50,26 @@ Chaque état mobilise tous les moyens d'information (radio, cinéma, BD, affiche
 ## III. Crises et tensions pendant la guerre froide
 ### A. Un exemple d'affrontement indirect en Europe: L'allemagne
 
+Les états-unis et l'URSS ne s'affrontent pas directement: les armées de ces deux pays ne se combattent pas, l'affrontement est donc indirect. D'autres pays leur servent de théâtre d'affrontements, comme par exemple l'allemagne: c'est la guerre froide.
+
+1. Des missiles russes à Cuba, qui sont donc proches de la floride (200 km)
+2. Le blocus maritime de Cuba, pour empêcher l'ajout de nouveaux missiles russes
+3. Une guerre nucléaire
+4. de l'USSR
+5. éviter une invasion américaine, faire une base militaire
+6. De retirer les missiles
+7. Il retire ces missiles et Kennedy retire ces missiles en Turquie + n'envahi pas Cuba
+8. _
+9. Le téléphone rouge
+
+* Auparavant, CUba était une colonie espagnole
+* Cuba a obtenu son indépendance en 1890
+* L'ile tombe alor sous la tutelle des Etats-Unis
+* 1959, Fidel Castro, qui rejette cette tutelle s'empare du pouvoir et nationalise les entreprises américaines implantées sur l'ile
+* En retour, les Etats-Unis décident un embargo total de Cuba
+* En avril 1961, Kennedy lance une offensive militaire dans Cuba dans la Baie des Cochons
+
+
+
+## IV. La fin de la guerre froide
+

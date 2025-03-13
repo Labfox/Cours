@@ -435,11 +435,13 @@ The two groupes used very different tactics to draw attention
 
 Milicent Faucette led the NUWSS
 
+Idiom of the day
+
 1. British soldiers rescued Private Jones
 2. The 39th Infantry Regiment attacked German soldiers on april 12th
 3. France and Britain declared war on germany on september 3rd, 1939
 4. The German Air Force bombed London in 1940-41.
 
----
+
 
 1. The Ger

@@ -444,4 +444,7 @@ Idiom of the day
 
 
 
-1. The Ger
+a. The church
+b. Sealife center
+
+

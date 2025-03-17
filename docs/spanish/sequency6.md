@@ -29,10 +29,15 @@ tener hambie = avoir faim
 encontrar = trouver
 llegar = arriver
 
+## Sesion 3 el encuentro entre europa y america
+
+on est enfin arrivés mais c pas le bon endroit
+
 
  - Hemos navegado durante semanas, enfrentando tormentas y un mar implacable, hasta que finalmente avistamos tierra desconocida.
 - Al desembarcar, nos encontramos con pueblos que parecían vivir en armonía con la naturaleza, con costumbres y lenguas distintas a las nuestras.
 - Los primeros intercambios fueron pacíficos, pero pronto comenzaron las tensiones cuando nuestros líderes exigieron riquezas y tierras.
 - Muchos de los indígenas cayeron enfermos por nuestras enfermedades, y algunos de mis compañeros comenzaron a hablar de conquistar en lugar de comerciar.
 - Ahora me pregunto si nuestra llegada es realmente el comienzo de una nueva era o el fin de un mundo que nunca debimos perturbar.
+
 

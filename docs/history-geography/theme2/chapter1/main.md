@@ -73,3 +73,25 @@ Les états-unis et l'URSS ne s'affrontent pas directement: les armées de ces de
 
 ## IV. La fin de la guerre froide
 
+En 1985, Gorbatchev arrive au pouvoir en URSS: il entreprend de démocratiser le pays et de réformer l'économie soviétique. Il s'engage aussi dans la voie de la détente avec les USA. Cette politique affaiblit le pouvoir des communistes en Europe de l'est. De grandes manifestations populaires contraignent les autorités à organiser des élections libres en Pologne, en Hongrie et en Tchécoslovaquie. La chute du mur de Berlin (9 novembre 1989) et la réunification de l'Allemagne (3 octivre 1990) accélèrent l'effondrement de l'URSS.
+
+Le 25 décembre 1991, Mikhaïl Gorbatchev démissionne. C'est la fin de l'URSS et du monde bipolaire. Elle laisse la place à 15 républiques indépendantes.
+
+```mermaid
+mindmap
+    root ((Un monde bipolaire au temps de la guerer froide))
+        La division en deux blocs
+            Bloc occidental avec les USA
+            Bloc de l'Est avec l'URSS
+        Un affrontement idéologique et culturel
+            Deux idéologies
+                USA: Libertés, démocraties, capitalisme
+                URSS: Communisme
+            Développement de la propagande des deux côtés
+        Des crises entre les deux blocs
+            Allemagne
+            Cuba
+        Fin de la guerre froide
+            1989 -> Chute du mur
+            1991 -> FIn de l'URSS
+```

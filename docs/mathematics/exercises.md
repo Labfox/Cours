@@ -1018,6 +1018,7 @@ mindmap
 
 ## Exercice 3
 
+
 | Équation | Réponse |
 |----------|---------|
 | $4x = 12$ | $3$  |

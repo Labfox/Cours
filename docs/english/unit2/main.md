@@ -448,3 +448,40 @@ a. The church
 b. Sealife center
 
 
+| Attraction | Type of place | Activities |
+|-|-|-|
+| British Airways i360 | A tower           | Enjoy the view of Brighton at 162 meters above the city |
+| Brighton Beach       | A beach           | Have a stroll or do activities like cycling, kite surfing or sailing |
+| St Bartholomew       | A church          | Take pictures and enjoy this building made of red bricks |
+| Drusillas Park       | A zoo             | Observe anials like penguins, meerkat or even monkeys. |
+| The Royal Pavilion   | A palace          |  Visit this place to admire onion domes and minarets. |
+| Brighton Pier        | An amusement park | Have a walk, go on a ride or play games |
+| The Lanes            | Streets           | walk, go to bakeries, coffee shops or buy books |
+| Sea Life Center      | Aquarium          | See more than 800 species of marine animals |
+
+Des boulangeries: bakeries
+Des magasins de disques: disk shops
+Une foule: a crowd
+
+Brighton is a beautifful city where you can walk for hours
+Brighton Palace Pier, which is opened all year long, is an amusement park.
+
+
+John Lennon is the singer who sang Imagine
+That's the café where I met my husband.
+I like books which have strong main characters.
+A cinema is a place where you go to watch films on a big screen
+September is the month when we go back to school
+The person whom I miss the mosti is my best friend.
+Italy is the country where the renaissance began
+Brazil is another country where they speak Portuguese.
+Summer is a time when people go travelling.
+There's a restaurant in the city centre where you can eat paella.
+Do you know the singer whoso husband is an actor ?
+
+North Laine is a street where they can go shopping
+Jubilee CLock Tower built in 1888 
+Her husband, children, etc...
+Brighton Dome, listen to music, watch movies and plays, is is an art venue.
+
+Visit Brighton Dome, a stunning historic venue in the heart of Brighton! Once a royal palace, this beautiful building now hosts amazing concerts, theater performances, and art shows. With its grand design and rich history, it’s the perfect place to enjoy live entertainment and experience culture. Whether you love music, drama, or dance, Brighton Dome has something exciting for everyone. Don’t miss out—plan your visit today!

@@ -40,4 +40,7 @@ on est enfin arrivés mais c pas le bon endroit
 - Muchos de los indígenas cayeron enfermos por nuestras enfermedades, y algunos de mis compañeros comenzaron a hablar de conquistar en lugar de comerciar.
 - Ahora me pregunto si nuestra llegada es realmente el comienzo de una nueva era o el fin de un mundo que nunca debimos perturbar.
 
+Antes de la llegada de los conquistadores, los indigenas tenian sus proprios dioses, no habia enfermedad, vivan samos. Después de la llegada, algunos de los conquistadores torturaron, esclavizaron y mataron a los indigenas. Quemaron sus casas
+
+=> Algunos conquistadores impusieron su idioma y lengua, su religion, su cultura
 

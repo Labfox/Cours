@@ -94,3 +94,18 @@ Texte 2
 - Champ lexical de l'agriculture (jaune fluo): "les travaux des champs" (l. 5-6), "maison" (l. 6), "vendanges" (l. 6), "campagnes" (l. 10), "récoltes" (l. 10), "approvisonnement" (l. 14, l. 4), "champ" (2x l. 18), "terre cultivée" (l. 19), "récoltes rentrées" (l. 15), "champs enssemencés" (l. 8), "labeur" (l. 20)
 - Verbes d'action: "maintenir" (l. 10), "terminer" (l. 11), "préparer" (l. 11). Rhythme ternaire.
 
+Dans le texte précédent, les femmes sont présentées comme passives, ce qui les révoltent ! En revanche, dans ce texte, elles sont invitées à participer à l'effort de guerre dans une guerre totale. Elles sont donc appelées à l'action: elles doivent remplacer "sur le champ du travail ceux qui sont sur le champ de bataille". Pour obtenir cet engagement, il est fait appel à leur patriotisme et leur sens du devoir.
+
+
+1. **?**, interrogative
+2. **.** Déclarative
+3. **.** Impérative
+4. **.** déclarative
+5. **?** Interrogative
+
+Quelle tâche marthe à-t-elle accompli en aout 1914 ? étaice habituel pour une femme ? 
+Quelles sont les qualités physiques et morales de Marthe ? Comparez les premières lignes et les dernières lignes, quelle est l'évolution de Marthe ? 
+
+La tâche que Marthe à accompli en aout 1914 fût la moisson: "elle avait dû prendre la faux" (l. 1), "c'était donc Marthe qui avait fuaché tout le jour"(l. 5).
+Ce travail était inhabituel pour une femme: "reconnaître son incapacitéà remplacer l'homme" (l. 2).
+"remplacer l'homme", 

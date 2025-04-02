@@ -485,3 +485,4 @@ Her husband, children, etc...
 Brighton Dome, listen to music, watch movies and plays, is is an art venue.
 
 Visit Brighton Dome, a stunning historic venue in the heart of Brighton! Once a royal palace, this beautiful building now hosts amazing concerts, theater performances, and art shows. With its grand design and rich history, it’s the perfect place to enjoy live entertainment and experience culture. Whether you love music, drama, or dance, Brighton Dome has something exciting for everyone. Don’t miss out—plan your visit today!
+

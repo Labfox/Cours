@@ -25,3 +25,34 @@ Cependant cet approfondissement ne se fait pas sans difficulté:
 - tous les pays n'ont pas souhaité adopter l'Euro, ex: Suède
 - mise en place d'un euroscepticisme (fait de mettre en doute l'utilité de l'UE) chez les peuples des états membres.
 
+| Date de l'élargissement | Combien de pays ? Lesquels ? | Combien de pays au total ? | Commentaires |
+|-|-|-|-|
+| 1995 | 3: Autriche, Finlande, Suède | 15 | Pays neutres pendant la guerre froide |
+| 2004 | 10: Slovaquie, Chypre, Malte, Pologne, Lituanie, Tchéquie, Lettonie, Hongrie, Estonie, Slovaquie | 25 | Intégration de 8 pays appartenant à l'ex-bloc de l'Est |
+| 2007 | 2: Bulgarie, Roumanie | 27 | / |
+| 2013 | 1: Croatie | 28 | / |
+| 2020 | 1, le Royaume-Uni | 27 | Brexit: le Royaume-Uni sort de l'UE |
+
+### C. La persistance des conflits
+
+| Type de conflit | Ou ? |
+|-|-|
+| Conflits internationaux | Afrique de l'Ouest, Maghreb, Moyen-Orient |
+| Guerres civiles | Asie Centrale, Moyen-Orien, Sahara, Corne de l'Afrique |
+| Zones de piraterie | Golfe de Guinée, Caraïbes, Golfe d'Aden, Mer de Chine |
+| Pays victimes d'attentats | Europe, Etats-Unis, Austarlie, Afrique |
+
+Le monde est confronté à une nouvelle menace: le terrorisme
+
+!!! abstract "Terrorisme"
+
+    Ensemble des actions violentes (attentats, assasinats, ...) visant à terroriser la population pour fragiliser un gouvernement, un état
+
+!!! abstract "Guerre civile"
+
+    Conflit entre les habitants d'un même pays
+
+![](../../../assets/scans/200018483436389.png)
+
+![](../../../assets/scans/200012249874714.png)
+

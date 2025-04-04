@@ -486,3 +486,21 @@ Brighton Dome, listen to music, watch movies and plays, is is an art venue.
 
 Visit Brighton Dome, a stunning historic venue in the heart of Brighton! Once a royal palace, this beautiful building now hosts amazing concerts, theater performances, and art shows. With its grand design and rich history, it’s the perfect place to enjoy live entertainment and experience culture. Whether you love music, drama, or dance, Brighton Dome has something exciting for everyone. Don’t miss out—plan your visit today!
 
+
+```mermaid
+mindmap
+```
+
+1. I'm going to visit my aunt next Friday.
+2. Wow, look at the sky ! It's going to rain!
+
+On peut utiliser la structure BE GOING TO dans plusieurs cas. Voici les deux plus courants:
+
+1. Une décision a été price avant le moment ou l'on parle
+2. On prédit un évènement à partir d'indices.
+
+La structure est simple: Sujet + be (conjugé) going to + base verbale.
+
+WILL est différent dans le sens ou il est utilisé pour parler d'un avenir quasi-certain ou pour une décision prise dans l'instant.
+
+

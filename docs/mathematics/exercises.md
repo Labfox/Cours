@@ -1079,3 +1079,49 @@ mindmap
 | \(3 + x^2 = 100\) | \(x = \pm\sqrt{97}\) |
 | \((3 + x)^2 = 100\) | \(x = 7\) ou \(x = -13\) |
 | \((3 - x)^2 = 100\) | \(x = 13\) ou \(x = -7\) |
+
+## Correction DNB
+### Ex1
+#### 3)
+
+$1*4$ au lieu de $1*6$
+
+#### 4)
+
+Erreur d'index + impair au lieu de pair
+
+#### 6)
+
+Mal lu la consigne(pas vu médaille/médaille d'or)
+
+### Ex2
+#### 1)
+
+Erreur de frappe
+
+#### 2)
+
+Erreur d'arrondi
+
+#### 5)
+
+Decimals
+
+### Ex3
+
+#### 4)
+
+Pas trouvé la configuration de Thalès
+
+#### 5)
+
+Pas rappelé unité de conversion
+
+### Ex5
+#### 2)
+
+Mauvais calcul
+
+#### 3)
+
+"Croquis à l'échelle"

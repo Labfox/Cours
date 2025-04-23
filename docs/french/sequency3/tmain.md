@@ -109,3 +109,12 @@ Quelles sont les qualités physiques et morales de Marthe ? Comparez les premiè
 La tâche que Marthe à accompli en aout 1914 fût la moisson: "elle avait dû prendre la faux" (l. 1), "c'était donc Marthe qui avait fuaché tout le jour"(l. 5).
 Ce travail était inhabituel pour une femme: "reconnaître son incapacitéà remplacer l'homme" (l. 2).
 "remplacer l'homme", 
+
+
+Au début du conflit, marthe à accomplit les tâches de la ferme sans l'avoir choisit. Elle vivait la situation comme une contrainte extérieure
+
+Puis au fil des années, elle accomplit ces travaux comme une façon pour elle de contribuer à l'effort de guerre. Elle évolue au fil du texte. Au début, elle ne s'en sent pas capable. Ensuite, elle fait preuve de qualités physiques et morales. D'objet, elle devient sujet de ces actions
+
+R. Ragot tente de déccourager M. Curieau moyen de plusieurs arguments.
+
+

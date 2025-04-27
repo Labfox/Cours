@@ -44,3 +44,4 @@ Antes de la llegada de los conquistadores, los indigenas tenian sus proprios dio
 
 => Algunos conquistadores impusieron su idioma y lengua, su religion, su cultura
 
+Los mayas vivieron hace mucho tiempo en América Central, sobre todo en México. Hablaban la lengua maya. Construyeron templos y pirámides. Se organizaban en ciudades. Creían en muchos dioses. Les gustaban las matemáticas y la astronomía. También inventaron el calendario maya y hacían sacrificios humanos.

@@ -13,5 +13,31 @@ utilisation du sol moindre
 Bilan: 
 * La transformation du système de production énergétique, qui consiste à passer d'un système énergétique essentiellement fondé sur des énergies fossiles et polluantes, à un syst_me fondé sur des énergies renouvelables et moins poluantes
 * L'efficacicté énergétique, qui consiste à améliorer le rendement énergétique de nos  systèmes énergétiques
-* La sobiété énergétique, qui consiste à réduire nos besoin en énergie grâce à des changements structurels et une transformation de nos modes de consommation
+* La sobiété énreergétique, qui consiste à réduire nos besoin en énergie grâce à des changements structurels et une transformation de nos modes de consommation
 
+1) Cafetière
+
+$E=P*t$
+
+$E=250*\frac {8}{60}$
+
+$E=333,3 Wh$
+
+2) Grille pain
+
+$$
+    E=P*t
+    =600*\frac{10}{60}
+    =100 kWh
+$$
+
+3) PLaque
+
+$$
+    E=P*t
+    =500*0.1
+    =50 kWh
+$$
+
+1) Il en faudrait donc 2275 (2400000*7000/8000000000)
+2) Non, par manque d'espace

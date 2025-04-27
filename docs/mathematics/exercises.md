@@ -1126,3 +1126,5 @@ Mauvais calcul
 
 "Croquis à l'échelle"
 
+
+Lorsque on effectue un très grand nombre de fois une expériance, la fréquence d'apparition des issues est appelée probabilité

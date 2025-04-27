@@ -115,6 +115,33 @@ Au début du conflit, marthe à accomplit les tâches de la ferme sans l'avoir c
 
 Puis au fil des années, elle accomplit ces travaux comme une façon pour elle de contribuer à l'effort de guerre. Elle évolue au fil du texte. Au début, elle ne s'en sent pas capable. Ensuite, elle fait preuve de qualités physiques et morales. D'objet, elle devient sujet de ces actions
 
-R. Ragot tente de déccourager M. Curieau moyen de plusieurs arguments.
+R. Ragot tente de déccourager Mme. Curie au moyen de plusieurs arguments:
+
+- Elle sera inutile
+- La place des femmes n'est pas au front
+- C'est dangeurreux
+
+Marie Curie affirme qu'elle a un rôle à jouer. Elle ?. Ce projet va la relancer, la confronter au monde. Ses connaisances vont révolutionner la médecine
+
+## Séance 6: Etude du texte 5
+
+![](../../assets/scans/200063531226891.png)
+
+Le genre littéraire est théâtral; car il y à uniquement des dialogues ou des didascalies ("Rose lui reprent le journal" l. 14), et des indications de positions.
 
 
+
+loques: personne effondrée, sans énergie
+tribut: contribution payée à une autorité
+labeur: travail pénible, difficile
+précocement: de bonne heure
+rapiécer: raccommoder au moyen d'une pièce
+suffragiste: personne favorable au droit de vote pour les femmes
+
+
+Quels sont les différents personnages de ce texte ? Quel est leur métier ? Quelle est leur classe sociale ? Que font-ils au début du texte ?
+
+De quoi parlent les principaux protagonistes ? Développez.
+Par le biais de julie, quel problème lié à l'éducation est évoqué dans ce texte ?
+
+Les différents personages dans ce texte sont 

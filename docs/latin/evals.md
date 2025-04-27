@@ -190,3 +190,5 @@ Portrait de César
 "capillum": cheuveux, capillaire
 "populo": peuple, populaire
 
+rubicon
+phrasale

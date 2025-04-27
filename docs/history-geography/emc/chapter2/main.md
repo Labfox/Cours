@@ -35,9 +35,41 @@ L'ONU est confrontée à certaines limites:
 
 ![](../../../assets/scans/200089614609127.png)
 
-1. L'opération barkhane s'est déroulée au nord du Mali, de 2013 à 2022
+1. L'opération barkhane s'est déroulée dans le Sahel, de 2014 à 2022
 2. Au plus fort du déploiement, 5500 militaires fûrent déployés dans le Sahel, en particulier au Mali.
 3. La France s'est engagée pour lutter contre le terrorisme
-4. Avec les pays de la bande sahélo-saharienne, dont le G5 Sahel
-5. Des missions de soin des populations locales.
-6. Cette opération s'est terminée par une défaite.
+4. L'ONU, l'UE
+5. Des missions de soin des populations locales (humanitaire).
+6. Le président à mis fin à l'opération en 2022
+
+La France, membre permanent du Conseil de Sécurité de l'ONU, pilier de l'Union Européene (elle participe à la PSDC: Politique de Sécurité et de Défense Commune), membre de l'OTAN, dotée de l'arme nucléaire, est présente dans le monde pour assurer la paix et la sécurité internationnale.
+
+Elle participe ainsi à des missions humanitaires (épidémie Ebola en Afrique en 2015), à des missions de maintien de la paix (en Centrafrique entre 2013 et 2016), de lutte contre le terrorisme (opération Barkhane au Mali, opération Chammal au Proche-Orient). Elle intervient souvent en collaboration avec l'ONU et participe aussi à la lutte contre la piraterie engagée par l'UE.
+
+![](../../../assets/scans/200019364395645.png)
+
+![](../../../assets/scans/200076533729894.png)
+
+
+| Photo | Mission      | Fonction                                               | Action de la Défense nationale |
+|-------|--------------|--------------------------------------------------------|-|
+| 1     | Dissuasion   | Prévention des crises                                  | Surveillance des sites sensibles par des soldats français dans le cadre du plan Vigipirate. |
+| 2     | Dissuasion   | Dissuasion nucléaire                                   | Patrouille d'un sous-marin nucléaire pour dissuader tout état d'attaquer la France |
+| 3     | Intervention | Protection du territoire et des hommes                 | Des militaires secourent des victimes d'inondation dans le nord-ouest de la France |
+| 4     | Intervention | Prévention des crises                                  | Saisie de supéfiants par l'armée française |
+| 5     | Protection   | Protection du territoire et des hommes                 | Evacuation de ressortissants français au Yémen |
+| 6     | Protection   | Connaisance et anticipation des risques et des menaces | Navire collecteur de renseignements | 
+
+Face aux risques (naturels, techonologiques, sanitaires...) et aux menaces (terrorisme, cyberattaques), la Défense nationale a 3 grandes missions:
+
+- la protection
+- la dissuasion avec l'arme nucléaire
+- l'intervention
+Ces missions ont pout but de protéger le territoire de la France et ses habitants, ses institutions, ses intêrets
+
+Dissuasion nucléaire: arme exclusivement défensive destinée à faire peur à l'adversaire pour maintenir la paix.
+
+### C. L'organisation de la défense
+
+![](../../../assets/scans/200039411523170.png)
+

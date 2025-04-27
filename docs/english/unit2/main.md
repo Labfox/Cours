@@ -504,3 +504,19 @@ La structure est simple: Sujet + be (conjugé) going to + base verbale.
 WILL est différent dans le sens ou il est utilisé pour parler d'un avenir quasi-certain ou pour une décision prise dans l'instant.
 
 
+a drill, so to cut through a wall
+someone taking photos
+fbi
+a farmer
+
+
+
+Sort of video: ad
+People: kids
+Topic: THe topic was dreams jobs.
+
+One child wants to be a teacher or a train driver when he grows up. Another one wants to be someone who fixes computer, someone who sells them. The last girl wants to treasure being a child. She doesn't want to think about adult life. They are talking about what they dream of becoming.
+
+Paul wants to cut hair, his mom wants him to be a docor, and his dad just wants him to make money
+
+

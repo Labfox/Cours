@@ -144,4 +144,12 @@ Quels sont les différents personnages de ce texte ? Quel est leur métier ? Que
 De quoi parlent les principaux protagonistes ? Développez.
 Par le biais de julie, quel problème lié à l'éducation est évoqué dans ce texte ?
 
-Les différents personages dans ce texte sont 
+Les différents personages dans ce texte sont Rose: "Rose" (l. 2), Jeanne: "Jeanne" (l. 6), Julie: "Julie" (l. 9), Louise: "Louise" (l. 42). Elles travaillent dans une usine d'armement: "l'effort que l'on demaned aux femmes dans ces usines. [Ces femmes] qui vont verser leur tribut à l'effort de guerre." (l. 2-4). Elle font donc parti de la classe ouvrière. Au début du texte, elles prennent une pause: "Pendant la pause" (l. 1)
+
+
+Les principaux rotagonistes parlent de la dureté de leur travail.
+
+Julie démontre une éducation incompléte en ayant du mal à lire: "Elle déchiffre avec grande difficulté. " (l. 11-12)
+
+
+

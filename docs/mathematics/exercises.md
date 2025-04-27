@@ -1128,3 +1128,32 @@ Mauvais calcul
 
 
 Lorsque on effectue un très grand nombre de fois une expériance, la fréquence d'apparition des issues est appelée probabilité
+
+## Exercice 52 page 184
+### 1)
+On commence par calculer l'aire de tous les carrés: 9dm^2^ pour le carré de 3dm de côté, 4dm^2^ pour celui de 2dm et 1dm^2^ pour celui de 1dm.
+
+Ensuite, on calcule l'aire coloriée en soustrayant, pour chaque carré, l'aire du carré plus petit que lui. Celà donne pour le carré donnant 10 points 1dm^2^, celui donnant 5 points 3dm^2^, celui donnant 1 point 5dm^2^. La cible faisant 9dm^2, celà donne une probabilité de 1/9.
+
+### 2)
+
+Selon l'exercice précédent, on à, pour chaque fois que le tireur ne rate pas la cible gagne $\frac {1}{9}$ chances 10 points, $\frac{3}{9}$ de chances de gagner 5 points, et $\frac {5}{9}$ chances de gagner un point, ce qui donne $\frac {4}{9}$ chances de gagner plus ou 5 points, et $\frac {5}{9}$ chances de gagner moins que 5. Vu que le tireur rate la ible une fois sur dix, $\frac {4}{9} * \frac {9}{10} = \frac {4}{10}$, La probabilité est donc de $\frac {2}{5}$ 
+
+
+## Exercice 53
+
+On peut soit effectuer des mesures précises, par exemple en le suspendant par chaque sommet, où alors le lancer un nombre sinificant de fois pour extraire les probabilité. Cependant, cette approche neessite d'enlever tous les biais, comme la méthode de lancer.
+
+## Exercice 54
+
+La probabilité est égale à: la probabilité qu'il fasse sec deux jours de suite + la probabilité qu'il fasse humide puis sec.
+
+La probabilité qu'il fasse sec deux jours de suite est égale à $\frac {5}{6} * \frac {5}{6}$. La probabilité qu'il fasse humide puis sec est égale à $\frac {1}{6} * \frac {1}{3}$. Pour avoir la probabilité finale, on additionne donc $\frac {25}{36}$ et $\frac {1}{18}$ donne donc une probabilité de $\frac {3}{4}$ qu'il fasse sec mardi.
+
+## Exercice 55
+
+La probabilité qu'un nombre soit pair (ou impair) étant de $\frac {1}{2}$, on peux calculer que la probabilité pour deux chiffres est de $\frac {1}{4}$, donc $\frac {2}{4}$ que les deux nombres aient des parités différentes, ce qui nous donne $\frac {1}{4}$ chances d'obtenir une gommette bleue, $\frac {1}{4}$ chances d'obtenir une gommette jaune, $\frac {2}{4}$ chances d'obtenir une gomette verte.
+
+## Exercice 56
+
+La probabilité est de 0,5

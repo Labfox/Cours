@@ -45,3 +45,26 @@ Terminasons passives:
 | Parfait | Amav <br />Amav <br />Amav <br /> Amav <br />Amav <br />Amav <br />| Delev <br />Delev <br />Delev <br /> Delev <br />Delev <br />Delev <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Cep <br />Cep <br />Cep <br /> Cep <br />Cep <br />Cep <br /> | Audiv <br />Audiv <br />Audiv <br /> Audiv <br />Audiv <br />Audiv <br /> |
 | Plus que parfait | Amav <br />Amav <br />Amav <br /> Amav <br />Amav <br />Amav <br />| Delev <br />Delev <br />Delev <br /> Delev <br />Delev <br />Delev <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Cep <br />Cep <br />Cep <br /> Cep <br />Cep <br />Cep <br /> | Audiv <br />Audiv <br />Audiv <br /> Audiv <br />Audiv <br />Audiv <br /> |
 | Futur antérieur | Amav <br />Amav <br />Amav <br /> Amav <br />Amav <br />Amav <br />| Delev <br />Delev <br />Delev <br /> Delev <br />Delev <br />Delev <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Cep <br />Cep <br />Cep <br /> Cep <br />Cep <br />Cep <br /> | Audiv <br />Audiv <br />Audiv <br /> Audiv <br />Audiv <br />Audiv <br /> |
+
+2) _
+   1) recusant
+   2) concedebam
+   3) debes
+3) _
+   1) Futur simple
+   2) Imparfait
+   3) Présent
+   4) Futur simple
+   5) Présent
+   6) Imparfait
+   7) Présent
+   8) Présent
+4) _
+   1) confidebitur
+   2) veniebar
+   3) veniuntur
+   4) ducar
+   5) putaris
+   6) sentiebantur
+   7) respondentur
+   8) jubentur

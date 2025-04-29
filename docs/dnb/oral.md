@@ -8,3 +8,9 @@ Satisfactions: L'avoir présenté aux portes ouvertes, avoir fini
 
 Portée du projet: amélioration future (suggestions), 
 
+civic engagement in this school for the past 3 years, particularly  computer club 
+
+-> parler de éco délégués avant club info
+-> parler de la mise en place du tri à la cantine
+-> scratch = support éducatif
+

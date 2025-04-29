@@ -45,3 +45,12 @@ Antes de la llegada de los conquistadores, los indigenas tenian sus proprios dio
 => Algunos conquistadores impusieron su idioma y lengua, su religion, su cultura
 
 Los mayas vivieron hace mucho tiempo en América Central, sobre todo en México. Hablaban la lengua maya. Construyeron templos y pirámides. Se organizaban en ciudades. Creían en muchos dioses. Les gustaban las matemáticas y la astronomía. También inventaron el calendario maya y hacían sacrificios humanos.
+
+Los mayas vivieron entre 2000 antes de Cristo y el siglo XVII en México. Hablaban la lengua maya. Construeron piramides. Se organizaban en ciudades estados. Eran politeistas; Les gustaban las matematicas y la astronomia. Inventaron el calendario maya y practicaba sacifiios humanos.
+
+
+1) Cortés descubrio Mexico en 1519, then Pizarro, all bfor Colon
+
+
+Christophe, Colon, Frabsusco, Pizarro y Hernan Cortès fueron grandes colonizadores en América. Bartolomé de las casas lucho por los Indios, promugo leyes para defender sus libertas.
+

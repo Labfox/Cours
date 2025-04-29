@@ -153,3 +153,4 @@ Julie démontre une éducation incompléte en ayant du mal à lire: "Elle déchi
 
 
 
+Le journal la voix des femmes met l'accent sur la parole des femmes qui n'en avaient pas, à l'époque, dans l'espace public. Le terme suffragiste accolé au terme féministe renvoie à la situation politique qui à démarré à la fin du 18ème siècle en angleterre, ou les femmes, par des manifestations et par la presse, ont commencé à réclammer des droits, comme le droit de vote

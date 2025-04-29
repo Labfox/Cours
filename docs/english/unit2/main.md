@@ -520,3 +520,17 @@ One child wants to be a teacher or a train driver when he grows up. Another one 
 Paul wants to cut hair, his mom wants him to be a docor, and his dad just wants him to make money
 
 
+a) Faux, "I am 18 I will stop going to school"
+
+
+Les subordonnées de temps futur sont au présent simple contrairement au français:
+
+WHen .../ as soon as (dès que) + present simple
+
+Ex: As soon as I work, I will buy a car. (dès que je travaillerai)
+Dans la pirncipal je remets le futur en will / won't + Base VERBALE
+
+
+In 10 years, I hope I'll be an FOSS developper
+
+3

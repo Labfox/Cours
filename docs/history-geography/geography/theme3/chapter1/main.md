@@ -6,3 +6,4 @@
 
 ## I. Le territoire de l'UE
 ### A. Un territoire d'apparteance original
+### C. Une région transfrontalière: l'exemple de "La Grande Région"

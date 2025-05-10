@@ -1158,3 +1158,20 @@ La probabilité qu'un nombre soit pair (ou impair) étant de $\frac {1}{2}$, on 
 
 La probabilité est de 0,5
 
+## 27 p.24
+
+Oui sauf 5
+
+## Truc
+
+Que ce sont tous des nombres premiers
+
+2)a)
+NON
+b) Non
+c) Non
+d) Il est premier
+
+## 37 p.25
+
+Non, ça veut rien dire

@@ -555,3 +555,49 @@ You will have to +bv = vous deres
 
 You will be able = vous pourrez (possibilités futures)
 
+a) Faux, "I am 18 I will stop going to school"
+
+
+Les subordonnées de temps futur sont au présent simple contrairement au français:
+
+WHen .../ as soon as (dès que) + present simple
+
+Ex: As soon as I work, I will buy a car. (dès que je travaillerai)
+Dans la pirncipal je remets le futur en will / won't + Base VERBALE
+
+
+In 10 years, I hope I'll be an FOSS developper
+
+1) It was made by the Australian's region tourism office
+2) To take care of an empty island
+3) On the islands in the Great Barrier reef in Australia.
+6) You have to take care of the island (i.e. explore it, deliver mail, clean, feed fish, report back)
+7) 
+
+You will stay in a luxury house overlooking the Pacific Ocean
+
+Your leisure: you will be able to go scuba-diving
+
+I wouldn't apply for this job, because it just isn't my passion. Dedicating 6 months of my life to taking care of an islands seems cool, but just doesn't fit me. I prefer staying in my own property. Plus I don't like the current australian government.
+
+You will be the caretaker for the islands of The Great Barrier Reef in Australia. You will have to travel throughout the islands of the Great Barrier Reef, promoting tourism through a video blog, collecting deliveries of mail, cleaning a pool, feeding ocean fish.
+YOu will be able to go scuba diving, snorkeling and hiking.
+
+Remember the grammar:
+Will + Base verbale: Pour parler du futur sans date précise
+
+You will have to +bv = vous deres
+
+You will be able = vous pourrez (possibilités futures)
+
+
+ I think you will have to read the book if you want to understand the story.
+2. I will be able to make a cake if I have all the ingredients.
+3. They won't go there.They're too tired.
+4. I'm so sad! I can't laugh.
+5. He won't be able to drive if he's ill.
+6. She will have to work if she wants to have money.
+7. If you don't study your mathematics, you won't be able to do the exercises.
+8. You should believe what he says.
+9. She will have to tell her parents, she can't lie to them any more.
+10. If you are ill, you won't be able to call a doctor

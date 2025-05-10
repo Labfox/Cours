@@ -190,3 +190,15 @@ embodied real Mandela
 Julius Caesar
 Hamlet
 The comedy of Errors
+
+
+He uses the da-Dum rhythm five times in each line, which is also called the iambic pentamater , which is the posh name.
+
+First, pick a play
+Then, pick a section and make sure it is in verse.
+NExt, find a beat or make your own beat.FInally, make sure that your section fits into the rhythm you chose.
+
+Hip Hop
+Hip Hop
+Shakespeare
+Hip Hop

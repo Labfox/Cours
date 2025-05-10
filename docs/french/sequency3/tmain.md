@@ -153,4 +153,10 @@ Julie démontre une éducation incompléte en ayant du mal à lire: "Elle déchi
 
 
 
-Le journal la voix des femmes met l'accent sur la parole des femmes qui n'en avaient pas, à l'époque, dans l'espace public. Le terme suffragiste accolé au terme féministe renvoie à la situation politique qui à démarré à la fin du 18ème siècle en angleterre, ou les femmes, par des manifestations et par la presse, ont commencé à réclammer des droits, comme le droit de vote
+Le journal la voix des femmes met l'accent sur la parole des femmes qui n'en avaient pas, à l'époque, dans l'espace public. Le terme suffragiste accolé au terme féministe renvoie à la situation politique qui à démarré à la fin du 18ème siècle en angleterre, ou les femmes, par des manifestations et par la presse, ont commencé à réclammer des droits, comme le droit de vote. 
+
+La situation des femmes, remplaçant les homes pendant la première guerre mondiale, à permis à ce mouvement de prendre forme en France et d'assoire ça légitimité. Le mouvement était dénigré par les hommes et les femmes qui trouvaient les suffragettes effrontées, incorrectes et avillies. C.F Evelyn, May et Nell.
+
+L'article dans ce texte point les conditions de quatres femmes, au travail dans une usine. L'expression: "Qui vont verser leur tribut à l'effort de guerre" (l.  4), les met en lien direct avec la guerre. En travaillant comme elles le font, elles contribuent à créer les obus dont les armées ont besoin sur le front des combats.  Ces femmes, en lisant l'article tel qu'il est écrit, pointent par leur réatction et leur commentaire, leur conditions de travail, leur situation politique, et leur revendication, légitimée justement par leur participation à l'effort de guerre. 
+
+

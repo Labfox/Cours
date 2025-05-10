@@ -49,22 +49,35 @@ Terminasons passives:
 2) _
    1) recusant
    2) concedebam
-   3) debes
+   3) debes +1
 3) _
-   1) Futur simple
-   2) Imparfait
-   3) Présent
-   4) Futur simple
-   5) Présent
-   6) Imparfait
-   7) Présent
-   8) Présent
+   1) Futur +1
+   2) Imparfait +1
+   3) Présent +1
+   4) Futur +1
+   5) Présent +1 
+   6) Imparfait +1
+   7) Présent +1
+   8) Présent +1
 4) _
-   1) confidebitur
-   2) veniebar
-   3) veniuntur
-   4) ducar
-   5) putaris
-   6) sentiebantur
-   7) respondentur
-   8) jubentur
+   1) confidebitur +0
+   2) veniebar +0 vincebar
+   3) veniuntur +1
+   4) ducar +1
+   5) putaris +1
+   6) sentiebantur +1
+   7) respondentur +1
+   8) jubentur +1
+5) _
+   1) dat; faire, 3ème singulier; Il donne
+   2) jacimus, 1ère pluriel; nous jettons
+   3) videntur, 3ème singulier, il sait
+   4) esse, infinitif présent, être
+   5) videtur, 3ème singulier, nous voyons 
+   6) spectamini, 2ème pluriel, j'observe
+   7) amamur, 1ère pluriel, je suit aimé, j'ai aimé
+   8) relinquis, 2ème singulier, tu abandonne
+   9) scribo, 1ère singulier, j'écrit
+6) _
+tranduisez en latin: nous sommes aimés, nous abandonnerons, nous serons pris, nous sommes pris, tu  réponds, elle est en vue
+

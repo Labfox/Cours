@@ -70,6 +70,24 @@ Ces missions ont pout but de protéger le territoire de la France et ses habitan
 Dissuasion nucléaire: arme exclusivement défensive destinée à faire peur à l'adversaire pour maintenir la paix.
 
 ### C. L'organisation de la défense
-
+#### 1. Le parcours de citoyenneté
 ![](../../../assets/scans/200039411523170.png)
+
+Le président de la république est le chef des armées, décide l'emploi des forces nucléaire.
+
+Le parlement vote l'organisation générale de la Défense, le budget annuel, la déclaration de guerre.
+
+Le premier ministre est responsable de la Defense nationale.
+Le ministre de la Défense est chargé de l'entraienement des forces armées, des armemeants, des infrastructures militaires.
+
+Les forces de défense militaires sont l'armée de terre, la marine, l'armée de l'air, la gendarmerie, les forces de défense civiles sont la douane, la police, les pompiers et les secours d'urgence.
+
+Les axes de la défense globale sont la défense civile, culturelle, économique et militaire.
+
+![](../../../assets/scans/200089228263550.png)
+
+#### 2. Vers un service national universel (SNU)
+
+![](../../../assets/scans/200054975492220.png)
+
 

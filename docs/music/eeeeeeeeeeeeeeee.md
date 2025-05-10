@@ -26,3 +26,5 @@ Dans ce quatrième couplet, il parle de la nécessité de mémoire.
 Dans ce cinquième couplet, il ré-évoque le nombre des déportés.
 
 La musique me paraît bien aller avec l'époque. Je n'ai pas d'avis particulier
+
+

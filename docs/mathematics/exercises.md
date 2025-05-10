@@ -1157,3 +1157,4 @@ La probabilité qu'un nombre soit pair (ou impair) étant de $\frac {1}{2}$, on 
 ## Exercice 56
 
 La probabilité est de 0,5
+

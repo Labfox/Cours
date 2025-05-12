@@ -14,3 +14,9 @@ civic engagement in this school for the past 3 years, particularly  computer clu
 -> parler de la mise en place du tri à la cantine
 -> scratch = support éducatif
 
+Bonjour (slt), je vais vous présenter mon parcours citoyen pour les 3 dernières années, particulièrement dans le club informatique.
+
+J'ai choisi de présenter ce projet grâce à sont rapport avec mes passions (peut-être citer), et un potentiel travail, ainsi que le temps dédié à ce projet.
+
+En quoi ce parcours permet d'éveiller ma conscience de futur citoyen ? // check
+

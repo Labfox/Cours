@@ -31,3 +31,20 @@ Bilan 1 : schéma (cf. brevet blanc Doc3)
 Les organes reproducteurs libèrent dans le sang des "hormones sexuelles" qui agissent sur des « organes cibles » ce qui déclenche l’apparition des caractères sexuels secondaires. Les testicules produisent la testostérone. Les ovaires produisent les œstrogènes.
  
 II- Comment expliquer le déclenchement de la production des spermatozoïdes à la puberté ?
+
+=
+
+D'après le doc 1, j'observe qu'un garçon atteint d'un syndrome de kallmann a ses organes reproducteurs qui ne se développent pas, il n'a pas d'éjaculation donc il est stérile et a un manque d'hormone cérébrale car il n'a que 0,8ua d'hormone cérébrale dans le sang au lieu de 4ua pour un garçon pubère soit 5 fois moins qu'un garçon pubère.
+
+Dans le doc 1 j'observe qu'une personne atteinte du syndrome dekallmann a un manque d'hormone cérébrale.
+Or, grâce au doc 2, on sait que l'hormone est responsable de l'augmentation dela taille des testicules et de la production des spermatozoïdes.
+Donc j'en conclus que c'est le cerveau qui ne fabrique pas suffisament d'hormone cérébrale ce qui entraîne une stérilité (pas de spermatozoïdes) et le non développemenB
+
+Bilan 2:
+A la puberté, une glande du cerveau (hypophyse) produit et libère dans le sang une hormone cérébrale, qui déclanche la production des spermatozoïdes à la puberté.
+
+Mais elle produit également une autre hormone qui déclenche la productino de testostérone.
+Et c'est la testostérone qui déclenche l'apparition des caractères sexuels secondaires et le développement des organes reproducteurs.
+
+## III. Comment expliquer les cycles chez la femme ?
+

@@ -42,9 +42,9 @@ Terminasons passives:
 |-------|------------------|------------------|------------------|------------|------------------|------|--------|
 | Imparfait | Ama <br />Ama <br />Ama <br />Ama <br />Ama <br />Ama <br />| Dele <br />Dele <br />Dele <br />Dele <br />Dele <br />Dele <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Capi <br />Capi <br />Capi <br /> Capi <br />Capi <br />Capi <br />| Audi <br />Audi <br />Audi <br /> Audi <br />Audi <br />Audi <br /> | Eram <br /> Eras <br /> Erat <br /> Eramus <br /> Eratis <br /> Erant <br /> | Poteram <br /> Poteras <br /> Poterat <br /> Poteramus <br /> Poteratis <br /> Poterant <br /> | 
 | Futur | Amabo <br />Amabis <br />Amabit <br />Amabimus <br />Amabutis <br />Amabunt <br />| Dele <br />Dele <br />Dele <br />Dele <br />Dele <br />Dele <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Capi <br />Capi <br />Capi <br /> Capi <br />Capi <br />Capi <br />| Audi <br />Audi <br />Audi <br /> Audi <br />Audi <br />Audi <br /> |
-| Parfait | Amav <br />Amav <br />Amav <br /> Amav <br />Amav <br />Amav <br />| Delev <br />Delev <br />Delev <br /> Delev <br />Delev <br />Delev <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Cep <br />Cep <br />Cep <br /> Cep <br />Cep <br />Cep <br /> | Audiv <br />Audiv <br />Audiv <br /> Audiv <br />Audiv <br />Audiv <br /> |
+| Parfait | Amav <br />Amav <br />Amav <br /> Amav <br />Amav <br />Amav <br />| Delev <br />Delev <br />Delev <br /> Delev <br />Delev <br />Delev <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Cep <br />Cep <br />Cep <br /> Cep <br />Cep <br />Cep <br /> | Audiv <br />Audiv <br />Audiv <br /> Audiv <br />Audiv <br />Audiv <br /> | Fui <br /> Fuisti <br /> Fuit <br /> Fuerunt <br /> | Potui <br /> Potuitti <br /> Potuit <br /> Potius <br /> Potiuitis <br/> Poterunt |
 | Plus que parfait | Amav <br />Amav <br />Amav <br /> Amav <br />Amav <br />Amav <br />| Delev <br />Delev <br />Delev <br /> Delev <br />Delev <br />Delev <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Cep <br />Cep <br />Cep <br /> Cep <br />Cep <br />Cep <br /> | Audiv <br />Audiv <br />Audiv <br /> Audiv <br />Audiv <br />Audiv <br /> |
-| Futur antérieur | Amav <br />Amav <br />Amav <br /> Amav <br />Amav <br />Amav <br />| Delev <br />Delev <br />Delev <br /> Delev <br />Delev <br />Delev <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Cep <br />Cep <br />Cep <br /> Cep <br />Cep <br />Cep <br /> | Audiv <br />Audiv <br />Audiv <br /> Audiv <br />Audiv <br />Audiv <br /> |
+| Futur antérieur | Amav <br />Amav <br />Amav <br /> Amav <br />Amav <br />Amav <br />| Delev <br />Delev <br />Delev <br /> Delev <br />Delev <br />Delev <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Cep <br />Cep <br />Cep <br /> Cep <br />Cep <br />Cep <br /> | Audiv <br />Audiv <br />Audiv <br /> Audiv <br />Audiv <br />Audiv <br /> | Fuero <br /> Fueris <br /> Fuerit <br /> Fuerimus <br /> Fueritis <br /> Fuerint |
 
 2) _
    1) recusant
@@ -81,3 +81,16 @@ Terminasons passives:
 6) _
 tranduisez en latin: nous sommes aimés, nous abandonnerons, nous serons pris, nous sommes pris, tu  réponds, elle est en vue
 
+## 3) Former les temps du perfectum actif
+
+### Le parfait
+
+Radical du parfait + terminaison du parfait: -i, -isti, -it, -imus, istis, erunt, -ere
+
+### Le plus-que-parfait
+
+Radical du parfait + suffixe -era- + terminaison active
+
+### Le futur antérieur 
+
+Radical du parfait + suffixe -er a -eri + terminaison active

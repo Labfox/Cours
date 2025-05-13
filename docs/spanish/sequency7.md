@@ -39,3 +39,5 @@ Sí, conocí a 3 peruanos, 2 argentinos y 1 chileno.
 
 Para mi, viajar es conocer la historia del país que visita
 Para mi, viajar es cambio de horizontes
+
+recorrer = parcourir

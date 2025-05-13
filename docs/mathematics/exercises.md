@@ -1,6 +1,6 @@
 je suis le lundi
 
-# Exercices
+ # Exercices
 
 Replacer x et y par leur valeur pour calculer chaque expression.
 
@@ -1175,3 +1175,8 @@ d) Il est premier
 ## 37 p.25
 
 Non, ça veut rien dire
+
+
+## 43
+
+Si les décompositions de sont numérateur et de son dénominateur n'ont aucun nombre en commun

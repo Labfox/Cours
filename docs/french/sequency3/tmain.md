@@ -165,3 +165,5 @@ L'article dans ce texte point les conditions de quatres femmes, au travail dans 
 "à la Limoise", "dans la grande chambre ancienne", "du premier étage", "ouverte", "de juillet", "au bout des champs pierreux et des landes à fougères", "dans cette vieille bibliothèque Louis XV", "près de mon lit", "aux reliures d’un autre siècle", "en gros papier rude d’autrefois"
 
 J’étais monté seul. Je m’étais accoudé à la fenêtre pour regarder le soleil s’abaisser. Une idée me vint. Je me mis à fouiller dans une bibliothèque. Je trouvai un cahier.
+## Séance 8: Les connecteurs logiques
+

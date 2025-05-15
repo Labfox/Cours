@@ -1,0 +1,2821 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.14">
+    
+    
+      
+        <title>Séquence 3 - Cours</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="https://unpkg.com/katex@0/dist/katex.min.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="red">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#sequence-3" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Cours" class="md-header__button md-logo" aria-label="Cours" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Cours
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Séquence 3
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="red" data-md-color-accent="red"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="deep-orange" data-md-color-accent="orange"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Cours" class="md-nav__button md-logo" aria-label="Cours" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Cours
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Cours
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Cours
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    English
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            English
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../english/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../english/unit2/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Unit 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Mathematics
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Mathematics
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematics/exercises/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Exercises
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematics/chapter1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sequence 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematics/chapter2/cours/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sequence 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematics/chapter3/cours/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sequence 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematics/chapter4/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sequence 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../mathematics/fichederevisionspuissances/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Puissances
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Latin
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Latin
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../latin/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Main
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../latin/sequency2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Séquence 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../latin/evals/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Evaluations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../latin/exos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Exercises
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../latin/sequency3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Séquence 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../latin/sequence2/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Séquence 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    History & Geography
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            History & Geography
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../history-geography/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4_2" id="__nav_2_4_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    History
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            History
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4_2_1" id="__nav_2_4_2_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Thème 1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_4_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Thème 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../history-geography/theme1/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../history-geography/theme1/chapter1/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Chapter 1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../history-geography/theme1/chapter2/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Chapter 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4_3" id="__nav_2_4_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Geography
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            Geography
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4_3_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4_3_1" id="__nav_2_4_3_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Thème 1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_4_3_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            Thème 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../history-geography/geography/theme1/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../assets/scans/2024-sept-20-1.png" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Point vocabulaire sur le terme échelle
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4_3_1_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4_3_1_3" id="__nav_2_4_3_1_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Chapitre 1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="5" aria-labelledby="__nav_2_4_3_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4_3_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            Chapitre 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../history-geography/geography/theme1/chapter1/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../history-geography/geography/theme1/chapter1/revision/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Fiche de révision
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../history-geography/geography/theme1/chapter2/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Chapitre 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4_4" id="__nav_2_4_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    EMC
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_4_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4_4">
+            <span class="md-nav__icon md-icon"></span>
+            EMC
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4_4_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_4_4_1" id="__nav_2_4_4_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Chapitre 1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_4_4_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_4_4_1">
+            <span class="md-nav__icon md-icon"></span>
+            Chapitre 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../history-geography/emc/chapter1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Physics & Chemistry
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Physics & Chemistry
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5_1" id="__nav_2_5_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Chapter 1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_5_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5_1">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/chapter1/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Exos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/chapter1/cours/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cours
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5_2" id="__nav_2_5_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Chapter 2
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/chapter2/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Exos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/chapter2/cours/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Cours
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_5_3" id="__nav_2_5_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Chapter 3
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Chapter 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../physique-chimie/chapter3/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Exos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Fr*nch
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6">
+            <span class="md-nav__icon md-icon"></span>
+            Fr*nch
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_6_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_6_2" id="__nav_2_6_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Sequency 1
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_6_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6_2">
+            <span class="md-nav__icon md-icon"></span>
+            Sequency 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sequency1/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sommaire
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sequency1/firstpage/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Next page
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sequency1/exercices/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Exercices
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sequency1/fichevocabrecap/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Fiche vocabulaire récapitulative
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sequency1/eval/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    évaluations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sequency1/dictee/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Dictee
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_6_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_6_3" id="__nav_2_6_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Sequency 2
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_6_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_6_3">
+            <span class="md-nav__icon md-icon"></span>
+            Sequency 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sequency2/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Main
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sequency2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Index
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../redaction/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Redaction
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sequency2/dictee/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Dictee
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sequency2prep/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Préparation à la séquence 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ap/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    AP
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_7" id="__nav_2_7_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Spanish
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_7">
+            <span class="md-nav__icon md-icon"></span>
+            Spanish
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../spanish/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../spanish/sequency2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sequency 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../spanish/sequency3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Sequency 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_8" id="__nav_2_8_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    SVT
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_8">
+            <span class="md-nav__icon md-icon"></span>
+            SVT
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../svt/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../svt/chapter2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Chapter 2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../svt/chapter3/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Chapter 3
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../svt/chapter4/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Chapter 4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../lce/main/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    LCE
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_2_10" id="__nav_2_10_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Musique
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_10">
+            <span class="md-nav__icon md-icon"></span>
+            Musique
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../music/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Main
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../music/quiz/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Quiz
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../techno/securiteroutiere/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Techno
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../manuels/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Manuels
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#seance-1-etude-de-texte-dalice-ferney" class="md-nav__link">
+    <span class="md-ellipsis">
+      Séance 1: Etude de texte d'Alice Ferney
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Séance 1: Etude de texte d&#39;Alice Ferney">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-cadre-spatio-temporel" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Cadre spatio-temporel
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-personnages-et-liens-de-parente" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Personnages et liens de parenté
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-theme-du-texte" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Thème du texte
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-titre-pour-chaque-partie" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Titre pour chaque partie
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#seance-2-les-procedes-de-reprise-dans-un-texte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Séance 2: Les procédés de reprise dans un texte
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#seance-6-etude-du-texte-5" class="md-nav__link">
+    <span class="md-ellipsis">
+      Séance 6: Etude du texte 5
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#seance-8-les-connecteurs-logiques" class="md-nav__link">
+    <span class="md-ellipsis">
+      Séance 8: Les connecteurs logiques
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="sequence-3">Séquence 3</h1>
+<h2 id="seance-1-etude-de-texte-dalice-ferney">Séance 1: Etude de texte d'Alice Ferney</h2>
+<p>Remarques liminaires</p>
+<p>Paratexte: Alice Ferney, Dans la guerre, 2003, Actes Sud</p>
+<p>Mise en page: genre narratif ou genre argumentatif</p>
+<p>Thème: la guerre de 14-18</p>
+<p>Text</p>
+<p>Attendre ! Attendre était une chose insupportable, pensait déjà Félicité. Voilà tout ce que l’on demandait aux femmes, se disait-elle. C’était la première fois qu’elle avait pareille idée, mais sa justesse lui mettait soudain la colère au cœur. Attendre d’être plus grande pour aller au bal. Attendre d’être mariée pour connaître un homme. Attendre un enfant. Attendre que la guerre finisse. Attendre sans participer. Attendre comme une noix, qu’on vous ramasse pour vous jeter dans le panier du malheur ou dans celui du bonheur. Pauvres filles ! Pas étonnant qu’elles deviennent à la fin sèches et mauvaises comme Julia. Plutôt mourir ! pensait Félicité, et à cette idée elle se remettait à pleurer. Car il s’agissait bien de mourir, et c’était peut-être Jules qui allait passer.</p>
+<p>Jules quant à lui attendait sa femme. Il était encore là, sans être plus là. Son douteux avenir l’emplissait de songes. C’était un moment en suspens. Le train, le dépôt, la frontière l’attendaient, et Dieu savait quoi encore. Il y pensait. La petite trépidation qui vient dans l’action naissait en lui. Il n’était pas heureux, mais la curiosité s’éveillait, et l’élan hardi de l’homme ; cette fibre virile qui peut se plaire dans la guerre essayait de dépasser l’idée du Jules raisonnable et sérieux. Il allait parcourir le pays pour monter vers des terres qu’il n’avait jamais vues, et côtoyer des hommes qu’il ne connaissait pas. Les provinces perdues, les grands forts de l’Est… il essayait de se faire à cette destinée. Félicité se moquait bien de la revanche. L’humiliation et la vengeance n’étaient que billevesées à côté de son bonheur. Elle désirait d’abord garder son mari, le reste ne valait rien. Elle le lui avait dit tout net. D’ailleurs elle pourrait accepter de devenir une Allemande pourvu qu’elle gardât son Jules et son Antoine ensemble. On n’a qu’une vie et elle n’est pas pour défendre des provinces perdues ! Perdu c’est perdu ! Félicité avait dit cela crûment, et Jules s’en était trouvé tout peiné. Allait-il donc se battre pour des prunes ? Sa femme ne pouvait pas croire cela tout de même ! Mais si, elle le croyait</p>
+<p>Vocabulaire du texte:</p>
+<ul>
+<li>"billevesées" (l. 16)</li>
+<li>"trépidations" (l. 11)</li>
+<li>"hardi" (l. 12)</li>
+<li>"crûment" (l. 20)</li>
+<li>"virile" (l. 12)</li>
+</ul>
+<p>identifier le cadre spatio-temporel du texte
+combien de personnages, nommez-les, trouvez leur lien de parenté et essayez de définir leur caractères
+quel est le thème du texte, donner un titre à chaque partie</p>
+<h4 id="1-cadre-spatio-temporel"><strong>1. Cadre spatio-temporel</strong></h4>
+<p>Le texte se déroule durant une période de guerre. On peut supposer qu'il s'agit de la guerre franco-prussienne de 1870 ou de la Première Guerre mondiale, étant donné la mention des "provinces perdues" et de la "revanche", qui font référence à l'Alsace-Lorraine annexée par l'Allemagne après 1871. L'attente et le départ de Jules pour un conflit renforcent cette hypothèse. L'action semble se passer en France, probablement dans une région affectée par cette guerre.</p>
+<h4 id="2-personnages-et-liens-de-parente"><strong>2. Personnages et liens de parenté</strong></h4>
+<ul>
+<li><strong>Félicité</strong> : Femme de Jules, mère d'Antoine. C'est une femme sensible, amoureuse et déterminée. Elle déteste l'idée d’attendre passivement et place son bonheur familial avant toute idéologie patriotique.  </li>
+<li><strong>Jules</strong> : Mari de Félicité. Soldat en partance pour la guerre, il est tiraillé entre son devoir et son attachement à sa famille. Il est raisonnable, mais ressent une certaine exaltation face à son futur militaire.  </li>
+<li><strong>Antoine</strong> : Mentionné brièvement, il est leur enfant.  </li>
+</ul>
+<h4 id="3-theme-du-texte"><strong>3. Thème du texte</strong></h4>
+<p>Le texte traite <strong>de l’attente et du sacrifice imposés par la guerre</strong>, en particulier du point de vue des femmes. Il oppose deux perspectives : celle de Félicité, qui privilégie l’amour et la vie familiale, et celle de Jules, qui tente d’accepter son destin militaire. Il met aussi en lumière la différence de perception entre les hommes et les femmes face à la guerre.</p>
+<h4 id="4-titre-pour-chaque-partie"><strong>4. Titre pour chaque partie</strong></h4>
+<ol>
+<li><strong>"L’attente des femmes : une révolte intérieure"</strong> (Première partie sur Félicité et son refus de subir l’attente imposée par la société.)  </li>
+<li><strong>"Le départ du soldat : entre devoir et incertitude"</strong> (Deuxième partie sur Jules, son dilemme entre responsabilité militaire et attachement familial.)  </li>
+<li>
+<p><strong>"Deux visions opposées de la guerre"</strong> (Dernière partie où Félicité rejette l’idée du sacrifice pour une cause nationale, tandis que Jules doute.)</p>
+</li>
+<li>
+<p><strong>Billevesées</strong> (l. 16) : <strong>Propos ou idées sans valeur, absurdes, futiles.</strong> Ici, Félicité considère que l'humiliation et la vengeance ne sont que des absurdités comparées à son bonheur personnel.  </p>
+</li>
+<li>
+<p><strong>Trépidation</strong> (l. 11) : <strong>Mouvement rapide et irrégulier, agitation.</strong> Dans le texte, cela désigne l'agitation intérieure et l'excitation naissante de Jules face à son départ.  </p>
+</li>
+<li>
+<p><strong>Hardi</strong> (l. 12) : <strong>Courageux, audacieux, qui n’a pas peur du danger.</strong> L’expression « l’élan hardi de l’homme » évoque l’instinct de bravoure qui s’éveille en Jules.  </p>
+</li>
+<li>
+<p><strong>Crûment</strong> (l. 20) : <strong>D’une manière directe, brutale, sans adoucissement.</strong> Félicité exprime sans détour son rejet de la guerre et du sacrifice patriotique.  </p>
+</li>
+<li>
+<p><strong>Virile</strong> (l. 12) : <strong>Qui est propre à l’homme, à la force et au courage masculins.</strong> Ici, cela désigne une certaine impulsion guerrière et combative qui se manifeste chez Jules.</p>
+</li>
+</ol>
+<p>Dans ce texte, deux points de vue s'affrontent, deux positions classiques stéréotypées: les femmes défendent la paix (pacifistes), et les hommes défendent la guerre. Ce qui est interresant dans ce texte, c'est qu'il donne la parole à un personnage féminin sur la guerre à ces débuts.</p>
+<p>Comment sont nommés les deux personnages principaux, Félicité et Jules ?</p>
+<p>Félicité est désignée par le pronom personnel: "elle" (l. 2, l. 7, l. 17) et par un GN: "sa femme" (l. 21).</p>
+<p>Jules est désigné par les pronoms personnels: "il" (l. 9), "lui" (l. 5) et par un GN: "son mari" (l. 17)</p>
+<h2 id="seance-2-les-procedes-de-reprise-dans-un-texte">Séance 2: Les procédés de reprise dans un texte</h2>
+<div class="admonition abstract">
+<p class="admonition-title">Texte</p>
+<p>Aux Femmes françaises,</p>
+<p>La guerre a été déchaînée par l'Allemagne, malgré les efforts de la France, de la Russie, de l'Angleterre pour maintenir la paix. A l'appel de la Patrie, vos pères, vos fils, vos maris se sont levés et demain ils auront relevé le défi.</p>
+<p>Le départ pour l'armée de tous ceux qui peuvent porter les armes, laisse les travaux des champs interrompus: la moisson est inachevée le temps des vendanges est proche. Au nom du gouvernement de la République, au nom de la nation tout entière groupée derrière lui, je fais appel à votre vaillance, à celle des enfants que leur âge seul, et non leur courage, dérobe au combat. Je vous demande de maintenir l'activité des campagnes, de terminer les récoltes de l'année, de préparer celles de l'année prochaine. Vous ne pouvez pas rendre à la patrie un plus grand service.</p>
+<p>Ce n'est pas pour vous, c'est pour elle que je m'adresse à votre cœur.</p>
+<p>Il faut sauvegarder votre subsistance, l'approvisionnement des populations urbaines et surtout l'approvisionnement de ceux qui défendent la frontière, avec l'indépendance du pays, la civilisation et le droit.</p>
+<p>Debout, donc, femmes françaises, jeunes enfants, filles et fils de la patrie! Remplacez sur le champ du travail ceux qui sont sur le champ de bataille. Préparez-vous à leur montrer, demain, la terre cultivée, les récoltes rentrées, les champs ensemencés!</p>
+<p>Il n'y a pas, dans ces heures graves, de labeur infime. Tout est grand qui sert le pays. Debout! à l'action! à l'œuvre! Il y aura demain de la gloire pour tout le monde.</p>
+<p>Vive la République, Vive la France</p>
+</div>
+<p>Texte 2</p>
+<p>1) Nature du document: Affiche placardée dans tous les villages de France. Moyen très efficace pour informer la population des évenèments officiels. Journeaux existent mais peu diffusés auprèsdes classes popualaires
+2) Appel de Viviani: "Je vous demande" (l. 10), "je m'addresse" (l. 13), "je fais appel" (vert fluo). Aspect nouveau, guerre totale, mobilisation de toutes les forces du pays.
+3) Appel aux "Femmes Françaises": "Debout, donc, Femmes Françaises" (l. 17), "Debout, à l'action, au labeur" (l. 21), "Préparez-vous" (l. 18), "Replacez" (l. 17), "filles" (l. 17). Impératif. Forme exclamative (rouge)
+4) But de cet appel: "Remplacez sur le champ du travail ceux qui sont sur le champ de bataille" (l. 17-18) </p>
+<ul>
+<li>Champ lexical de l'agriculture (jaune fluo): "les travaux des champs" (l. 5-6), "maison" (l. 6), "vendanges" (l. 6), "campagnes" (l. 10), "récoltes" (l. 10), "approvisonnement" (l. 14, l. 4), "champ" (2x l. 18), "terre cultivée" (l. 19), "récoltes rentrées" (l. 15), "champs enssemencés" (l. 8), "labeur" (l. 20)</li>
+<li>Verbes d'action: "maintenir" (l. 10), "terminer" (l. 11), "préparer" (l. 11). Rhythme ternaire.</li>
+</ul>
+<p>Dans le texte précédent, les femmes sont présentées comme passives, ce qui les révoltent ! En revanche, dans ce texte, elles sont invitées à participer à l'effort de guerre dans une guerre totale. Elles sont donc appelées à l'action: elles doivent remplacer "sur le champ du travail ceux qui sont sur le champ de bataille". Pour obtenir cet engagement, il est fait appel à leur patriotisme et leur sens du devoir.</p>
+<ol>
+<li><strong>?</strong>, interrogative</li>
+<li><strong>.</strong> Déclarative</li>
+<li><strong>.</strong> Impérative</li>
+<li><strong>.</strong> déclarative</li>
+<li><strong>?</strong> Interrogative</li>
+</ol>
+<p>Quelle tâche marthe à-t-elle accompli en aout 1914 ? étaice habituel pour une femme ? 
+Quelles sont les qualités physiques et morales de Marthe ? Comparez les premières lignes et les dernières lignes, quelle est l'évolution de Marthe ? </p>
+<p>La tâche que Marthe à accompli en aout 1914 fût la moisson: "elle avait dû prendre la faux" (l. 1), "c'était donc Marthe qui avait fuaché tout le jour"(l. 5).
+Ce travail était inhabituel pour une femme: "reconnaître son incapacitéà remplacer l'homme" (l. 2).
+"remplacer l'homme", </p>
+<p>Au début du conflit, marthe à accomplit les tâches de la ferme sans l'avoir choisit. Elle vivait la situation comme une contrainte extérieure</p>
+<p>Puis au fil des années, elle accomplit ces travaux comme une façon pour elle de contribuer à l'effort de guerre. Elle évolue au fil du texte. Au début, elle ne s'en sent pas capable. Ensuite, elle fait preuve de qualités physiques et morales. D'objet, elle devient sujet de ces actions</p>
+<p>R. Ragot tente de déccourager Mme. Curie au moyen de plusieurs arguments:</p>
+<ul>
+<li>Elle sera inutile</li>
+<li>La place des femmes n'est pas au front</li>
+<li>C'est dangeurreux</li>
+</ul>
+<p>Marie Curie affirme qu'elle a un rôle à jouer. Elle ?. Ce projet va la relancer, la confronter au monde. Ses connaisances vont révolutionner la médecine</p>
+<h2 id="seance-6-etude-du-texte-5">Séance 6: Etude du texte 5</h2>
+<p><img alt="" src="../../../assets/scans/200063531226891.png" /></p>
+<p>Le genre littéraire est théâtral; car il y à uniquement des dialogues ou des didascalies ("Rose lui reprent le journal" l. 14), et des indications de positions.</p>
+<p>loques: personne effondrée, sans énergie
+tribut: contribution payée à une autorité
+labeur: travail pénible, difficile
+précocement: de bonne heure
+rapiécer: raccommoder au moyen d'une pièce
+suffragiste: personne favorable au droit de vote pour les femmes</p>
+<p>Quels sont les différents personnages de ce texte ? Quel est leur métier ? Quelle est leur classe sociale ? Que font-ils au début du texte ?</p>
+<p>De quoi parlent les principaux protagonistes ? Développez.
+Par le biais de julie, quel problème lié à l'éducation est évoqué dans ce texte ?</p>
+<p>Les différents personages dans ce texte sont Rose: "Rose" (l. 2), Jeanne: "Jeanne" (l. 6), Julie: "Julie" (l. 9), Louise: "Louise" (l. 42). Elles travaillent dans une usine d'armement: "l'effort que l'on demaned aux femmes dans ces usines. [Ces femmes] qui vont verser leur tribut à l'effort de guerre." (l. 2-4). Elle font donc parti de la classe ouvrière. Au début du texte, elles prennent une pause: "Pendant la pause" (l. 1)</p>
+<p>Les principaux rotagonistes parlent de la dureté de leur travail.</p>
+<p>Julie démontre une éducation incompléte en ayant du mal à lire: "Elle déchiffre avec grande difficulté. " (l. 11-12)</p>
+<p>Le journal la voix des femmes met l'accent sur la parole des femmes qui n'en avaient pas, à l'époque, dans l'espace public. Le terme suffragiste accolé au terme féministe renvoie à la situation politique qui à démarré à la fin du 18ème siècle en angleterre, ou les femmes, par des manifestations et par la presse, ont commencé à réclammer des droits, comme le droit de vote. </p>
+<p>La situation des femmes, remplaçant les homes pendant la première guerre mondiale, à permis à ce mouvement de prendre forme en France et d'assoire ça légitimité. Le mouvement était dénigré par les hommes et les femmes qui trouvaient les suffragettes effrontées, incorrectes et avillies. C.F Evelyn, May et Nell.</p>
+<p>L'article dans ce texte point les conditions de quatres femmes, au travail dans une usine. L'expression: "Qui vont verser leur tribut à l'effort de guerre" (l.  4), les met en lien direct avec la guerre. En travaillant comme elles le font, elles contribuent à créer les obus dont les armées ont besoin sur le front des combats.  Ces femmes, en lisant l'article tel qu'il est écrit, pointent par leur réatction et leur commentaire, leur conditions de travail, leur situation politique, et leur revendication, légitimée justement par leur participation à l'effort de guerre. </p>
+<h2 id="seance-8-les-connecteurs-logiques">Séance 8: Les connecteurs logiques</h2>
+<p>"à la Limoise", "dans la grande chambre ancienne", "du premier étage", "ouverte", "de juillet", "au bout des champs pierreux et des landes à fougères", "dans cette vieille bibliothèque Louis XV", "près de mon lit", "aux reliures d’un autre siècle", "en gros papier rude d’autrefois"</p>
+<p>J’étais monté seul. Je m’étais accoudé pour regarder le soleil s’abaisser. Une idée me vint de fureter. Je trouvai un cahier.</p>
+
+
+
+
+
+
+
+  
+    
+  
+  
+
+
+  <aside class="md-source-file">
+    
+      
+  <span class="md-source-file__fact">
+    <span class="md-icon" title="Last update">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
+    </span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="May 15, 2025 07:13:40">May 15, 2025</span>
+  </span>
+
+    
+    
+    
+    
+  </aside>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.13a4f30d.min.js"></script>
+      
+        <script src="../../../javascripts/katex.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/katex.min.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/contrib/auto-render.min.js"></script>
+      
+    
+  </body>
+</html>

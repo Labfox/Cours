@@ -1,0 +1,33 @@
+# 1944-1947, Refonder la République, Redéfinir la Démocratie
+
+![](../../../assets/scans/200074785977864.png)
+
+Le 6 juin 1944, les aliés débarquent en italie puis en provence le 15 aout 1944. Ces opérations, appués par les FFI (Forces Françaises de l'intérieur) débouchent sur la libération de Paris. Le 25 aout 1944, Paris et libéré.
+
+1. Quelle est la date de ce document ?
+
+La date de ce document et le 9 août 1944
+
+2. Ou en est la libération ?
+
+Finie
+
+3. Qu'affirme cet ordonnance ?
+
+Que le régime de Vichy était illégal
+
+4. Que deviennent les lois, ordonnances du régime de Vichy ?
+
+Elles deviennent nulles
+
+!!! abstract "Le CNR et le GPRF, deux acteurs importants du rétablissement de la République"
+
+    EN 1944, deux forces détiennent l'autorité: le général de Gaulle et le gouvernement provisoire de la République française (GPRF), d'autre part le Conseil natoinal de la Résistance (CNR) et les mouvements de résistance intérieure. De retour, de Gaulle souhaite réaliser la synthèse entre les résistances intérieures et extérieures. Et associer les parlementires de la IIIème République aux hommes nouveaux issus de la Résistance
+
+Le GPRF (Gouvernement provisoire de la république française) créé en juin 1944 avec à sa tête De Gaule prend le pouvoir. Il rétablit la république et les libertés, annule les lois de Vichy. 
+
+Le GPRF organise l'épuration de ceux qui ont collaboré: 163 000 dossiers instruits, 7 000 condamnations à mort, 3600 emprisonnements. Pétain est condamné à mort mais gracié.
+
+!!! abstract "Epuration"
+
+Répression contre les français accusés ou soupçonnés de collaboration avec l'allemagne. On distingue l'épuration spontanée, hors de toute règle de droit, et l'épuration légale. 

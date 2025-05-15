@@ -160,10 +160,11 @@ La situation des femmes, remplaçant les homes pendant la première guerre mondi
 L'article dans ce texte point les conditions de quatres femmes, au travail dans une usine. L'expression: "Qui vont verser leur tribut à l'effort de guerre" (l.  4), les met en lien direct avec la guerre. En travaillant comme elles le font, elles contribuent à créer les obus dont les armées ont besoin sur le front des combats.  Ces femmes, en lisant l'article tel qu'il est écrit, pointent par leur réatction et leur commentaire, leur conditions de travail, leur situation politique, et leur revendication, légitimée justement par leur participation à l'effort de guerre. 
 
 
-
+## Séance 8: Les connecteurs logiques
 
 "à la Limoise", "dans la grande chambre ancienne", "du premier étage", "ouverte", "de juillet", "au bout des champs pierreux et des landes à fougères", "dans cette vieille bibliothèque Louis XV", "près de mon lit", "aux reliures d’un autre siècle", "en gros papier rude d’autrefois"
 
-J’étais monté seul. Je m’étais accoudé à la fenêtre pour regarder le soleil s’abaisser. Une idée me vint. Je me mis à fouiller dans une bibliothèque. Je trouvai un cahier.
-## Séance 8: Les connecteurs logiques
+J’étais monté seul. Je m’étais accoudé pour regarder le soleil s’abaisser. Une idée me vint de fureter. Je trouvai un cahier.
+
+
 

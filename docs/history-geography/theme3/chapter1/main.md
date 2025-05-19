@@ -30,4 +30,19 @@ Le GPRF organise l'épuration de ceux qui ont collaboré: 163 000 dossiers instr
 
 !!! abstract "Epuration"
 
-Répression contre les français accusés ou soupçonnés de collaboration avec l'allemagne. On distingue l'épuration spontanée, hors de toute règle de droit, et l'épuration légale. 
+    Répression contre les français accusés ou soupçonnés de collaboration avec l'allemagne. On distingue l'épuration spontanée, hors de toute règle de droit, et l'épuration légale. 
+
+
+## II. Une démocratie élargie et sociale
+
+![](../../../assets/scans/200044693695913.png)
+
+1. La france est occupée par les Allemands
+2. Pour donner un but commun après la reconquête de la france
+3. 
+
+| Réformes du GPRF avec explications | Mise en relation avec les extraits du programme du CNR (doc 1 p. 160) |
+|-|-|
+| Droit de vote des femmes en 1944 qu'elles exercent pour la 1ère fois en avril 1945 (élections municipales) | 4 |
+| Création de la Sécurité Sociale (1945): elle est financée par les cotisations des patrons et des salaires, rembourse les dépenses de santé, verse des pensions de la retraite et les allocations familiales | 5b |
+| Nationalisation (=contrôle par l'Etat) de grands secteurs de l'économie clés de l'économie: transports, banques, énergie, charbon | 5a |

@@ -601,3 +601,11 @@ You will be able = vous pourrez (possibilités futures)
 8. You should believe what he says.
 9. She will have to tell her parents, she can't lie to them any more.
 10. If you are ill, you won't be able to call a doctor
+
+This job is about idk
+
+2's Job's is about 
+
+Wildlife cartographier
+
+

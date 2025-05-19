@@ -1,9 +1,0 @@
-{
-    "configurations": [
-        {
-            "type": "command",
-            "name": "Serve docs",
-            "program": "/home/labfox/Cours/servedocs.sh",
-        }
-    ]
-}

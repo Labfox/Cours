@@ -1179,4 +1179,5 @@ Non, ça veut rien dire
 
 ## 43
 
-Si les décompositions de sont numérateur et de son dénominateur n'ont aucun nombre en commun
+Si les décompositions de sont numérateur et de son dénominateur n'ont aucun nombre en commun4
+

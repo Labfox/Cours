@@ -41,3 +41,8 @@ Para mi, viajar es conocer la historia del país que visita
 Para mi, viajar es cambio de horizontes
 
 recorrer = parcourir
+
+Ernesto Che Guevara y su amigo Alberto Graado recorrieron America Latina en motocicleta (el objetivo era 8 000 kilometros en 4 meses). Salieron de Argentina, pasaron por Patagonia, Chile, Peru y llegaron a Venezuela.
+
+Ernesto tenia 23 anos, Alberto tenia 29 anos.
+

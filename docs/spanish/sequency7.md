@@ -46,3 +46,17 @@ Ernesto Che Guevara y su amigo Alberto Graado recorrieron America Latina en moto
 
 Ernesto tenia 23 anos, Alberto tenia 29 anos.
 
+
+A: !Hola! Soy Adam, tengo 15 anos y soy francés. Viajo en América latina.
+Nc: Hola. Soy Noé, tengo 14 anos y soy russo. Viajé tambien en América latina;
+Nr: Hola, me llamo Nolan, tengo 14 anos y soy congoles. Viajo en América latina;
+
+A: En cuandos païses viajasteis
+Nc: Viajo en cuatro paises como Colombia, Brasil, Costa Rica y Argentina.
+Nr: Viaje en dos paises: Chile y argentina. Y tu ?
+A: Viaje en séis paises. Viaje en Colombia, Peru, Costa Rica, Chile, Venezuela, Ecuador.
+Nc: Que paise te gusto mas ?
+Nr: Me gusto mais a Argentina porque véi Messi.
+A: Me gusto mas a Costa Rica porque hay no naturalea incrédible y tu ?
+Nc: Me gusto mas a Colombia porque la comida esta bien.
+Nr: En qué medio de transporte viajasteis ?

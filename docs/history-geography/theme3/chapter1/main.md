@@ -46,3 +46,17 @@ Le GPRF organise l'épuration de ceux qui ont collaboré: 163 000 dossiers instr
 | Droit de vote des femmes en 1944 qu'elles exercent pour la 1ère fois en avril 1945 (élections municipales) | 4 |
 | Création de la Sécurité Sociale (1945): elle est financée par les cotisations des patrons et des salaires, rembourse les dépenses de santé, verse des pensions de la retraite et les allocations familiales | 5b |
 | Nationalisation (=contrôle par l'Etat) de grands secteurs de l'économie clés de l'économie: transports, banques, énergie, charbon | 5a |
+
+
+En juin 1944, le GPRF s'appuie sur le programme du CNR pour les premières réformes (1944 - Droit de vote des femmes, 1945 - création de la sécurité sociale qui protége les salariés, nationalisations). Le GPRF fonde un état-providence qui est la base de la démocratie sociale.
+
+!!! abstract "Démocratie sociale"
+
+    Qui en plus de donner le pouvoir au peuple, essaie de mettre en oeuvre une meilleure rpartition des richesses.
+
+!!! abstract "Etat-providence"
+
+    Moyens par lesquels l'Etat protège les personnes contre les risques liés à la maladie, la précarité et la vieillesse
+
+## III. La naissnce de la IVème République, un régime parlementaire.
+

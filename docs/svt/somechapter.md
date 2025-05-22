@@ -48,3 +48,17 @@ Et c'est la testostérone qui déclenche l'apparition des caractères sexuels se
 
 ## III. Comment expliquer les cycles chez la femme ?
 
+```mermaid
+graph TD
+    "Cerveau" --> "Hormones hypophysaires"
+    "Hormones hypophysaires" --> "Organes reproducteurs"
+    "Organes reproducteurs" --> "Hormones sexuelles"
+    "Hormones sexuelles" --> "Apparition des caractères sexuels secondaires"
+
+    "Cerveau"((Cerveau))
+    "Hormones hypophysaires"["Hormones hypophysaires"]
+    "Organes reproducteurs"((Organes reproducteurs))
+    "Hormones sexuelles"["Hormones sexuelles"]
+    "Apparition des caractères sexuels secondaires"((Apparition des caractères sexuels secondaires))
+
+```

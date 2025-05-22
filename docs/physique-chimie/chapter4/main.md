@@ -41,3 +41,4 @@ $$
 
 1) Il en faudrait donc 2275 (2400000*7000/8000000000)
 2) Non, par manque d'espace
+

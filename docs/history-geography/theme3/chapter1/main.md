@@ -60,3 +60,8 @@ En juin 1944, le GPRF s'appuie sur le programme du CNR pour les premières réfo
 
 ## III. La naissnce de la IVème République, un régime parlementaire.
 
+
+En octobre 1946, une nouvelle constitution est adoptée par referendum: c'est la naissance de la IVe République qui est un régime parlementaire (ou le pouvoir exécutif est soumis au Parlement). Le préambule de cette constitution reprend les grandes idées du CNR. De Gaulle qui voulait un président de la République fortt et indépendant de l'Assemblée, démissionne en janvier 1946
+
+Consitution: ensemble des lois qui définissent les droits fondamentaux des citoyens et fixent le fonctionnement du pouvoir politique.
+

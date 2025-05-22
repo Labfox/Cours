@@ -192,3 +192,38 @@ Portrait de César
 
 rubicon
 phrasale
+
+## Latin Eval JSP Avec cahier
+
+
+### Exercice 1
+1. Parfait. 2ppl
+2. Plus-que-parfait. 1sng
+3. Plus-que-parfait. 2ppl
+4. futur antérieur. 1ppl
+
+### Exercice 2
+
+1. defuerimus
+2. imposuerat
+3. absumpsi
+4. debueratis
+5. detraxerint
+
+### Exercice 3
+
+animadvertisti, tu remarquas
+extorsimus, nous arrachames
+adiit, il s'avança
+dixi, je dis
+
+### Exercice 4
+
+dubitaveratis
+concesseram
+adfueramus
+
+### Exercice 5
+
+contempsiris, tu auras méprisé
+

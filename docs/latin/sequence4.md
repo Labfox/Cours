@@ -38,48 +38,14 @@ Terminasons passives:
 * Le futur: première et deuxième conjugaison: radical du présent + b/bi/bu + terminaison (active/passive); autres conjugaisons: radical du présent + a/e + terminaison (active/passive)
 
 ([3:] infectum [:-3] perfectum)
-| Temps | 1ère conjugaison | 2ème conjugaison | 3ème conjugaison | 3ème mixte | 4ème conjugaison | Sum | Possum |
-|-------|------------------|------------------|------------------|------------|------------------|------|--------|
-| Imparfait | Ama <br />Ama <br />Ama <br />Ama <br />Ama <br />Ama <br />| Dele <br />Dele <br />Dele <br />Dele <br />Dele <br />Dele <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Capi <br />Capi <br />Capi <br /> Capi <br />Capi <br />Capi <br />| Audi <br />Audi <br />Audi <br /> Audi <br />Audi <br />Audi <br /> | Eram <br /> Eras <br /> Erat <br /> Eramus <br /> Eratis <br /> Erant <br /> | Poteram <br /> Poteras <br /> Poterat <br /> Poteramus <br /> Poteratis <br /> Poterant <br /> | 
-| Futur | Amabo <br />Amabis <br />Amabit <br />Amabimus <br />Amabutis <br />Amabunt <br />| Dele <br />Dele <br />Dele <br />Dele <br />Dele <br />Dele <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Capi <br />Capi <br />Capi <br /> Capi <br />Capi <br />Capi <br />| Audi <br />Audi <br />Audi <br /> Audi <br />Audi <br />Audi <br /> |
-| Parfait | Amav <br />Amav <br />Amav <br /> Amav <br />Amav <br />Amav <br />| Delev <br />Delev <br />Delev <br /> Delev <br />Delev <br />Delev <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Cep <br />Cep <br />Cep <br /> Cep <br />Cep <br />Cep <br /> | Audiv <br />Audiv <br />Audiv <br /> Audiv <br />Audiv <br />Audiv <br /> | Fui <br /> Fuisti <br /> Fuit <br /> Fuerunt <br /> | Potui <br /> Potuitti <br /> Potuit <br /> Potius <br /> Potiuitis <br/> Poterunt |
-| Plus que parfait | Amav <br />Amav <br />Amav <br /> Amav <br />Amav <br />Amav <br />| Delev <br />Delev <br />Delev <br /> Delev <br />Delev <br />Delev <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Cep <br />Cep <br />Cep <br /> Cep <br />Cep <br />Cep <br /> | Audiv <br />Audiv <br />Audiv <br /> Audiv <br />Audiv <br />Audiv <br /> |
-| Futur antérieur | Amav <br />Amav <br />Amav <br /> Amav <br />Amav <br />Amav <br />| Delev <br />Delev <br />Delev <br /> Delev <br />Delev <br />Delev <br /> | Leg<br />Leg<br />Leg<br />Leg<br />Leg<br />Leg<br /> | Cep <br />Cep <br />Cep <br /> Cep <br />Cep <br />Cep <br /> | Audiv <br />Audiv <br />Audiv <br /> Audiv <br />Audiv <br />Audiv <br /> | Fuero <br /> Fueris <br /> Fuerit <br /> Fuerimus <br /> Fueritis <br /> Fuerint |
 
-2) _
-   1) recusant
-   2) concedebam
-   3) debes +1
-3) _
-   1) Futur +1
-   2) Imparfait +1
-   3) Présent +1
-   4) Futur +1
-   5) Présent +1 
-   6) Imparfait +1
-   7) Présent +1
-   8) Présent +1
-4) _
-   1) confidebitur +0
-   2) veniebar +0 vincebar
-   3) veniuntur +1
-   4) ducar +1
-   5) putaris +1
-   6) sentiebantur +1
-   7) respondentur +1
-   8) jubentur +1
-5) _
-   1) dat; faire, 3ème singulier; Il donne
-   2) jacimus, 1ère pluriel; nous jettons
-   3) videntur, 3ème singulier, il sait
-   4) esse, infinitif présent, être
-   5) videtur, 3ème singulier, nous voyons 
-   6) spectamini, 2ème pluriel, j'observe
-   7) amamur, 1ère pluriel, je suit aimé, j'ai aimé
-   8) relinquis, 2ème singulier, tu abandonne
-   9) scribo, 1ère singulier, j'écrit
-6) _
-tranduisez en latin: nous sommes aimés, nous abandonnerons, nous serons pris, nous sommes pris, tu  réponds, elle est en vue
+| Temps                | 1ère conj. <br> *(amare)*                                                           | 2e conj. <br> *(delēre)*                                                                  | 3e conj. <br> *(legere)*                                                      | 3e mixte <br> *(capere)*                                                            | 4e conj. <br> *(audire)*                                                                  | **sum**                                                                 | **possum**                                                                          |
+| -------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Imparfait**        | amabam <br> amabas <br> amabat <br> amabamus <br> amabatis <br> amabant             | delebam <br> delebas <br> delebat <br> delebamus <br> delebatis <br> delebant             | legebam <br> legebas <br> legebat <br> legebamus <br> legebatis <br> legebant | capiebam <br> capiebas <br> capiebat <br> capiebamus <br> capiebatis <br> capiebant | audiebam <br> audiebas <br> audiebat <br> audiebamus <br> audiebatis <br> audiebant       | eram <br> eras <br> erat <br> eramus <br> eratis <br> erant             | poteram <br> poteras <br> poterat <br> poteramus <br> poteratis <br> poterant       |
+| **Futur simple**     | amabo <br> amabis <br> amabit <br> amabimus <br> amabitis <br> amabunt              | delebo <br> delebis <br> delebit <br> delebimus <br> delebitis <br> delebunt              | legam <br> leges <br> leget <br> legemus <br> legetis <br> legent             | capiam <br> capies <br> capiet <br> capiemus <br> capietis <br> capient             | audiam <br> audies <br> audiet <br> audiemus <br> audietis <br> audient                   | ero <br> eris <br> erit <br> erimus <br> eritis <br> erunt              | potero <br> poteris <br> poterit <br> poterimus <br> poteritis <br> poterunt        |
+| **Parfait**          | amavi <br> amavisti <br> amavit <br> amavimus <br> amavistis <br> amaverunt         | delevi <br> delevisti <br> delevit <br> delevimus <br> delevistis <br> deleverunt         | legi <br> legisti <br> legit <br> legimus <br> legistis <br> legerunt         | cepi <br> cepisti <br> cepit <br> cepimus <br> cepistis <br> ceperunt               | audivi <br> audivisti <br> audivit <br> audivimus <br> audivistis <br> audiverunt         | fui <br> fuisti <br> fuit <br> fuimus <br> fuistis <br> fuerunt         | potui <br> potuisti <br> potuit <br> potuimus <br> potuistis <br> potuerunt         |
+| **Plus-que-parfait** | amaveram <br> amaveras <br> amaverat <br> amaveramus <br> amaveratis <br> amaverant | deleveram <br> deleveras <br> deleverat <br> deleveramus <br> deleveratis <br> deleverant | legeram <br> legeras <br> legerat <br> legeramus <br> legeratis <br> legerant | ceperam <br> ceperas <br> ceperat <br> ceperamus <br> ceperatis <br> ceperant       | audiveram <br> audiveras <br> audiverat <br> audiveramus <br> audiveratis <br> audiverant | fueram <br> fueras <br> fuerat <br> fueramus <br> fueratis <br> fuerant | potueram <br> potueras <br> potuerat <br> potueramus <br> potueratis <br> potuerant |
+| **Futur antérieur**  | amavero <br> amaveris <br> amaverit <br> amaverimus <br> amaveritis <br> amaverint  | delevero <br> deleveris <br> deleverit <br> deleverimus <br> deleveritis <br> deleverint  | legero <br> legeris <br> legerit <br> legerimus <br> legeritis <br> legerint  | cepero <br> ceperis <br> ceperit <br> ceperimus <br> ceperitis <br> ceperint        | audivero <br> audiveris <br> audiverit <br> audiverimus <br> audiveritis <br> audiverint  | fuero <br> fueris <br> fuerit <br> fuerimus <br> fueritis <br> fuerint  | potuero <br> potueris <br> potuerit <br> potuerimus <br> potueritis <br> potuerint  |
 
 ## 3) Former les temps du perfectum actif
 

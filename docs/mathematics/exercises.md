@@ -1181,3 +1181,5 @@ Non, ça veut rien dire
 
 Si les décompositions de sont numérateur et de son dénominateur n'ont aucun nombre en commun4
 
+une fonction affine est une fonction qui à tout $x$ associe $ax +b$
+

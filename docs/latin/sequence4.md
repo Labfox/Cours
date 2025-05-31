@@ -60,3 +60,4 @@ Radical du parfait + suffixe -era- + terminaison active
 ### Le futur antérieur 
 
 Radical du parfait + suffixe -er a -eri + terminaison active
+

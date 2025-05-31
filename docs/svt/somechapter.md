@@ -48,6 +48,7 @@ Et c'est la testostérone qui déclenche l'apparition des caractères sexuels se
 
 ## III. Comment expliquer les cycles chez la femme ?
 
+
 ```mermaid
 graph TD
     "Cerveau" --> "Hormones hypophysaires"
@@ -62,3 +63,14 @@ graph TD
     "Apparition des caractères sexuels secondaires"((Apparition des caractères sexuels secondaires))
 
 ```
+
+
+Les cycles ovariens et utérins sont synchronisés: ils évoluent simultanément.
+
+L'hypophyse (glande du cerveau) sécrète une hormone cérébrale qui déclanche l'ovulation.
+
+L'ovaire produit des hormones sexuelles, oestrogènes et progestérone, qui contrôlent le développement de la muqueuse de l'utérus.
+
+C'est la chute de la quantité d'hormones sexuelles dans le sang, qui déclenche les règles.
+
+

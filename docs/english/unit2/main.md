@@ -608,3 +608,9 @@ This job is about idk
 
 Wildlife cartographier
 
+Erreurs à ne plus refaire: 
+
+Let me introduce myself
+
+I love + V + ING
+I am interested in / I am passionnate about

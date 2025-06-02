@@ -60,3 +60,9 @@ Nr: Me gusto mais a Argentina porque véi Messi.
 A: Me gusto mas a Costa Rica porque hay no naturalea incrédible y tu ?
 Nc: Me gusto mas a Colombia porque la comida esta bien.
 Nr: En qué medio de transporte viajasteis ?
+
+Ernesto Che Guevara lucho en contra de la miseria, del sufrimiento, de la injusticia vividos por el pueblo latinoamericano.
+
+
+En colombia, 6,5 millones de ninos viven en la pobreza. Los que viven en la calle en Bogota son "Los gamines". Ramiro tiene 11 anos, su madre lo abandono a los 7 anos.
+El programa de reinsercion Bosconia le salvo la vida. Ahora esta mejor.

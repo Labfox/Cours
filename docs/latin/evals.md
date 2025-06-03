@@ -227,3 +227,62 @@ adfueramus
 
 contempsiris, tu auras méprisé
 
+## Correction du dernier devoir de latin
+### I) Vrai/Faux
+
+1. Vrai
+2. Faux, ils sont aussi appelés temps primitifs
+3. Faux; le perfectum correspont au parfait, au plus-que-parfait et au futur antérieur
+4. Vrai
+5. Faux; C'est en français
+6. Vrai 
+7. Vrai, le seul changement est les désinences actives/passives
+8. Vrai
+9. Vrai
+10. Vrai
+
+## II) Reconnaissance des temps
+
+Présents: 
+- constat
+- jit
+
+Imparfaits:
+- dormiebat
+- aderat
+
+Futurs:
+- Rapiet
+- ducet
+
+Présents passifs:
+- amatur
+- dicitur
+- vocatur
+
+Imparfait passif:
+- delectabatur
+
+Parfaits:
+- amisit
+- fuerunt
+- potuit
+
+Plus-Que-Parfait:
+- fecerant
+- cognoverant
+
+## III) 
+
+| Forme active | Forme passive | Personne | Temps | Traduction |
+|:-|:-:|:-:|:-:|:-:|
+| Gerebamus | Gerebamur | 1ère personne du pluriel   | | Nous étions portés |
+| Ducetis   | Ducemini  | 2ème personne du pluriel   | Futur   | Vous conduirez / Vous serez conduits |
+| Jubes     | Juberis   | 2ème personne du singulier | Présent | Tu ordonnes/tu est ordonné |
+| Rapiunt   | Rapiuntur | 3ème personne du pluriel   | Présent | Ils sont enlevés/ Ils enlèvent |
+| Debebat   | Debebatur | 3ème personne du singulier | Imparfait | Il devait / Il était du |
+| Videbat   |     /     | 3ème personne du singulier |
+| Ducent    |     /     | 3ème personne du pluriel   |
+
+## IV)
+

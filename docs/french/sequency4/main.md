@@ -30,3 +30,15 @@ Je n'ai pas particulièrement d'avis favorable ou défavorable sur cette pièce 
 3. Un décor neutre est un décor qui n’attire pas l’attention sur lui. Il est volontairement simple, dépouillé, sans détails qui pourraient distraire le spectateur ou le ramener à une époque particulière. Ce choix permet de recentrer l’attention sur le texte, les personnages et l’action tragique, sans que l’environnement visuel n’en détourne le sens.
 4. Antigone est présentée comme sombre, maigre et solitaire. Elle dégage une image de gravité et de détermination, ce qui la distingue immédiatement de sa sœur Ismène, décrite comme jolie, blonde et coquette. Antigone apparaît donc comme une figure sérieuse, austère et rebelle, alors qu’Ismène incarne plutôt la légèreté et la soumission. Cette opposition souligne le choix d’Antigone de refuser les compromis, ce qui en fait une héroïne tragique.
 5. Le Prologue annonce dès le début le destin funeste d’Antigone. Il insiste sur le fait qu’"elle va mourir", et répète ce verbe comme une fatalité. L’adjectif "seule" revient aussi à plusieurs reprises, soulignant l’isolement de l’héroïne face à son destin. Ces répétitions mettent en avant le caractère inévitable et tragique de son sort : elle est condamnée dès le début, et cette mort annoncée participe au style propre de la tragédie.
+
+
+| Phrase simple | Phrase complexe |
+|-|-|
+| Voilà. | Antigone, c’est la petite maigre qui est assise là-bas, et qui ne dit rien.
+|Ces personnages vont vous jouer l’histoire d’Antigone. |Elle pense qu’elle va être Antigone tout à l’heure, qu’elle va surgir soudain de la maigre jeune fille noiraude et renfermée que personne ne prenait au sérieux dans la famille et se dresser seule en face du monde, seule en face de Créon, son oncle, qui est le roi. 
+| Elle regarde droit devant elle. | Elle pense qu’elle va mourir, qu’elle est jeune et qu’elle aussi, elle aurait bien aimé vivre. 
+| Elle pense. | Et, depuis que ce rideau s’est levé, elle sent qu’elle s’éloigne à une vitesse vertigineuse de sa sœur Ismène, qui bavarde et rit avec un jeune homme, de nous tous, qui sommes là bien tranquilles à la regarder, de nous qui n’avons pas à mourir ce soir.
+| Mais il n’y a rien à faire. 
+|Elle s’appelle Antigone et il va falloir qu’elle joue son rôle jusqu’au bout...
+
+

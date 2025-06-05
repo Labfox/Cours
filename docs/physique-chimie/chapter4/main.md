@@ -42,3 +42,10 @@ $$
 1) Il en faudrait donc 2275 (2400000*7000/8000000000)
 2) Non, par manque d'espace
 
+
+Conclusion
+
+On constate que si la hauteur de chute (donc la vitesse) augmente alors le diamètre du cratère augmente.
+
+On constate que si la masse augmente alors le diamètre du cratère augmente. 
+

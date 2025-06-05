@@ -50,4 +50,56 @@ Voir [cours](../../theme3/chapter2/main/)
 
     Des députés UMP et de l'UDI ont déposé un recours au conseil constitutionnel.
 
-1. 
+### B.  L'engagement du citoyen en démocratie
+
+!!! abstract "Parti politique"
+
+    Association de citoyens qui partagent les mêmes convictions.
+
+Rôles:
+- participation à des congrès/associations
+- organisation de débats
+- collage d'affiche/porte-à-porte
+
+défendre les salariés, améliorer les conditions de travail.
+
+## II. Le rôle des médias dans la démocratie
+### A. Les médias et l'opinion publique
+
+1. La presse écrite, la radio, la télévision, et d'autres neo-medias
+2. L'opinion publique est l'opinion générale de la population. Elle se forme via les moyens d'information ou via les rumeurs.
+3. Le rôle des médias selon ce document doit être de fournir une information fiable et indépendante
+4. En manipulant la couverture de certains évenements, le point d'approche.
+5. 
+
+!!! abstract "Médias"
+
+    Ensemble des moyens de diffusion de l'information. 
+
+
+Les médias ont pour rôle d'apporter une inforation de qualité aux citoyens mais aussi de faire connaître les problèmes de société et d'évoquer les débats en cours. Ils ont aussi une fonction de surveillance et de contrôle. Cepedant, certains médias et réseaux sociaux doivent être utilisés avec précaution car ils peuvent être source de désinformation (= utilisation des techniques de l'information de masse pour induire en erreur, cacher ou travestir les faits).
+
+### B. L'usage d'Internet en démocratie
+
+!!! abstract "Une pétition lancée par une élue"
+
+    Le 9 mars dernier, Madeline Da Silva a lancé sur Change.org une pétition appelant à "l'inéligibilité pour les élus coupables de violences faites aux femmes", déjà signée par plus de 54 000 internautes. **Des femmes ont été victimes d'un homme politique, un homme politiue qui a conservé sa fonction.** La justice ne peut rien aujourd'hui, mais elle pourra demain. Je veux être l'un de ces maillons, celui qui va pousser, bousculer, interpeller. J'ose croire que ce changement, nous le provoquerons ensemble, tous et toutes. Engagez-vous, entendez ces voix, regardez ces signatures, pour que les violences faites aux femmes cessent en politique, une seule solution: l'inéligibilité pour les élus condamnés pour violences faites aux femmes !
+
+!!! abstract "Une loi votée suite à une mobilisation sur internet"
+
+    C'est la victoire ! Nous avons réussi. Bravo et merci à vous tous pour votre mobilisation ! Notre pétition a permis qu'un amendement soit déposé par Laurence Rossignol et adopté au Sénat à l'unanimité en Juillet.
+
+    C'est définitif et officiel, les auteurs d'infractions sexuelles ou de harcèlement sont désormais inéligibles !
+
+    Cette lutte est encore une fois la preuve qu'une mobilisation citoyenne porte ses fruits !
+
+    Continuons à nous mobiliser sur les sujets qui nous tiennent à coeur, n'hésitons jamais à signer, partager, proposer.
+
+
+
+2. L'inégibilité en cas de violences faites aux femems.
+3. La pétition avait reçu 54k signatures en avril 2017 et 96k en août
+
+
+C'est grâce aux médias que les citoyens peuvent s'informer, débattre et s'engager. En France, la liberté et le pluralisme des médias sont garantis par la loi de 1881. Internet a la particularité d'offrir une plus grande interactivité à ceux qui l'uitilisent et de permettre une plus large diffusion des médias traditionnels. Il peut aussi être l'un des moyens pour assurer une démocratie participative (= implication des citoyens dans le débat public et dans la prise de décision politique).
+

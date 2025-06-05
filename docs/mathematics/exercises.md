@@ -1183,3 +1183,8 @@ Si les décompositions de sont numérateur et de son dénominateur n'ont aucun n
 
 une fonction affine est une fonction qui à tout $x$ associe $ax +b$
 
+## 48
+Aurore consommera 2,7 m³ d’eau en 3 jours, et comme le prix est de 10 € par m³ d’après le graphique, l’attente lui coûtera donc **27 €**.
+
+## 49
+Le nombre de bactéries diminue selon la fonction $N(t) = -562{,}5 \cdot t + 3000$, car il s'agit d'une décroissance linéaire passant de 3000 à 750 en 4 heures, ce qui permet de calculer que toutes les bactéries seront éliminées **au bout de 5 h 20 min**.

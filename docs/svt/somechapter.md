@@ -74,3 +74,5 @@ L'ovaire produit des hormones sexuelles, oestrogènes et progestérone, qui cont
 C'est la chute de la quantité d'hormones sexuelles dans le sang, qui déclenche les règles.
 
 
+4e9
+

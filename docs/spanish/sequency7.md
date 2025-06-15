@@ -66,3 +66,25 @@ Ernesto Che Guevara lucho en contra de la miseria, del sufrimiento, de la injust
 
 En colombia, 6,5 millones de ninos viven en la pobreza. Los que viven en la calle en Bogota son "Los gamines". Ramiro tiene 11 anos, su madre lo abandono a los 7 anos.
 El programa de reinsercion Bosconia le salvo la vida. Ahora esta mejor.
+
+
+
+La edad de Marion: 11 anos
+El lugar de ttrabajo de Marion: campos de arroz
+El timepo de trabajo de Marlon: 11h
+El numero de ninos trabajadores en Peru: 1 milion 659 mil ninos
+
+
+La mitad de los niños trabajadores trabajan en buenas condiciones (F)
+En Perú, se puede trabajar a partir de los 14 años (6 horas al día como máximo) (V)
+En Lima, en 2013, una encuesta demuestra que los niños son víctimas de insultos, de robos y de acosos (V)
+Marlon trabaja pero también puede estudiar (F) — El texto dice que no tiene tiempo para estudiar.
+
+La mayoría de los niños trabajadores trabajan para:
+✔ para dar dinero a sus padres
+
+Los niños trabajadores ganan sólo:
+✔ 9 soles al día (2.63 euros)
+
+En Perú, en total, hay:
+✔ 1.659 millones de niños trabajadores en Perú

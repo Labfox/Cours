@@ -76,3 +76,36 @@ C'est la chute de la quantité d'hormones sexuelles dans le sang, qui déclenche
 
 4e9
 
+```mermaid
+graph TD
+  A[Aliments] --> B[Bouche]
+  B -->|Salive| C[Amylase]
+
+  B --> D[Œsophage]
+  D --> E[Estomac]
+  E -->|Suc gastrique| F[Pepsine]
+
+  G[Foie] -->|Bile| H[Intestin grêle]
+
+  I[Pancréas] -->|Suc pancréatique| J
+  J --> J1[Amylase]
+  J --> J2[Lipase]
+  J --> J3[Protéase]
+  J --> J4[DNase]
+
+  H -->|Suc intestinal| K
+  K --> K1[Saccharase]
+  K --> K2[Lactase]
+  K --> K3[Peptidase]
+
+  H --> L[Gros intestin]
+  L --> M[Rectum]
+  M --> N[Anus]
+
+  style B fill:#fde0dd
+  style E fill:#fdd
+  style G fill:#d9f0a3
+  style I fill:#fcbba1
+  style H fill:#ccebc5
+
+```
